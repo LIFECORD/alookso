@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-20T12:22:04.923Z</updated>
+    <updated>2021-12-20T13:22:17.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[관대함]]></title>
+        <id>https://alook.so/posts/RGtBnx</id>
+        <link href="https://alook.so/posts/RGtBnx"/>
+        <updated>2021-12-20T13:20:44.239Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBnx">관대함</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도대체 왜 이러는 걸까?!?]]></title>
         <id>https://alook.so/posts/yEtrjv</id>
@@ -39,19 +46,5 @@
         <link href="https://alook.so/posts/G1tlEn"/>
         <updated>2021-12-20T11:21:54.996Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlEn">Which one choice? 괴로움과 외로움</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[착각]]></title>
-        <id>https://alook.so/posts/OEtXaM</id>
-        <link href="https://alook.so/posts/OEtXaM"/>
-        <updated>2021-12-20T11:21:54.997Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXaM">착각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내직업 추천하나요?]]></title>
-        <id>https://alook.so/posts/vKtrdW</id>
-        <link href="https://alook.so/posts/vKtrdW"/>
-        <updated>2021-12-20T11:21:54.998Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrdW">내직업 추천하나요?</a>]]></content>
     </entry>
 </feed>

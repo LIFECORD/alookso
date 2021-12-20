@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-20T12:22:04.933Z</updated>
+    <updated>2021-12-20T13:22:17.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -67,12 +67,5 @@
         <link href="https://alook.so/posts/1Rtamp"/>
         <updated>2021-12-20T11:22:02.450Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtamp">2021 연말회고, #올해의 ___은? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난 일주일 동안 얼룩소 휴가를 보냈습니다.]]></title>
-        <id>https://alook.so/posts/70tMPp</id>
-        <link href="https://alook.so/posts/70tMPp"/>
-        <updated>2021-12-20T11:22:02.448Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMPp">지난 일주일 동안 얼룩소 휴가를 보냈습니다.</a>]]></content>
     </entry>
 </feed>
