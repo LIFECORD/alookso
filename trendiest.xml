@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-20T16:19:21.867Z</updated>
+    <updated>2021-12-20T17:23:43.860Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twP8">DAO 라고 들어보셨나요? - 탈중앙화된 자율조직 (Decentralized Autonomous Organization)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[만 원 없는 얼룩소란]]></title>
+        <id>https://alook.so/posts/M9t26a</id>
+        <link href="https://alook.so/posts/M9t26a"/>
+        <updated>2021-12-20T16:17:53.078Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t26a">만 원 없는 얼룩소란</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[답글: 슈퍼히어로는 늘 서바이벌]]></title>
         <id>https://alook.so/posts/rDtjeG</id>
         <link href="https://alook.so/posts/rDtjeG"/>
@@ -67,13 +74,6 @@
         <link href="https://alook.so/posts/latV6O"/>
         <updated>2021-12-20T11:22:02.451Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latV6O">권고 사직</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만 원 없는 얼룩소란]]></title>
-        <id>https://alook.so/posts/M9t26a</id>
-        <link href="https://alook.so/posts/M9t26a"/>
-        <updated>2021-12-20T16:17:53.078Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t26a">만 원 없는 얼룩소란</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가시밭길 끝에는 선의가 있을까 - ‘스파이더맨 : 노 웨이 홈’ 후기]]></title>
