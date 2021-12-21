@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-21T10:13:55.611Z</updated>
+    <updated>2021-12-21T11:11:55.805Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전자책은 종이책을 대체할 수 있을까?]]></title>
+        <id>https://alook.so/posts/BatZo7</id>
+        <link href="https://alook.so/posts/BatZo7"/>
+        <updated>2021-12-21T11:09:49.865Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZo7">전자책은 종이책을 대체할 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아마두]]></title>
+        <id>https://alook.so/posts/LKtvYJ</id>
+        <link href="https://alook.so/posts/LKtvYJ"/>
+        <updated>2021-12-21T11:09:49.865Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvYJ">아마두</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스의 멋진 추억들 다 있으시죠?]]></title>
         <id>https://alook.so/posts/njt5xY</id>
@@ -25,19 +39,5 @@
         <link href="https://alook.so/posts/OEtXWM"/>
         <updated>2021-12-21T10:12:16.951Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXWM">대학 졸업장,그만한 가치가 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글 많이 쓴다고 잘 쓰게 되진 않더군요.]]></title>
-        <id>https://alook.so/posts/latVWO</id>
-        <link href="https://alook.so/posts/latVWO"/>
-        <updated>2021-12-21T09:11:25.056Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVWO">글 많이 쓴다고 잘 쓰게 되진 않더군요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크에 대한 관심]]></title>
-        <id>https://alook.so/posts/92tW67</id>
-        <link href="https://alook.so/posts/92tW67"/>
-        <updated>2021-12-21T09:11:25.059Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tW67">재테크에 대한 관심</a>]]></content>
     </entry>
 </feed>
