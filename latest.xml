@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-21T00:40:59.086Z</updated>
+    <updated>2021-12-21T02:03:20.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 인생의 터닝 포인트]]></title>
+        <id>https://alook.so/posts/pot90r</id>
+        <link href="https://alook.so/posts/pot90r"/>
+        <updated>2021-12-21T02:01:51.003Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot90r">[늦은 아침 생각] 인생의 터닝 포인트</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소가 그리워..]]></title>
         <id>https://alook.so/posts/Pvt5jY</id>
@@ -18,33 +25,5 @@
         <link href="https://alook.so/posts/2xtBnj"/>
         <updated>2021-12-20T17:21:53.343Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBnj">방역수칙 잘 지키시나요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[짤리지 않을 권리를 보장 받기 때문이죠.]]></title>
-        <id>https://alook.so/posts/0ktr3R</id>
-        <link href="https://alook.so/posts/0ktr3R"/>
-        <updated>2021-12-20T15:11:34.355Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktr3R">짤리지 않을 권리를 보장 받기 때문이죠.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[만 원 없는 얼룩소란]]></title>
-        <id>https://alook.so/posts/M9t26a</id>
-        <link href="https://alook.so/posts/M9t26a"/>
-        <updated>2021-12-20T15:11:34.357Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t26a">만 원 없는 얼룩소란</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 약자]]></title>
-        <id>https://alook.so/posts/XBtW9E</id>
-        <link href="https://alook.so/posts/XBtW9E"/>
-        <updated>2021-12-20T14:10:38.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtW9E">디지털 약자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외계에서, 그리고 어떤 연유로 탄생한 영웅들이 세상을 구하는 이야기가 유행하고 있습니다.]]></title>
-        <id>https://alook.so/posts/w9t6k3</id>
-        <link href="https://alook.so/posts/w9t6k3"/>
-        <updated>2021-12-20T14:10:38.659Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6k3">외계에서, 그리고 어떤 연유로 탄생한 영웅들이 세상을 구하는 이야기가 유행하고 있습니다.</a>]]></content>
     </entry>
 </feed>
