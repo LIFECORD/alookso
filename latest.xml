@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-20T23:13:06.994Z</updated>
+    <updated>2021-12-21T00:40:59.086Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼룩소가 그리워..]]></title>
+        <id>https://alook.so/posts/Pvt5jY</id>
+        <link href="https://alook.so/posts/Pvt5jY"/>
+        <updated>2021-12-21T00:39:24.885Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5jY">얼룩소가 그리워..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방역수칙 잘 지키시나요.]]></title>
         <id>https://alook.so/posts/2xtBnj</id>
@@ -39,19 +46,5 @@
         <link href="https://alook.so/posts/w9t6k3"/>
         <updated>2021-12-20T14:10:38.659Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6k3">외계에서, 그리고 어떤 연유로 탄생한 영웅들이 세상을 구하는 이야기가 유행하고 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자친구가 너무 좋은데]]></title>
-        <id>https://alook.so/posts/xltWpa</id>
-        <link href="https://alook.so/posts/xltWpa"/>
-        <updated>2021-12-20T14:10:38.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWpa">여자친구가 너무 좋은데</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관대함]]></title>
-        <id>https://alook.so/posts/RGtBnx</id>
-        <link href="https://alook.so/posts/RGtBnx"/>
-        <updated>2021-12-20T13:20:44.239Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBnx">관대함</a>]]></content>
     </entry>
 </feed>

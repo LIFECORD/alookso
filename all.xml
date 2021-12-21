@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-20T23:13:07.005Z</updated>
+    <updated>2021-12-21T00:40:59.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[얼룩소가 그리워.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Pvt5jY</id>
+        <link href="https://alook.so/posts/Pvt5jY"/>
+        <updated>2021-12-21T00:39:24.885Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt5jY">얼룩소가 그리워..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방역수칙 잘 지키시나요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/2xtBnj</id>
@@ -38,20 +45,6 @@
         <link href="https://alook.so/posts/w9t6k3"/>
         <updated>2021-12-20T14:10:38.659Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6k3">외계에서, 그리고 어떤 연유로 탄생한 영웅들이 세상을 구하는 이야기가 유행하고 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여자친구가 너무 좋은데 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/xltWpa</id>
-        <link href="https://alook.so/posts/xltWpa"/>
-        <updated>2021-12-20T14:10:38.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWpa">여자친구가 너무 좋은데</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관대함 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/RGtBnx</id>
-        <link href="https://alook.so/posts/RGtBnx"/>
-        <updated>2021-12-20T13:20:44.239Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBnx">관대함</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재미로 보는 [태종 이방원] 그리고 [선거] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -89,18 +82,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMPp">지난 일주일 동안 얼룩소 휴가를 보냈습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2021 연말회고, #올해의 ___은? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/1Rtamp</id>
-        <link href="https://alook.so/posts/1Rtamp"/>
-        <updated>2021-12-20T23:11:29.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtamp">2021 연말회고, #올해의 ___은? </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[DAO 라고 들어보셨나요? - 탈중앙화된 자율조직 (Decentralized Autonomous Organization) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/o7twP8</id>
         <link href="https://alook.so/posts/o7twP8"/>
         <updated>2021-12-20T11:27:41.585Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twP8">DAO 라고 들어보셨나요? - 탈중앙화된 자율조직 (Decentralized Autonomous Organization)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021 연말회고, #올해의 ___은? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/1Rtamp</id>
+        <link href="https://alook.so/posts/1Rtamp"/>
+        <updated>2021-12-20T23:11:29.658Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtamp">2021 연말회고, #올해의 ___은? </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만 원 없는 얼룩소란 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -115,6 +108,13 @@
         <link href="https://alook.so/posts/rDtjeG"/>
         <updated>2021-12-20T23:11:29.660Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjeG">답글: 슈퍼히어로는 늘 서바이벌</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방역수칙 잘 지키시나요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/2xtBnj</id>
+        <link href="https://alook.so/posts/2xtBnj"/>
+        <updated>2021-12-20T17:21:53.343Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtBnj">방역수칙 잘 지키시나요. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[권고 사직 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -143,13 +143,6 @@
         <link href="https://alook.so/posts/rDtjdG"/>
         <updated>2021-12-20T23:11:29.666Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjdG">답글: 법도 타인의 것도 아닌 "용서", 그리고 "복수"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 약자 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/XBtW9E</id>
-        <link href="https://alook.so/posts/XBtW9E"/>
-        <updated>2021-12-20T14:10:38.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtW9E">디지털 약자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 alookso, 1월에 돌아옵니다. (alookso ─ alookso)]]></title>
