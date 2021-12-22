@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-22T08:15:55.560Z</updated>
+    <updated>2021-12-22T09:13:02.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[아이의 재능과 미래 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7twKa</id>
+        <link href="https://alook.so/posts/o7twKa"/>
+        <updated>2021-12-22T09:11:27.991Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twKa">아이의 재능과 미래</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가족이 부담스러웠던적이 있어요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDtjK8</id>
@@ -31,20 +38,6 @@
         <link href="https://alook.so/posts/mbtkJ4"/>
         <updated>2021-12-22T06:14:10.588Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkJ4">네</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제갈공명은 아니지만, 간옹 정도는 됩니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54td6o</id>
-        <link href="https://alook.so/posts/54td6o"/>
-        <updated>2021-12-22T06:14:10.588Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td6o">제갈공명은 아니지만, 간옹 정도는 됩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만의 시간은 분명히 필요합니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/q1t1Vy</id>
-        <link href="https://alook.so/posts/q1t1Vy"/>
-        <updated>2021-12-22T05:12:07.062Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1Vy">나만의 시간은 분명히 필요합니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전자책은 종이책을 대체할 수 있을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
