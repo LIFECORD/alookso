@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-22T03:13:46.515Z</updated>
+    <updated>2021-12-22T04:15:45.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[작은 실천의 어려움]]></title>
+        <id>https://alook.so/posts/rDtjBd</id>
+        <link href="https://alook.so/posts/rDtjBd"/>
+        <updated>2021-12-22T04:14:21.456Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtjBd">작은 실천의 어려움</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웹툰 [안식의 밤]에서 떠올린 안락사]]></title>
         <id>https://alook.so/posts/jdtjRO</id>
@@ -88,12 +95,5 @@
         <link href="https://alook.so/posts/BatZo7"/>
         <updated>2021-12-21T12:17:48.577Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZo7">전자책은 종이책을 대체할 수 있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스의 멋진 추억들 다 있으시죠?]]></title>
-        <id>https://alook.so/posts/njt5xY</id>
-        <link href="https://alook.so/posts/njt5xY"/>
-        <updated>2021-12-21T11:09:56.611Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5xY">크리스마스의 멋진 추억들 다 있으시죠?</a>]]></content>
     </entry>
 </feed>
