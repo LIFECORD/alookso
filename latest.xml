@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-23T14:12:01.793Z</updated>
+    <updated>2021-12-23T15:13:01.616Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[독일어 b1 자격증]]></title>
+        <title type="html"><![CDATA[소규모 쇼핑몰 웹디자이너 비추합니다.]]></title>
+        <id>https://alook.so/posts/8Wtr0p</id>
+        <link href="https://alook.so/posts/8Wtr0p"/>
+        <updated>2021-12-23T15:11:20.641Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtr0p">소규모 쇼핑몰 웹디자이너 비추합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조물주보다 건물주]]></title>
+        <id>https://alook.so/posts/G1tl7D</id>
+        <link href="https://alook.so/posts/G1tl7D"/>
+        <updated>2021-12-23T15:11:20.641Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tl7D">조물주보다 건물주</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부동산은 끝났다.]]></title>
+        <id>https://alook.so/posts/OEtXk2</id>
+        <link href="https://alook.so/posts/OEtXk2"/>
+        <updated>2021-12-23T15:11:20.645Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXk2">부동산은 끝났다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인정할 수 밖에 없는 단 하나의 권위]]></title>
+        <id>https://alook.so/posts/vKtrZn</id>
+        <link href="https://alook.so/posts/vKtrZn"/>
+        <updated>2021-12-23T15:11:20.646Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrZn">인정할 수 밖에 없는 단 하나의 권위</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[공부] 독일어 b1 자격증]]></title>
         <id>https://alook.so/posts/KmtMJe</id>
         <link href="https://alook.so/posts/KmtMJe"/>
         <updated>2021-12-23T14:10:29.239Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMJe">독일어 b1 자격증</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMJe">[공부] 독일어 b1 자격증</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[치킨좋아하세요?]]></title>
@@ -32,40 +60,5 @@
         <link href="https://alook.so/posts/q1t1wE"/>
         <updated>2021-12-23T13:19:58.973Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t1wE">한국의10대는 왜불행한가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무슨 고민이 있다]]></title>
-        <id>https://alook.so/posts/Djt2er</id>
-        <link href="https://alook.so/posts/Djt2er"/>
-        <updated>2021-12-23T13:19:58.973Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt2er">무슨 고민이 있다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[시 일기]_ 결혼 작사 이혼 작곡]]></title>
-        <id>https://alook.so/posts/o7twBa</id>
-        <link href="https://alook.so/posts/o7twBa"/>
-        <updated>2021-12-23T13:19:58.974Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twBa">[시 일기]_ 결혼 작사 이혼 작곡</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고민은 꼬리에 꼬리를 물고 계속 늘어나는게 고민이지 않을까?]]></title>
-        <id>https://alook.so/posts/Yytbok</id>
-        <link href="https://alook.so/posts/Yytbok"/>
-        <updated>2021-12-23T12:17:38.688Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytbok">고민은 꼬리에 꼬리를 물고 계속 늘어나는게 고민이지 않을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[졸업축하해]]></title>
-        <id>https://alook.so/posts/jdtjq5</id>
-        <link href="https://alook.so/posts/jdtjq5"/>
-        <updated>2021-12-23T10:12:13.728Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjq5">졸업축하해</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유는 정말 감탄이네요]]></title>
-        <id>https://alook.so/posts/bWtLwO</id>
-        <link href="https://alook.so/posts/bWtLwO"/>
-        <updated>2021-12-23T08:13:44.018Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLwO">아이유는 정말 감탄이네요</a>]]></content>
     </entry>
 </feed>
