@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-23T03:13:07.981Z</updated>
+    <updated>2021-12-23T04:16:17.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,6 +13,20 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvPq">[늦은 아침 생각] 가장 두려운 것을 응시할 용기</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[웹툰 [안식의 밤]에서 떠올린 안락사]]></title>
+        <id>https://alook.so/posts/jdtjRO</id>
+        <link href="https://alook.so/posts/jdtjRO"/>
+        <updated>2021-12-23T02:36:03.505Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjRO">웹툰 [안식의 밤]에서 떠올린 안락사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제갈공명은 아니지만, 간옹 정도는 됩니다.]]></title>
+        <id>https://alook.so/posts/54td6o</id>
+        <link href="https://alook.so/posts/54td6o"/>
+        <updated>2021-12-23T04:14:42.241Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td6o">제갈공명은 아니지만, 간옹 정도는 됩니다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미국 최고의 경제 엘리트 관료들에게 일어난 일]]></title>
         <id>https://alook.so/posts/RGtBwX</id>
         <link href="https://alook.so/posts/RGtBwX"/>
@@ -20,11 +34,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBwX">미국 최고의 경제 엘리트 관료들에게 일어난 일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전자책은 종이책을 대체할 수 있을까?]]></title>
+        <title type="html"><![CDATA[[디지털 시대 #1] 전자책은 종이책을 대체할 수 있을까?]]></title>
         <id>https://alook.so/posts/BatZo7</id>
         <link href="https://alook.so/posts/BatZo7"/>
         <updated>2021-12-23T02:36:03.504Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZo7">전자책은 종이책을 대체할 수 있을까?</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZo7">[디지털 시대 #1] 전자책은 종이책을 대체할 수 있을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 게으름뱅이. 다들 어떻게 실천하는 건가요?]]></title>
@@ -34,11 +48,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrLp">나는 게으름뱅이. 다들 어떻게 실천하는 건가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[웹툰 [안식의 밤]에서 떠올린 안락사]]></title>
-        <id>https://alook.so/posts/jdtjRO</id>
-        <link href="https://alook.so/posts/jdtjRO"/>
-        <updated>2021-12-23T02:36:03.505Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjRO">웹툰 [안식의 밤]에서 떠올린 안락사</a>]]></content>
+        <title type="html"><![CDATA[답글: 전자책은 종이책을 대체할 수 있을까?]]></title>
+        <id>https://alook.so/posts/G1tl5D</id>
+        <link href="https://alook.so/posts/G1tl5D"/>
+        <updated>2021-12-23T04:14:42.243Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tl5D">답글: 전자책은 종이책을 대체할 수 있을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이, 갖고 싶으신가요?]]></title>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWK4">아이, 갖고 싶으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글 많이 쓴다고 잘 쓰게 되진 않더군요.]]></title>
-        <id>https://alook.so/posts/latVWO</id>
-        <link href="https://alook.so/posts/latVWO"/>
-        <updated>2021-12-23T02:36:03.506Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVWO">글 많이 쓴다고 잘 쓰게 되진 않더군요.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[똑똑, 혹시 거기 제갈공명 선생님 계십니까?]]></title>
         <id>https://alook.so/posts/eVtXBP</id>
         <link href="https://alook.so/posts/eVtXBP"/>
@@ -62,10 +69,45 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXBP">똑똑, 혹시 거기 제갈공명 선생님 계십니까?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: 전자책은 종이책을 대체할 수 있을까?]]></title>
+        <id>https://alook.so/posts/1Rtaj0</id>
+        <link href="https://alook.so/posts/1Rtaj0"/>
+        <updated>2021-12-23T04:14:42.248Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtaj0">답글: 전자책은 종이책을 대체할 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글 많이 쓴다고 잘 쓰게 되진 않더군요.]]></title>
+        <id>https://alook.so/posts/latVWO</id>
+        <link href="https://alook.so/posts/latVWO"/>
+        <updated>2021-12-23T02:36:03.506Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVWO">글 많이 쓴다고 잘 쓰게 되진 않더군요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 몇몇 10대들이 불행하다고 생각하는 이유.]]></title>
+        <id>https://alook.so/posts/vKtr3n</id>
+        <link href="https://alook.so/posts/vKtr3n"/>
+        <updated>2021-12-23T04:14:42.252Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtr3n">한국의 몇몇 10대들이 불행하다고 생각하는 이유.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아이의 재능과 미래]]></title>
         <id>https://alook.so/posts/o7twKa</id>
         <link href="https://alook.so/posts/o7twKa"/>
         <updated>2021-12-22T11:10:25.862Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7twKa">아이의 재능과 미래</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 전자책은 종이책을 대체할 수 있을까?]]></title>
+        <id>https://alook.so/posts/70tMoG</id>
+        <link href="https://alook.so/posts/70tMoG"/>
+        <updated>2021-12-23T04:14:42.255Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tMoG">답글: 전자책은 종이책을 대체할 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 전자책은 종이책을 대체할 수 있을까?]]></title>
+        <id>https://alook.so/posts/o7tw88</id>
+        <link href="https://alook.so/posts/o7tw88"/>
+        <updated>2021-12-23T04:14:42.257Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tw88">답글: 전자책은 종이책을 대체할 수 있을까?</a>]]></content>
     </entry>
 </feed>
