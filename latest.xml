@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-23T22:12:41.675Z</updated>
+    <updated>2021-12-23T23:13:03.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[소소한 애도]]></title>
+        <id>https://alook.so/posts/RGtB8X</id>
+        <link href="https://alook.so/posts/RGtB8X"/>
+        <updated>2021-12-23T23:11:17.654Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtB8X">소소한 애도 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저는 정말못된딸같아요??]]></title>
         <id>https://alook.so/posts/kZtGK2</id>
@@ -46,12 +53,5 @@
         <link href="https://alook.so/posts/OEtXk2"/>
         <updated>2021-12-23T15:11:20.645Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXk2">부동산은 끝났다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인정할 수 밖에 없는 단 하나의 권위]]></title>
-        <id>https://alook.so/posts/vKtrZn</id>
-        <link href="https://alook.so/posts/vKtrZn"/>
-        <updated>2021-12-23T15:11:20.646Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtrZn">인정할 수 밖에 없는 단 하나의 권위</a>]]></content>
     </entry>
 </feed>
