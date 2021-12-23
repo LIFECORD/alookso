@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-23T08:15:22.834Z</updated>
+    <updated>2021-12-23T09:13:12.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[아이유는 정말 감탄이네요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -38,6 +38,13 @@
         <link href="https://alook.so/posts/WLte8R"/>
         <updated>2021-12-23T06:13:49.034Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLte8R">달콤한 강제 휴가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이유는 정말 감탄이네요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtLwO</id>
+        <link href="https://alook.so/posts/bWtLwO"/>
+        <updated>2021-12-23T08:13:44.018Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLwO">아이유는 정말 감탄이네요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[디지털 시대 #2] AI(Artificial Intelligence)가 무서워? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>

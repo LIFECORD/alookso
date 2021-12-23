@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-23T08:15:22.812Z</updated>
+    <updated>2021-12-23T09:13:12.274Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아이유는 정말 감탄이네요]]></title>
+        <id>https://alook.so/posts/bWtLwO</id>
+        <link href="https://alook.so/posts/bWtLwO"/>
+        <updated>2021-12-23T09:11:48.675Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLwO">아이유는 정말 감탄이네요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[디지털 시대 #2] AI(Artificial Intelligence)가 무서워?]]></title>
         <id>https://alook.so/posts/dztKkx</id>
