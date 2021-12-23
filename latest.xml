@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-23T02:00:51.548Z</updated>
+    <updated>2021-12-23T02:37:31.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 최고의 경제 엘리트 관료들에게 일어난 일]]></title>
+        <id>https://alook.so/posts/RGtBwX</id>
+        <link href="https://alook.so/posts/RGtBwX"/>
+        <updated>2021-12-23T02:35:55.082Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBwX">미국 최고의 경제 엘리트 관료들에게 일어난 일</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[범죄 걱정 안하고는 못산다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/kZtGM2</id>
+        <link href="https://alook.so/posts/kZtGM2"/>
+        <updated>2021-12-23T02:35:55.087Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGM2">범죄 걱정 안하고는 못산다고 생각합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나는 결국 끝나게 되있다!]]></title>
+        <id>https://alook.so/posts/yEtrLe</id>
+        <link href="https://alook.so/posts/yEtrLe"/>
+        <updated>2021-12-23T02:35:55.088Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrLe">코로나는 결국 끝나게 되있다!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시작을 시작하려고 합니다.]]></title>
+        <id>https://alook.so/posts/BatZKz</id>
+        <link href="https://alook.so/posts/BatZKz"/>
+        <updated>2021-12-23T02:35:55.088Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZKz">시작을 시작하려고 합니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 가장 두려운 것을 응시할 용기]]></title>
         <id>https://alook.so/posts/LKtvPq</id>
@@ -32,26 +60,5 @@
         <link href="https://alook.so/posts/8WtrLp"/>
         <updated>2021-12-22T22:11:17.916Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrLp">나는 게으름뱅이. 다들 어떻게 실천하는 건가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초등학교 입학 , 무엇을 준비할까요??]]></title>
-        <id>https://alook.so/posts/OEtXx2</id>
-        <link href="https://alook.so/posts/OEtXx2"/>
-        <updated>2021-12-22T16:16:17.180Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXx2">초등학교 입학 , 무엇을 준비할까요??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 몇몇 10대들이 불행하다고 생각하는 이유.]]></title>
-        <id>https://alook.so/posts/vKtr3n</id>
-        <link href="https://alook.so/posts/vKtr3n"/>
-        <updated>2021-12-22T14:10:41.892Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtr3n">한국의 몇몇 10대들이 불행하다고 생각하는 이유.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해고를 당하고 싶다?]]></title>
-        <id>https://alook.so/posts/E7tzy8</id>
-        <link href="https://alook.so/posts/E7tzy8"/>
-        <updated>2021-12-22T14:10:41.892Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tzy8">해고를 당하고 싶다?</a>]]></content>
     </entry>
 </feed>
