@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-23T13:21:32.469Z</updated>
+    <updated>2021-12-23T14:12:01.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[독일어 b1 자격증]]></title>
+        <id>https://alook.so/posts/KmtMJe</id>
+        <link href="https://alook.so/posts/KmtMJe"/>
+        <updated>2021-12-23T14:10:29.239Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMJe">독일어 b1 자격증</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치킨좋아하세요?]]></title>
+        <id>https://alook.so/posts/mbtkrp</id>
+        <link href="https://alook.so/posts/mbtkrp"/>
+        <updated>2021-12-23T14:10:29.239Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkrp">치킨좋아하세요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불행한 것 같으면서도 오히려 부럽던데요?]]></title>
         <id>https://alook.so/posts/54tdy9</id>
