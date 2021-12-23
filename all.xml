@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-23T07:12:48.546Z</updated>
+    <updated>2021-12-23T08:15:22.834Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[디지털의 시대 #2] AI(Artificial Intelligence)가 무서워? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[아이유는 정말 감탄이네요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/bWtLwO</id>
+        <link href="https://alook.so/posts/bWtLwO"/>
+        <updated>2021-12-23T08:13:44.018Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtLwO">아이유는 정말 감탄이네요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[디지털 시대 #2] AI(Artificial Intelligence)가 무서워? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/dztKkx</id>
         <link href="https://alook.so/posts/dztKkx"/>
         <updated>2021-12-23T07:11:12.188Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKkx">[디지털의 시대 #2] AI(Artificial Intelligence)가 무서워?</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKkx">[디지털 시대 #2] AI(Artificial Intelligence)가 무서워?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시험공부만 잘 하면 되니까... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -33,53 +40,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLte8R">달콤한 강제 휴가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젠더갈등 문제점 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/4Xtxa0</id>
-        <link href="https://alook.so/posts/4Xtxa0"/>
-        <updated>2021-12-23T05:12:19.134Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtxa0">젠더갈등 문제점</a>]]></content>
+        <title type="html"><![CDATA[[디지털 시대 #2] AI(Artificial Intelligence)가 무서워? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/dztKkx</id>
+        <link href="https://alook.so/posts/dztKkx"/>
+        <updated>2021-12-23T07:11:12.188Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKkx">[디지털 시대 #2] AI(Artificial Intelligence)가 무서워?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[박정희 입니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/XBtW2x</id>
-        <link href="https://alook.so/posts/XBtW2x"/>
-        <updated>2021-12-23T04:14:33.237Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtW2x">박정희 입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 최고의 경제 엘리트 관료들에게 일어난 일 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/RGtBwX</id>
-        <link href="https://alook.so/posts/RGtBwX"/>
-        <updated>2021-12-23T02:35:55.082Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBwX">미국 최고의 경제 엘리트 관료들에게 일어난 일</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 가장 두려운 것을 응시할 용기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/LKtvPq</id>
-        <link href="https://alook.so/posts/LKtvPq"/>
-        <updated>2021-12-23T01:59:17.241Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvPq">[늦은 아침 생각] 가장 두려운 것을 응시할 용기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제갈공명은 아니지만, 간옹 정도는 됩니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/54td6o</id>
-        <link href="https://alook.so/posts/54td6o"/>
-        <updated>2021-12-23T07:11:19.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54td6o">제갈공명은 아니지만, 간옹 정도는 됩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹툰 [안식의 밤]에서 떠올린 안락사 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/jdtjRO</id>
-        <link href="https://alook.so/posts/jdtjRO"/>
-        <updated>2021-12-23T07:11:19.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjRO">웹툰 [안식의 밤]에서 떠올린 안락사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 게으름뱅이. 다들 어떻게 실천하는 건가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/8WtrLp</id>
-        <link href="https://alook.so/posts/8WtrLp"/>
-        <updated>2021-12-22T22:11:17.916Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrLp">나는 게으름뱅이. 다들 어떻게 실천하는 건가요?</a>]]></content>
+        <title type="html"><![CDATA[시험공부만 잘 하면 되니까... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/eVtXl1</id>
+        <link href="https://alook.so/posts/eVtXl1"/>
+        <updated>2021-12-23T07:11:12.189Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXl1">시험공부만 잘 하면 되니까...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[터키 리라화 폭락, 외국인은 부동산 줍줍 중. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -89,46 +61,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtb9B">터키 리라화 폭락, 외국인은 부동산 줍줍 중.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시작을 시작하려고 합니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/BatZKz</id>
-        <link href="https://alook.so/posts/BatZKz"/>
-        <updated>2021-12-23T02:35:55.088Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZKz">시작을 시작하려고 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[디지털 시대 #1] 전자책은 종이책을 대체할 수 있을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/BatZo7</id>
-        <link href="https://alook.so/posts/BatZo7"/>
-        <updated>2021-12-23T07:11:19.661Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZo7">[디지털 시대 #1] 전자책은 종이책을 대체할 수 있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시험공부만 잘 하면 되니까... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtXl1</id>
-        <link href="https://alook.so/posts/eVtXl1"/>
-        <updated>2021-12-23T07:11:19.664Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXl1">시험공부만 잘 하면 되니까...</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[달콤한 강제 휴가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/WLte8R</id>
         <link href="https://alook.so/posts/WLte8R"/>
         <updated>2021-12-23T06:13:49.034Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLte8R">달콤한 강제 휴가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[똑똑, 혹시 거기 제갈공명 선생님 계십니까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtXBP</id>
-        <link href="https://alook.so/posts/eVtXBP"/>
-        <updated>2021-12-23T07:11:19.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXBP">똑똑, 혹시 거기 제갈공명 선생님 계십니까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 전자책은 종이책을 대체할 수 있을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/G1tl5D</id>
-        <link href="https://alook.so/posts/G1tl5D"/>
-        <updated>2021-12-23T04:14:42.243Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tl5D">답글: 전자책은 종이책을 대체할 수 있을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이, 갖고 싶으신가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -138,18 +75,60 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWK4">아이, 갖고 싶으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 전자책은 종이책을 대체할 수 있을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/1Rtaj0</id>
-        <link href="https://alook.so/posts/1Rtaj0"/>
-        <updated>2021-12-23T07:11:19.679Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtaj0">답글: 전자책은 종이책을 대체할 수 있을까?</a>]]></content>
+        <title type="html"><![CDATA[미국 최고의 경제 엘리트 관료들에게 일어난 일 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/RGtBwX</id>
+        <link href="https://alook.so/posts/RGtBwX"/>
+        <updated>2021-12-23T02:35:55.082Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBwX">미국 최고의 경제 엘리트 관료들에게 일어난 일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글 많이 쓴다고 잘 쓰게 되진 않더군요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/latVWO</id>
-        <link href="https://alook.so/posts/latVWO"/>
-        <updated>2021-12-23T07:11:19.679Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latVWO">글 많이 쓴다고 잘 쓰게 되진 않더군요.</a>]]></content>
+        <title type="html"><![CDATA[시작을 시작하려고 합니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/BatZKz</id>
+        <link href="https://alook.so/posts/BatZKz"/>
+        <updated>2021-12-23T02:35:55.088Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZKz">시작을 시작하려고 합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 가장 두려운 것을 응시할 용기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/LKtvPq</id>
+        <link href="https://alook.so/posts/LKtvPq"/>
+        <updated>2021-12-23T01:59:17.241Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvPq">[늦은 아침 생각] 가장 두려운 것을 응시할 용기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 게으름뱅이. 다들 어떻게 실천하는 건가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/8WtrLp</id>
+        <link href="https://alook.so/posts/8WtrLp"/>
+        <updated>2021-12-22T22:11:17.916Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrLp">나는 게으름뱅이. 다들 어떻게 실천하는 건가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 전자책은 종이책을 대체할 수 있을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/G1tl5D</id>
+        <link href="https://alook.so/posts/G1tl5D"/>
+        <updated>2021-12-23T04:14:42.243Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tl5D">답글: 전자책은 종이책을 대체할 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초등학교 입학 , 무엇을 준비할까요?? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/OEtXx2</id>
+        <link href="https://alook.so/posts/OEtXx2"/>
+        <updated>2021-12-23T08:13:52.161Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtXx2">초등학교 입학 , 무엇을 준비할까요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국의 몇몇 10대들이 불행하다고 생각하는 이유. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/vKtr3n</id>
+        <link href="https://alook.so/posts/vKtr3n"/>
+        <updated>2021-12-23T08:13:52.162Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtr3n">한국의 몇몇 10대들이 불행하다고 생각하는 이유.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경제적 자유를 위해... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/KmtMpe</id>
+        <link href="https://alook.so/posts/KmtMpe"/>
+        <updated>2021-12-23T08:13:52.164Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMpe">경제적 자유를 위해...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 alookso, 1월에 돌아옵니다. (alookso ─ alookso)]]></title>
