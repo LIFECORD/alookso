@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-23T09:13:12.294Z</updated>
+    <updated>2021-12-23T10:13:52.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[졸업축하해 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/jdtjq5</id>
+        <link href="https://alook.so/posts/jdtjq5"/>
+        <updated>2021-12-23T10:12:13.728Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjq5">졸업축하해</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이유는 정말 감탄이네요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/bWtLwO</id>
@@ -33,11 +40,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtb9B">터키 리라화 폭락, 외국인은 부동산 줍줍 중.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[달콤한 강제 휴가 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/WLte8R</id>
-        <link href="https://alook.so/posts/WLte8R"/>
-        <updated>2021-12-23T06:13:49.034Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLte8R">달콤한 강제 휴가</a>]]></content>
+        <title type="html"><![CDATA[졸업축하해 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/jdtjq5</id>
+        <link href="https://alook.so/posts/jdtjq5"/>
+        <updated>2021-12-23T10:12:21.807Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtjq5">졸업축하해</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이유는 정말 감탄이네요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -129,13 +136,6 @@
         <link href="https://alook.so/posts/vKtr3n"/>
         <updated>2021-12-23T08:13:52.162Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtr3n">한국의 몇몇 10대들이 불행하다고 생각하는 이유.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경제적 자유를 위해... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/KmtMpe</id>
-        <link href="https://alook.so/posts/KmtMpe"/>
-        <updated>2021-12-23T08:13:52.164Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtMpe">경제적 자유를 위해...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 alookso, 1월에 돌아옵니다. (alookso ─ alookso)]]></title>
