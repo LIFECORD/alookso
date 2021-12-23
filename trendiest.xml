@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-23T15:13:01.630Z</updated>
+    <updated>2021-12-23T16:18:23.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -76,6 +76,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtrLp">나는 게으름뱅이. 다들 어떻게 실천하는 건가요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[셀프 답글: 보상(報償)이라는 동기부여]]></title>
+        <id>https://alook.so/posts/LKtv9q</id>
+        <link href="https://alook.so/posts/LKtv9q"/>
+        <updated>2021-12-23T16:16:51.296Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv9q">셀프 답글: 보상(報償)이라는 동기부여</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아이유는 정말 감탄이네요]]></title>
         <id>https://alook.so/posts/bWtLwO</id>
         <link href="https://alook.so/posts/bWtLwO"/>
@@ -88,12 +95,5 @@
         <link href="https://alook.so/posts/BatZKz"/>
         <updated>2021-12-23T05:12:28.122Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZKz">시작을 시작하려고 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시험공부만 잘 하면 되니까...]]></title>
-        <id>https://alook.so/posts/eVtXl1</id>
-        <link href="https://alook.so/posts/eVtXl1"/>
-        <updated>2021-12-23T07:11:19.664Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXl1">시험공부만 잘 하면 되니까...</a>]]></content>
     </entry>
 </feed>
