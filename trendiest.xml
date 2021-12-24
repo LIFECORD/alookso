@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-24T10:13:47.081Z</updated>
+    <updated>2021-12-24T11:11:22.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9t2YD">'투데이' 운영을 재개합니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[산타클로스! 우리집에는 언제 오세요?]]></title>
-        <id>https://alook.so/posts/pot9D4</id>
-        <link href="https://alook.so/posts/pot9D4"/>
-        <updated>2021-12-24T08:14:05.166Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9D4">산타클로스! 우리집에는 언제 오세요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[datalook] 역대 화이트 크리스마스는?]]></title>
         <id>https://alook.so/posts/1RtaLX</id>
         <link href="https://alook.so/posts/1RtaLX"/>
         <updated>2021-12-24T10:12:17.951Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaLX">[datalook] 역대 화이트 크리스마스는?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산타클로스! 우리집에는 언제 오세요?]]></title>
+        <id>https://alook.so/posts/pot9D4</id>
+        <link href="https://alook.so/posts/pot9D4"/>
+        <updated>2021-12-24T08:14:05.166Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9D4">산타클로스! 우리집에는 언제 오세요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[K-POP은 '청춘을 갈아넣어 뿌린 청년들의 가니쉬' 일까]]></title>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t6Z2">인간관계는 너무 어렵습니다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내년(2022년) 재정 목표 설정에 꽂혔어요.]]></title>
+        <id>https://alook.so/posts/Vntk2D</id>
+        <link href="https://alook.so/posts/Vntk2D"/>
+        <updated>2021-12-24T08:14:05.166Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk2D">내년(2022년) 재정 목표 설정에 꽂혔어요. </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지방대 대학생의 고민]]></title>
         <id>https://alook.so/posts/xltWY4</id>
         <link href="https://alook.so/posts/xltWY4"/>
@@ -88,13 +95,6 @@
         <link href="https://alook.so/posts/mbtkrp"/>
         <updated>2021-12-23T14:10:37.630Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtkrp">치킨좋아하세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년(2022년) 재정 목표 설정에 꽂혔어요.]]></title>
-        <id>https://alook.so/posts/Vntk2D</id>
-        <link href="https://alook.so/posts/Vntk2D"/>
-        <updated>2021-12-24T08:14:05.166Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntk2D">내년(2022년) 재정 목표 설정에 꽂혔어요. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[디지털 시대 #2] AI(Artificial Intelligence)가 무서워?]]></title>
