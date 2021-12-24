@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-24T09:13:27.187Z</updated>
+    <updated>2021-12-24T10:13:47.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/pot9D4"/>
         <updated>2021-12-24T08:14:05.166Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot9D4">산타클로스! 우리집에는 언제 오세요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[datalook] 역대 화이트 크리스마스는?]]></title>
+        <id>https://alook.so/posts/1RtaLX</id>
+        <link href="https://alook.so/posts/1RtaLX"/>
+        <updated>2021-12-24T10:12:17.951Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtaLX">[datalook] 역대 화이트 크리스마스는?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[K-POP은 '청춘을 갈아넣어 뿌린 청년들의 가니쉬' 일까]]></title>
@@ -95,12 +102,5 @@
         <link href="https://alook.so/posts/dztKkx"/>
         <updated>2021-12-24T09:12:01.818Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKkx">[디지털 시대 #2] AI(Artificial Intelligence)가 무서워?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불행한 것 같으면서도 오히려 부럽던데요?]]></title>
-        <id>https://alook.so/posts/54tdy9</id>
-        <link href="https://alook.so/posts/54tdy9"/>
-        <updated>2021-12-24T09:12:01.819Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdy9">불행한 것 같으면서도 오히려 부럽던데요?</a>]]></content>
     </entry>
 </feed>
