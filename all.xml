@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-24T02:35:31.542Z</updated>
+    <updated>2021-12-24T03:12:45.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[K-POP은 '청춘을 갈아넣어 뿌린 청년들의 가니쉬' 일까 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -143,13 +143,6 @@
         <link href="https://alook.so/posts/dztKkx"/>
         <updated>2021-12-23T07:11:12.188Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKkx">[디지털 시대 #2] AI(Artificial Intelligence)가 무서워?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시험공부만 잘 하면 되니까... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtXl1</id>
-        <link href="https://alook.so/posts/eVtXl1"/>
-        <updated>2021-12-24T01:58:16.179Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtXl1">시험공부만 잘 하면 되니까...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 alookso, 1월에 돌아옵니다. (alookso ─ alookso)]]></title>
