@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-25T11:11:10.320Z</updated>
+    <updated>2021-12-25T12:17:31.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.]]></title>
+        <id>https://alook.so/posts/Pvt54x</id>
+        <link href="https://alook.so/posts/Pvt54x"/>
+        <updated>2021-12-25T12:15:51.978Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt54x">끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[요즘 군대] 또래상담병이 바라본 관심병사]]></title>
+        <id>https://alook.so/posts/Vntkqn</id>
+        <link href="https://alook.so/posts/Vntkqn"/>
+        <updated>2021-12-25T12:15:51.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntkqn">[요즘 군대] 또래상담병이 바라본 관심병사</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학 졸업장이란 신분]]></title>
         <id>https://alook.so/posts/zvtbd6</id>
@@ -60,19 +74,5 @@
         <link href="https://alook.so/posts/xltWRe"/>
         <updated>2021-12-25T04:13:54.612Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWRe">성동구로부터 상장을 받았습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 정치세력이 나와야 한다고 생각합니다.]]></title>
-        <id>https://alook.so/posts/RGtBZZ</id>
-        <link href="https://alook.so/posts/RGtBZZ"/>
-        <updated>2021-12-25T04:13:54.612Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtBZZ">새로운 정치세력이 나와야 한다고 생각합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국민연금]]></title>
-        <id>https://alook.so/posts/kZtGJK</id>
-        <link href="https://alook.so/posts/kZtGJK"/>
-        <updated>2021-12-25T03:11:59.738Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtGJK">국민연금</a>]]></content>
     </entry>
 </feed>
