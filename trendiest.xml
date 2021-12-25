@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-25T16:16:49.101Z</updated>
+    <updated>2021-12-25T17:20:06.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[[무비 무브 #13] 돈 룩 업(Don't look up,2021); 절망을 마주 볼 담대한 용기]]></title>
+        <title type="html"><![CDATA[프로젝트 이후 첫 근황 인사.]]></title>
+        <id>https://alook.so/posts/KmtM4j</id>
+        <link href="https://alook.so/posts/KmtM4j"/>
+        <updated>2021-12-25T17:18:36.493Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM4j">프로젝트 이후 첫 근황 인사.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무비 무브 #13] 돈 룩 업(Don't look up,2021); 희망이란, 절망을 마주 볼 담대한 용기]]></title>
         <id>https://alook.so/posts/54tdoj</id>
         <link href="https://alook.so/posts/54tdoj"/>
         <updated>2021-12-25T16:15:16.260Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdoj">[무비 무브 #13] 돈 룩 업(Don't look up,2021); 절망을 마주 볼 담대한 용기</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdoj">[무비 무브 #13] 돈 룩 업(Don't look up,2021); 희망이란, 절망을 마주 볼 담대한 용기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[훈남이시네요.]]></title>
@@ -46,6 +53,13 @@
         <link href="https://alook.so/posts/Vntkqn"/>
         <updated>2021-12-25T13:18:20.643Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntkqn">[요즘 군대] 또래상담병이 바라본 관심병사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산타는 있다! or 없다!]]></title>
+        <id>https://alook.so/posts/4XtxEw</id>
+        <link href="https://alook.so/posts/4XtxEw"/>
+        <updated>2021-12-25T17:18:36.496Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtxEw">산타는 있다! or 없다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[성동구로부터 상장을 받았습니다.]]></title>
@@ -88,12 +102,5 @@
         <link href="https://alook.so/posts/njt5JZ"/>
         <updated>2021-12-25T05:11:09.429Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt5JZ">생각했던 것 만큼 화이트 크리스마스였던 적은 그리 많이 않네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[정치합시다2-호남]편 시청 소감]]></title>
-        <id>https://alook.so/posts/G1tlbL</id>
-        <link href="https://alook.so/posts/G1tlbL"/>
-        <updated>2021-12-24T23:11:06.129Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tlbL">[정치합시다2-호남]편 시청 소감</a>]]></content>
     </entry>
 </feed>
