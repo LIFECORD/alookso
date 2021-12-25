@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-25T13:19:59.040Z</updated>
+    <updated>2021-12-25T14:11:13.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[훈남이시네요.]]></title>
+        <id>https://alook.so/posts/Yytbay</id>
+        <link href="https://alook.so/posts/Yytbay"/>
+        <updated>2021-12-25T14:09:36.220Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytbay">훈남이시네요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸에 좋은 약이 입에 쓴 법입니다.]]></title>
+        <id>https://alook.so/posts/rDtja3</id>
+        <link href="https://alook.so/posts/rDtja3"/>
+        <updated>2021-12-25T14:09:36.222Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtja3">몸에 좋은 약이 입에 쓴 법입니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[크리스마스의 기억]]></title>
         <id>https://alook.so/posts/Zkt0Gp</id>
@@ -18,26 +32,5 @@
         <link href="https://alook.so/posts/dztKRG"/>
         <updated>2021-12-25T13:18:11.643Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKRG">끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[요즘 군대] 또래상담병이 바라본 관심병사]]></title>
-        <id>https://alook.so/posts/Vntkqn</id>
-        <link href="https://alook.so/posts/Vntkqn"/>
-        <updated>2021-12-25T12:15:51.982Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntkqn">[요즘 군대] 또래상담병이 바라본 관심병사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학 졸업장이란 신분]]></title>
-        <id>https://alook.so/posts/zvtbd6</id>
-        <link href="https://alook.so/posts/zvtbd6"/>
-        <updated>2021-12-25T11:09:26.526Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtbd6">대학 졸업장이란 신분</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술 발전의 어둠]]></title>
-        <id>https://alook.so/posts/2xtB1R</id>
-        <link href="https://alook.so/posts/2xtB1R"/>
-        <updated>2021-12-25T11:09:26.526Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtB1R">기술 발전의 어둠</a>]]></content>
     </entry>
 </feed>
