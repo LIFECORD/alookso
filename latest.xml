@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-26T12:17:44.542Z</updated>
+    <updated>2021-12-26T13:19:36.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아버지.]]></title>
+        <id>https://alook.so/posts/o7tEyd</id>
+        <link href="https://alook.so/posts/o7tEyd"/>
+        <updated>2021-12-26T13:18:00.440Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyd">아버지.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 하루 어땠나요?]]></title>
+        <id>https://alook.so/posts/YytLlv</id>
+        <link href="https://alook.so/posts/YytLlv"/>
+        <updated>2021-12-26T13:18:00.441Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLlv">오늘 하루 어땠나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주식 추천종목!!?? 무조건 수익이난다???]]></title>
         <id>https://alook.so/posts/92tk18</id>
@@ -25,19 +39,5 @@
         <link href="https://alook.so/posts/mbtj46"/>
         <updated>2021-12-26T11:09:00.461Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj46">[질문20] 공공영역 성과평가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나의 우리가 해야하는 대처]]></title>
-        <id>https://alook.so/posts/q1tW84</id>
-        <link href="https://alook.so/posts/q1tW84"/>
-        <updated>2021-12-26T10:11:42.508Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW84">코로나의 우리가 해야하는 대처</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후변화의 실천]]></title>
-        <id>https://alook.so/posts/Djt4EW</id>
-        <link href="https://alook.so/posts/Djt4EW"/>
-        <updated>2021-12-26T10:11:42.509Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4EW">기후변화의 실천</a>]]></content>
     </entry>
 </feed>
