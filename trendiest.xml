@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-26T15:12:46.902Z</updated>
+    <updated>2021-12-26T16:17:11.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아버지.]]></title>
+        <id>https://alook.so/posts/o7tEyd</id>
+        <link href="https://alook.so/posts/o7tEyd"/>
+        <updated>2021-12-26T14:10:32.170Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyd">아버지.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래, 이런 거에 열내는 ‘이상한 사람’ 나밖에 없겠지]]></title>
+        <id>https://alook.so/posts/o7tEyD</id>
+        <link href="https://alook.so/posts/o7tEyD"/>
+        <updated>2021-12-26T14:10:32.179Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyD">그래, 이런 거에 열내는 ‘이상한 사람’ 나밖에 없겠지</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 이후 첫 근황 인사.]]></title>
         <id>https://alook.so/posts/KmtM4j</id>
@@ -13,11 +27,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM4j">프로젝트 이후 첫 근황 인사.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그래, 이런 거에 열내는 ‘이상한 사람’ 나밖에 없겠지]]></title>
-        <id>https://alook.so/posts/o7tEyD</id>
-        <link href="https://alook.so/posts/o7tEyD"/>
-        <updated>2021-12-26T14:10:32.179Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyD">그래, 이런 거에 열내는 ‘이상한 사람’ 나밖에 없겠지</a>]]></content>
+        <title type="html"><![CDATA[개인적으로 사교육을 찬성하지 않아요.]]></title>
+        <id>https://alook.so/posts/potm2x</id>
+        <link href="https://alook.so/posts/potm2x"/>
+        <updated>2021-12-26T14:10:32.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm2x">개인적으로 사교육을 찬성하지 않아요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차선도 차악도 아닌, '최적'을 선택하는 일; 정치]]></title>
+        <id>https://alook.so/posts/Djt4EP</id>
+        <link href="https://alook.so/posts/Djt4EP"/>
+        <updated>2021-12-26T16:15:43.124Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4EP">차선도 차악도 아닌, '최적'을 선택하는 일; 정치</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["호랑이랑 사자랑 싸우면 누가 이길까?"]]></title>
@@ -32,13 +53,6 @@
         <link href="https://alook.so/posts/mbtj46"/>
         <updated>2021-12-26T14:10:32.176Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj46">[질문20] 공공영역 성과평가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인적으로 사교육을 찬성하지 않아요.]]></title>
-        <id>https://alook.so/posts/potm2x</id>
-        <link href="https://alook.so/posts/potm2x"/>
-        <updated>2021-12-26T14:10:32.187Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm2x">개인적으로 사교육을 찬성하지 않아요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[무비 무브 #13] 돈 룩 업(Don't look up,2021); 희망이란, 절망을 마주 볼 담대한 용기]]></title>
@@ -62,13 +76,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtExK">다들 너무 보고싶어요 !!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아버지.]]></title>
-        <id>https://alook.so/posts/o7tEyd</id>
-        <link href="https://alook.so/posts/o7tEyd"/>
-        <updated>2021-12-26T14:10:32.170Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyd">아버지.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2021년  어떠셨나요?]]></title>
         <id>https://alook.so/posts/zvtqG6</id>
         <link href="https://alook.so/posts/zvtqG6"/>
@@ -76,17 +83,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqG6">2021년  어떠셨나요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성동구로부터 상장을 받았습니다.]]></title>
-        <id>https://alook.so/posts/xltWRe</id>
-        <link href="https://alook.so/posts/xltWRe"/>
-        <updated>2021-12-26T15:11:21.069Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWRe">성동구로부터 상장을 받았습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글:  오롯한 응원]]></title>
-        <id>https://alook.so/posts/LKtvDd</id>
-        <link href="https://alook.so/posts/LKtvDd"/>
-        <updated>2021-12-26T15:11:21.069Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvDd">답글:  오롯한 응원</a>]]></content>
+        <title type="html"><![CDATA[제 직업을 추천하라면 전 중간입장같애요.]]></title>
+        <id>https://alook.so/posts/latopB</id>
+        <link href="https://alook.so/posts/latopB"/>
+        <updated>2021-12-26T16:15:43.145Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latopB">제 직업을 추천하라면 전 중간입장같애요.</a>]]></content>
     </entry>
 </feed>
