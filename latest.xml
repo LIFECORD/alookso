@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-26T14:11:56.955Z</updated>
+    <updated>2021-12-26T15:12:46.901Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제 직업을 추천하라면 전 중간입장같애요.]]></title>
+        <id>https://alook.so/posts/latopB</id>
+        <link href="https://alook.so/posts/latopB"/>
+        <updated>2021-12-26T15:11:13.140Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latopB">제 직업을 추천하라면 전 중간입장같애요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한과 통일하는게 좋을까.. 이대로 나눠서 사는게 좋을까..]]></title>
         <id>https://alook.so/posts/KmtWKp</id>
@@ -39,12 +46,5 @@
         <link href="https://alook.so/posts/o7tEyd"/>
         <updated>2021-12-26T13:18:00.440Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyd">아버지.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘 하루 어땠나요?]]></title>
-        <id>https://alook.so/posts/YytLlv</id>
-        <link href="https://alook.so/posts/YytLlv"/>
-        <updated>2021-12-26T13:18:00.441Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLlv">오늘 하루 어땠나요?</a>]]></content>
     </entry>
 </feed>
