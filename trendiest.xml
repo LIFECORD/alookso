@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-26T03:14:27.151Z</updated>
+    <updated>2021-12-26T04:16:14.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/LKtvDd"/>
         <updated>2021-12-26T02:02:42.887Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtvDd">답글:  오롯한 응원</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오히려 해고당하고 싶은 직장 이야기]]></title>
+        <id>https://alook.so/posts/latV0M</id>
+        <link href="https://alook.so/posts/latV0M"/>
+        <updated>2021-12-26T04:14:39.833Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latV0M">오히려 해고당하고 싶은 직장 이야기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 이후 첫 근황 인사.]]></title>
@@ -53,40 +60,5 @@
         <link href="https://alook.so/posts/dztKRG"/>
         <updated>2021-12-25T14:09:44.568Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztKRG">끊어낸 여섯 번째 손가락, 그리고 여전한 환상통.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[요즘 군대] 또래상담병이 바라본 관심병사]]></title>
-        <id>https://alook.so/posts/Vntkqn</id>
-        <link href="https://alook.so/posts/Vntkqn"/>
-        <updated>2021-12-25T13:18:20.643Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntkqn">[요즘 군대] 또래상담병이 바라본 관심병사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산타는 있다! or 없다!]]></title>
-        <id>https://alook.so/posts/4XtxEw</id>
-        <link href="https://alook.so/posts/4XtxEw"/>
-        <updated>2021-12-25T17:18:36.496Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtxEw">산타는 있다! or 없다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성동구로부터 상장을 받았습니다.]]></title>
-        <id>https://alook.so/posts/xltWRe</id>
-        <link href="https://alook.so/posts/xltWRe"/>
-        <updated>2021-12-25T04:14:04.020Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWRe">성동구로부터 상장을 받았습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간의 부정적인 측면, 그리고 정의(正義)]]></title>
-        <id>https://alook.so/posts/BatZ6o</id>
-        <link href="https://alook.so/posts/BatZ6o"/>
-        <updated>2021-12-26T02:02:42.901Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZ6o">인간의 부정적인 측면, 그리고 정의(正義)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무비 무브 #12] 풍산개(2011); 둘로 나뉜 세상에서.. 경계에 서다]]></title>
-        <id>https://alook.so/posts/LKtv3d</id>
-        <link href="https://alook.so/posts/LKtv3d"/>
-        <updated>2021-12-26T02:02:42.901Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtv3d">[무비 무브 #12] 풍산개(2011); 둘로 나뉜 세상에서.. 경계에 서다</a>]]></content>
     </entry>
 </feed>
