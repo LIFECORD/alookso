@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-26T21:11:09.614Z</updated>
+    <updated>2021-12-26T22:12:33.025Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[온기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -33,13 +33,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWKp">북한과 통일하는게 좋을까.. 이대로 나눠서 사는게 좋을까..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만약 박근혜 재판 증인들이 극단적 선택을 했다면? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54tEWY</id>
-        <link href="https://alook.so/posts/54tEWY"/>
-        <updated>2021-12-26T14:10:24.496Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEWY">만약 박근혜 재판 증인들이 극단적 선택을 했다면?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[증언할 책무, 그리고 감사 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/OEtKLL</id>
         <link href="https://alook.so/posts/OEtKLL"/>
@@ -52,6 +45,13 @@
         <link href="https://alook.so/posts/latopB"/>
         <updated>2021-12-26T15:11:13.140Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latopB">제 직업을 추천하라면 전 중간입장같애요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한과 통일하는게 좋을까.. 이대로 나눠서 사는게 좋을까.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/KmtWKp</id>
+        <link href="https://alook.so/posts/KmtWKp"/>
+        <updated>2021-12-26T14:10:24.493Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWKp">북한과 통일하는게 좋을까.. 이대로 나눠서 사는게 좋을까..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[만약 박근혜 재판 증인들이 극단적 선택을 했다면? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -87,13 +87,6 @@
         <link href="https://alook.so/posts/mbtj46"/>
         <updated>2021-12-26T11:09:00.461Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj46">[질문20] 공공영역 성과평가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그래, 이런 거에 열내는 ‘이상한 사람’ 나밖에 없겠지 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tEyD</id>
-        <link href="https://alook.so/posts/o7tEyD"/>
-        <updated>2021-12-26T14:10:32.179Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyD">그래, 이런 거에 열내는 ‘이상한 사람’ 나밖에 없겠지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
