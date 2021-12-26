@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-26T02:04:14.961Z</updated>
+    <updated>2021-12-26T03:14:27.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -74,13 +74,6 @@
         <link href="https://alook.so/posts/xltWRe"/>
         <updated>2021-12-25T04:14:04.020Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWRe">성동구로부터 상장을 받았습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시범적으로 한번 작성해봤습니다.]]></title>
-        <id>https://alook.so/posts/yEtrPL</id>
-        <link href="https://alook.so/posts/yEtrPL"/>
-        <updated>2021-12-26T00:39:47.466Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtrPL">시범적으로 한번 작성해봤습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인간의 부정적인 측면, 그리고 정의(正義)]]></title>
