@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-26T08:14:46.349Z</updated>
+    <updated>2021-12-26T09:12:26.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -20,18 +20,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tdoj">[무비 무브 #13] 돈 룩 업(Don't look up,2021); 희망이란, 절망을 마주 볼 담대한 용기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성동구로부터 상장을 받았습니다.]]></title>
-        <id>https://alook.so/posts/xltWRe</id>
-        <link href="https://alook.so/posts/xltWRe"/>
-        <updated>2021-12-26T08:13:13.444Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWRe">성동구로부터 상장을 받았습니다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA["호랑이랑 사자랑 싸우면 누가 이길까?"]]></title>
         <id>https://alook.so/posts/Vntayn</id>
         <link href="https://alook.so/posts/Vntayn"/>
         <updated>2021-12-26T06:13:19.246Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntayn">"호랑이랑 사자랑 싸우면 누가 이길까?"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성동구로부터 상장을 받았습니다.]]></title>
+        <id>https://alook.so/posts/xltWRe</id>
+        <link href="https://alook.so/posts/xltWRe"/>
+        <updated>2021-12-26T08:13:13.444Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltWRe">성동구로부터 상장을 받았습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[요즘 군대] 또래상담병이 바라본 관심병사]]></title>
@@ -46,6 +46,13 @@
         <link href="https://alook.so/posts/BatZyo"/>
         <updated>2021-12-26T05:11:33.314Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatZyo">[늦은 아침 생각] 구부러진 길이 좋다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년  어떠셨나요?]]></title>
+        <id>https://alook.so/posts/zvtqG6</id>
+        <link href="https://alook.so/posts/zvtqG6"/>
+        <updated>2021-12-26T08:13:13.460Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqG6">2021년  어떠셨나요? </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글:  오롯한 응원]]></title>
@@ -88,12 +95,5 @@
         <link href="https://alook.so/posts/Yytb2y"/>
         <updated>2021-12-26T08:13:13.457Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytb2y">얼룩소라는 놀이터</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년  어떠셨나요?]]></title>
-        <id>https://alook.so/posts/zvtqG6</id>
-        <link href="https://alook.so/posts/zvtqG6"/>
-        <updated>2021-12-26T08:13:13.460Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqG6">2021년  어떠셨나요? </a>]]></content>
     </entry>
 </feed>
