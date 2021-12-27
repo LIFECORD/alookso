@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-27T17:21:14.048Z</updated>
+    <updated>2021-12-27T18:14:14.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[나를 덕질 하는데 꽂혔다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -54,11 +54,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtV1a">진짜 강력하게 새로운 정치세력이 나와야한다고 봅니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한과 통일문제는 매우 민감하지만.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/6Mt96m</id>
-        <link href="https://alook.so/posts/6Mt96m"/>
-        <updated>2021-12-27T16:16:12.956Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt96m">북한과 통일문제는 매우 민감하지만..</a>]]></content>
+        <title type="html"><![CDATA[생존이 보장 되었다면 그랬을지도 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/yEtb1K</id>
+        <link href="https://alook.so/posts/yEtb1K"/>
+        <updated>2021-12-27T16:16:12.953Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtb1K">생존이 보장 되었다면 그랬을지도</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후회는 없지만 그당시엔 부끄럽네요.님들은 저같음 어떤 선택을? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/LKtW76</id>
+        <link href="https://alook.so/posts/LKtW76"/>
+        <updated>2021-12-27T16:16:12.954Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtW76">후회는 없지만 그당시엔 부끄럽네요.님들은 저같음 어떤 선택을?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떤게 평등이고 어떤게 공평일까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtOXk</id>
+        <link href="https://alook.so/posts/3wtOXk"/>
+        <updated>2021-12-27T18:12:47.475Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOXk">어떤게 평등이고 어떤게 공평일까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자소서에 <김연경>을 쓸 수밖에 없는 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/54tE3Y</id>
+        <link href="https://alook.so/posts/54tE3Y"/>
+        <updated>2021-12-27T18:12:47.475Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE3Y">자소서에 &lt;김연경&gt;을 쓸 수밖에 없는 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -89,6 +110,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEyv">불효자 추가입니다...</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사형은 필요하다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/a0t0Yy</id>
+        <link href="https://alook.so/posts/a0t0Yy"/>
+        <updated>2021-12-27T18:12:47.483Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0Yy">사형은 필요하다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아이들이 정답일 때가 대부분이죠. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/ZktPax</id>
         <link href="https://alook.so/posts/ZktPax"/>
@@ -115,41 +143,6 @@
         <link href="https://alook.so/posts/potm7a"/>
         <updated>2021-12-27T16:16:20.445Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm7a">투자를 하고 나서 행복하려면 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비건지향의 삶, 3년차 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/PvtpGb</id>
-        <link href="https://alook.so/posts/PvtpGb"/>
-        <updated>2021-12-27T08:14:14.923Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpGb">비건지향의 삶, 3년차</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아쉬운건 없는데 굳이 꼽자면 아쉬운 점, 그것은 배당주 투자. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Vntawp</id>
-        <link href="https://alook.so/posts/Vntawp"/>
-        <updated>2021-12-27T13:20:10.895Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntawp">아쉬운건 없는데 굳이 꼽자면 아쉬운 점, 그것은 배당주 투자.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자존감 높은 아이로 키우고싶다... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/0kteMK</id>
-        <link href="https://alook.so/posts/0kteMK"/>
-        <updated>2021-12-27T15:11:37.618Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteMK">자존감 높은 아이로 키우고싶다...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소는 잘 지내고 있는가? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/M9tXEX</id>
-        <link href="https://alook.so/posts/M9tXEX"/>
-        <updated>2021-12-27T06:14:19.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXEX">얼룩소는 잘 지내고 있는가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자의 본질은 행복입니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/4Xt4ex</id>
-        <link href="https://alook.so/posts/4Xt4ex"/>
-        <updated>2021-12-27T13:20:10.898Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4ex">투자의 본질은 행복입니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
