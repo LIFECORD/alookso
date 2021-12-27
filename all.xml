@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-27T11:11:28.621Z</updated>
+    <updated>2021-12-27T12:19:16.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[답글: 선생님 직접 쓰신 글이 맞습니까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/1RtzJl</id>
+        <link href="https://alook.so/posts/1RtzJl"/>
+        <updated>2021-12-27T12:17:41.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzJl">답글: 선생님 직접 쓰신 글이 맞습니까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에서 예상된 일, 가이드라인 주세요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tEnd</id>
+        <link href="https://alook.so/posts/o7tEnd"/>
+        <updated>2021-12-27T12:17:41.898Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEnd">얼룩소에서 예상된 일, 가이드라인 주세요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[방광염 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDt0vq</id>
@@ -45,27 +59,6 @@
         <link href="https://alook.so/posts/dztl29"/>
         <updated>2021-12-27T11:09:48.748Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl29">어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이직 준비중입니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/J5tVOB</id>
-        <link href="https://alook.so/posts/J5tVOB"/>
-        <updated>2021-12-27T11:09:48.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVOB">이직 준비중입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자를 하고 나서 행복하려면 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/potm7a</id>
-        <link href="https://alook.so/posts/potm7a"/>
-        <updated>2021-12-27T11:09:48.753Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm7a">투자를 하고 나서 행복하려면 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제조업 현장에서 보이는 능력주의란 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/eVtEMw</id>
-        <link href="https://alook.so/posts/eVtEMw"/>
-        <updated>2021-12-27T09:12:11.666Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEMw">제조업 현장에서 보이는 능력주의란</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[팩트만 말하는데도 왜 놀아나는 것일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -110,10 +103,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKLL">증언할 책무, 그리고 감사</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[불효자 추가입니다... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtEyv</id>
+        <link href="https://alook.so/posts/bWtEyv"/>
+        <updated>2021-12-27T11:09:48.738Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEyv">불효자 추가입니다...</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아이들이 정답일 때가 대부분이죠. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/ZktPax</id>
         <link href="https://alook.so/posts/ZktPax"/>
-        <updated>2021-12-27T11:09:57.060Z</updated>
+        <updated>2021-12-27T11:09:48.746Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPax">아이들이 정답일 때가 대부분이죠.</a>]]></content>
     </entry>
     <entry>
@@ -131,13 +131,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbEK">대한민국은 미국VS중국 어느쪽을 선택해야 살아남는가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[불효자 추가입니다... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtEyv</id>
-        <link href="https://alook.so/posts/bWtEyv"/>
-        <updated>2021-12-27T11:09:57.061Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEyv">불효자 추가입니다...</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[개인적으로 사교육을 찬성하지 않아요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/potm2x</id>
         <link href="https://alook.so/posts/potm2x"/>
@@ -148,7 +141,7 @@
         <title type="html"><![CDATA[어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/dztl29</id>
         <link href="https://alook.so/posts/dztl29"/>
-        <updated>2021-12-27T11:09:57.079Z</updated>
+        <updated>2021-12-27T11:09:48.748Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl29">어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다.</a>]]></content>
     </entry>
     <entry>
@@ -164,6 +157,13 @@
         <link href="https://alook.so/posts/KmtM4j"/>
         <updated>2021-12-27T08:14:23.850Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtM4j">프로젝트 이후 첫 근황 인사.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그런 일이 일어날까. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/w9tEpa</id>
+        <link href="https://alook.so/posts/w9tEpa"/>
+        <updated>2021-12-27T12:17:49.583Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEpa">그런 일이 일어날까.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[넉두리 1 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
