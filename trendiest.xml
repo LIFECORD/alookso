@@ -2,37 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-27T18:14:14.213Z</updated>
+    <updated>2021-12-27T19:11:02.769Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[생존이 보장 되었다면 그랬을지도]]></title>
-        <id>https://alook.so/posts/yEtb1K</id>
-        <link href="https://alook.so/posts/yEtb1K"/>
-        <updated>2021-12-27T18:12:47.474Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtb1K">생존이 보장 되었다면 그랬을지도</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[후회는 없지만 그당시엔 부끄럽네요.님들은 저같음 어떤 선택을?]]></title>
-        <id>https://alook.so/posts/LKtW76</id>
-        <link href="https://alook.so/posts/LKtW76"/>
-        <updated>2021-12-27T18:12:47.474Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtW76">후회는 없지만 그당시엔 부끄럽네요.님들은 저같음 어떤 선택을?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떤게 평등이고 어떤게 공평일까]]></title>
-        <id>https://alook.so/posts/3wtOXk</id>
-        <link href="https://alook.so/posts/3wtOXk"/>
-        <updated>2021-12-27T18:12:47.475Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOXk">어떤게 평등이고 어떤게 공평일까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자소서에 <김연경>을 쓸 수밖에 없는 이유]]></title>
-        <id>https://alook.so/posts/54tE3Y</id>
-        <link href="https://alook.so/posts/54tE3Y"/>
-        <updated>2021-12-27T18:12:47.475Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE3Y">자소서에 &lt;김연경&gt;을 쓸 수밖에 없는 이유</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서]]></title>
         <id>https://alook.so/posts/q1tWGK</id>
@@ -62,13 +34,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEyv">불효자 추가입니다...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사형은 필요하다]]></title>
-        <id>https://alook.so/posts/a0t0Yy</id>
-        <link href="https://alook.so/posts/a0t0Yy"/>
-        <updated>2021-12-27T18:12:47.483Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0Yy">사형은 필요하다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아이들이 정답일 때가 대부분이죠.]]></title>
         <id>https://alook.so/posts/ZktPax</id>
         <link href="https://alook.so/posts/ZktPax"/>
@@ -90,10 +55,31 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVOB">이직 준비중입니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투자를 하고 나서 행복하려면]]></title>
-        <id>https://alook.so/posts/potm7a</id>
-        <link href="https://alook.so/posts/potm7a"/>
-        <updated>2021-12-27T16:16:20.445Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm7a">투자를 하고 나서 행복하려면 </a>]]></content>
+        <title type="html"><![CDATA[비건지향의 삶, 3년차]]></title>
+        <id>https://alook.so/posts/PvtpGb</id>
+        <link href="https://alook.so/posts/PvtpGb"/>
+        <updated>2021-12-27T19:09:32.892Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpGb">비건지향의 삶, 3년차</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아쉬운건 없는데 굳이 꼽자면 아쉬운 점, 그것은 배당주 투자.]]></title>
+        <id>https://alook.so/posts/Vntawp</id>
+        <link href="https://alook.so/posts/Vntawp"/>
+        <updated>2021-12-27T19:09:32.894Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntawp">아쉬운건 없는데 굳이 꼽자면 아쉬운 점, 그것은 배당주 투자.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소는 잘 지내고 있는가?]]></title>
+        <id>https://alook.so/posts/M9tXEX</id>
+        <link href="https://alook.so/posts/M9tXEX"/>
+        <updated>2021-12-27T19:09:32.896Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXEX">얼룩소는 잘 지내고 있는가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투자의 본질은 행복입니다.]]></title>
+        <id>https://alook.so/posts/4Xt4ex</id>
+        <link href="https://alook.so/posts/4Xt4ex"/>
+        <updated>2021-12-27T19:09:32.898Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4ex">투자의 본질은 행복입니다.</a>]]></content>
     </entry>
 </feed>
