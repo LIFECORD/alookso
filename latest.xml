@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-27T13:21:46.850Z</updated>
+    <updated>2021-12-27T15:13:05.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[최고의 국뽕은 누가뭐래도 BTS(전 남자고BTS팬도 아님)]]></title>
+        <id>https://alook.so/posts/8Wtjao</id>
+        <link href="https://alook.so/posts/8Wtjao"/>
+        <updated>2021-12-27T15:11:29.548Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtjao">최고의 국뽕은 누가뭐래도 BTS(전 남자고BTS팬도 아님)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민연금 지금 mz세대들은 받지 못할거라고 봅니다]]></title>
+        <id>https://alook.so/posts/G1tqoo</id>
+        <link href="https://alook.so/posts/G1tqoo"/>
+        <updated>2021-12-27T15:11:29.549Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqoo">국민연금 지금 mz세대들은 받지 못할거라고 봅니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[같은 성별끼리 서로 좋다면 못할 이유 있나요?]]></title>
+        <id>https://alook.so/posts/OEtKwL</id>
+        <link href="https://alook.so/posts/OEtKwL"/>
+        <updated>2021-12-27T15:11:29.549Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKwL">같은 성별끼리 서로 좋다면 못할 이유 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국회의원 수는 늘여야 합니다.]]></title>
+        <id>https://alook.so/posts/vKtq10</id>
+        <link href="https://alook.so/posts/vKtq10"/>
+        <updated>2021-12-27T15:11:29.552Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtq10">국회의원 수는 늘여야 합니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내 직장이 평생직장인줄 알았지만 이젠 아니다.]]></title>
         <id>https://alook.so/posts/92tkez</id>
@@ -18,26 +46,5 @@
         <link href="https://alook.so/posts/54tE3Y"/>
         <updated>2021-12-27T13:20:02.419Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE3Y">자소서에 &lt;김연경&gt;을 쓸 수밖에 없는 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서]]></title>
-        <id>https://alook.so/posts/q1tWGK</id>
-        <link href="https://alook.so/posts/q1tWGK"/>
-        <updated>2021-12-27T13:20:02.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWGK">[건아의 군생활] 33세 상사 여자 행보관의 직속 부하로서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 선생님 직접 쓰신 글이 맞습니까?]]></title>
-        <id>https://alook.so/posts/1RtzJl</id>
-        <link href="https://alook.so/posts/1RtzJl"/>
-        <updated>2021-12-27T12:17:41.891Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzJl">답글: 선생님 직접 쓰신 글이 맞습니까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에서 예상된 일, 가이드라인 주세요]]></title>
-        <id>https://alook.so/posts/o7tEnd</id>
-        <link href="https://alook.so/posts/o7tEnd"/>
-        <updated>2021-12-27T12:17:41.898Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEnd">얼룩소에서 예상된 일, 가이드라인 주세요</a>]]></content>
     </entry>
 </feed>
