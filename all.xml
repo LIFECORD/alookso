@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-28T07:12:32.510Z</updated>
+    <updated>2021-12-28T08:15:33.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[세상 떠난 아이의 번호로 온 스미싱 문자. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tEll</id>
+        <link href="https://alook.so/posts/o7tEll"/>
+        <updated>2021-12-28T08:13:57.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEll">세상 떠난 아이의 번호로 온 스미싱 문자. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[디지털노마드 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/70tYvk</id>
+        <link href="https://alook.so/posts/70tYvk"/>
+        <updated>2021-12-28T08:13:57.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYvk">디지털노마드</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼을 하고 아이를 키우게 된다면 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/YytL50</id>
+        <link href="https://alook.so/posts/YytL50"/>
+        <updated>2021-12-28T08:13:57.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL50">결혼을 하고 아이를 키우게 된다면</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 직업 영상제작자(촬영, 편집, 디자인 등) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/rDt0pJ</id>
+        <link href="https://alook.so/posts/rDt0pJ"/>
+        <updated>2021-12-28T08:13:57.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0pJ">내 직업 영상제작자(촬영, 편집, 디자인 등)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악기 뿐 아니라 모든 분야가 똑같다고 생각해요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7tX9x</id>
+        <link href="https://alook.so/posts/E7tX9x"/>
+        <updated>2021-12-28T08:13:57.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tX9x">악기 뿐 아니라 모든 분야가 똑같다고 생각해요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[궁금해요 제나이40 이런고민 저만하나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/lato5B</id>
@@ -19,32 +54,53 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk7z">1가구 1주택 시대? 가구별 방 개수 얼마나 늘었을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족보다 더 깊은 인간관계가 있다는 게 이상한가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/mbtj7d</id>
-        <link href="https://alook.so/posts/mbtj7d"/>
-        <updated>2021-12-28T07:10:53.977Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtj7d">가족보다 더 깊은 인간관계가 있다는 게 이상한가요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 도전을 응원합니다! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54tEkY</id>
-        <link href="https://alook.so/posts/54tEkY"/>
-        <updated>2021-12-28T07:10:53.981Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEkY">새로운 도전을 응원합니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음이 어떤일앞에 항상 깨끗이 비워져 있나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[마음이 어떤일앞에 항상 깨끗이 비워져 있나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/1RtzEl</id>
         <link href="https://alook.so/posts/1RtzEl"/>
         <updated>2021-12-28T06:13:44.408Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzEl">마음이 어떤일앞에 항상 깨끗이 비워져 있나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아들이 보는 세상 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[아들이 보는 세상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/o7tErd</id>
         <link href="https://alook.so/posts/o7tErd"/>
         <updated>2021-12-28T05:11:47.512Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tErd">아들이 보는 세상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[터키 분위기 좋습니당! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/YytL6v</id>
+        <link href="https://alook.so/posts/YytL6v"/>
+        <updated>2021-12-28T04:14:08.820Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL6v">터키 분위기 좋습니당!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와...이건 아니죠 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtEBv</id>
+        <link href="https://alook.so/posts/bWtEBv"/>
+        <updated>2021-12-28T04:14:08.820Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEBv">와...이건 아니죠</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끓.라 꿀팁 하나! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/potmWa</id>
+        <link href="https://alook.so/posts/potmWa"/>
+        <updated>2021-12-28T02:35:02.140Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmWa">끓.라 꿀팁 하나!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/eVtEVw</id>
+        <link href="https://alook.so/posts/eVtEVw"/>
+        <updated>2021-12-28T02:35:02.148Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEVw">윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현실.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/2xt9xX</id>
+        <link href="https://alook.so/posts/2xt9xX"/>
+        <updated>2021-12-28T08:14:06.027Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9xX">현실..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오랜만에 들어오는 alookso (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -61,88 +117,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1y7">과학을 전공했다면 좀 달랐을까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에서 예상된 일, 가이드라인 주세요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tEnd</id>
-        <link href="https://alook.so/posts/o7tEnd"/>
-        <updated>2021-12-27T12:17:41.898Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEnd">얼룩소에서 예상된 일, 가이드라인 주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와...이건 아니죠 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtEBv</id>
-        <link href="https://alook.so/posts/bWtEBv"/>
-        <updated>2021-12-28T04:14:08.820Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEBv">와...이건 아니죠</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팩트만 말하는데도 왜 놀아나는 것일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/xlt1o7</id>
-        <link href="https://alook.so/posts/xlt1o7"/>
-        <updated>2021-12-28T06:13:52.955Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1o7">팩트만 말하는데도 왜 놀아나는 것일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtEVw</id>
-        <link href="https://alook.so/posts/eVtEVw"/>
-        <updated>2021-12-28T02:35:02.148Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEVw">윤석열의 ‘공정’, 김건희의 허물, 그리고 족벌언론 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아들이 보는 세상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tErd</id>
-        <link href="https://alook.so/posts/o7tErd"/>
-        <updated>2021-12-28T05:11:47.512Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tErd">아들이 보는 세상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음이 어떤일앞에 항상 깨끗이 비워져 있나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/1RtzEl</id>
-        <link href="https://alook.so/posts/1RtzEl"/>
-        <updated>2021-12-28T06:13:44.408Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzEl">마음이 어떤일앞에 항상 깨끗이 비워져 있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 선생님 직접 쓰신 글이 맞습니까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/1RtzJl</id>
-        <link href="https://alook.so/posts/1RtzJl"/>
-        <updated>2021-12-27T12:17:41.891Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzJl">답글: 선생님 직접 쓰신 글이 맞습니까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아버지. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tEyd</id>
-        <link href="https://alook.so/posts/o7tEyd"/>
-        <updated>2021-12-28T06:13:52.960Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEyd">아버지.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[터키 분위기 좋습니당! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/YytL6v</id>
-        <link href="https://alook.so/posts/YytL6v"/>
-        <updated>2021-12-28T04:14:08.820Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL6v">터키 분위기 좋습니당!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[차선도 차악도 아닌, '최적'을 선택하는 일; 정치 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt4EP</id>
-        <link href="https://alook.so/posts/Djt4EP"/>
-        <updated>2021-12-28T06:13:52.964Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4EP">차선도 차악도 아닌, '최적'을 선택하는 일; 정치</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/dztl29</id>
-        <link href="https://alook.so/posts/dztl29"/>
-        <updated>2021-12-28T06:13:52.969Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl29">어디에도 남기지 않았던 한살먹기! 얼룩소에 남깁니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끓.라 꿀팁 하나! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/potmWa</id>
-        <link href="https://alook.so/posts/potmWa"/>
-        <updated>2021-12-28T02:35:02.140Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmWa">끓.라 꿀팁 하나!</a>]]></content>
+        <title type="html"><![CDATA[글은 나의 행복 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/RGtxa0</id>
+        <link href="https://alook.so/posts/RGtxa0"/>
+        <updated>2021-12-28T08:14:06.028Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxa0">글은 나의 행복</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
