@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-29T22:13:16.743Z</updated>
+    <updated>2021-12-29T23:12:34.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[산유화 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -61,6 +61,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWl3">걱정한다고, 생각해서 하는 말인데 그래서 더 하기 싫은 건지도 모르겠습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[산유화 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/8Wtj7j</id>
+        <link href="https://alook.so/posts/8Wtj7j"/>
+        <updated>2021-12-29T18:12:56.554Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj7j">산유화</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[교육이 아이들에게 절망을 가르쳤어 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/G1tq9l</id>
         <link href="https://alook.so/posts/G1tq9l"/>
@@ -89,6 +96,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWl3">걱정한다고, 생각해서 하는 말인데 그래서 더 하기 싫은 건지도 모르겠습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[세대간의 이해가 필요한 시점입니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djt4lq</id>
+        <link href="https://alook.so/posts/Djt4lq"/>
+        <updated>2021-12-29T23:11:08.930Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4lq">세대간의 이해가 필요한 시점입니다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[돈 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/1RtzMM</id>
         <link href="https://alook.so/posts/1RtzMM"/>
@@ -101,13 +115,6 @@
         <link href="https://alook.so/posts/o7tE0l"/>
         <updated>2021-12-29T22:11:35.825Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE0l">투자는 희망이다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 한가족? 본인이 필요할 때만? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/YytLD0</id>
-        <link href="https://alook.so/posts/YytLD0"/>
-        <updated>2021-12-29T22:11:35.831Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLD0">우리는 한가족? 본인이 필요할 때만?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무엇이 잘 사는 길일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -164,13 +171,6 @@
         <link href="https://alook.so/posts/PvtpBD"/>
         <updated>2021-12-29T04:14:13.975Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpBD">언니에게 미혜님은 "꽃" 이었어라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안경 구입비용, 왜 내가 부담해야 하나? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/2xt9p6</id>
-        <link href="https://alook.so/posts/2xt9p6"/>
-        <updated>2021-12-29T02:34:43.972Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9p6">안경 구입비용, 왜 내가 부담해야 하나?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
