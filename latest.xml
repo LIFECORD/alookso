@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-29T08:15:48.049Z</updated>
+    <updated>2021-12-29T09:13:15.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사회적 나이(Social Age)로 세대론을 바라보기]]></title>
+        <id>https://alook.so/posts/potmLG</id>
+        <link href="https://alook.so/posts/potmLG"/>
+        <updated>2021-12-29T09:11:44.028Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmLG">사회적 나이(Social Age)로 세대론을 바라보기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[alookso 게시글 외부 플랫폼 가이드라인 문의]]></title>
         <id>https://alook.so/posts/eVtERW</id>
@@ -46,12 +53,5 @@
         <link href="https://alook.so/posts/4Xt4on"/>
         <updated>2021-12-29T01:58:35.019Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4on">답글: 방해로 무산된 균형발전; 다시 견제가 필요하겠지요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주 4일제는 가능하지 않을 것 같다에 의견 던져봅니다]]></title>
-        <id>https://alook.so/posts/XBtboJ</id>
-        <link href="https://alook.so/posts/XBtboJ"/>
-        <updated>2021-12-28T18:12:42.710Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtboJ">주 4일제는 가능하지 않을 것 같다에 의견 던져봅니다</a>]]></content>
     </entry>
 </feed>
