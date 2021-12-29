@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-29T11:11:24.139Z</updated>
+    <updated>2021-12-29T12:19:13.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[무엇이 잘 사는 길일까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/jdtE31</id>
+        <link href="https://alook.so/posts/jdtE31"/>
+        <updated>2021-12-29T12:17:41.531Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtE31">무엇이 잘 사는 길일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 어려운 인간관계 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/bWtEOb</id>
+        <link href="https://alook.so/posts/bWtEOb"/>
+        <updated>2021-12-29T12:17:41.534Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEOb">가장 어려운 인간관계</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아무거나 쓰기, 저출생 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/a0t09o</id>
@@ -45,20 +59,6 @@
         <link href="https://alook.so/posts/PvtpBD"/>
         <updated>2021-12-29T04:14:13.975Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpBD">언니에게 미혜님은 "꽃" 이었어라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안경 구입비용, 왜 내가 부담해야 하나? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/2xt9p6</id>
-        <link href="https://alook.so/posts/2xt9p6"/>
-        <updated>2021-12-29T02:34:43.972Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9p6">안경 구입비용, 왜 내가 부담해야 하나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 이렇게 생각합니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/WLtY7b</id>
-        <link href="https://alook.so/posts/WLtY7b"/>
-        <updated>2021-12-29T01:58:35.016Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtY7b">저는 이렇게 생각합니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사회적 나이(Social Age)로 세대론을 바라보기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -110,13 +110,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4on">답글: 방해로 무산된 균형발전; 다시 견제가 필요하겠지요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주 4일제는 가능하지 않을 것 같다에 의견 던져봅니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/XBtboJ</id>
-        <link href="https://alook.so/posts/XBtboJ"/>
-        <updated>2021-12-29T11:09:42.603Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtboJ">주 4일제는 가능하지 않을 것 같다에 의견 던져봅니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[장애견을 당신은 본 적이 있으신가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/w9tEnm</id>
         <link href="https://alook.so/posts/w9tEnm"/>
@@ -131,13 +124,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1v9">재택근무에 집중해야하는데 후~~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어떻게 살아야 할까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/yEtbVW</id>
-        <link href="https://alook.so/posts/yEtbVW"/>
-        <updated>2021-12-29T11:09:42.610Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbVW">어떻게 살아야 할까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[과열된 집값, 수도권 집중 현상을 벗어나야합니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/BatM5x</id>
         <link href="https://alook.so/posts/BatM5x"/>
@@ -150,6 +136,13 @@
         <link href="https://alook.so/posts/LKtWyE"/>
         <updated>2021-12-29T07:11:11.095Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWyE">이국적인 풍경도 멋있네요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현장검거 외 다른 방법이 없는 슬픈 현실. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/vKtq6j</id>
+        <link href="https://alook.so/posts/vKtq6j"/>
+        <updated>2021-12-29T12:17:48.733Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtq6j">현장검거 외 다른 방법이 없는 슬픈 현실.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
