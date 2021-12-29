@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-29T14:11:49.832Z</updated>
+    <updated>2021-12-29T15:13:01.566Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[우리의 평생 과제 닭?닭걀?누가먼저? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7tX3m</id>
+        <link href="https://alook.so/posts/E7tX3m"/>
+        <updated>2021-12-29T15:11:14.252Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tX3m">우리의 평생 과제 닭?닭걀?누가먼저?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[노인을 위한 나라 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/KmtWkP</id>
@@ -54,24 +61,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE0l">투자는 희망이다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리는 한가족? 본인이 필요할 때만? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/YytLD0</id>
-        <link href="https://alook.so/posts/YytLD0"/>
-        <updated>2021-12-29T13:19:57.202Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLD0">우리는 한가족? 본인이 필요할 때만?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/mbtjBL</id>
         <link href="https://alook.so/posts/mbtjBL"/>
-        <updated>2021-12-29T14:10:21.162Z</updated>
+        <updated>2021-12-29T14:10:12.564Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjBL">전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저도 아직까지 그 해답을 찾고 있습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/54tE4r</id>
         <link href="https://alook.so/posts/54tE4r"/>
-        <updated>2021-12-29T14:10:21.167Z</updated>
+        <updated>2021-12-29T14:10:12.566Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE4r">저도 아직까지 그 해답을 찾고 있습니다.</a>]]></content>
     </entry>
     <entry>
