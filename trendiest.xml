@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-29T15:13:01.533Z</updated>
+    <updated>2021-12-29T16:17:51.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -109,19 +109,5 @@
         <link href="https://alook.so/posts/XBtboJ"/>
         <updated>2021-12-29T14:10:21.178Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtboJ">주 4일제는 가능하지 않을 것 같다에 의견 던져봅니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[장애견을 당신은 본 적이 있으신가요?]]></title>
-        <id>https://alook.so/posts/w9tEnm</id>
-        <link href="https://alook.so/posts/w9tEnm"/>
-        <updated>2021-12-29T06:13:37.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEnm">장애견을 당신은 본 적이 있으신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재택근무에 집중해야하는데 후~~]]></title>
-        <id>https://alook.so/posts/xlt1v9</id>
-        <link href="https://alook.so/posts/xlt1v9"/>
-        <updated>2021-12-29T14:10:21.179Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1v9">재택근무에 집중해야하는데 후~~</a>]]></content>
     </entry>
 </feed>
