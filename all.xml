@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-30T03:12:25.010Z</updated>
+    <updated>2021-12-30T04:15:57.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[아이유라는 아티스트 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/BatMqx</id>
+        <link href="https://alook.so/posts/BatMqx"/>
+        <updated>2021-12-30T04:14:13.335Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMqx">아이유라는 아티스트</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(1) 브로맨스 북클럽 _독서 후기 ( ★★★★) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/6Mt9OK</id>
@@ -47,6 +54,55 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tX3m">우리의 평생 과제 닭?닭걀?누가먼저?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[교육이 아이들에게 절망을 가르쳤어 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/G1tq9l</id>
+        <link href="https://alook.so/posts/G1tq9l"/>
+        <updated>2021-12-29T17:20:07.461Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq9l">교육이 아이들에게 절망을 가르쳤어</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <너에게 가는 길> - 존재 자체에 대한 인정과 사랑 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/ZktPOv</id>
+        <link href="https://alook.so/posts/ZktPOv"/>
+        <updated>2021-12-30T04:14:21.827Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPOv">영화 &lt;너에게 가는 길&gt; - 존재 자체에 대한 인정과 사랑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[alookso 게시글 외부 플랫폼 가이드라인 문의 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/eVtERW</id>
+        <link href="https://alook.so/posts/eVtERW"/>
+        <updated>2021-12-30T04:14:21.827Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtERW">alookso 게시글 외부 플랫폼 가이드라인 문의</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무엇이 잘 사는 길일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/jdtE31</id>
+        <link href="https://alook.so/posts/jdtE31"/>
+        <updated>2021-12-29T12:17:41.531Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtE31">무엇이 잘 사는 길일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스카이에듀 폐업, 그리고 사교육 이야기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/vKtqRj</id>
+        <link href="https://alook.so/posts/vKtqRj"/>
+        <updated>2021-12-29T16:16:07.024Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqRj">스카이에듀 폐업, 그리고 사교육 이야기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회적 나이(Social Age)로 세대론을 바라보기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/potmLG</id>
+        <link href="https://alook.so/posts/potmLG"/>
+        <updated>2021-12-30T04:14:21.832Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmLG">사회적 나이(Social Age)로 세대론을 바라보기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이유라는 아티스트 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/BatMqx</id>
+        <link href="https://alook.so/posts/BatMqx"/>
+        <updated>2021-12-30T04:14:21.834Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMqx">아이유라는 아티스트</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[(1) 브로맨스 북클럽 _독서 후기 ( ★★★★) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/6Mt9OK</id>
         <link href="https://alook.so/posts/6Mt9OK"/>
@@ -61,32 +117,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOk3">[늦은 아침 생각] 생각하는 대로 살지 않으면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[산유화 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/8Wtj7j</id>
-        <link href="https://alook.so/posts/8Wtj7j"/>
-        <updated>2021-12-29T18:12:56.554Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj7j">산유화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육이 아이들에게 절망을 가르쳤어 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/G1tq9l</id>
-        <link href="https://alook.so/posts/G1tq9l"/>
-        <updated>2021-12-29T17:20:07.461Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq9l">교육이 아이들에게 절망을 가르쳤어</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스카이에듀 폐업, 그리고 사교육 이야기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/vKtqRj</id>
-        <link href="https://alook.so/posts/vKtqRj"/>
-        <updated>2021-12-29T16:16:07.024Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqRj">스카이에듀 폐업, 그리고 사교육 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노인을 위한 나라 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/KmtWkP</id>
-        <link href="https://alook.so/posts/KmtWkP"/>
-        <updated>2021-12-29T14:10:12.563Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWkP">노인을 위한 나라</a>]]></content>
+        <title type="html"><![CDATA[가장 어려운 인간관계 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtEOb</id>
+        <link href="https://alook.so/posts/bWtEOb"/>
+        <updated>2021-12-29T12:17:41.534Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEOb">가장 어려운 인간관계</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -96,60 +131,46 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjBL">전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[1가구 1주택 시대? 누구 방이 가장 많이 늘었을까요?(feat. 가구방지수) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/92tk7z</id>
+        <link href="https://alook.so/posts/92tk7z"/>
+        <updated>2021-12-30T04:14:21.843Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk7z">1가구 1주택 시대? 누구 방이 가장 많이 늘었을까요?(feat. 가구방지수)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아무거나 쓰기, 저출생 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/a0t09o</id>
+        <link href="https://alook.so/posts/a0t09o"/>
+        <updated>2021-12-30T04:14:21.846Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t09o">아무거나 쓰기, 저출생</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 웹툰에 연재하고 있는 재혼황후요! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/dztlXp</id>
+        <link href="https://alook.so/posts/dztlXp"/>
+        <updated>2021-12-30T04:14:21.847Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlXp">네이버 웹툰에 연재하고 있는 재혼황후요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오랜만에 들어오는 alookso (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0ktenK</id>
+        <link href="https://alook.so/posts/0ktenK"/>
+        <updated>2021-12-30T04:14:21.849Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktenK">오랜만에 들어오는 alookso</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상 떠난 아이의 번호로 온 스미싱 문자. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/o7tEll</id>
+        <link href="https://alook.so/posts/o7tEll"/>
+        <updated>2021-12-30T04:14:21.852Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEll">세상 떠난 아이의 번호로 온 스미싱 문자. </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[저도 아직까지 그 해답을 찾고 있습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/54tE4r</id>
         <link href="https://alook.so/posts/54tE4r"/>
         <updated>2021-12-29T14:10:12.566Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE4r">저도 아직까지 그 해답을 찾고 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걱정한다고, 생각해서 하는 말인데 그래서 더 하기 싫은 건지도 모르겠습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/q1tWl3</id>
-        <link href="https://alook.so/posts/q1tWl3"/>
-        <updated>2021-12-29T14:10:12.569Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWl3">걱정한다고, 생각해서 하는 말인데 그래서 더 하기 싫은 건지도 모르겠습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세대간의 이해가 필요한 시점입니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt4lq</id>
-        <link href="https://alook.so/posts/Djt4lq"/>
-        <updated>2021-12-29T23:11:08.930Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4lq">세대간의 이해가 필요한 시점입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/1RtzMM</id>
-        <link href="https://alook.so/posts/1RtzMM"/>
-        <updated>2021-12-30T02:34:13.219Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzMM">돈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[투자는 희망이다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tE0l</id>
-        <link href="https://alook.so/posts/o7tE0l"/>
-        <updated>2021-12-29T22:11:35.825Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE0l">투자는 희망이다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 한가족? 본인이 필요할 때만? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/YytLD0</id>
-        <link href="https://alook.so/posts/YytLD0"/>
-        <updated>2021-12-30T02:34:13.227Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLD0">우리는 한가족? 본인이 필요할 때만?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무엇이 잘 사는 길일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/jdtE31</id>
-        <link href="https://alook.so/posts/jdtE31"/>
-        <updated>2021-12-29T12:17:41.531Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtE31">무엇이 잘 사는 길일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 어려운 인간관계 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtEOb</id>
-        <link href="https://alook.so/posts/bWtEOb"/>
-        <updated>2021-12-29T12:17:41.534Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEOb">가장 어려운 인간관계</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
