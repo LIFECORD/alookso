@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-30T00:39:06.206Z</updated>
+    <updated>2021-12-30T02:00:17.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -20,6 +20,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq9l">교육이 아이들에게 절망을 가르쳤어</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[영화 <너에게 가는 길> - 존재 자체에 대한 인정과 사랑]]></title>
+        <id>https://alook.so/posts/ZktPOv</id>
+        <link href="https://alook.so/posts/ZktPOv"/>
+        <updated>2021-12-30T01:58:41.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPOv">영화 &lt;너에게 가는 길&gt; - 존재 자체에 대한 인정과 사랑</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[사회적 나이(Social Age)로 세대론을 바라보기]]></title>
         <id>https://alook.so/posts/potmLG</id>
         <link href="https://alook.so/posts/potmLG"/>
@@ -32,6 +39,13 @@
         <link href="https://alook.so/posts/jdtE31"/>
         <updated>2021-12-29T13:20:05.797Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtE31">무엇이 잘 사는 길일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스카이에듀 폐업, 그리고 사교육 이야기]]></title>
+        <id>https://alook.so/posts/vKtqRj</id>
+        <link href="https://alook.so/posts/vKtqRj"/>
+        <updated>2021-12-30T00:37:27.374Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqRj">스카이에듀 폐업, 그리고 사교육 이야기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가]]></title>
@@ -48,13 +62,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEOb">가장 어려운 인간관계</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스카이에듀 폐업, 그리고 사교육 이야기]]></title>
-        <id>https://alook.so/posts/vKtqRj</id>
-        <link href="https://alook.so/posts/vKtqRj"/>
-        <updated>2021-12-30T00:37:27.374Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqRj">스카이에듀 폐업, 그리고 사교육 이야기</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[아무거나 쓰기, 저출생]]></title>
         <id>https://alook.so/posts/a0t09o</id>
         <link href="https://alook.so/posts/a0t09o"/>
@@ -69,11 +76,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktenK">오랜만에 들어오는 alookso</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1가구 1주택 시대? 가구별 방 개수 얼마나 늘었을까요?]]></title>
+        <title type="html"><![CDATA[1가구 1주택 시대? 누구 방이 가장 많이 늘었을까요?(feat. 가구방지수)]]></title>
         <id>https://alook.so/posts/92tk7z</id>
         <link href="https://alook.so/posts/92tk7z"/>
         <updated>2021-12-30T00:37:27.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk7z">1가구 1주택 시대? 가구별 방 개수 얼마나 늘었을까요?</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk7z">1가구 1주택 시대? 누구 방이 가장 많이 늘었을까요?(feat. 가구방지수)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세상 떠난 아이의 번호로 온 스미싱 문자.]]></title>

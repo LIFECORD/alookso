@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-30T00:39:06.200Z</updated>
+    <updated>2021-12-30T02:00:17.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 생각하는 대로 살지 않으면]]></title>
+        <id>https://alook.so/posts/3wtOk3</id>
+        <link href="https://alook.so/posts/3wtOk3"/>
+        <updated>2021-12-30T01:58:31.997Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOk3">[늦은 아침 생각] 생각하는 대로 살지 않으면</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산유화]]></title>
         <id>https://alook.so/posts/8Wtj7j</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/54tE4r"/>
         <updated>2021-12-29T14:10:12.566Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE4r">저도 아직까지 그 해답을 찾고 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걱정한다고, 생각해서 하는 말인데 그래서 더 하기 싫은 건지도 모르겠습니다.]]></title>
-        <id>https://alook.so/posts/q1tWl3</id>
-        <link href="https://alook.so/posts/q1tWl3"/>
-        <updated>2021-12-29T14:10:12.569Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWl3">걱정한다고, 생각해서 하는 말인데 그래서 더 하기 싫은 건지도 모르겠습니다.</a>]]></content>
     </entry>
 </feed>
