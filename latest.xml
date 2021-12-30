@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-30T02:00:17.981Z</updated>
+    <updated>2021-12-30T02:35:38.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(1) 브로맨스 북클럽 _독서 후기 ( ★★★★)]]></title>
+        <id>https://alook.so/posts/6Mt9OK</id>
+        <link href="https://alook.so/posts/6Mt9OK"/>
+        <updated>2021-12-30T02:34:04.419Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9OK">(1) 브로맨스 북클럽 _독서 후기 ( ★★★★)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 생각하는 대로 살지 않으면]]></title>
         <id>https://alook.so/posts/3wtOk3</id>
@@ -46,19 +53,5 @@
         <link href="https://alook.so/posts/KmtWkP"/>
         <updated>2021-12-29T14:10:12.563Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWkP">노인을 위한 나라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가]]></title>
-        <id>https://alook.so/posts/mbtjBL</id>
-        <link href="https://alook.so/posts/mbtjBL"/>
-        <updated>2021-12-29T14:10:12.564Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjBL">전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저도 아직까지 그 해답을 찾고 있습니다.]]></title>
-        <id>https://alook.so/posts/54tE4r</id>
-        <link href="https://alook.so/posts/54tE4r"/>
-        <updated>2021-12-29T14:10:12.566Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE4r">저도 아직까지 그 해답을 찾고 있습니다.</a>]]></content>
     </entry>
 </feed>
