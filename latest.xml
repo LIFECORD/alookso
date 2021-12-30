@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-30T08:15:30.620Z</updated>
+    <updated>2021-12-30T09:12:39.320Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사계절을 한마디로 표현해 주세요.]]></title>
+        <id>https://alook.so/posts/zvtqZz</id>
+        <link href="https://alook.so/posts/zvtqZz"/>
+        <updated>2021-12-30T09:11:01.496Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqZz">사계절을 한마디로 표현해 주세요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투자, 인생의 히노애락이 담겨있는 곳.]]></title>
+        <id>https://alook.so/posts/2xt9M6</id>
+        <link href="https://alook.so/posts/2xt9M6"/>
+        <updated>2021-12-30T09:11:01.496Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9M6">투자, 인생의 히노애락이 담겨있는 곳.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군인의 대우는 월급에서 나온다.]]></title>
+        <id>https://alook.so/posts/WLtYJb</id>
+        <link href="https://alook.so/posts/WLtYJb"/>
+        <updated>2021-12-30T09:11:01.496Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYJb">군인의 대우는 월급에서 나온다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['시크릿' 10여년만에 꺼내다]]></title>
+        <id>https://alook.so/posts/0ktemo</id>
+        <link href="https://alook.so/posts/0ktemo"/>
+        <updated>2021-12-30T09:11:01.496Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktemo">'시크릿' 10여년만에 꺼내다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[빚을 해결하고 언제쯤 경제적으로 여유가 생길가요?]]></title>
         <id>https://alook.so/posts/M9tX8v</id>
@@ -34,24 +62,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1J9">격어 봤니? 같은 성별끼리 결혼?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[산타가 실재하는 세상]]></title>
+        <title type="html"><![CDATA[이 시대의 산타는 누구일까요?]]></title>
         <id>https://alook.so/posts/RGtxq3</id>
         <link href="https://alook.so/posts/RGtxq3"/>
         <updated>2021-12-30T07:11:26.367Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxq3">산타가 실재하는 세상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이러니하게도 열심히 노력하면...]]></title>
-        <id>https://alook.so/posts/kZtmLo</id>
-        <link href="https://alook.so/posts/kZtmLo"/>
-        <updated>2021-12-30T06:13:23.647Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmLo">아이러니하게도 열심히 노력하면...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이유라는 아티스트]]></title>
-        <id>https://alook.so/posts/BatMqx</id>
-        <link href="https://alook.so/posts/BatMqx"/>
-        <updated>2021-12-30T04:14:13.335Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMqx">아이유라는 아티스트</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxq3">이 시대의 산타는 누구일까요?</a>]]></content>
     </entry>
 </feed>
