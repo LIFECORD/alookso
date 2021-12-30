@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-30T04:15:57.673Z</updated>
+    <updated>2021-12-30T05:13:40.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[아이유라는 아티스트 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -61,18 +61,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq9l">교육이 아이들에게 절망을 가르쳤어</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영화 <너에게 가는 길> - 존재 자체에 대한 인정과 사랑 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/ZktPOv</id>
-        <link href="https://alook.so/posts/ZktPOv"/>
-        <updated>2021-12-30T04:14:21.827Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPOv">영화 &lt;너에게 가는 길&gt; - 존재 자체에 대한 인정과 사랑</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[alookso 게시글 외부 플랫폼 가이드라인 문의 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/eVtERW</id>
         <link href="https://alook.so/posts/eVtERW"/>
         <updated>2021-12-30T04:14:21.827Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtERW">alookso 게시글 외부 플랫폼 가이드라인 문의</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영화 <너에게 가는 길> - 존재 자체에 대한 인정과 사랑 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/ZktPOv</id>
+        <link href="https://alook.so/posts/ZktPOv"/>
+        <updated>2021-12-30T04:14:21.827Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPOv">영화 &lt;너에게 가는 길&gt; - 존재 자체에 대한 인정과 사랑</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무엇이 잘 사는 길일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -99,8 +99,15 @@
         <title type="html"><![CDATA[아이유라는 아티스트 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/BatMqx</id>
         <link href="https://alook.so/posts/BatMqx"/>
-        <updated>2021-12-30T04:14:21.834Z</updated>
+        <updated>2021-12-30T04:14:13.335Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMqx">아이유라는 아티스트</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가장 어려운 인간관계 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtEOb</id>
+        <link href="https://alook.so/posts/bWtEOb"/>
+        <updated>2021-12-29T12:17:41.534Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEOb">가장 어려운 인간관계</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(1) 브로맨스 북클럽 _독서 후기 ( ★★★★) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -115,13 +122,6 @@
         <link href="https://alook.so/posts/3wtOk3"/>
         <updated>2021-12-30T01:58:31.997Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOk3">[늦은 아침 생각] 생각하는 대로 살지 않으면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 어려운 인간관계 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtEOb</id>
-        <link href="https://alook.so/posts/bWtEOb"/>
-        <updated>2021-12-29T12:17:41.534Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEOb">가장 어려운 인간관계</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전문성을 살릴 것인가 VS 다양한 일을 해 볼 것인가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
