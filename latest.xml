@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-31T07:12:47.523Z</updated>
+    <updated>2021-12-31T08:15:22.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대학 졸업장, 그만한 가치를 만들어보신 비법은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/3wtOoj</id>
+        <link href="https://alook.so/posts/3wtOoj"/>
+        <updated>2021-12-31T08:13:40.573Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOoj">대학 졸업장, 그만한 가치를 만들어보신 비법은 무엇인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조금 아니면 많이 다른, 주택 시장에 대한 '역시' 근거없는 생각들]]></title>
+        <id>https://alook.so/posts/8Wtj1M</id>
+        <link href="https://alook.so/posts/8Wtj1M"/>
+        <updated>2021-12-31T08:13:40.574Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj1M">조금 아니면 많이 다른, 주택 시장에 대한 '역시' 근거없는 생각들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주 5일제에서 주 4일제로 변화 가능성]]></title>
         <id>https://alook.so/posts/G1tqyZ</id>
@@ -46,19 +60,5 @@
         <link href="https://alook.so/posts/mbtjPK"/>
         <updated>2021-12-31T02:41:53.358Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjPK">주 4일제 멀지 않았습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 삼성전자 주식을 아이를 위해 사주었습니다.]]></title>
-        <id>https://alook.so/posts/54tEzb</id>
-        <link href="https://alook.so/posts/54tEzb"/>
-        <updated>2021-12-31T02:41:53.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEzb">저는 삼성전자 주식을 아이를 위해 사주었습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(2) 가재가 노래하는 곳 _ 독서 후기(★★★★)]]></title>
-        <id>https://alook.so/posts/q1tWr6</id>
-        <link href="https://alook.so/posts/q1tWr6"/>
-        <updated>2021-12-31T02:41:53.361Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWr6">(2) 가재가 노래하는 곳 _ 독서 후기(★★★★)</a>]]></content>
     </entry>
 </feed>
