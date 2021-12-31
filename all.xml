@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-31T13:20:50.509Z</updated>
+    <updated>2021-12-31T14:12:09.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2021년 한 해를 보내면서. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/M9tX0L</id>
+        <link href="https://alook.so/posts/M9tX0L"/>
+        <updated>2021-12-31T14:10:26.019Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX0L">2021년 한 해를 보내면서.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그냥 평범한하루같아요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/4Xt4mP</id>
@@ -52,13 +59,6 @@
         <link href="https://alook.so/posts/LKtWKX"/>
         <updated>2021-12-31T10:12:09.298Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWKX">나의아저씨는 반칙입니다 ...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 마지막날, 새로운 한해 바라는점? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/njtVoE</id>
-        <link href="https://alook.so/posts/njtVoE"/>
-        <updated>2021-12-31T09:11:40.442Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVoE">2021년 마지막날, 새로운 한해 바라는점?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국의 10대가 불행한 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
