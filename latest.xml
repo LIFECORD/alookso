@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-31T05:13:35.522Z</updated>
+    <updated>2021-12-31T06:14:46.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주 5일제에서 주 4일제로 변화 가능성]]></title>
+        <id>https://alook.so/posts/G1tqyZ</id>
+        <link href="https://alook.so/posts/G1tqyZ"/>
+        <updated>2021-12-31T06:13:06.515Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqyZ">주 5일제에서 주 4일제로 변화 가능성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 괴생명체 들어보셨나요?]]></title>
+        <id>https://alook.so/posts/OEtKeZ</id>
+        <link href="https://alook.so/posts/OEtKeZ"/>
+        <updated>2021-12-31T06:13:06.518Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKeZ">백신 괴생명체 들어보셨나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[진보진영의 후보 단일화와 대선 공동대응]]></title>
         <id>https://alook.so/posts/vKtqWY</id>
@@ -46,19 +60,5 @@
         <link href="https://alook.so/posts/q1tWr6"/>
         <updated>2021-12-31T02:41:53.361Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWr6">(2) 가재가 노래하는 곳 _ 독서 후기(★★★★)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어쩌다보니 사회복지사]]></title>
-        <id>https://alook.so/posts/Djt4qb</id>
-        <link href="https://alook.so/posts/Djt4qb"/>
-        <updated>2021-12-31T02:01:02.043Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4qb">어쩌다보니 사회복지사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[갑질과 기득권의 상관 관계]]></title>
-        <id>https://alook.so/posts/1RtzO3</id>
-        <link href="https://alook.so/posts/1RtzO3"/>
-        <updated>2021-12-31T02:01:02.045Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzO3">갑질과 기득권의 상관 관계</a>]]></content>
     </entry>
 </feed>
