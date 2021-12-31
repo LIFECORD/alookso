@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-31T11:11:17.889Z</updated>
+    <updated>2021-12-31T12:18:39.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국의 10대가 불행한 이유]]></title>
+        <id>https://alook.so/posts/xlt1np</id>
+        <link href="https://alook.so/posts/xlt1np"/>
+        <updated>2021-12-31T12:17:00.283Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1np">한국의 10대가 불행한 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새해 복 많이 받으세요~^^]]></title>
+        <id>https://alook.so/posts/yEtbao</id>
+        <link href="https://alook.so/posts/yEtbao"/>
+        <updated>2021-12-31T12:17:00.285Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbao">새해 복 많이 받으세요~^^</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 마지막 날의 마지막 밤]]></title>
+        <id>https://alook.so/posts/BatMk3</id>
+        <link href="https://alook.so/posts/BatMk3"/>
+        <updated>2021-12-31T12:17:00.286Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMk3">2021년 마지막 날의 마지막 밤</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의아저씨는 반칙입니다 ...]]></title>
         <id>https://alook.so/posts/LKtWKX</id>
@@ -32,40 +53,5 @@
         <link href="https://alook.so/posts/8Wtj1M"/>
         <updated>2021-12-31T08:13:40.574Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj1M">조금 아니면 많이 다른, 주택 시장에 대한 '역시' 근거없는 생각들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주 5일제에서 주 4일제로 변화 가능성]]></title>
-        <id>https://alook.so/posts/G1tqyZ</id>
-        <link href="https://alook.so/posts/G1tqyZ"/>
-        <updated>2021-12-31T06:13:06.515Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqyZ">주 5일제에서 주 4일제로 변화 가능성</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 괴생명체 들어보셨나요?]]></title>
-        <id>https://alook.so/posts/OEtKeZ</id>
-        <link href="https://alook.so/posts/OEtKeZ"/>
-        <updated>2021-12-31T06:13:06.518Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKeZ">백신 괴생명체 들어보셨나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진보진영의 후보 단일화와 대선 공동대응]]></title>
-        <id>https://alook.so/posts/vKtqWY</id>
-        <link href="https://alook.so/posts/vKtqWY"/>
-        <updated>2021-12-31T05:12:00.334Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqWY">진보진영의 후보 단일화와 대선 공동대응 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국사회는 산나 마린이 등장할 수 있을까]]></title>
-        <id>https://alook.so/posts/E7tXYn</id>
-        <link href="https://alook.so/posts/E7tXYn"/>
-        <updated>2021-12-31T05:12:00.336Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXYn">한국사회는 산나 마린이 등장할 수 있을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다사다난했던 2021년을 보내고 , 희망가득한 2022년이 되기를..]]></title>
-        <id>https://alook.so/posts/latolm</id>
-        <link href="https://alook.so/posts/latolm"/>
-        <updated>2021-12-31T04:14:11.467Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latolm">다사다난했던 2021년을 보내고 , 희망가득한 2022년이 되기를..</a>]]></content>
     </entry>
 </feed>
