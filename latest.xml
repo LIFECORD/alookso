@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-31T08:15:22.594Z</updated>
+    <updated>2021-12-31T09:13:13.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년 마지막날, 새로운 한해 바라는점?]]></title>
+        <id>https://alook.so/posts/njtVoE</id>
+        <link href="https://alook.so/posts/njtVoE"/>
+        <updated>2021-12-31T09:11:40.442Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVoE">2021년 마지막날, 새로운 한해 바라는점?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학 졸업장, 그만한 가치를 만들어보신 비법은 무엇인가요?]]></title>
         <id>https://alook.so/posts/3wtOoj</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/latolm"/>
         <updated>2021-12-31T04:14:11.467Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latolm">다사다난했던 2021년을 보내고 , 희망가득한 2022년이 되기를..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주 4일제 멀지 않았습니다.]]></title>
-        <id>https://alook.so/posts/mbtjPK</id>
-        <link href="https://alook.so/posts/mbtjPK"/>
-        <updated>2021-12-31T02:41:53.358Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjPK">주 4일제 멀지 않았습니다.</a>]]></content>
     </entry>
 </feed>

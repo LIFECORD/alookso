@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-31T08:15:22.607Z</updated>
+    <updated>2021-12-31T09:13:13.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2021년 마지막날, 새로운 한해 바라는점? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/njtVoE</id>
+        <link href="https://alook.so/posts/njtVoE"/>
+        <updated>2021-12-31T09:11:40.442Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVoE">2021년 마지막날, 새로운 한해 바라는점?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대학 졸업장, 그만한 가치를 만들어보신 비법은 무엇인가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/3wtOoj</id>
@@ -54,11 +61,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latolm">다사다난했던 2021년을 보내고 , 희망가득한 2022년이 되기를..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주 4일제 멀지 않았습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/mbtjPK</id>
-        <link href="https://alook.so/posts/mbtjPK"/>
-        <updated>2021-12-31T02:41:53.358Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjPK">주 4일제 멀지 않았습니다.</a>]]></content>
+        <title type="html"><![CDATA[조금 아니면 많이 다른, 주택 시장에 대한 '역시' 근거없는 생각들 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/8Wtj1M</id>
+        <link href="https://alook.so/posts/8Wtj1M"/>
+        <updated>2021-12-31T08:13:40.574Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj1M">조금 아니면 많이 다른, 주택 시장에 대한 '역시' 근거없는 생각들</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국사회는 산나 마린이 등장할 수 있을까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -157,20 +164,6 @@
         <link href="https://alook.so/posts/1RtzOM"/>
         <updated>2021-12-31T08:13:49.249Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzOM">가족이란,</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고민의 의미 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tEml</id>
-        <link href="https://alook.so/posts/o7tEml"/>
-        <updated>2021-12-31T08:13:49.249Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEml">고민의 의미</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플라잉 택시 ... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/YytL90</id>
-        <link href="https://alook.so/posts/YytL90"/>
-        <updated>2021-12-30T14:10:26.417Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL90">플라잉 택시 ...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
