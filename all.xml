@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-12-31T12:18:39.868Z</updated>
+    <updated>2021-12-31T13:20:50.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[그냥 평범한하루같아요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/4Xt4mP</id>
+        <link href="https://alook.so/posts/4Xt4mP"/>
+        <updated>2021-12-31T13:19:11.017Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4mP">그냥 평범한하루같아요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[시 일기]_ 쌀 씻기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/XBtbG2</id>
+        <link href="https://alook.so/posts/XBtbG2"/>
+        <updated>2021-12-31T13:19:11.019Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbG2">[시 일기]_ 쌀 씻기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기후위기에 대한 한 공대생의 생각 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/w9tEbW</id>
+        <link href="https://alook.so/posts/w9tEbW"/>
+        <updated>2021-12-31T13:19:11.019Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEbW">기후위기에 대한 한 공대생의 생각</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국의 10대가 불행한 이유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/xlt1np</id>
@@ -40,38 +61,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVoE">2021년 마지막날, 새로운 한해 바라는점?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학 졸업장, 그만한 가치를 만들어보신 비법은 무엇인가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/3wtOoj</id>
-        <link href="https://alook.so/posts/3wtOoj"/>
-        <updated>2021-12-31T08:13:40.573Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOoj">대학 졸업장, 그만한 가치를 만들어보신 비법은 무엇인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조금 아니면 많이 다른, 주택 시장에 대한 '역시' 근거없는 생각들 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/8Wtj1M</id>
-        <link href="https://alook.so/posts/8Wtj1M"/>
-        <updated>2021-12-31T08:13:40.574Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj1M">조금 아니면 많이 다른, 주택 시장에 대한 '역시' 근거없는 생각들</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[한국의 10대가 불행한 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/xlt1np</id>
         <link href="https://alook.so/posts/xlt1np"/>
-        <updated>2021-12-31T12:17:08.122Z</updated>
+        <updated>2021-12-31T12:17:00.283Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1np">한국의 10대가 불행한 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새해 복 많이 받으세요~^^ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/yEtbao</id>
         <link href="https://alook.so/posts/yEtbao"/>
-        <updated>2021-12-31T12:17:08.122Z</updated>
+        <updated>2021-12-31T12:17:00.285Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbao">새해 복 많이 받으세요~^^</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2021년 마지막 날의 마지막 밤 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/BatMk3</id>
         <link href="https://alook.so/posts/BatMk3"/>
-        <updated>2021-12-31T12:17:08.123Z</updated>
+        <updated>2021-12-31T12:17:00.286Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMk3">2021년 마지막 날의 마지막 밤</a>]]></content>
     </entry>
     <entry>
