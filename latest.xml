@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2021-12-31T03:14:43.311Z</updated>
+    <updated>2021-12-31T04:15:51.823Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다사다난했던 2021년을 보내고 , 희망가득한 2022년이 되기를..]]></title>
+        <id>https://alook.so/posts/latolm</id>
+        <link href="https://alook.so/posts/latolm"/>
+        <updated>2021-12-31T04:14:11.467Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latolm">다사다난했던 2021년을 보내고 , 희망가득한 2022년이 되기를..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주 4일제 멀지 않았습니다.]]></title>
         <id>https://alook.so/posts/mbtjPK</id>
@@ -46,12 +53,5 @@
         <link href="https://alook.so/posts/70tYDM"/>
         <updated>2021-12-31T02:01:02.046Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYDM">[늦은 아침 생각] 행복의 공식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅데이터!]]></title>
-        <id>https://alook.so/posts/rDt08z</id>
-        <link href="https://alook.so/posts/rDt08z"/>
-        <updated>2021-12-30T23:11:31.396Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt08z">빅데이터!</a>]]></content>
     </entry>
 </feed>

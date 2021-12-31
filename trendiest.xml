@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-31T03:14:43.293Z</updated>
+    <updated>2021-12-31T04:15:51.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -102,19 +102,5 @@
         <link href="https://alook.so/posts/ZktPbv"/>
         <updated>2021-12-30T14:10:34.623Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPbv">연말의 아쉬운 느낌</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[남들만 결혼시키기]]></title>
-        <id>https://alook.so/posts/J5tVy6</id>
-        <link href="https://alook.so/posts/J5tVy6"/>
-        <updated>2021-12-30T15:11:29.310Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVy6">남들만 결혼시키기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천 흉기난동 부실대응 한 달 후: 그래, 문제는 여경이 아니었어]]></title>
-        <id>https://alook.so/posts/potmbG</id>
-        <link href="https://alook.so/posts/potmbG"/>
-        <updated>2021-12-31T03:13:00.894Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmbG">인천 흉기난동 부실대응 한 달 후: 그래, 문제는 여경이 아니었어</a>]]></content>
     </entry>
 </feed>
