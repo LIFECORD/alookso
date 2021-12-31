@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-31T15:13:26.179Z</updated>
+    <updated>2021-12-31T16:19:22.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -118,10 +118,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMqx">아이유라는 아티스트</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스카이에듀 폐업, 그리고 사교육 이야기]]></title>
-        <id>https://alook.so/posts/vKtqRj</id>
-        <link href="https://alook.so/posts/vKtqRj"/>
-        <updated>2021-12-31T15:11:52.787Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqRj">스카이에듀 폐업, 그리고 사교육 이야기</a>]]></content>
+        <title type="html"><![CDATA[내년은 내일]]></title>
+        <id>https://alook.so/posts/Pvtp2e</id>
+        <link href="https://alook.so/posts/Pvtp2e"/>
+        <updated>2021-12-31T16:16:54.814Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtp2e">내년은 내일</a>]]></content>
     </entry>
 </feed>
