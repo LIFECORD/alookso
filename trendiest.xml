@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-31T04:15:51.809Z</updated>
+    <updated>2021-12-31T05:13:35.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국사회는 산나 마린이 등장할 수 있을까]]></title>
+        <id>https://alook.so/posts/E7tXYn</id>
+        <link href="https://alook.so/posts/E7tXYn"/>
+        <updated>2021-12-31T05:12:08.112Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXYn">한국사회는 산나 마린이 등장할 수 있을까</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주 4일제 멀지 않았습니다.]]></title>
         <id>https://alook.so/posts/mbtjPK</id>
