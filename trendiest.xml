@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2021-12-31T09:13:13.059Z</updated>
+    <updated>2021-12-31T10:13:56.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년 마지막날, 새로운 한해 바라는점?]]></title>
+        <id>https://alook.so/posts/njtVoE</id>
+        <link href="https://alook.so/posts/njtVoE"/>
+        <updated>2021-12-31T10:12:18.557Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVoE">2021년 마지막날, 새로운 한해 바라는점?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학 졸업장, 그만한 가치를 만들어보신 비법은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/3wtOoj</id>
+        <link href="https://alook.so/posts/3wtOoj"/>
+        <updated>2021-12-31T10:12:18.558Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOoj">대학 졸업장, 그만한 가치를 만들어보신 비법은 무엇인가요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조금 아니면 많이 다른, 주택 시장에 대한 '역시' 근거없는 생각들]]></title>
         <id>https://alook.so/posts/8Wtj1M</id>
         <link href="https://alook.so/posts/8Wtj1M"/>
         <updated>2021-12-31T09:11:48.429Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj1M">조금 아니면 많이 다른, 주택 시장에 대한 '역시' 근거없는 생각들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주 5일제에서 주 4일제로 변화 가능성]]></title>
+        <id>https://alook.so/posts/G1tqyZ</id>
+        <link href="https://alook.so/posts/G1tqyZ"/>
+        <updated>2021-12-31T10:12:18.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqyZ">주 5일제에서 주 4일제로 변화 가능성</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 괴생명체 들어보셨나요?]]></title>
+        <id>https://alook.so/posts/OEtKeZ</id>
+        <link href="https://alook.so/posts/OEtKeZ"/>
+        <updated>2021-12-31T10:12:18.560Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKeZ">백신 괴생명체 들어보셨나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국사회는 산나 마린이 등장할 수 있을까]]></title>
@@ -81,33 +109,5 @@
         <link href="https://alook.so/posts/92tkJZ"/>
         <updated>2021-12-31T08:13:49.244Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkJZ">성공에 관한 이야기 (실화)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[누군가  도와주길 바란다면 먼저 해야 될것은]]></title>
-        <id>https://alook.so/posts/KmtWXP</id>
-        <link href="https://alook.so/posts/KmtWXP"/>
-        <updated>2021-12-31T08:13:49.245Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWXP">누군가  도와주길 바란다면 먼저 해야 될것은</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 가까이에서 오랫동안 보아왔기에 쉽게 착각한다]]></title>
-        <id>https://alook.so/posts/mbtjPL</id>
-        <link href="https://alook.so/posts/mbtjPL"/>
-        <updated>2021-12-31T08:13:49.249Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjPL">가장 가까이에서 오랫동안 보아왔기에 쉽게 착각한다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 왜 대선토론을 보고 싶어하는가?]]></title>
-        <id>https://alook.so/posts/q1tWr3</id>
-        <link href="https://alook.so/posts/q1tWr3"/>
-        <updated>2021-12-30T16:16:04.798Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWr3">우리는 왜 대선토론을 보고 싶어하는가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이란,]]></title>
-        <id>https://alook.so/posts/1RtzOM</id>
-        <link href="https://alook.so/posts/1RtzOM"/>
-        <updated>2021-12-31T08:13:49.249Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzOM">가족이란,</a>]]></content>
     </entry>
 </feed>
