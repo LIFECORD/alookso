@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-01T16:17:46.554Z</updated>
+    <updated>2022-01-01T17:20:28.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[과연 받을수 있을까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -59,6 +59,13 @@
         <link href="https://alook.so/posts/RGtx27"/>
         <updated>2022-01-01T13:18:24.462Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx27">뒤늦게 꽂힌 재테크</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학생이 얘기하는 학생이야기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtOaj</id>
+        <link href="https://alook.so/posts/3wtOaj"/>
+        <updated>2022-01-01T17:18:58.910Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOaj">학생이 얘기하는 학생이야기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[12월 31일에 받았던 느낌 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -129,13 +136,6 @@
         <link href="https://alook.so/posts/potmJJ"/>
         <updated>2021-12-31T16:16:46.908Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmJJ">임인년 새해 복많이 받으세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년은 내일 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Pvtp2e</id>
-        <link href="https://alook.so/posts/Pvtp2e"/>
-        <updated>2021-12-31T16:16:46.909Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtp2e">내년은 내일</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
