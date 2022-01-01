@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-01T03:15:24.497Z</updated>
+    <updated>2022-01-01T04:15:39.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[내 커리어를 쌓자니 가족이 마음에 걸린다.]]></title>
+        <id>https://alook.so/posts/70tY1M</id>
+        <link href="https://alook.so/posts/70tY1M"/>
+        <updated>2022-01-01T04:14:04.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY1M">내 커리어를 쌓자니 가족이 마음에 걸린다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(새해 맞이 퀴즈 아닌 퀴즈) 누구의 손을 들어 주시렵니까?]]></title>
+        <id>https://alook.so/posts/rDt05z</id>
+        <link href="https://alook.so/posts/rDt05z"/>
+        <updated>2022-01-01T04:14:04.983Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt05z">(새해 맞이 퀴즈 아닌 퀴즈) 누구의 손을 들어 주시렵니까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국의 10대가 직접 말하는 한국의 10대가 불행한 이유]]></title>
         <id>https://alook.so/posts/bWtE1l</id>
@@ -32,26 +46,5 @@
         <link href="https://alook.so/posts/potmJJ"/>
         <updated>2021-12-31T16:16:46.908Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmJJ">임인년 새해 복많이 받으세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내년은 내일]]></title>
-        <id>https://alook.so/posts/Pvtp2e</id>
-        <link href="https://alook.so/posts/Pvtp2e"/>
-        <updated>2021-12-31T16:16:46.909Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtp2e">내년은 내일</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곰곰히 생각해봤는데 우리 사회의 약자는,]]></title>
-        <id>https://alook.so/posts/Vnta5O</id>
-        <link href="https://alook.so/posts/Vnta5O"/>
-        <updated>2021-12-31T15:11:44.597Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta5O">곰곰히 생각해봤는데 우리 사회의 약자는,</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 주택시장에 관한 근거없는 생각들-에 대한 꼬리를 무는 생각들]]></title>
-        <id>https://alook.so/posts/zvtqVJ</id>
-        <link href="https://alook.so/posts/zvtqVJ"/>
-        <updated>2021-12-31T15:11:44.597Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqVJ">답글: 주택시장에 관한 근거없는 생각들-에 대한 꼬리를 무는 생각들 </a>]]></content>
     </entry>
 </feed>
