@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-01T05:12:53.440Z</updated>
+    <updated>2022-01-01T06:15:07.259Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXYn">한국사회는 산나 마린이 등장할 수 있을까</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한국의 10대가 직접 말하는 한국의 10대가 불행한 이유]]></title>
+        <id>https://alook.so/posts/bWtE1l</id>
+        <link href="https://alook.so/posts/bWtE1l"/>
+        <updated>2022-01-01T06:13:33.290Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtE1l">한국의 10대가 직접 말하는 한국의 10대가 불행한 이유</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우리는 왜 대선토론을 보고 싶어하는가?]]></title>
         <id>https://alook.so/posts/q1tWr3</id>
         <link href="https://alook.so/posts/q1tWr3"/>
@@ -123,12 +130,5 @@
         <link href="https://alook.so/posts/vKtqWY"/>
         <updated>2022-01-01T04:14:12.219Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqWY">진보진영의 후보 단일화와 대선 공동대응 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 커리어를 쌓자니 가족이 마음에 걸린다.]]></title>
-        <id>https://alook.so/posts/70tY1M</id>
-        <link href="https://alook.so/posts/70tY1M"/>
-        <updated>2022-01-01T04:14:12.219Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY1M">내 커리어를 쌓자니 가족이 마음에 걸린다.</a>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-01T05:12:53.454Z</updated>
+    <updated>2022-01-01T06:15:07.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[차별금지법과 국민의힘 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -45,13 +45,6 @@
         <link href="https://alook.so/posts/ZktPYn"/>
         <updated>2022-01-01T00:38:42.093Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPYn">제주도에서 맞이한 일출</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[임인년 새해 복많이 받으세요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/potmJJ</id>
-        <link href="https://alook.so/posts/potmJJ"/>
-        <updated>2021-12-31T16:16:46.908Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmJJ">임인년 새해 복많이 받으세요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제주도에서 맞이한 일출 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -117,6 +110,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXYn">한국사회는 산나 마린이 등장할 수 있을까</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한국의 10대가 직접 말하는 한국의 10대가 불행한 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtE1l</id>
+        <link href="https://alook.so/posts/bWtE1l"/>
+        <updated>2022-01-01T03:13:35.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtE1l">한국의 10대가 직접 말하는 한국의 10대가 불행한 이유</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우리는 왜 대선토론을 보고 싶어하는가? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/q1tWr3</id>
         <link href="https://alook.so/posts/q1tWr3"/>
@@ -171,13 +171,6 @@
         <link href="https://alook.so/posts/vKtqWY"/>
         <updated>2022-01-01T04:14:12.219Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqWY">진보진영의 후보 단일화와 대선 공동대응 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 커리어를 쌓자니 가족이 마음에 걸린다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/70tY1M</id>
-        <link href="https://alook.so/posts/70tY1M"/>
-        <updated>2022-01-01T04:14:04.982Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY1M">내 커리어를 쌓자니 가족이 마음에 걸린다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
