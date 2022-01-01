@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-01T10:12:52.472Z</updated>
+    <updated>2022-01-01T11:10:44.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -69,6 +69,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta5O">곰곰히 생각해봤는데 우리 사회의 약자는,</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[새해는 위대한 발명품]]></title>
+        <id>https://alook.so/posts/KmtW20</id>
+        <link href="https://alook.so/posts/KmtW20"/>
+        <updated>2022-01-01T08:13:26.868Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtW20">새해는 위대한 발명품</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[차별금지법과 국민의힘]]></title>
         <id>https://alook.so/posts/o7tELE</id>
         <link href="https://alook.so/posts/o7tELE"/>
@@ -102,13 +109,6 @@
         <link href="https://alook.so/posts/G1tqyZ"/>
         <updated>2022-01-01T08:13:26.867Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqyZ">주 5일제에서 주 4일제로 변화 가능성</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해는 위대한 발명품]]></title>
-        <id>https://alook.so/posts/KmtW20</id>
-        <link href="https://alook.so/posts/KmtW20"/>
-        <updated>2022-01-01T08:13:26.868Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtW20">새해는 위대한 발명품</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민연금에대해 우리는 고민을 하고 있습니다.]]></title>
