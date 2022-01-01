@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-01T08:15:05.222Z</updated>
+    <updated>2022-01-01T09:12:30.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[다가갈 줄 모르는 나 자신.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -54,6 +54,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW36">집행해야합니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[늦은 아침 새해 인사] Be Crazy 2022! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/a0t0Eb</id>
+        <link href="https://alook.so/posts/a0t0Eb"/>
+        <updated>2022-01-01T02:02:19.645Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0Eb">[늦은 아침 새해 인사] Be Crazy 2022!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제주도에서 맞이한 일출 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/ZktPYn</id>
         <link href="https://alook.so/posts/ZktPYn"/>
@@ -66,13 +73,6 @@
         <link href="https://alook.so/posts/BatMk3"/>
         <updated>2022-01-01T08:13:26.846Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMk3">2021년 마지막 날의 마지막 밤</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 새해 인사] Be Crazy 2022! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/a0t0Eb</id>
-        <link href="https://alook.so/posts/a0t0Eb"/>
-        <updated>2022-01-01T02:02:19.645Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0Eb">[늦은 아침 새해 인사] Be Crazy 2022!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다사다난했던 2021년을 보내고 , 희망가득한 2022년이 되기를.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -103,6 +103,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmJJ">임인년 새해 복많이 받으세요.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[(새해 맞이 퀴즈 아닌 퀴즈) 누구의 손을 들어 주시렵니까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/rDt05z</id>
+        <link href="https://alook.so/posts/rDt05z"/>
+        <updated>2022-01-01T04:14:04.983Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt05z">(새해 맞이 퀴즈 아닌 퀴즈) 누구의 손을 들어 주시렵니까?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[곰곰히 생각해봤는데 우리 사회의 약자는, (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Vnta5O</id>
         <link href="https://alook.so/posts/Vnta5O"/>
@@ -115,13 +122,6 @@
         <link href="https://alook.so/posts/o7tELE"/>
         <updated>2022-01-01T05:11:16.217Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tELE">차별금지법과 국민의힘  </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(새해 맞이 퀴즈 아닌 퀴즈) 누구의 손을 들어 주시렵니까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/rDt05z</id>
-        <link href="https://alook.so/posts/rDt05z"/>
-        <updated>2022-01-01T04:14:04.983Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt05z">(새해 맞이 퀴즈 아닌 퀴즈) 누구의 손을 들어 주시렵니까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국사회는 산나 마린이 등장할 수 있을까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -155,14 +155,14 @@
         <title type="html"><![CDATA[새해는 위대한 발명품 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/KmtW20</id>
         <link href="https://alook.so/posts/KmtW20"/>
-        <updated>2022-01-01T08:13:26.868Z</updated>
+        <updated>2022-01-01T08:13:18.010Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtW20">새해는 위대한 발명품</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국민연금에대해 우리는 고민을 하고 있습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/mbtjOK</id>
         <link href="https://alook.so/posts/mbtjOK"/>
-        <updated>2022-01-01T08:13:26.869Z</updated>
+        <updated>2022-01-01T08:13:18.010Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjOK">국민연금에대해 우리는 고민을 하고 있습니다.</a>]]></content>
     </entry>
     <entry>
