@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-02T09:12:18.505Z</updated>
+    <updated>2022-01-02T10:13:05.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -46,12 +46,5 @@
         <link href="https://alook.so/posts/ZktPMn"/>
         <updated>2022-01-02T07:10:52.394Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPMn">사회문제 - 집단 따돌림에 대해서...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 직업은 돌봄전담사]]></title>
-        <id>https://alook.so/posts/J5tVMM</id>
-        <link href="https://alook.so/posts/J5tVMM"/>
-        <updated>2022-01-02T05:11:17.541Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVMM">내 직업은 돌봄전담사</a>]]></content>
     </entry>
 </feed>
