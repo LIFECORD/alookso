@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-02T02:05:23.507Z</updated>
+    <updated>2022-01-02T03:14:22.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[무비 무브 #14] 사도(2015, The Throne); 슬픔이라 묻고 사랑이라 답하다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -52,6 +52,13 @@
         <link href="https://alook.so/posts/XBtbM2"/>
         <updated>2022-01-01T14:10:17.378Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbM2">2022년 1월1일  새해 모두에게 큰절 올립니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무비 무브 #14] 사도(2015, The Throne); 슬픔이라 묻고 사랑이라 답하다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/eVtEeO</id>
+        <link href="https://alook.so/posts/eVtEeO"/>
+        <updated>2022-01-02T02:03:44.339Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEeO">[무비 무브 #14] 사도(2015, The Throne); 슬픔이라 묻고 사랑이라 답하다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꼬리에 꼬리를 물어가는 공부 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -122,13 +129,6 @@
         <link href="https://alook.so/posts/8Wtj6M"/>
         <updated>2022-01-01T12:16:57.349Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtj6M">12월 31일에 받았던 느낌</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다가갈 줄 모르는 나 자신.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/vKtqyY</id>
-        <link href="https://alook.so/posts/vKtqyY"/>
-        <updated>2022-01-02T00:39:13.271Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqyY">다가갈 줄 모르는 나 자신..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
