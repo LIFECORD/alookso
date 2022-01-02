@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-02T16:17:10.301Z</updated>
+    <updated>2022-01-02T17:20:33.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뭣도 모르고 시작한 주식]]></title>
+        <id>https://alook.so/posts/q1tWYe</id>
+        <link href="https://alook.so/posts/q1tWYe"/>
+        <updated>2022-01-02T17:18:45.727Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWYe">뭣도 모르고 시작한 주식</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 아이를 갖겠다 마음먹은 이유]]></title>
         <id>https://alook.so/posts/Djt4OR</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/latoYm"/>
         <updated>2022-01-02T14:10:01.434Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoYm">한국은 선진국 인가요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가족이라는 이름의 족쇄]]></title>
-        <id>https://alook.so/posts/KmtWG0</id>
-        <link href="https://alook.so/posts/KmtWG0"/>
-        <updated>2022-01-02T13:17:59.139Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWG0">가족이라는 이름의 족쇄</a>]]></content>
     </entry>
 </feed>
