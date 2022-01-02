@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-02T08:15:12.146Z</updated>
+    <updated>2022-01-02T09:12:18.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[원하는 일을 하고 싶은데]]></title>
+        <id>https://alook.so/posts/o7tE1E</id>
+        <link href="https://alook.so/posts/o7tE1E"/>
+        <updated>2022-01-02T09:10:43.971Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE1E">원하는 일을 하고 싶은데</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론]]></title>
+        <id>https://alook.so/posts/70tYGM</id>
+        <link href="https://alook.so/posts/70tYGM"/>
+        <updated>2022-01-02T09:10:43.971Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYGM">‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사형집행의 필요성]]></title>
         <id>https://alook.so/posts/jdtEwP</id>
@@ -39,26 +53,5 @@
         <link href="https://alook.so/posts/J5tVMM"/>
         <updated>2022-01-02T05:11:17.541Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVMM">내 직업은 돌봄전담사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정년은 부모가 결정한다?  벼락 부자 / 벼락 거지]]></title>
-        <id>https://alook.so/posts/potmoJ</id>
-        <link href="https://alook.so/posts/potmoJ"/>
-        <updated>2022-01-02T05:11:17.542Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmoJ">정년은 부모가 결정한다?  벼락 부자 / 벼락 거지 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무비 무브 #14] 사도(2015, The Throne); 슬픔이라 묻고 사랑이라 답하다]]></title>
-        <id>https://alook.so/posts/eVtEeO</id>
-        <link href="https://alook.so/posts/eVtEeO"/>
-        <updated>2022-01-02T02:03:44.339Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEeO">[무비 무브 #14] 사도(2015, The Throne); 슬픔이라 묻고 사랑이라 답하다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[꼬리에 꼬리를 물어가는 공부]]></title>
-        <id>https://alook.so/posts/VntalO</id>
-        <link href="https://alook.so/posts/VntalO"/>
-        <updated>2022-01-01T21:09:32.846Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntalO">꼬리에 꼬리를 물어가는 공부</a>]]></content>
     </entry>
 </feed>
