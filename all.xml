@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-03T03:13:57.402Z</updated>
+    <updated>2022-01-03T04:16:07.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[답글: To be Ambidextrous (양손 잡이가 되자) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -52,6 +52,20 @@
         <link href="https://alook.so/posts/OEtKJx"/>
         <updated>2022-01-03T00:37:46.636Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKJx">Z씨의 밥벌이</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: To be Ambidextrous (양손 잡이가 되자) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/yEtbpZ</id>
+        <link href="https://alook.so/posts/yEtbpZ"/>
+        <updated>2022-01-03T02:00:13.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbpZ">답글: To be Ambidextrous (양손 잡이가 되자)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[임인년의 붉은 태양은 떠올랐네요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/BatMD5</id>
+        <link href="https://alook.so/posts/BatMD5"/>
+        <updated>2022-01-03T02:00:13.897Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMD5">임인년의 붉은 태양은 떠올랐네요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부실한 여론조사의 속살, 음흉한 기득권의 속셈 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -150,20 +164,6 @@
         <link href="https://alook.so/posts/q1tWY6"/>
         <updated>2022-01-02T11:08:57.607Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWY6">내 직업은 에어컨 설비업자이다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원하는 일을 하고 싶은데 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tE1E</id>
-        <link href="https://alook.so/posts/o7tE1E"/>
-        <updated>2022-01-02T09:10:43.971Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE1E">원하는 일을 하고 싶은데</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/70tYGM</id>
-        <link href="https://alook.so/posts/70tYGM"/>
-        <updated>2022-01-02T09:10:43.971Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYGM">‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
