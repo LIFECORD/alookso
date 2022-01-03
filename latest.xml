@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-03T07:13:05.395Z</updated>
+    <updated>2022-01-03T08:15:43.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[감성 자극과 감정 이입이 될 때]]></title>
+        <id>https://alook.so/posts/Pvtpqm</id>
+        <link href="https://alook.so/posts/Pvtpqm"/>
+        <updated>2022-01-03T08:14:02.588Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpqm">감성 자극과 감정 이입이 될 때</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전자책에 꽃혔어요]]></title>
+        <id>https://alook.so/posts/Vntana</id>
+        <link href="https://alook.so/posts/Vntana"/>
+        <updated>2022-01-03T08:14:02.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntana">전자책에 꽃혔어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[90년생 정치인 신지예 씨께 90년생 용접공 천현우가 드리는 편지.]]></title>
+        <id>https://alook.so/posts/zvtq1b</id>
+        <link href="https://alook.so/posts/zvtq1b"/>
+        <updated>2022-01-03T08:14:02.591Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtq1b">90년생 정치인 신지예 씨께 90년생 용접공 천현우가 드리는 편지.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기술발전을 통한 일자리 감소?]]></title>
         <id>https://alook.so/posts/2xt9aO</id>
@@ -46,12 +67,5 @@
         <link href="https://alook.so/posts/w9tE00"/>
         <updated>2022-01-03T06:14:18.307Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE00">한국 10대들이 불행한이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: To be Ambidextrous (양손 잡이가 되자)]]></title>
-        <id>https://alook.so/posts/yEtbpZ</id>
-        <link href="https://alook.so/posts/yEtbpZ"/>
-        <updated>2022-01-03T02:00:13.891Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbpZ">답글: To be Ambidextrous (양손 잡이가 되자)</a>]]></content>
     </entry>
 </feed>
