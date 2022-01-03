@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-03T12:19:45.304Z</updated>
+    <updated>2022-01-03T13:21:48.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[코시국에 주저리 주저리... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/bWtEmq</id>
+        <link href="https://alook.so/posts/bWtEmq"/>
+        <updated>2022-01-03T13:20:16.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEmq">코시국에 주저리 주저리...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 사회적 거리두기 계속 될것인가?? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/a0t0xW</id>
+        <link href="https://alook.so/posts/a0t0xW"/>
+        <updated>2022-01-03T13:20:16.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0xW">코로나 사회적 거리두기 계속 될것인가??</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메타버스 이프랜드에 꽂히다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/ZktP75</id>
@@ -61,18 +75,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9aO">기술발전을 통한 일자리 감소? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국방비를 늘리는 건 필수입니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/WLtYaW</id>
-        <link href="https://alook.so/posts/WLtYaW"/>
-        <updated>2022-01-03T07:11:32.663Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYaW">국방비를 늘리는 건 필수입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 삼성전자 주식을 산 이유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/0kteZl</id>
-        <link href="https://alook.so/posts/0kteZl"/>
-        <updated>2022-01-03T07:11:32.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteZl">내가 삼성전자 주식을 산 이유 </a>]]></content>
+        <title type="html"><![CDATA[카카오, 혁신이라 쓰고 독재라 읽는다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/potmnd</id>
+        <link href="https://alook.so/posts/potmnd"/>
+        <updated>2022-01-03T11:09:37.451Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmnd">카카오, 혁신이라 쓰고 독재라 읽는다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘나라 구한 유튜버’를 보며 생각했던, 조금 다른 방향의 비관론 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -96,13 +103,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbYe">코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오, 혁신이라 쓰고 독재라 읽는다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/potmnd</id>
-        <link href="https://alook.so/posts/potmnd"/>
-        <updated>2022-01-03T11:09:37.451Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmnd">카카오, 혁신이라 쓰고 독재라 읽는다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년이 시작되었네요. :) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/rDt0r1</id>
         <link href="https://alook.so/posts/rDt0r1"/>
@@ -124,10 +124,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWG0">가족이라는 이름의 족쇄</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[코시국에 주저리 주저리... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtEmq</id>
+        <link href="https://alook.so/posts/bWtEmq"/>
+        <updated>2022-01-03T13:20:23.738Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEmq">코시국에 주저리 주저리...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 사회적 거리두기 계속 될것인가?? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/a0t0xW</id>
+        <link href="https://alook.so/posts/a0t0xW"/>
+        <updated>2022-01-03T13:20:23.738Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0xW">코로나 사회적 거리두기 계속 될것인가??</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[메타버스 이프랜드에 꽂히다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/ZktP75</id>
         <link href="https://alook.so/posts/ZktP75"/>
-        <updated>2022-01-03T12:18:03.384Z</updated>
+        <updated>2022-01-03T12:17:54.790Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktP75">메타버스 이프랜드에 꽂히다</a>]]></content>
     </entry>
     <entry>
@@ -178,13 +192,6 @@
         <link href="https://alook.so/posts/0kteZl"/>
         <updated>2022-01-03T07:11:32.665Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteZl">내가 삼성전자 주식을 산 이유 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 어떤 마음가짐으로 살아가야할까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/M9tX7q</id>
-        <link href="https://alook.so/posts/M9tX7q"/>
-        <updated>2022-01-03T07:11:32.666Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX7q">2022년 어떤 마음가짐으로 살아가야할까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
