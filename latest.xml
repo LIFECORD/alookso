@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-04T13:21:42.609Z</updated>
+    <updated>2022-01-04T14:12:13.776Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[캘리 시 일기]_ 새로운 길]]></title>
+        <id>https://alook.so/posts/o7tEWY</id>
+        <link href="https://alook.so/posts/o7tEWY"/>
+        <updated>2022-01-04T14:10:26.806Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEWY">[캘리 시 일기]_ 새로운 길</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[회사 내에서 위로와 축하 소식을 동시에 받았습니다.]]></title>
         <id>https://alook.so/posts/70tY8X</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/dztlmW"/>
         <updated>2022-01-04T10:12:14.155Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlmW">샘 라이더에게 꽂히다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공교육만으로도 충분할 수 있기를...]]></title>
-        <id>https://alook.so/posts/potmBd</id>
-        <link href="https://alook.so/posts/potmBd"/>
-        <updated>2022-01-04T09:11:32.762Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmBd">공교육만으로도 충분할 수 있기를...</a>]]></content>
     </entry>
 </feed>
