@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-04T12:19:21.434Z</updated>
+    <updated>2022-01-04T13:21:42.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[10대들은 불행한걸까?]]></title>
+        <id>https://alook.so/posts/jdtEXJ</id>
+        <link href="https://alook.so/posts/jdtEXJ"/>
+        <updated>2022-01-04T13:20:17.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEXJ">10대들은 불행한걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 돈버는 고민을 합니다]]></title>
+        <id>https://alook.so/posts/bWtEoq</id>
+        <link href="https://alook.so/posts/bWtEoq"/>
+        <updated>2022-01-04T13:20:17.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEoq">전 돈버는 고민을 합니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아버지들과 아들들]]></title>
         <id>https://alook.so/posts/a0t0KW</id>
@@ -20,11 +34,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPn5">저는 요즘 노래연습에 꽂혔어요.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[샘 라이더에게 꽂히다]]></title>
+        <id>https://alook.so/posts/dztlmW</id>
+        <link href="https://alook.so/posts/dztlmW"/>
+        <updated>2022-01-04T13:20:17.183Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlmW">샘 라이더에게 꽂히다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[공교육만으로도 충분할 수 있기를...]]></title>
         <id>https://alook.so/posts/potmBd</id>
         <link href="https://alook.so/posts/potmBd"/>
         <updated>2022-01-04T10:12:21.747Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmBd">공교육만으로도 충분할 수 있기를...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자유롭지만 위험한 삶, 안정적이지만 갇힌 삶 뭐가 더 좋은 걸까?]]></title>
+        <id>https://alook.so/posts/eVtEp0</id>
+        <link href="https://alook.so/posts/eVtEp0"/>
+        <updated>2022-01-04T13:20:17.183Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEp0">자유롭지만 위험한 삶, 안정적이지만 갇힌 삶 뭐가 더 좋은 걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페미니즘을 넘어서 존재의 인정으로]]></title>
+        <id>https://alook.so/posts/Pvtpxm</id>
+        <link href="https://alook.so/posts/Pvtpxm"/>
+        <updated>2022-01-04T13:20:17.184Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpxm">페미니즘을 넘어서 존재의 인정으로</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[국내 첫 국립 장애인 특수학교 시동]]></title>
@@ -53,40 +88,5 @@
         <link href="https://alook.so/posts/RGtxP2"/>
         <updated>2022-01-04T04:14:27.382Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxP2">모든 글의 좋아요가 감소하는 중..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공교육제대로해주세요]]></title>
-        <id>https://alook.so/posts/kZtm5O</id>
-        <link href="https://alook.so/posts/kZtm5O"/>
-        <updated>2022-01-04T05:12:06.991Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtm5O">공교육제대로해주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연적~김호연]]></title>
-        <id>https://alook.so/posts/yEtbKZ</id>
-        <link href="https://alook.so/posts/yEtbKZ"/>
-        <updated>2022-01-04T05:12:06.991Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbKZ">연적~김호연</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?]]></title>
-        <id>https://alook.so/posts/BatM05</id>
-        <link href="https://alook.so/posts/BatM05"/>
-        <updated>2022-01-04T04:14:27.384Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatM05">어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[물고기 키우는데 꽂혔어요.]]></title>
-        <id>https://alook.so/posts/LKtWM7</id>
-        <link href="https://alook.so/posts/LKtWM7"/>
-        <updated>2022-01-04T05:12:06.995Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWM7">물고기 키우는데 꽂혔어요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곧 돌아올 얼룩소에게]]></title>
-        <id>https://alook.so/posts/njtVK0</id>
-        <link href="https://alook.so/posts/njtVK0"/>
-        <updated>2022-01-04T03:12:48.134Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVK0">곧 돌아올 얼룩소에게</a>]]></content>
     </entry>
 </feed>
