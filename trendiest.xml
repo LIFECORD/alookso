@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-04T03:14:24.523Z</updated>
+    <updated>2022-01-04T04:15:56.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[모든 글의 좋아요가 감소하는 중..]]></title>
+        <id>https://alook.so/posts/RGtxP2</id>
+        <link href="https://alook.so/posts/RGtxP2"/>
+        <updated>2022-01-04T04:14:27.382Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxP2">모든 글의 좋아요가 감소하는 중..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?]]></title>
+        <id>https://alook.so/posts/BatM05</id>
+        <link href="https://alook.so/posts/BatM05"/>
+        <updated>2022-01-04T04:14:27.384Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatM05">어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[곧 돌아올 얼룩소에게]]></title>
         <id>https://alook.so/posts/njtVK0</id>
@@ -116,12 +130,5 @@
         <link href="https://alook.so/posts/M9tX7q"/>
         <updated>2022-01-04T03:12:48.149Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX7q">2022년 어떤 마음가짐으로 살아가야할까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5]]></title>
-        <id>https://alook.so/posts/XBtbYe</id>
-        <link href="https://alook.so/posts/XBtbYe"/>
-        <updated>2022-01-03T06:14:26.612Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbYe">코로나와 함께하는 2022 군대, 효율적인 입대 준비물 TOP 5</a>]]></content>
     </entry>
 </feed>
