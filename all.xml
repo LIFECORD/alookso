@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-05T02:04:54.005Z</updated>
+    <updated>2022-01-05T03:14:02.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[카카오 한 문장으로 정리하기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tEWz</id>
+        <link href="https://alook.so/posts/o7tEWz"/>
+        <updated>2022-01-05T03:12:16.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEWz">카카오 한 문장으로 정리하기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[캘리 시 일기]_ 조용한 하루 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/70tY84</id>
