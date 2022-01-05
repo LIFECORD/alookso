@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-05T12:19:48.999Z</updated>
+    <updated>2022-01-05T13:22:24.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[만병통치약 채식]]></title>
+        <id>https://alook.so/posts/xlt18E</id>
+        <link href="https://alook.so/posts/xlt18E"/>
+        <updated>2022-01-05T13:20:49.050Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt18E">만병통치약 채식</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미술 전시에 꽃혔어요.]]></title>
+        <id>https://alook.so/posts/RGtxj5</id>
+        <link href="https://alook.so/posts/RGtxj5"/>
+        <updated>2022-01-05T13:20:49.053Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxj5">미술 전시에 꽃혔어요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올한해의 목표는 무엇인가요?? 함께 나누어요.]]></title>
         <id>https://alook.so/posts/LKtWGv</id>
@@ -46,12 +60,5 @@
         <link href="https://alook.so/posts/OEtKVG"/>
         <updated>2022-01-05T05:12:39.444Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKVG">쪽방촌 계급사회와 인간의 존엄</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 선택한 길이 최선의 선택이였을까]]></title>
-        <id>https://alook.so/posts/E7tXdw</id>
-        <link href="https://alook.so/posts/E7tXdw"/>
-        <updated>2022-01-05T05:12:39.452Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXdw">내가 선택한 길이 최선의 선택이였을까</a>]]></content>
     </entry>
 </feed>
