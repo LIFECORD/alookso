@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-05T06:15:47.046Z</updated>
+    <updated>2022-01-05T07:12:35.655Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/mbtjwx"/>
         <updated>2022-01-04T23:11:51.097Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjwx">지방의 인프라가 조금더 좋아지길 바래봅니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해부는 고사하고- (feat. LAB2050)]]></title>
+        <id>https://alook.so/posts/1RtzXw</id>
+        <link href="https://alook.so/posts/1RtzXw"/>
+        <updated>2022-01-05T07:11:10.483Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzXw">해부는 고사하고- (feat. LAB2050)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국의 의료보험 미가입자 추이와 제도의 경로의존성]]></title>
@@ -109,12 +116,5 @@
         <link href="https://alook.so/posts/dztlmW"/>
         <updated>2022-01-05T00:40:16.293Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlmW">샘 라이더에게 꽂히다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자]]></title>
-        <id>https://alook.so/posts/70tY5X</id>
-        <link href="https://alook.so/posts/70tY5X"/>
-        <updated>2022-01-05T04:14:44.938Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY5X">탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자</a>]]></content>
     </entry>
 </feed>

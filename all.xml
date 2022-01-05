@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-05T06:15:47.072Z</updated>
+    <updated>2022-01-05T07:12:35.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[지구는 멸망하지 않아 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/8WtjWz</id>
+        <link href="https://alook.so/posts/8WtjWz"/>
+        <updated>2022-01-05T07:11:01.379Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtjWz">지구는 멸망하지 않아</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[약속을 지키려 합니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/G1tq33</id>
@@ -61,13 +68,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWRG">뜨개질에 완전 꽂혀있는 사람</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자신이 생각하는대로 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Djt4rE</id>
-        <link href="https://alook.so/posts/Djt4rE"/>
-        <updated>2022-01-05T05:12:39.460Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4rE">자신이 생각하는대로</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/OEtKVG</id>
         <link href="https://alook.so/posts/OEtKVG"/>
@@ -80,6 +80,13 @@
         <link href="https://alook.so/posts/mbtjwx"/>
         <updated>2022-01-04T23:11:42.736Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjwx">지방의 인프라가 조금더 좋아지길 바래봅니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해부는 고사하고- (feat. LAB2050) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/1RtzXw</id>
+        <link href="https://alook.so/posts/1RtzXw"/>
+        <updated>2022-01-05T07:11:10.483Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzXw">해부는 고사하고- (feat. LAB2050)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국의 의료보험 미가입자 추이와 제도의 경로의존성 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -171,13 +178,6 @@
         <link href="https://alook.so/posts/dztlmW"/>
         <updated>2022-01-05T00:40:16.293Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlmW">샘 라이더에게 꽂히다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/70tY5X</id>
-        <link href="https://alook.so/posts/70tY5X"/>
-        <updated>2022-01-05T04:14:44.938Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY5X">탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>
