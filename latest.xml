@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-05T07:12:35.648Z</updated>
+    <updated>2022-01-05T08:16:05.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[지구는 멸망하지 않아]]></title>
-        <id>https://alook.so/posts/8WtjWz</id>
-        <link href="https://alook.so/posts/8WtjWz"/>
-        <updated>2022-01-05T07:11:01.379Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtjWz">지구는 멸망하지 않아</a>]]></content>
+        <title type="html"><![CDATA[주 4일제는 가능하다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/njtV8b</id>
+        <link href="https://alook.so/posts/njtV8b"/>
+        <updated>2022-01-05T08:14:12.848Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtV8b">주 4일제는 가능하다고 생각합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국은 선진국이 맞다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/6Mt91R</id>
+        <link href="https://alook.so/posts/6Mt91R"/>
+        <updated>2022-01-05T08:14:12.848Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt91R">한국은 선진국이 맞다고 생각합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 다큐멘터리보다는 르포타쥬가 되었으면]]></title>
+        <id>https://alook.so/posts/3wtODr</id>
+        <link href="https://alook.so/posts/3wtODr"/>
+        <updated>2022-01-05T08:14:12.848Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtODr">답글: 다큐멘터리보다는 르포타쥬가 되었으면</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[약속을 지키려 합니다.]]></title>
@@ -53,19 +67,5 @@
         <link href="https://alook.so/posts/KmtWbk"/>
         <updated>2022-01-05T05:12:39.456Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWbk">추천하고 싶지만 비추하게 되는</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: '추이와 제도의 경로의존성'에 대한 몇 가지 질문, 의견]]></title>
-        <id>https://alook.so/posts/54tE8k</id>
-        <link href="https://alook.so/posts/54tE8k"/>
-        <updated>2022-01-05T05:12:39.459Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE8k">답글: '추이와 제도의 경로의존성'에 대한 몇 가지 질문, 의견</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨개질에 완전 꽂혀있는 사람]]></title>
-        <id>https://alook.so/posts/q1tWRG</id>
-        <link href="https://alook.so/posts/q1tWRG"/>
-        <updated>2022-01-05T05:12:39.459Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWRG">뜨개질에 완전 꽂혀있는 사람</a>]]></content>
     </entry>
 </feed>
