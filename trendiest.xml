@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-05T20:13:39.878Z</updated>
+    <updated>2022-01-05T21:11:45.268Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -32,6 +32,27 @@
         <link href="https://alook.so/posts/4Xt497"/>
         <updated>2022-01-05T20:12:12.295Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt497">아프니깐 아버지다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양자택일 : 얼룩소 사이트는 이걸 할 필요가 없다.]]></title>
+        <id>https://alook.so/posts/XBtbVz</id>
+        <link href="https://alook.so/posts/XBtbVz"/>
+        <updated>2022-01-05T21:10:11.307Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbVz">양자택일 : 얼룩소 사이트는 이걸 할 필요가 없다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만병통치약 채식]]></title>
+        <id>https://alook.so/posts/xlt18E</id>
+        <link href="https://alook.so/posts/xlt18E"/>
+        <updated>2022-01-05T21:10:11.307Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt18E">만병통치약 채식</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미술 전시에 꽃혔어요.]]></title>
+        <id>https://alook.so/posts/RGtxj5</id>
+        <link href="https://alook.so/posts/RGtxj5"/>
+        <updated>2022-01-05T21:10:11.310Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxj5">미술 전시에 꽃혔어요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 다큐멘터리보다는 르포타쥬가 되었으면]]></title>
@@ -102,19 +123,5 @@
         <link href="https://alook.so/posts/o7tEWz"/>
         <updated>2022-01-05T18:13:17.740Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEWz">카카오 한 문장으로 정리하기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바(Bar)는 어떤 곳인가요?]]></title>
-        <id>https://alook.so/posts/YytLEd</id>
-        <link href="https://alook.so/posts/YytLEd"/>
-        <updated>2022-01-05T18:13:17.741Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLEd">바(Bar)는 어떤 곳인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[~]]></title>
-        <id>https://alook.so/posts/92tk9X</id>
-        <link href="https://alook.so/posts/92tk9X"/>
-        <updated>2022-01-05T18:13:17.742Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk9X">~</a>]]></content>
     </entry>
 </feed>
