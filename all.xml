@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-05T05:14:17.010Z</updated>
+    <updated>2022-01-05T06:15:47.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[약속을 지키려 합니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/G1tq33</id>
+        <link href="https://alook.so/posts/G1tq33"/>
+        <updated>2022-01-05T06:13:59.435Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq33">약속을 지키려 합니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/OEtKVG</id>
@@ -61,11 +68,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4rE">자신이 생각하는대로</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해부는 고사하고- (feat. LAB2050) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/1RtzXw</id>
-        <link href="https://alook.so/posts/1RtzXw"/>
-        <updated>2022-01-05T04:14:35.918Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzXw">해부는 고사하고- (feat. LAB2050)</a>]]></content>
+        <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/OEtKVG</id>
+        <link href="https://alook.so/posts/OEtKVG"/>
+        <updated>2022-01-05T05:12:39.444Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKVG">쪽방촌 계급사회와 인간의 존엄</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지방의 인프라가 조금더 좋아지길 바래봅니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -80,13 +87,6 @@
         <link href="https://alook.so/posts/0kteLl"/>
         <updated>2022-01-05T04:14:44.919Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteLl">미국의 의료보험 미가입자 추이와 제도의 경로의존성</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/OEtKVG</id>
-        <link href="https://alook.so/posts/OEtKVG"/>
-        <updated>2022-01-05T05:12:48.014Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKVG">쪽방촌 계급사회와 인간의 존엄</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아버지들과 아들들 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -145,6 +145,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmBd">공교육만으로도 충분할 수 있기를...</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뜨개질에 완전 꽂혀있는 사람 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1tWRG</id>
+        <link href="https://alook.so/posts/q1tWRG"/>
+        <updated>2022-01-05T05:12:39.459Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWRG">뜨개질에 완전 꽂혀있는 사람</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/BatM05</id>
         <link href="https://alook.so/posts/BatM05"/>
@@ -171,13 +178,6 @@
         <link href="https://alook.so/posts/70tY5X"/>
         <updated>2022-01-05T04:14:44.938Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY5X">탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 첫 국립 장애인 특수학교 시동 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/WLtYjW</id>
-        <link href="https://alook.so/posts/WLtYjW"/>
-        <updated>2022-01-05T04:14:44.942Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYjW">국내 첫 국립 장애인 특수학교 시동</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['투데이' 운영을 재개합니다 (alookso ─ alookso)]]></title>

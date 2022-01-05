@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-05T05:14:16.990Z</updated>
+    <updated>2022-01-05T06:15:47.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄]]></title>
+        <id>https://alook.so/posts/OEtKVG</id>
+        <link href="https://alook.so/posts/OEtKVG"/>
+        <updated>2022-01-05T05:12:48.014Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKVG">쪽방촌 계급사회와 인간의 존엄</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지방의 인프라가 조금더 좋아지길 바래봅니다.]]></title>
         <id>https://alook.so/posts/mbtjwx</id>
@@ -18,13 +25,6 @@
         <link href="https://alook.so/posts/0kteLl"/>
         <updated>2022-01-05T04:14:44.919Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteLl">미국의 의료보험 미가입자 추이와 제도의 경로의존성</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄]]></title>
-        <id>https://alook.so/posts/OEtKVG</id>
-        <link href="https://alook.so/posts/OEtKVG"/>
-        <updated>2022-01-05T05:12:48.014Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKVG">쪽방촌 계급사회와 인간의 존엄</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아버지들과 아들들]]></title>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmBd">공교육만으로도 충분할 수 있기를...</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[뜨개질에 완전 꽂혀있는 사람]]></title>
+        <id>https://alook.so/posts/q1tWRG</id>
+        <link href="https://alook.so/posts/q1tWRG"/>
+        <updated>2022-01-05T06:14:08.197Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWRG">뜨개질에 완전 꽂혀있는 사람</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[어떻게 하면 전업주부가 놀지 않는다는 인식을 심어줄 수 있을까요?]]></title>
         <id>https://alook.so/posts/BatM05</id>
         <link href="https://alook.so/posts/BatM05"/>
@@ -109,12 +116,5 @@
         <link href="https://alook.so/posts/70tY5X"/>
         <updated>2022-01-05T04:14:44.938Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tY5X">탈원전의 길 - EU 녹색분류체계 원전 포함, 우리나라도 벤치마킹하자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 첫 국립 장애인 특수학교 시동]]></title>
-        <id>https://alook.so/posts/WLtYjW</id>
-        <link href="https://alook.so/posts/WLtYjW"/>
-        <updated>2022-01-05T04:14:44.942Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYjW">국내 첫 국립 장애인 특수학교 시동</a>]]></content>
     </entry>
 </feed>
