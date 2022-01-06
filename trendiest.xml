@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-06T12:20:16.252Z</updated>
+    <updated>2022-01-06T13:23:03.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.]]></title>
+        <id>https://alook.so/posts/Djt4BE</id>
+        <link href="https://alook.so/posts/Djt4BE"/>
+        <updated>2022-01-06T13:21:15.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4BE">얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[같은 성별끼리의 결혼에 대한 생각]]></title>
         <id>https://alook.so/posts/rDt0YB</id>
@@ -116,12 +123,5 @@
         <link href="https://alook.so/posts/G1tq33"/>
         <updated>2022-01-05T15:12:05.781Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq33">약속을 지키려 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄]]></title>
-        <id>https://alook.so/posts/OEtKVG</id>
-        <link href="https://alook.so/posts/OEtKVG"/>
-        <updated>2022-01-05T05:12:48.014Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKVG">쪽방촌 계급사회와 인간의 존엄</a>]]></content>
     </entry>
 </feed>
