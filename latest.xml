@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-06T16:18:52.361Z</updated>
+    <updated>2022-01-06T17:23:31.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[가장 열심히 살았다고 생각했던 순간]]></title>
+        <title type="html"><![CDATA[가장 열심히 살았다고 생각했던 순간의 의미]]></title>
         <id>https://alook.so/posts/OEtKPG</id>
         <link href="https://alook.so/posts/OEtKPG"/>
         <updated>2022-01-06T16:16:47.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKPG">가장 열심히 살았다고 생각했던 순간</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKPG">가장 열심히 살았다고 생각했던 순간의 의미</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고민없는 삶 존재할 수 있을까]]></title>
