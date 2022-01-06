@@ -123,3 +123,13 @@ titleSelector = "a"
 linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
+
+[user_nobody]
+title = "alookso ─ Nobody"
+url = "https://alook.so/users/bzntNo"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
+
