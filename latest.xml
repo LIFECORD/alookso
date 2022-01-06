@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-06T11:12:15.645Z</updated>
+    <updated>2022-01-06T12:20:16.249Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나의투자일기]]></title>
+        <id>https://alook.so/posts/o7tEkz</id>
+        <link href="https://alook.so/posts/o7tEkz"/>
+        <updated>2022-01-06T12:18:21.546Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEkz"> 나의투자일기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마스크에 이어 방역패스는 언제까지??]]></title>
         <id>https://alook.so/posts/70tYw4</id>
@@ -53,12 +60,5 @@
         <link href="https://alook.so/posts/J5tV9G"/>
         <updated>2022-01-06T05:13:01.502Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tV9G">승무원 유니폼 룩북 유튜버, 뒤에선 패트리온 포르노 스타라고?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[캘리 시 일기]_ 정지된 물건들]]></title>
-        <id>https://alook.so/posts/eVtEK3</id>
-        <link href="https://alook.so/posts/eVtEK3"/>
-        <updated>2022-01-06T04:14:27.155Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEK3">[캘리 시 일기]_ 정지된 물건들</a>]]></content>
     </entry>
 </feed>
