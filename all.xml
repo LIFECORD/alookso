@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-06T17:23:31.897Z</updated>
+    <updated>2022-01-06T18:15:10.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[우리의 미래 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/8Wtjzz</id>
+        <link href="https://alook.so/posts/8Wtjzz"/>
+        <updated>2022-01-06T18:13:14.224Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtjzz">우리의 미래</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흔들림 느껴보셨나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/G1tqV3</id>
+        <link href="https://alook.so/posts/G1tqV3"/>
+        <updated>2022-01-06T18:13:14.226Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqV3">흔들림 느껴보셨나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가장 열심히 살았다고 생각했던 순간의 의미 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/OEtKPG</id>
@@ -24,13 +38,6 @@
         <link href="https://alook.so/posts/q1tWEG"/>
         <updated>2022-01-06T13:21:07.963Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWEG">가장 낮은 곳으로, 천주교 사제가 된다는 것 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Djt4BE</id>
-        <link href="https://alook.so/posts/Djt4BE"/>
-        <updated>2022-01-06T13:21:07.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4BE">얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
