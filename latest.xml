@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-06T09:32:58.364Z</updated>
+    <updated>2022-01-06T09:42:58.024Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[같은 성별끼리의 결혼에 대한 생각]]></title>
+        <id>https://alook.so/posts/rDt0YB</id>
+        <link href="https://alook.so/posts/rDt0YB"/>
+        <updated>2022-01-06T09:40:56.242Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0YB">같은 성별끼리의 결혼에 대한 생각</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기후위기 막을수있을까?]]></title>
         <id>https://alook.so/posts/jdtElY</id>
@@ -46,12 +53,5 @@
         <link href="https://alook.so/posts/VntaL1"/>
         <updated>2022-01-06T00:41:32.688Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntaL1">노후는 과연 국민연금 혼자의 역할일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후위기, 우리가 막을 수 있을까요?]]></title>
-        <id>https://alook.so/posts/zvtq4r</id>
-        <link href="https://alook.so/posts/zvtq4r"/>
-        <updated>2022-01-06T09:19:00.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtq4r">기후위기, 우리가 막을 수 있을까요?</a>]]></content>
     </entry>
 </feed>
