@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-05T23:12:55.156Z</updated>
+    <updated>2022-01-06T00:43:18.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -20,11 +20,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjwx">지방의 인프라가 조금더 좋아지길 바래봅니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: 다큐멘터리보다는 르포타쥬가 되었으면]]></title>
+        <id>https://alook.so/posts/3wtODr</id>
+        <link href="https://alook.so/posts/3wtODr"/>
+        <updated>2022-01-05T15:12:05.780Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtODr">답글: 다큐멘터리보다는 르포타쥬가 되었으면</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[해부는 고사하고- (feat. LAB2050)]]></title>
         <id>https://alook.so/posts/1RtzXw</id>
         <link href="https://alook.so/posts/1RtzXw"/>
         <updated>2022-01-05T07:11:10.483Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzXw">해부는 고사하고- (feat. LAB2050)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: '추이와 제도의 경로의존성'에 대한 몇 가지 질문, 의견]]></title>
+        <id>https://alook.so/posts/54tE8k</id>
+        <link href="https://alook.so/posts/54tE8k"/>
+        <updated>2022-01-06T00:41:42.248Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE8k">답글: '추이와 제도의 경로의존성'에 대한 몇 가지 질문, 의견</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미국의 의료보험 미가입자 추이와 제도의 경로의존성]]></title>
@@ -46,6 +60,13 @@
         <link href="https://alook.so/posts/RGtxP2"/>
         <updated>2022-01-05T23:11:27.743Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxP2">모든 글의 좋아요가 감소하는 중..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아프니깐 아버지다]]></title>
+        <id>https://alook.so/posts/4Xt497</id>
+        <link href="https://alook.so/posts/4Xt497"/>
+        <updated>2022-01-05T20:12:12.295Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt497">아프니깐 아버지다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열의 위기에는 더 깊은 뿌리가 있다]]></title>
@@ -109,19 +130,5 @@
         <link href="https://alook.so/posts/M9tXGq"/>
         <updated>2022-01-05T23:11:27.750Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXGq">관련 뉴스 영상 공유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 다큐멘터리보다는 르포타쥬가 되었으면]]></title>
-        <id>https://alook.so/posts/3wtODr</id>
-        <link href="https://alook.so/posts/3wtODr"/>
-        <updated>2022-01-05T15:12:05.780Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtODr">답글: 다큐멘터리보다는 르포타쥬가 되었으면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아프니깐 아버지다]]></title>
-        <id>https://alook.so/posts/4Xt497</id>
-        <link href="https://alook.so/posts/4Xt497"/>
-        <updated>2022-01-05T20:12:12.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt497">아프니깐 아버지다</a>]]></content>
     </entry>
 </feed>
