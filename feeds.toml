@@ -133,3 +133,12 @@ linkSelector = "a"
 waitUntil = "networkidle"
 onFail = "stale"
 
+[user_taekie]
+title = "alookso ─ 한상택"
+url = "https://alook.so/users/73tAnn"
+entrySelector = "div[class='flex-auto mt-2 space-y-2'] h5[class='font-medium text-break']"
+titleSelector = "a"
+linkSelector = "a"
+waitUntil = "networkidle"
+onFail = "stale"
+
