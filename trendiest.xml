@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-06T14:13:16.630Z</updated>
+    <updated>2022-01-06T15:14:23.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/J5tV9G"/>
         <updated>2022-01-06T05:13:10.676Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tV9G">승무원 유니폼 룩북 유튜버, 뒤에선 패트리온 포르노 스타라고?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.]]></title>
+        <id>https://alook.so/posts/Djt4BE</id>
+        <link href="https://alook.so/posts/Djt4BE"/>
+        <updated>2022-01-06T13:21:15.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4BE">얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[희소가치가 된 "좋아요"]]></title>
@@ -25,13 +32,6 @@
         <link href="https://alook.so/posts/q1tWEG"/>
         <updated>2022-01-06T14:11:09.417Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWEG">가장 낮은 곳으로, 천주교 사제가 된다는 것 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.]]></title>
-        <id>https://alook.so/posts/Djt4BE</id>
-        <link href="https://alook.so/posts/Djt4BE"/>
-        <updated>2022-01-06T13:21:15.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4BE">얼룩소 프로젝트 수익으로 약간의 사치를 즐겼습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzXw">해부는 고사하고- (feat. LAB2050)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아프니깐 아버지다]]></title>
+        <id>https://alook.so/posts/4Xt497</id>
+        <link href="https://alook.so/posts/4Xt497"/>
+        <updated>2022-01-05T20:12:12.295Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt497">아프니깐 아버지다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아버지들과 아들들]]></title>
         <id>https://alook.so/posts/a0t0KW</id>
         <link href="https://alook.so/posts/a0t0KW"/>
@@ -123,12 +130,5 @@
         <link href="https://alook.so/posts/0kteVO"/>
         <updated>2022-01-06T09:11:56.960Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteVO">나의 노력은 어디로 갔을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아프니깐 아버지다]]></title>
-        <id>https://alook.so/posts/4Xt497</id>
-        <link href="https://alook.so/posts/4Xt497"/>
-        <updated>2022-01-05T20:12:12.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt497">아프니깐 아버지다</a>]]></content>
     </entry>
 </feed>
