@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-06T10:14:04.321Z</updated>
+    <updated>2022-01-06T11:12:15.615Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,20 @@
         <link href="https://alook.so/posts/jdtElY"/>
         <updated>2022-01-06T09:45:39.370Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtElY">기후위기 막을수있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[희소가치가 된 "좋아요"]]></title>
+        <id>https://alook.so/posts/ZktPBy</id>
+        <link href="https://alook.so/posts/ZktPBy"/>
+        <updated>2022-01-06T11:10:11.582Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPBy">희소가치가 된 "좋아요"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신, 계속해서 맞아도 되는 걸까요]]></title>
+        <id>https://alook.so/posts/dztlwj</id>
+        <link href="https://alook.so/posts/dztlwj"/>
+        <updated>2022-01-06T11:10:11.584Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlwj">백신, 계속해서 맞아도 되는 걸까요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[승무원 유니폼 룩북 유튜버, 뒤에선 패트리온 포르노 스타라고?]]></title>
@@ -109,12 +123,5 @@
         <link href="https://alook.so/posts/OEtKVG"/>
         <updated>2022-01-05T05:12:48.014Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKVG">쪽방촌 계급사회와 인간의 존엄</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 군대, 이등병들은 어떻게 생활할까?]]></title>
-        <id>https://alook.so/posts/latowy</id>
-        <link href="https://alook.so/posts/latowy"/>
-        <updated>2022-01-06T10:12:15.685Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latowy">요즘 군대, 이등병들은 어떻게 생활할까?</a>]]></content>
     </entry>
 </feed>
