@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T11:11:47.020Z</updated>
+    <updated>2022-01-07T12:20:07.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[그런데 ‘2030 여성’은요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/rDt09B</id>
+        <link href="https://alook.so/posts/rDt09B"/>
+        <updated>2022-01-07T12:17:51.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt09B">그런데 ‘2030 여성’은요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백신 접종을 권장하고 "설득"하는 것은 정부의 역할입니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/jdtEGY</id>
+        <link href="https://alook.so/posts/jdtEGY"/>
+        <updated>2022-01-07T12:17:51.428Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEGY">백신 접종을 권장하고 "설득"하는 것은 정부의 역할입니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안읽고리뷰하기-베스트셀러 1위, 박근혜 옥중서간록 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/bWtElx</id>
@@ -45,20 +59,6 @@
         <link href="https://alook.so/posts/PvtpO9"/>
         <updated>2022-01-07T06:13:52.347Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpO9">적시자, 취하자, 미치자!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈모에 대한 단상 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Vnta91</id>
-        <link href="https://alook.so/posts/Vnta91"/>
-        <updated>2022-01-07T06:13:52.351Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta91">탈모에 대한 단상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 공수부대는 카자흐스탄에서 당장 철수하라! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/zvtqer</id>
-        <link href="https://alook.so/posts/zvtqer"/>
-        <updated>2022-01-07T05:12:35.655Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqer">러시아 공수부대는 카자흐스탄에서 당장 철수하라! </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다시 손잡은 윤석열-이준석... 그런데 ‘000’은요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
