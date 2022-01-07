@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-07T03:17:01.940Z</updated>
+    <updated>2022-01-07T04:16:41.401Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[세계 최초 동체착륙]]></title>
+        <title type="html"><![CDATA[아이를 키워내는 일 새로운 나를 다시 알아가다.]]></title>
+        <id>https://alook.so/posts/WLtYZ3</id>
+        <link href="https://alook.so/posts/WLtYZ3"/>
+        <updated>2022-01-07T04:14:34.850Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYZ3">아이를 키워내는 일 새로운 나를 다시 알아가다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 최초 동체착륙 성공]]></title>
         <id>https://alook.so/posts/M9tXqj</id>
         <link href="https://alook.so/posts/M9tXqj"/>
         <updated>2022-01-07T03:14:55.961Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXqj">세계 최초 동체착륙</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXqj">세계 최초 동체착륙 성공</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가족이 부담스러웠던 기억]]></title>
@@ -60,12 +67,5 @@
         <link href="https://alook.so/posts/BatMGM"/>
         <updated>2022-01-07T02:07:51.473Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMGM">법원, 방역패스 ALL STOP?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘오징어 게임’ 골든글로브 불참 선언, 왜?]]></title>
-        <id>https://alook.so/posts/LKtWBv</id>
-        <link href="https://alook.so/posts/LKtWBv"/>
-        <updated>2022-01-07T02:07:51.480Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWBv">‘오징어 게임’ 골든글로브 불참 선언, 왜?</a>]]></content>
     </entry>
 </feed>
