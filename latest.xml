@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-07T14:12:50.869Z</updated>
+    <updated>2022-01-07T15:13:57.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[경제적 자유를 누리기 위해 잘못된 습관고치기]]></title>
+        <title type="html"><![CDATA[돈모으는 짠테크에 꽂혔어요!]]></title>
         <id>https://alook.so/posts/70tYz4</id>
         <link href="https://alook.so/posts/70tYz4"/>
         <updated>2022-01-07T14:10:40.019Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYz4">경제적 자유를 누리기 위해 잘못된 습관고치기</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYz4">돈모으는 짠테크에 꽂혔어요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술 발전은 일자리를 늘린다.]]></title>
