@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-07T09:13:31.332Z</updated>
+    <updated>2022-01-07T10:14:46.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[안읽고리뷰하기-베스트셀러 1위, 박근혜 옥중서간록]]></title>
+        <id>https://alook.so/posts/bWtElx</id>
+        <link href="https://alook.so/posts/bWtElx"/>
+        <updated>2022-01-07T10:12:38.220Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtElx">안읽고리뷰하기-베스트셀러 1위, 박근혜 옥중서간록</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보이지 않는 빈곤 청년은 어디서 찾을 수 있나요 ?]]></title>
         <id>https://alook.so/posts/a0t08q</id>
