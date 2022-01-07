@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-07T12:20:07.046Z</updated>
+    <updated>2022-01-07T13:23:49.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[기술 발전은 일자리를 늘린다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/YytLPd</id>
+        <link href="https://alook.so/posts/YytLPd"/>
+        <updated>2022-01-07T13:20:27.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLPd">기술 발전은 일자리를 늘린다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그런데 ‘2030 여성’은요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDt09B</id>
@@ -19,11 +26,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEGY">백신 접종을 권장하고 "설득"하는 것은 정부의 역할입니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안읽고리뷰하기-베스트셀러 1위, 박근혜 옥중서간록 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[출간 즉시 베스트셀러 1위, 박근혜 옥중서간록. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/bWtElx</id>
         <link href="https://alook.so/posts/bWtElx"/>
         <updated>2022-01-07T10:12:38.220Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtElx">안읽고리뷰하기-베스트셀러 1위, 박근혜 옥중서간록</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtElx">출간 즉시 베스트셀러 1위, 박근혜 옥중서간록.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보이지 않는 빈곤 청년은 어디서 찾을 수 있나요 ? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -54,13 +61,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEG3">부업 부부업 부부부업</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[적시자, 취하자, 미치자! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/PvtpO9</id>
-        <link href="https://alook.so/posts/PvtpO9"/>
-        <updated>2022-01-07T06:13:52.347Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpO9">적시자, 취하자, 미치자!</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[다시 손잡은 윤석열-이준석... 그런데 ‘000’은요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/kZtmn0</id>
         <link href="https://alook.so/posts/kZtmn0"/>
@@ -75,18 +75,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMGM">법원, 방역패스 ALL STOP?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/RGtx05</id>
-        <link href="https://alook.so/posts/RGtx05"/>
-        <updated>2022-01-07T02:07:51.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx05">코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘오징어 게임’ 골든글로브 불참 선언, 왜? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/LKtWBv</id>
         <link href="https://alook.so/posts/LKtWBv"/>
         <updated>2022-01-07T02:07:51.480Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWBv">‘오징어 게임’ 골든글로브 불참 선언, 왜?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/RGtx05</id>
+        <link href="https://alook.so/posts/RGtx05"/>
+        <updated>2022-01-07T02:07:51.473Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx05">코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탈모에 대한 단상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -152,18 +152,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPBy">희소가치가 된 "좋아요"</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[그런데 ‘2030 여성’은요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/rDt09B</id>
+        <link href="https://alook.so/posts/rDt09B"/>
+        <updated>2022-01-07T12:17:51.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt09B">그런데 ‘2030 여성’은요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[출간 즉시 베스트셀러 1위, 박근혜 옥중서간록. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtElx</id>
+        <link href="https://alook.so/posts/bWtElx"/>
+        <updated>2022-01-07T10:12:38.220Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtElx">출간 즉시 베스트셀러 1위, 박근혜 옥중서간록.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가족이 부담스러웠던 기억 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/4Xt4W7</id>
         <link href="https://alook.so/posts/4Xt4W7"/>
         <updated>2022-01-07T03:14:55.962Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4W7">가족이 부담스러웠던 기억</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쪽방촌 계급사회와 인간의 존엄 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/OEtKVG</id>
-        <link href="https://alook.so/posts/OEtKVG"/>
-        <updated>2022-01-07T11:09:51.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKVG">쪽방촌 계급사회와 인간의 존엄</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다 (alookso ─ alookso)]]></title>
