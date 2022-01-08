@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-08T15:13:27.867Z</updated>
+    <updated>2022-01-08T16:17:49.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[몰입하라 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -171,13 +171,6 @@
         <link href="https://alook.so/posts/potmxV"/>
         <updated>2022-01-08T13:19:36.968Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmxV">세상은 엿같고, 핏줄은 더럽게 아프다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부업 부부업 부부부업 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtEG3</id>
-        <link href="https://alook.so/posts/eVtEG3"/>
-        <updated>2022-01-08T13:19:36.992Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEG3">부업 부부업 부부부업</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다 (alookso ─ alookso)]]></title>
