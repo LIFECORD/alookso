@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-08T19:11:27.018Z</updated>
+    <updated>2022-01-08T20:13:37.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[국내 첫 코로나 확진 임산부 출산후 사망 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7tXmO</id>
+        <link href="https://alook.so/posts/E7tXmO"/>
+        <updated>2022-01-08T20:11:29.801Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXmO">국내 첫 코로나 확진 임산부 출산후 사망</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 사회의 약자는 "청년"입니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/KmtWqr</id>
@@ -47,74 +54,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtz88">기술, 난 진짜 무서워</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직장인이라면 한번쯤은 걱정 하지 않을까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70tYJw</id>
-        <link href="https://alook.so/posts/70tYJw"/>
-        <updated>2022-01-08T08:13:16.355Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYJw">직장인이라면 한번쯤은 걱정 하지 않을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/lato8y</id>
-        <link href="https://alook.so/posts/lato8y"/>
-        <updated>2022-01-08T07:10:50.975Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lato8y">"방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선거는 차악을 뽑는 거라며? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tEVz</id>
-        <link href="https://alook.so/posts/o7tEVz"/>
-        <updated>2022-01-07T16:16:22.985Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEVz">선거는 차악을 뽑는 거라며?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7tXmw</id>
-        <link href="https://alook.so/posts/E7tXmw"/>
-        <updated>2022-01-08T08:13:16.358Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXmw">전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 손잡은 윤석열-이준석... 그런데 ‘000’은요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/kZtmn0</id>
-        <link href="https://alook.so/posts/kZtmn0"/>
-        <updated>2022-01-07T02:07:51.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmn0">다시 손잡은 윤석열-이준석... 그런데 ‘000’은요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브레이크가 있는지 비관적인 생각이 듭니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt49E</id>
-        <link href="https://alook.so/posts/Djt49E"/>
-        <updated>2022-01-07T17:21:08.905Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt49E">브레이크가 있는지 비관적인 생각이 듭니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그런데 ‘2030 여성’은요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/rDt09B</id>
-        <link href="https://alook.so/posts/rDt09B"/>
-        <updated>2022-01-07T12:17:51.427Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt09B">그런데 ‘2030 여성’은요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈모에 대한 단상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Vnta91</id>
-        <link href="https://alook.so/posts/Vnta91"/>
-        <updated>2022-01-08T19:09:20.777Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta91">탈모에 대한 단상</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신 접종을 권장하고 "설득"하는 것은 정부의 역할입니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/jdtEGY</id>
-        <link href="https://alook.so/posts/jdtEGY"/>
-        <updated>2022-01-07T12:17:51.428Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEGY">백신 접종을 권장하고 "설득"하는 것은 정부의 역할입니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법원, 방역패스 ALL STOP? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/BatMGM</id>
-        <link href="https://alook.so/posts/BatMGM"/>
-        <updated>2022-01-07T02:07:51.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMGM">법원, 방역패스 ALL STOP?</a>]]></content>
+        <title type="html"><![CDATA[우리 사회의 약자는 "청년"입니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/KmtWqr</id>
+        <link href="https://alook.so/posts/KmtWqr"/>
+        <updated>2022-01-08T18:12:22.278Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWqr">우리 사회의 약자는 "청년"입니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[감사합니다.2 (가시나무) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -124,46 +68,95 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjVj">감사합니다.2 (가시나무)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘오징어 게임’ 골든글로브 불참 선언, 왜? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/LKtWBv</id>
-        <link href="https://alook.so/posts/LKtWBv"/>
-        <updated>2022-01-07T02:07:51.480Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWBv">‘오징어 게임’ 골든글로브 불참 선언, 왜?</a>]]></content>
+        <title type="html"><![CDATA[몰입하라 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/54tE9d</id>
+        <link href="https://alook.so/posts/54tE9d"/>
+        <updated>2022-01-08T15:11:17.031Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tE9d">몰입하라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[적시자, 취하자, 미치자! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/PvtpO9</id>
-        <link href="https://alook.so/posts/PvtpO9"/>
-        <updated>2022-01-08T19:09:20.786Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtpO9">적시자, 취하자, 미치자!</a>]]></content>
+        <title type="html"><![CDATA[개고기 식용, 어떤 것이 옳은 것인가? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1tW7b</id>
+        <link href="https://alook.so/posts/q1tW7b"/>
+        <updated>2022-01-08T15:11:17.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW7b">개고기 식용, 어떤 것이 옳은 것인가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/RGtx05</id>
-        <link href="https://alook.so/posts/RGtx05"/>
-        <updated>2022-01-07T02:07:51.473Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx05">코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다</a>]]></content>
+        <title type="html"><![CDATA[불황은 다가오는가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djt49x</id>
+        <link href="https://alook.so/posts/Djt49x"/>
+        <updated>2022-01-08T15:11:17.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt49x">불황은 다가오는가 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아 공수부대는 카자흐스탄에서 당장 철수하라! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/zvtqer</id>
-        <link href="https://alook.so/posts/zvtqer"/>
-        <updated>2022-01-08T19:09:20.788Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqer">러시아 공수부대는 카자흐스탄에서 당장 철수하라! </a>]]></content>
+        <title type="html"><![CDATA[기술, 난 진짜 무서워 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/1Rtz88</id>
+        <link href="https://alook.so/posts/1Rtz88"/>
+        <updated>2022-01-08T15:11:17.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtz88">기술, 난 진짜 무서워</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출간 즉시 베스트셀러 1위, 박근혜 옥중서간록?! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtElx</id>
-        <link href="https://alook.so/posts/bWtElx"/>
-        <updated>2022-01-07T10:12:38.220Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtElx">출간 즉시 베스트셀러 1위, 박근혜 옥중서간록?!</a>]]></content>
+        <title type="html"><![CDATA[직장인이라면 한번쯤은 걱정 하지 않을까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/70tYJw</id>
+        <link href="https://alook.so/posts/70tYJw"/>
+        <updated>2022-01-08T08:13:16.355Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYJw">직장인이라면 한번쯤은 걱정 하지 않을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리 사회의 약자는 "청년"입니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/KmtWqr</id>
-        <link href="https://alook.so/posts/KmtWqr"/>
-        <updated>2022-01-08T18:12:22.278Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWqr">우리 사회의 약자는 "청년"입니다.</a>]]></content>
+        <title type="html"><![CDATA[비용도 중요하지만 현재 군인 모집 방식부터 변화해야 하지 않을까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/YytLGE</id>
+        <link href="https://alook.so/posts/YytLGE"/>
+        <updated>2022-01-08T20:11:37.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLGE">비용도 중요하지만 현재 군인 모집 방식부터 변화해야 하지 않을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/E7tXmw</id>
+        <link href="https://alook.so/posts/E7tXmw"/>
+        <updated>2022-01-08T08:13:16.358Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXmw">전역 기념, 첫 부산 방문 (22/01/06 ~ 22/01/08)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/lato8y</id>
+        <link href="https://alook.so/posts/lato8y"/>
+        <updated>2022-01-08T07:10:50.975Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lato8y">"방역패스의 공익적 목적이 무엇일까요?" 이 질문에서부터 시작해야 합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새해 만둣국 멘트로 인종차별 당한 한국계 미국 앵커, 그리고 반전 상황 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/92tkqJ</id>
+        <link href="https://alook.so/posts/92tkqJ"/>
+        <updated>2022-01-08T20:11:37.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkqJ">새해 만둣국 멘트로 인종차별 당한 한국계 미국 앵커, 그리고 반전 상황</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유독 더 불행을 말하는 한국의 10대 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1tW7G</id>
+        <link href="https://alook.so/posts/q1tW7G"/>
+        <updated>2022-01-08T20:11:37.563Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW7G">유독 더 불행을 말하는 한국의 10대</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브레이크가 있는지 비관적인 생각이 듭니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djt49E</id>
+        <link href="https://alook.so/posts/Djt49E"/>
+        <updated>2022-01-07T17:21:08.905Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt49E">브레이크가 있는지 비관적인 생각이 듭니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선거는 차악을 뽑는 거라며? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/o7tEVz</id>
+        <link href="https://alook.so/posts/o7tEVz"/>
+        <updated>2022-01-07T16:16:22.985Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEVz">선거는 차악을 뽑는 거라며?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈모으는 짠테크에 꽂혔어요! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/70tYz4</id>
+        <link href="https://alook.so/posts/70tYz4"/>
+        <updated>2022-01-08T20:11:37.567Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYz4">돈모으는 짠테크에 꽂혔어요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나로 폐업한 자영업자, 이제 임대계약 중도해지 할 수 있다 (alookso ─ alookso)]]></title>
