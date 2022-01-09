@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-09T08:15:47.209Z</updated>
+    <updated>2022-01-09T09:13:11.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[“가족” 영원한 내 편]]></title>
+        <id>https://alook.so/posts/WLtYqV</id>
+        <link href="https://alook.so/posts/WLtYqV"/>
+        <updated>2022-01-09T09:11:01.861Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYqV">“가족” 영원한 내 편</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주4일제는 국내 도입 가능한가]]></title>
         <id>https://alook.so/posts/0ktel3</id>
