@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-09T06:15:19.530Z</updated>
+    <updated>2022-01-09T07:13:09.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’]]></title>
+        <id>https://alook.so/posts/4Xt4yJ</id>
+        <link href="https://alook.so/posts/4Xt4yJ"/>
+        <updated>2022-01-09T07:11:09.374Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4yJ">돈 룩 업 – 현 체제와 지배자들에 대한 처절한 ‘똥침’ </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나 확진과 회복 후기]]></title>
         <id>https://alook.so/posts/XBtbk7</id>
@@ -88,12 +95,5 @@
         <link href="https://alook.so/posts/q1tW7b"/>
         <updated>2022-01-09T06:13:22.245Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW7b">개고기 식용, 어떤 것이 옳은 것인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불황은 다가오는가]]></title>
-        <id>https://alook.so/posts/Djt49x</id>
-        <link href="https://alook.so/posts/Djt49x"/>
-        <updated>2022-01-09T06:13:22.246Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt49x">불황은 다가오는가 </a>]]></content>
     </entry>
 </feed>
