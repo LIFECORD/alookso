@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-10T08:16:50.349Z</updated>
+    <updated>2022-01-10T09:14:16.819Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 기사공유-관종의 횃불]]></title>
+        <id>https://alook.so/posts/rDt0Ob</id>
+        <link href="https://alook.so/posts/rDt0Ob"/>
+        <updated>2022-01-10T09:12:13.196Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0Ob">답글: 기사공유-관종의 횃불</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대화, 가장 중요한 시작]]></title>
         <id>https://alook.so/posts/bWtE31</id>
         <link href="https://alook.so/posts/bWtE31"/>
         <updated>2022-01-10T08:14:41.594Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtE31">대화, 가장 중요한 시작</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터넷 결제하는법(미성년자 가능)]]></title>
-        <id>https://alook.so/posts/a0t05a</id>
-        <link href="https://alook.so/posts/a0t05a"/>
-        <updated>2022-01-10T08:14:41.595Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t05a">인터넷 결제하는법(미성년자 가능)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뉴질랜드 유학 후, 느꼈던 최고의 국뽕]]></title>
@@ -34,25 +34,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVP8">오영수 배우님의 골든글로브 남우조연상 수상을 축하합니다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[청소년들 카드 발급 하는법]]></title>
-        <id>https://alook.so/posts/potmj7</id>
-        <link href="https://alook.so/posts/potmj7"/>
-        <updated>2022-01-10T07:11:46.412Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potmj7">청소년들 카드 발급 하는법</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[캘리 시 일기]_ 아동 학대]]></title>
         <id>https://alook.so/posts/eVtE4x</id>
         <link href="https://alook.so/posts/eVtE4x"/>
         <updated>2022-01-10T07:11:46.413Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtE4x">[캘리 시 일기]_ 아동 학대</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청소년들 카드를 소지해도 될까?]]></title>
-        <id>https://alook.so/posts/Pvtp74</id>
-        <link href="https://alook.so/posts/Pvtp74"/>
-        <updated>2022-01-10T07:11:46.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtp74">청소년들 카드를 소지해도 될까? </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 유선 이어폰의 장점]]></title>
