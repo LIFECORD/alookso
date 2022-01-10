@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-10T11:11:47.248Z</updated>
+    <updated>2022-01-10T12:19:55.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[청년이 모두 사회의 약자는 아닙니다.]]></title>
+        <id>https://alook.so/posts/o7tExV</id>
+        <link href="https://alook.so/posts/o7tExV"/>
+        <updated>2022-01-10T12:17:50.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tExV">청년이 모두 사회의 약자는 아닙니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이슬람 최대 행사 '하즈', 거리두기 가능한가요?]]></title>
         <id>https://alook.so/posts/70tYlw</id>
@@ -95,12 +102,5 @@
         <link href="https://alook.so/posts/6Mt9RX"/>
         <updated>2022-01-10T02:43:25.464Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9RX">법전 밖 인터넷에서 표현의 자유란?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 속 사립초 입학경쟁률 11대 1 돌파 - 경제격차가 교육격차로]]></title>
-        <id>https://alook.so/posts/njtVyj</id>
-        <link href="https://alook.so/posts/njtVyj"/>
-        <updated>2022-01-10T02:43:25.465Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtVyj">코로나19 속 사립초 입학경쟁률 11대 1 돌파 - 경제격차가 교육격차로</a>]]></content>
     </entry>
 </feed>
