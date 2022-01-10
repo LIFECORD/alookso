@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-10T19:11:25.227Z</updated>
+    <updated>2022-01-10T20:13:00.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[칠레 면역저하자 4차 접종 시작 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/70tYlW</id>
+        <link href="https://alook.so/posts/70tYlW"/>
+        <updated>2022-01-10T20:10:56.502Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYlW">칠레 면역저하자 4차 접종 시작</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부부란 뭘까?? (회의감 느끼는 날) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/YytLBr</id>
+        <link href="https://alook.so/posts/YytLBr"/>
+        <updated>2022-01-10T20:10:56.503Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLBr">부부란 뭘까?? (회의감 느끼는 날)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프라이팬에 눌어붙은 양념 1분만에 제거하기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/E7tX2O</id>
@@ -52,20 +66,6 @@
         <link href="https://alook.so/posts/1Rtzr8"/>
         <updated>2022-01-10T12:17:42.274Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtzr8">2022예산을 바탕으로 살펴보는 ‘여가부 폐지 공약’</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년이 모두 사회의 약자는 아닙니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/o7tExV</id>
-        <link href="https://alook.so/posts/o7tExV"/>
-        <updated>2022-01-10T12:17:42.278Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tExV">청년이 모두 사회의 약자는 아닙니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이슬람 최대 행사 '하즈', 거리두기 가능한가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70tYlw</id>
-        <link href="https://alook.so/posts/70tYlw"/>
-        <updated>2022-01-10T10:12:47.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYlw">이슬람 최대 행사 '하즈', 거리두기 가능한가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오징어게임 관계자들 미국 시상식 불참 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
