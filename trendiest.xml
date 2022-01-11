@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-11T15:14:15.615Z</updated>
+    <updated>2022-01-11T16:18:48.967Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[댓글과 답글]]></title>
+        <id>https://alook.so/posts/zvtqb4</id>
+        <link href="https://alook.so/posts/zvtqb4"/>
+        <updated>2022-01-11T16:16:49.946Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqb4">댓글과 답글</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백신은 효과적입니다. 접종 여부에 관계없이 모두가 부담하면 됩니다.]]></title>
         <id>https://alook.so/posts/M9tX23</id>
@@ -102,12 +109,5 @@
         <link href="https://alook.so/posts/mbtjbv"/>
         <updated>2022-01-11T15:12:21.031Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjbv">피해자가 가족이라도 사람들은 집행을 반대할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['이한열 엄마'에서 '민주 운동가'로... 배은심 여사 떠나다]]></title>
-        <id>https://alook.so/posts/q1tWbz</id>
-        <link href="https://alook.so/posts/q1tWbz"/>
-        <updated>2022-01-11T02:03:03.142Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWbz">'이한열 엄마'에서 '민주 운동가'로... 배은심 여사 떠나다</a>]]></content>
     </entry>
 </feed>
