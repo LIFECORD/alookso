@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-11T16:18:48.967Z</updated>
+    <updated>2022-01-11T17:23:37.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[백신 미접종차 치료비 문제]]></title>
+        <id>https://alook.so/posts/dztlKl</id>
+        <link href="https://alook.so/posts/dztlKl"/>
+        <updated>2022-01-11T17:21:42.422Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztlKl">백신 미접종차 치료비 문제 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오징어게임 오영수 골든글로브 남우조연상 수상]]></title>
+        <id>https://alook.so/posts/potm9j</id>
+        <link href="https://alook.so/posts/potm9j"/>
+        <updated>2022-01-11T17:21:42.424Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm9j">오징어게임 오영수 골든글로브 남우조연상 수상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PD수첩, 청년들의 내집마련 고군분투기]]></title>
+        <id>https://alook.so/posts/Pvtp5W</id>
+        <link href="https://alook.so/posts/Pvtp5W"/>
+        <updated>2022-01-11T17:21:42.425Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtp5W"> PD수첩, 청년들의 내집마련 고군분투기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기술 발전이 일자리에 영향을 미칠까?]]></title>
+        <id>https://alook.so/posts/Vntak9</id>
+        <link href="https://alook.so/posts/Vntak9"/>
+        <updated>2022-01-11T17:21:42.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntak9">기술 발전이 일자리에 영향을 미칠까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[댓글과 답글]]></title>
         <id>https://alook.so/posts/zvtqb4</id>
         <link href="https://alook.so/posts/zvtqb4"/>
         <updated>2022-01-11T16:16:49.946Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtqb4">댓글과 답글</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돼지 심장, 사람에 이식 세계 첫 성공]]></title>
+        <id>https://alook.so/posts/2xt9B7</id>
+        <link href="https://alook.so/posts/2xt9B7"/>
+        <updated>2022-01-11T17:21:42.429Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9B7">돼지 심장, 사람에 이식 세계 첫 성공</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백신은 효과적입니다. 접종 여부에 관계없이 모두가 부담하면 됩니다.]]></title>
@@ -81,33 +116,5 @@
         <link href="https://alook.so/posts/92tk4v"/>
         <updated>2022-01-11T15:12:21.026Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk4v">[요즘 군대] '짬찼다'의 기준, 2022년 군대의 상병은?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수능 킬러문항 없애면 뭐가 달라질까?]]></title>
-        <id>https://alook.so/posts/Djt4Kw</id>
-        <link href="https://alook.so/posts/Djt4Kw"/>
-        <updated>2022-01-11T02:03:03.140Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4Kw">수능 킬러문항 없애면 뭐가 달라질까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 우리 주식 시장은.. “혼란하다 혼란해”]]></title>
-        <id>https://alook.so/posts/92tk4o</id>
-        <link href="https://alook.so/posts/92tk4o"/>
-        <updated>2022-01-11T03:14:01.615Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tk4o">지금 우리 주식 시장은.. “혼란하다 혼란해”</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[셧다운제 10년 만의 폐지, 정말 폐지된 게 맞나?]]></title>
-        <id>https://alook.so/posts/54tEMO</id>
-        <link href="https://alook.so/posts/54tEMO"/>
-        <updated>2022-01-11T02:03:03.141Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEMO">셧다운제 10년 만의 폐지, 정말 폐지된 게 맞나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피해자가 가족이라도 사람들은 집행을 반대할까?]]></title>
-        <id>https://alook.so/posts/mbtjbv</id>
-        <link href="https://alook.so/posts/mbtjbv"/>
-        <updated>2022-01-11T15:12:21.031Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjbv">피해자가 가족이라도 사람들은 집행을 반대할까?</a>]]></content>
     </entry>
 </feed>
