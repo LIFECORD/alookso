@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-12T15:14:24.121Z</updated>
+    <updated>2022-01-12T16:18:41.117Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[강아지 목줄 당겨 요요처럼... 학대범 찾습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/8WtjrP</id>
+        <link href="https://alook.so/posts/8WtjrP"/>
+        <updated>2022-01-12T16:16:36.751Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtjrP">강아지 목줄 당겨 요요처럼... 학대범 찾습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가짜같은 삶의 순간 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/OEtKXD</id>
@@ -50,7 +57,7 @@
         <title type="html"><![CDATA[답글: 경(黥) 치지 말고 브랜드로 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/vKtqr4</id>
         <link href="https://alook.so/posts/vKtqr4"/>
-        <updated>2022-01-12T15:12:16.323Z</updated>
+        <updated>2022-01-12T15:12:05.463Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqr4">답글: 경(黥) 치지 말고 브랜드로</a>]]></content>
     </entry>
     <entry>
