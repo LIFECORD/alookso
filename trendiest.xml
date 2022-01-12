@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-12T00:41:27.413Z</updated>
+    <updated>2022-01-12T02:04:15.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWbz">'이한열 엄마'에서 '민주 운동가'로... 배은심 여사 떠나다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[백신은 효과적입니다. 접종 여부에 관계없이 모두가 부담하면 됩니다.]]></title>
+        <id>https://alook.so/posts/M9tX23</id>
+        <link href="https://alook.so/posts/M9tX23"/>
+        <updated>2022-01-11T22:12:43.139Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX23">백신은 효과적입니다. 접종 여부에 관계없이 모두가 부담하면 됩니다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[수능 킬러문항 없애면 뭐가 달라질까?]]></title>
         <id>https://alook.so/posts/Djt4Kw</id>
         <link href="https://alook.so/posts/Djt4Kw"/>
@@ -39,13 +46,6 @@
         <link href="https://alook.so/posts/1Rtzrq"/>
         <updated>2022-01-12T00:39:29.781Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtzrq">백신 미접종자의 코로나 치료비, 누가 내야 할까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신은 효과적입니다. 접종 여부에 관계없이 모두가 부담하면 됩니다.]]></title>
-        <id>https://alook.so/posts/M9tX23</id>
-        <link href="https://alook.so/posts/M9tX23"/>
-        <updated>2022-01-11T22:12:43.139Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tX23">백신은 효과적입니다. 접종 여부에 관계없이 모두가 부담하면 됩니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[댓글과 답글]]></title>
