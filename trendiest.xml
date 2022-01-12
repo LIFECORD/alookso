@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-12T14:13:20.488Z</updated>
+    <updated>2022-01-12T15:14:24.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 경(黥) 치지 말고 브랜드로]]></title>
+        <id>https://alook.so/posts/vKtqr4</id>
+        <link href="https://alook.so/posts/vKtqr4"/>
+        <updated>2022-01-12T15:12:16.323Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqr4">답글: 경(黥) 치지 말고 브랜드로</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[혐오조장과 선동 이상도 이하도 아닙니다.]]></title>
         <id>https://alook.so/posts/E7tXzM</id>
@@ -109,12 +116,5 @@
         <link href="https://alook.so/posts/Pvtp5W"/>
         <updated>2022-01-12T13:21:07.472Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtp5W"> PD수첩, 청년들의 내집마련 고군분투기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기술 발전이 일자리에 영향을 미칠까?]]></title>
-        <id>https://alook.so/posts/Vntak9</id>
-        <link href="https://alook.so/posts/Vntak9"/>
-        <updated>2022-01-12T13:21:07.474Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntak9">기술 발전이 일자리에 영향을 미칠까?</a>]]></content>
     </entry>
 </feed>
