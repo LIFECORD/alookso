@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-13T18:15:21.944Z</updated>
+    <updated>2022-01-13T19:11:49.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[아이들과 함께한다는 것 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -68,6 +68,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt11y">손 끝으로 보는 친구 얼굴</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: 또 '콩' 때문이라는 '별' 난 세상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtEEk</id>
+        <link href="https://alook.so/posts/bWtEEk"/>
+        <updated>2022-01-13T07:11:29.677Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEEk">답글: 또 '콩' 때문이라는 '별' 난 세상</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[열린 재정 아닌 닫힌 재정(feat. 기획재정부) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/rDt00D</id>
         <link href="https://alook.so/posts/rDt00D"/>
@@ -80,13 +87,6 @@
         <link href="https://alook.so/posts/vKtqr4"/>
         <updated>2022-01-13T18:13:26.810Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqr4">답글: 경(黥) 치지 말고 브랜드로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 또 '콩' 때문이라는 '별' 난 세상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtEEk</id>
-        <link href="https://alook.so/posts/bWtEEk"/>
-        <updated>2022-01-13T07:11:29.677Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEEk">답글: 또 '콩' 때문이라는 '별' 난 세상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 국군장병은 위문을 바란 적이 있을까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -159,6 +159,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEdO">[카우레터] 커피 가격은 왜 올랐을까?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[팀장님. 저는 차를 바꾸지 않겠습니다! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/jdtEEZ</id>
+        <link href="https://alook.so/posts/jdtEEZ"/>
+        <updated>2022-01-13T07:11:29.675Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEEZ">팀장님. 저는 차를 바꾸지 않겠습니다!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[아이 키우기, 단순히 부모만 잘하면 되는걸까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/KmtWMz</id>
         <link href="https://alook.so/posts/KmtWMz"/>
@@ -171,13 +178,6 @@
         <link href="https://alook.so/posts/a0t0M1"/>
         <updated>2022-01-13T18:13:26.823Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0M1">자의식과 어른스러움</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팀장님. 저는 차를 바꾸지 않겠습니다! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/jdtEEZ</id>
-        <link href="https://alook.so/posts/jdtEEZ"/>
-        <updated>2022-01-13T07:11:29.675Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEEZ">팀장님. 저는 차를 바꾸지 않겠습니다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[10대 여고생이 20대 군인에게 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
