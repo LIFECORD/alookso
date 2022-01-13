@@ -2,57 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-13T03:15:36.958Z</updated>
+    <updated>2022-01-13T04:16:31.022Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[‘EU 기준’ 한국에도 적용할 수 있을까]]></title>
-        <id>https://alook.so/posts/M9tXX3</id>
-        <link href="https://alook.so/posts/M9tXX3"/>
-        <updated>2022-01-13T03:13:49.437Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXX3">‘EU 기준’ 한국에도 적용할 수 있을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손 끝으로 보는 친구 얼굴]]></title>
-        <id>https://alook.so/posts/xlt11y</id>
-        <link href="https://alook.so/posts/xlt11y"/>
-        <updated>2022-01-13T03:13:49.449Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt11y">손 끝으로 보는 친구 얼굴</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탈퇴한 얼룩커]]></title>
-        <id>https://alook.so/posts/yEtbrR</id>
-        <link href="https://alook.so/posts/yEtbrR"/>
-        <updated>2022-01-13T00:41:13.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbrR">탈퇴한 얼룩커</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["넌 시험이랑 상관없는 책만 읽네"]]></title>
-        <id>https://alook.so/posts/6Mt958</id>
-        <link href="https://alook.so/posts/6Mt958"/>
-        <updated>2022-01-13T00:41:13.657Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt958">"넌 시험이랑 상관없는 책만 읽네"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가짜같은 삶의 순간]]></title>
-        <id>https://alook.so/posts/OEtKXD</id>
-        <link href="https://alook.so/posts/OEtKXD"/>
-        <updated>2022-01-12T21:10:26.575Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKXD">가짜같은 삶의 순간</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 경(黥) 치지 말고 브랜드로]]></title>
         <id>https://alook.so/posts/vKtqr4</id>
         <link href="https://alook.so/posts/vKtqr4"/>
         <updated>2022-01-12T15:12:16.323Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqr4">답글: 경(黥) 치지 말고 브랜드로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혐오조장과 선동 이상도 이하도 아닙니다.]]></title>
-        <id>https://alook.so/posts/E7tXzM</id>
-        <link href="https://alook.so/posts/E7tXzM"/>
-        <updated>2022-01-12T13:21:07.458Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXzM">혐오조장과 선동 이상도 이하도 아닙니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🧭인플레이션이 뭐가 어쨌다는 건데?]]></title>
@@ -62,11 +20,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoVK">🧭인플레이션이 뭐가 어쨌다는 건데? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이 키우기, 단순히 부모만 잘하면 되는걸까?]]></title>
-        <id>https://alook.so/posts/KmtWMz</id>
-        <link href="https://alook.so/posts/KmtWMz"/>
-        <updated>2022-01-12T10:12:34.706Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWMz">아이 키우기, 단순히 부모만 잘하면 되는걸까?</a>]]></content>
+        <title type="html"><![CDATA[손 끝으로 보는 친구 얼굴]]></title>
+        <id>https://alook.so/posts/xlt11y</id>
+        <link href="https://alook.so/posts/xlt11y"/>
+        <updated>2022-01-13T03:13:49.449Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt11y">손 끝으로 보는 친구 얼굴</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혐오조장과 선동 이상도 이하도 아닙니다.]]></title>
+        <id>https://alook.so/posts/E7tXzM</id>
+        <link href="https://alook.so/posts/E7tXzM"/>
+        <updated>2022-01-12T13:21:07.458Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXzM">혐오조장과 선동 이상도 이하도 아닙니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[카우레터] 커피 가격은 왜 올랐을까?]]></title>
@@ -76,10 +41,73 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEdO">[카우레터] 커피 가격은 왜 올랐을까?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[아이 키우기, 단순히 부모만 잘하면 되는걸까?]]></title>
+        <id>https://alook.so/posts/KmtWMz</id>
+        <link href="https://alook.so/posts/KmtWMz"/>
+        <updated>2022-01-12T10:12:34.706Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWMz">아이 키우기, 단순히 부모만 잘하면 되는걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["넌 시험이랑 상관없는 책만 읽네"]]></title>
+        <id>https://alook.so/posts/6Mt958</id>
+        <link href="https://alook.so/posts/6Mt958"/>
+        <updated>2022-01-13T00:41:13.657Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt958">"넌 시험이랑 상관없는 책만 읽네"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자의식과 어른스러움]]></title>
+        <id>https://alook.so/posts/a0t0M1</id>
+        <link href="https://alook.so/posts/a0t0M1"/>
+        <updated>2022-01-13T04:14:34.020Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0M1">자의식과 어른스러움</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간의 '최첨단 쉼터'에 새들이 머리를 부딪친다]]></title>
+        <id>https://alook.so/posts/o7tEw2</id>
+        <link href="https://alook.so/posts/o7tEw2"/>
+        <updated>2022-01-13T04:14:34.020Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEw2">인간의 '최첨단 쉼터'에 새들이 머리를 부딪친다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘타투 합법화’ 이재명 공약, 알고 보면 (feat.류호정)]]></title>
+        <id>https://alook.so/posts/YytLbr</id>
+        <link href="https://alook.so/posts/YytLbr"/>
+        <updated>2022-01-13T04:14:34.022Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLbr">‘타투 합법화’ 이재명 공약, 알고 보면 (feat.류호정)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘EU 기준’ 한국에도 적용할 수 있을까]]></title>
+        <id>https://alook.so/posts/M9tXX3</id>
+        <link href="https://alook.so/posts/M9tXX3"/>
+        <updated>2022-01-13T03:13:49.437Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXX3">‘EU 기준’ 한국에도 적용할 수 있을까</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[의사vs간호사, ‘간호법’을 두고 나뉜 의료계]]></title>
         <id>https://alook.so/posts/ZktP01</id>
         <link href="https://alook.so/posts/ZktP01"/>
         <updated>2022-01-12T03:13:48.496Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktP01">의사vs간호사, ‘간호법’을 두고 나뉜 의료계 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[낙태죄 폐지 그후, “성·재생산권을  보장하라”]]></title>
+        <id>https://alook.so/posts/70tYMW</id>
+        <link href="https://alook.so/posts/70tYMW"/>
+        <updated>2022-01-13T04:14:34.029Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYMW">낙태죄 폐지 그후, “성·재생산권을  보장하라”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 개 사과 말고, 고양이(CAT) 사과]]></title>
+        <id>https://alook.so/posts/rDt0jD</id>
+        <link href="https://alook.so/posts/rDt0jD"/>
+        <updated>2022-01-13T04:14:34.029Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0jD">답글: 개 사과 말고, 고양이(CAT) 사과</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용진이형, 그럼 이마트 주주는 "멸룡"해도 돼요?]]></title>
+        <id>https://alook.so/posts/G1tqaB</id>
+        <link href="https://alook.so/posts/G1tqaB"/>
+        <updated>2022-01-13T04:14:34.029Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqaB">용진이형, 그럼 이마트 주주는 "멸룡"해도 돼요? </a>]]></content>
     </entry>
 </feed>
