@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-13T00:43:11.293Z</updated>
+    <updated>2022-01-13T02:07:16.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[10대 여고생이 20대 군인에게 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/WLtYYa</id>
+        <link href="https://alook.so/posts/WLtYYa"/>
+        <updated>2022-01-13T02:05:02.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYYa">10대 여고생이 20대 군인에게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산재 첫 인정, 전자산업 청소노동자의 암 발병 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/0kteeJ</id>
+        <link href="https://alook.so/posts/0kteeJ"/>
+        <updated>2022-01-13T02:05:02.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteeJ">산재 첫 인정, 전자산업 청소노동자의 암 발병</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘EU 기준’ 한국에도 적용할 수 있을까 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/M9tXX3</id>
+        <link href="https://alook.so/posts/M9tXX3"/>
+        <updated>2022-01-13T02:05:02.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXX3">‘EU 기준’ 한국에도 적용할 수 있을까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지하철역에 회사 이름 더 넣는다고? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/XBtbb3</id>
+        <link href="https://alook.so/posts/XBtbb3"/>
+        <updated>2022-01-13T02:05:02.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbb3">지하철역에 회사 이름 더 넣는다고?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손 끝으로 보는 친구 얼굴 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xlt11y</id>
+        <link href="https://alook.so/posts/xlt11y"/>
+        <updated>2022-01-13T02:05:02.865Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt11y">손 끝으로 보는 친구 얼굴</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[탈퇴한 얼룩커 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/yEtbrR</id>
@@ -17,41 +52,6 @@
         <link href="https://alook.so/posts/BatMZ6"/>
         <updated>2022-01-12T20:12:07.393Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMZ6">한국 10대들이 불행한 이유를 설명 해보겠습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['주 4일제' 지금 현재로는 힘들다고 생각합니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/LKtWv9</id>
-        <link href="https://alook.so/posts/LKtWv9"/>
-        <updated>2022-01-12T20:12:07.396Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWv9">'주 4일제' 지금 현재로는 힘들다고 생각합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 인생은 나 자신이 사는것 입니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/njtV5P</id>
-        <link href="https://alook.so/posts/njtV5P"/>
-        <updated>2022-01-12T20:12:07.397Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtV5P">나의 인생은 나 자신이 사는것 입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["넌 시험이랑 상관없는 책만 읽네" (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/6Mt958</id>
-        <link href="https://alook.so/posts/6Mt958"/>
-        <updated>2022-01-12T18:13:22.077Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt958">"넌 시험이랑 상관없는 책만 읽네"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강아지 목줄 당겨 요요처럼... 학대범 찾습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/8WtjrP</id>
-        <link href="https://alook.so/posts/8WtjrP"/>
-        <updated>2022-01-12T16:16:36.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtjrP">강아지 목줄 당겨 요요처럼... 학대범 찾습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가짜같은 삶의 순간 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/OEtKXD</id>
-        <link href="https://alook.so/posts/OEtKXD"/>
-        <updated>2022-01-12T15:12:05.459Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKXD">가짜같은 삶의 순간</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[탈퇴한 얼룩커 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -143,13 +143,6 @@
         <link href="https://alook.so/posts/1Rtzaq"/>
         <updated>2022-01-12T03:13:40.597Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtzaq">대우조선해양 주인 찾기, 이번에도 실패?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 개 사과 말고, 고양이(CAT) 사과 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/rDt0jD</id>
-        <link href="https://alook.so/posts/rDt0jD"/>
-        <updated>2022-01-12T03:13:40.602Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0jD">답글: 개 사과 말고, 고양이(CAT) 사과</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인간의 '최첨단 쉼터'에 새들이 머리를 부딪친다 (alookso ─ alookso)]]></title>
@@ -689,6 +682,13 @@
         <link href="https://alook.so/posts/potWbr"/>
         <updated>2021-12-20T11:23:30.917Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potWbr">우리나라의 2030년까지의 온실가스감축목표를 논의하는 공개 토론회가 열립니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손 끝으로 보는 친구 얼굴 (alookso ─ 권승준)]]></title>
+        <id>https://alook.so/posts/xlt11y</id>
+        <link href="https://alook.so/posts/xlt11y"/>
+        <updated>2022-01-13T02:06:57.068Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt11y">손 끝으로 보는 친구 얼굴</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대우조선해양 주인 찾기, 이번에도 실패? (alookso ─ 권승준)]]></title>
