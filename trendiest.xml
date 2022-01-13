@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-13T15:13:53.976Z</updated>
+    <updated>2022-01-13T16:18:51.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/xlt11y"/>
         <updated>2022-01-13T03:13:49.449Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt11y">손 끝으로 보는 친구 얼굴</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열린 재정 아닌 닫힌 재정(feat. 기획재정부)]]></title>
+        <id>https://alook.so/posts/rDt00D</id>
+        <link href="https://alook.so/posts/rDt00D"/>
+        <updated>2022-01-13T09:12:18.844Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt00D">열린 재정 아닌 닫힌 재정(feat. 기획재정부)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 경(黥) 치지 말고 브랜드로]]></title>
@@ -111,17 +118,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEEZ">팀장님. 저는 차를 바꾸지 않겠습니다!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[10대 여고생이 20대 군인에게]]></title>
+        <id>https://alook.so/posts/WLtYYa</id>
+        <link href="https://alook.so/posts/WLtYYa"/>
+        <updated>2022-01-13T16:16:51.934Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYYa">10대 여고생이 20대 군인에게</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[지하철역에 회사 이름 더 넣는다고?]]></title>
         <id>https://alook.so/posts/XBtbb3</id>
         <link href="https://alook.so/posts/XBtbb3"/>
         <updated>2022-01-13T08:15:17.010Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtbb3">지하철역에 회사 이름 더 넣는다고?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[열린 재정 아닌 닫힌 재정(feat. 기획재정부)]]></title>
-        <id>https://alook.so/posts/rDt00D</id>
-        <link href="https://alook.so/posts/rDt00D"/>
-        <updated>2022-01-13T09:12:18.844Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt00D">열린 재정 아닌 닫힌 재정(feat. 기획재정부)</a>]]></content>
     </entry>
 </feed>
