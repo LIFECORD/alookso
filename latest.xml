@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-13T14:13:07.182Z</updated>
+    <updated>2022-01-13T15:13:53.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[취미로 폐지줍는 할머니...]]></title>
+        <id>https://alook.so/posts/KmtWWz</id>
+        <link href="https://alook.so/posts/KmtWWz"/>
+        <updated>2022-01-13T15:11:47.621Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWWz">취미로 폐지줍는 할머니... </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BMW 타는 환경미화원 해고 민원 봇물?]]></title>
+        <id>https://alook.so/posts/mbtjjv</id>
+        <link href="https://alook.so/posts/mbtjjv"/>
+        <updated>2022-01-13T15:11:47.628Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjjv">BMW 타는 환경미화원 해고 민원 봇물?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10대들은 왜 불행한가요?]]></title>
         <id>https://alook.so/posts/54tEEO</id>
@@ -46,12 +60,5 @@
         <link href="https://alook.so/posts/jdtEEZ"/>
         <updated>2022-01-13T07:11:29.675Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEEZ">팀장님. 저는 차를 바꾸지 않겠습니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 또 '콩' 때문이라는 '별' 난 세상]]></title>
-        <id>https://alook.so/posts/bWtEEk</id>
-        <link href="https://alook.so/posts/bWtEEk"/>
-        <updated>2022-01-13T07:11:29.677Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEEk">답글: 또 '콩' 때문이라는 '별' 난 세상</a>]]></content>
     </entry>
 </feed>
