@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-13T19:11:49.308Z</updated>
+    <updated>2022-01-13T20:14:17.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[편의점에서 시민 울린 남매 행동 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tEEP</id>
+        <link href="https://alook.so/posts/o7tEEP"/>
+        <updated>2022-01-13T20:12:12.618Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEEP">편의점에서 시민 울린 남매 행동</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이들과 함께한다는 것 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/70tYYE</id>
