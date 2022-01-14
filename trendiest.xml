@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-14T09:15:11.217Z</updated>
+    <updated>2022-01-14T10:14:16.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -90,24 +90,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVVY">#멸공 챌린지 - 진정한 표적은 국외가 아니라 국내에 있다 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[일주일에 4시간만 일하래요!]]></title>
+        <id>https://alook.so/posts/J5tVmD</id>
+        <link href="https://alook.so/posts/J5tVmD"/>
+        <updated>2022-01-14T10:12:29.825Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVmD">일주일에 4시간만 일하래요!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[매일 새벽 5시, 요가로 시작합니다.]]></title>
         <id>https://alook.so/posts/Pvtpmz</id>
         <link href="https://alook.so/posts/Pvtpmz"/>
         <updated>2022-01-14T09:13:22.572Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpmz">매일 새벽 5시, 요가로 시작합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[손 끝으로 보는 친구 얼굴]]></title>
-        <id>https://alook.so/posts/xlt11y</id>
-        <link href="https://alook.so/posts/xlt11y"/>
-        <updated>2022-01-14T05:13:00.799Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt11y">손 끝으로 보는 친구 얼굴</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 국군장병은 위문을 바란 적이 있을까요?]]></title>
-        <id>https://alook.so/posts/o7tEE2</id>
-        <link href="https://alook.so/posts/o7tEE2"/>
-        <updated>2022-01-13T12:18:13.460Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEE2">답글: 국군장병은 위문을 바란 적이 있을까요?</a>]]></content>
     </entry>
 </feed>
