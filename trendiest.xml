@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-14T08:16:09.874Z</updated>
+    <updated>2022-01-14T09:15:11.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkR1">용진이형, '멸공' 드립 갑자기 사과한 까닭은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[카우레터] IEA 국제 에너지 데이터, 드디어 공개]]></title>
-        <id>https://alook.so/posts/KmtWW4</id>
-        <link href="https://alook.so/posts/KmtWW4"/>
-        <updated>2022-01-14T02:04:01.755Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWW4">[카우레터] IEA 국제 에너지 데이터, 드디어 공개</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘이대남’이 ‘이대녀’보다 33만명 더 많다고?]]></title>
         <id>https://alook.so/posts/E7tX89</id>
         <link href="https://alook.so/posts/E7tX89"/>
         <updated>2022-01-14T03:13:36.310Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tX89">‘이대남’이 ‘이대녀’보다 33만명 더 많다고?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[카우레터] IEA 국제 에너지 데이터, 드디어 공개]]></title>
+        <id>https://alook.so/posts/KmtWW4</id>
+        <link href="https://alook.so/posts/KmtWW4"/>
+        <updated>2022-01-14T02:04:01.755Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWW4">[카우레터] IEA 국제 에너지 데이터, 드디어 공개</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[열린 재정 아닌 닫힌 재정(feat. 기획재정부)]]></title>
@@ -62,6 +62,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjj5">“노동을 거부한다”,  미국의 현 상황</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[또 다시 떠나는 기분좋은 얼룩소 여행]]></title>
+        <id>https://alook.so/posts/0kteK0</id>
+        <link href="https://alook.so/posts/0kteK0"/>
+        <updated>2022-01-14T08:14:11.690Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteK0">또 다시 떠나는 기분좋은 얼룩소 여행</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[10대 여고생이 20대 군인에게]]></title>
         <id>https://alook.so/posts/WLtYYa</id>
         <link href="https://alook.so/posts/WLtYYa"/>
@@ -83,11 +90,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVVY">#멸공 챌린지 - 진정한 표적은 국외가 아니라 국내에 있다 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[또 다시 떠나는 기분좋은 얼룩소 여행]]></title>
-        <id>https://alook.so/posts/0kteK0</id>
-        <link href="https://alook.so/posts/0kteK0"/>
-        <updated>2022-01-14T08:14:11.690Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteK0">또 다시 떠나는 기분좋은 얼룩소 여행</a>]]></content>
+        <title type="html"><![CDATA[매일 새벽 5시, 요가로 시작합니다.]]></title>
+        <id>https://alook.so/posts/Pvtpmz</id>
+        <link href="https://alook.so/posts/Pvtpmz"/>
+        <updated>2022-01-14T09:13:22.572Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpmz">매일 새벽 5시, 요가로 시작합니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[손 끝으로 보는 친구 얼굴]]></title>
@@ -102,33 +109,5 @@
         <link href="https://alook.so/posts/o7tEE2"/>
         <updated>2022-01-13T12:18:13.460Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEE2">답글: 국군장병은 위문을 바란 적이 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이에게 반갑게 인사를 해주세요]]></title>
-        <id>https://alook.so/posts/kZtmer</id>
-        <link href="https://alook.so/posts/kZtmer"/>
-        <updated>2022-01-14T06:14:02.304Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmer">아이에게 반갑게 인사를 해주세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼적령기가 남긴 것]]></title>
-        <id>https://alook.so/posts/Vntaa9</id>
-        <link href="https://alook.so/posts/Vntaa9"/>
-        <updated>2022-01-14T05:13:00.802Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntaa9">결혼적령기가 남긴 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국군장병 위문편지, 필요한가?]]></title>
-        <id>https://alook.so/posts/G1tqlB</id>
-        <link href="https://alook.so/posts/G1tqlB"/>
-        <updated>2022-01-14T05:13:00.803Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqlB">국군장병 위문편지, 필요한가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 경(黥) 치지 말고 브랜드로]]></title>
-        <id>https://alook.so/posts/vKtqr4</id>
-        <link href="https://alook.so/posts/vKtqr4"/>
-        <updated>2022-01-14T05:13:00.807Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqr4">답글: 경(黥) 치지 말고 브랜드로</a>]]></content>
     </entry>
 </feed>
