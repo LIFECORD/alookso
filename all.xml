@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-14T03:15:31.406Z</updated>
+    <updated>2022-01-14T04:16:34.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[발효음식은 즐겁고 유익하다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/8WtjJ6</id>
+        <link href="https://alook.so/posts/8WtjJ6"/>
+        <updated>2022-01-14T04:14:19.697Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtjJ6">발효음식은 즐겁고 유익하다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무비 무브 #15] 미드소마 (2019, Midsommar); 낯설은 두려움에 대한 백신은 다름아닌 '신뢰' (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/OEtKmO</id>
@@ -54,24 +61,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjj5">“노동을 거부한다”,  미국의 현 상황</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군대 문화에 대한 근본적인 고찰이 필요합니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54tEEy</id>
-        <link href="https://alook.so/posts/54tEEy"/>
-        <updated>2022-01-14T02:03:53.139Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEEy">군대 문화에 대한 근본적인 고찰이 필요합니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[워킹맘 다이어리] 내가 우리 아이를 불쌍한 아이로 만들었다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/q1tWWP</id>
-        <link href="https://alook.so/posts/q1tWWP"/>
-        <updated>2022-01-14T02:03:53.139Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWWP">[워킹맘 다이어리] 내가 우리 아이를 불쌍한 아이로 만들었다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘이대남’이 ‘이대녀’보다 33만명 더 많다고? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/E7tX89</id>
         <link href="https://alook.so/posts/E7tX89"/>
-        <updated>2022-01-14T03:13:36.310Z</updated>
+        <updated>2022-01-14T03:13:27.865Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tX89">‘이대남’이 ‘이대녀’보다 33만명 더 많다고?</a>]]></content>
     </entry>
     <entry>
@@ -101,6 +94,13 @@
         <link href="https://alook.so/posts/KmtWW4"/>
         <updated>2022-01-14T02:03:53.131Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWW4">[카우레터] IEA 국제 에너지 데이터, 드디어 공개</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군대 문화에 대한 근본적인 고찰이 필요합니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/54tEEy</id>
+        <link href="https://alook.so/posts/54tEEy"/>
+        <updated>2022-01-14T02:03:53.139Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tEEy">군대 문화에 대한 근본적인 고찰이 필요합니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이돌 오디션 프로그램에 빠져버린 나 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -178,13 +178,6 @@
         <link href="https://alook.so/posts/jdtEEZ"/>
         <updated>2022-01-13T07:11:29.675Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEEZ">팀장님. 저는 차를 바꾸지 않겠습니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 또 '콩' 때문이라는 '별' 난 세상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtEEk</id>
-        <link href="https://alook.so/posts/bWtEEk"/>
-        <updated>2022-01-13T07:11:29.677Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEEk">답글: 또 '콩' 때문이라는 '별' 난 세상</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[인간의 '최첨단 쉼터'에 새들이 머리를 부딪친다 (alookso ─ alookso)]]></title>
