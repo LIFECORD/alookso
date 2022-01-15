@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-15T15:12:52.579Z</updated>
+    <updated>2022-01-15T16:17:42.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인사드립니다]]></title>
+        <id>https://alook.so/posts/BatMWj</id>
+        <link href="https://alook.so/posts/BatMWj"/>
+        <updated>2022-01-15T16:15:49.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMWj">인사드립니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방역패스 논란에 대한 단상과 여행의 의미]]></title>
+        <id>https://alook.so/posts/KmtWl4</id>
+        <link href="https://alook.so/posts/KmtWl4"/>
+        <updated>2022-01-15T16:15:49.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWl4">방역패스 논란에 대한 단상과 여행의 의미</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘33만명’이 일으킨 나비효과? (IF)]]></title>
         <id>https://alook.so/posts/mbtjl5</id>
@@ -81,12 +95,5 @@
         <link href="https://alook.so/posts/RGtx4E"/>
         <updated>2022-01-15T05:12:10.031Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx4E">답글: 제주 아일랜드, 그리고 아이슬란드</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자가 되려면 투자는 필수!]]></title>
-        <id>https://alook.so/posts/yEtbqm</id>
-        <link href="https://alook.so/posts/yEtbqm"/>
-        <updated>2022-01-15T15:11:00.171Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbqm">부자가 되려면 투자는 필수!</a>]]></content>
     </entry>
 </feed>
