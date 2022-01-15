@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-15T11:11:10.215Z</updated>
+    <updated>2022-01-15T12:19:17.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[쉬는 것도 중요해]]></title>
+        <id>https://alook.so/posts/Pvtpvz</id>
+        <link href="https://alook.so/posts/Pvtpvz"/>
+        <updated>2022-01-15T12:17:13.253Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpvz">쉬는 것도 중요해</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[행동과말]]></title>
+        <id>https://alook.so/posts/VntabM</id>
+        <link href="https://alook.so/posts/VntabM"/>
+        <updated>2022-01-15T12:17:13.256Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntabM">행동과말</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재태크 어떤게 있을까,,?]]></title>
+        <id>https://alook.so/posts/2xt9Vv</id>
+        <link href="https://alook.so/posts/2xt9Vv"/>
+        <updated>2022-01-15T12:17:13.271Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9Vv">재태크 어떤게 있을까,,?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플라스틱 줄이기]]></title>
         <id>https://alook.so/posts/0kte80</id>
@@ -67,26 +88,5 @@
         <link href="https://alook.so/posts/E7tXb9"/>
         <updated>2022-01-14T17:20:17.642Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXb9">계획없이 차도없이 제주관광 가능할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노력하는 사람이 불행한 이유]]></title>
-        <id>https://alook.so/posts/latoeq</id>
-        <link href="https://alook.so/posts/latoeq"/>
-        <updated>2022-01-15T03:14:00.203Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoeq">노력하는 사람이 불행한 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[질적인 사람이 된다는 것은]]></title>
-        <id>https://alook.so/posts/92tko1</id>
-        <link href="https://alook.so/posts/92tko1"/>
-        <updated>2022-01-15T03:14:00.205Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tko1">질적인 사람이 된다는 것은 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[번민하는유태인님께]]></title>
-        <id>https://alook.so/posts/KmtWr4</id>
-        <link href="https://alook.so/posts/KmtWr4"/>
-        <updated>2022-01-14T14:11:01.919Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWr4">번민하는유태인님께 </a>]]></content>
     </entry>
 </feed>
