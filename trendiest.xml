@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-15T12:19:17.652Z</updated>
+    <updated>2022-01-15T13:21:43.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[알파벳(구글), 지금 사도 될까?]]></title>
+        <id>https://alook.so/posts/potm5w</id>
+        <link href="https://alook.so/posts/potm5w"/>
+        <updated>2022-01-15T13:19:47.694Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm5w">알파벳(구글), 지금 사도 될까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쉬는 것도 중요해]]></title>
         <id>https://alook.so/posts/Pvtpvz</id>
@@ -41,6 +48,27 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXMK">이대남 신드롬과 청년 정치의 현주소</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[공황장애]]></title>
+        <id>https://alook.so/posts/XBtb14</id>
+        <link href="https://alook.so/posts/XBtb14"/>
+        <updated>2022-01-15T13:19:47.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtb14">공황장애 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈 에 보이지않은것들]]></title>
+        <id>https://alook.so/posts/w9tE3E</id>
+        <link href="https://alook.so/posts/w9tE3E"/>
+        <updated>2022-01-15T13:19:47.711Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE3E">눈 에 보이지않은것들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[요즘 군대] 집 가고 싶어, 요즘 군대의 병장은?]]></title>
+        <id>https://alook.so/posts/xlt1xW</id>
+        <link href="https://alook.so/posts/xlt1xW"/>
+        <updated>2022-01-15T13:19:47.713Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1xW">[요즘 군대] 집 가고 싶어, 요즘 군대의 병장은?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[답글: 제주 아일랜드, 그리고 아이슬란드]]></title>
         <id>https://alook.so/posts/RGtx4E</id>
         <link href="https://alook.so/posts/RGtx4E"/>
@@ -60,33 +88,5 @@
         <link href="https://alook.so/posts/6Mt9Kp"/>
         <updated>2022-01-15T02:01:03.103Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9Kp">인용(認容)과 인용(引用) 사이에서 헤매다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 나쁜놈!]]></title>
-        <id>https://alook.so/posts/3wtOpG</id>
-        <link href="https://alook.so/posts/3wtOpG"/>
-        <updated>2022-01-15T03:14:00.192Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOpG">코로나 나쁜놈!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[멋준오빠님이 다녀가셨어요.]]></title>
-        <id>https://alook.so/posts/OEtKzO</id>
-        <link href="https://alook.so/posts/OEtKzO"/>
-        <updated>2022-01-14T17:20:17.638Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKzO">멋준오빠님이 다녀가셨어요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진짜 행복은 무엇일까]]></title>
-        <id>https://alook.so/posts/vKtqn6</id>
-        <link href="https://alook.so/posts/vKtqn6"/>
-        <updated>2022-01-15T03:14:00.199Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqn6">진짜 행복은 무엇일까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계획없이 차도없이 제주관광 가능할까?]]></title>
-        <id>https://alook.so/posts/E7tXb9</id>
-        <link href="https://alook.so/posts/E7tXb9"/>
-        <updated>2022-01-14T17:20:17.642Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXb9">계획없이 차도없이 제주관광 가능할까?</a>]]></content>
     </entry>
 </feed>
