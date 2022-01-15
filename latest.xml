@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-15T02:46:42.357Z</updated>
+    <updated>2022-01-15T03:15:53.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[부자가 되려면 투자는 필수!]]></title>
+        <id>https://alook.so/posts/yEtbqm</id>
+        <link href="https://alook.so/posts/yEtbqm"/>
+        <updated>2022-01-15T03:13:52.618Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbqm">부자가 되려면 투자는 필수!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인용(認容)과 인용(引用) 사이에서 헤매다]]></title>
         <id>https://alook.so/posts/6Mt9Kp</id>
@@ -32,12 +39,5 @@
         <link href="https://alook.so/posts/vKtqn6"/>
         <updated>2022-01-14T17:20:08.727Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqn6">진짜 행복은 무엇일까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계획없이 차도없이 제주관광 가능할까?]]></title>
-        <id>https://alook.so/posts/E7tXb9</id>
-        <link href="https://alook.so/posts/E7tXb9"/>
-        <updated>2022-01-14T17:20:08.729Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXb9">계획없이 차도없이 제주관광 가능할까?</a>]]></content>
     </entry>
 </feed>
