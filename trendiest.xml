@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-15T08:15:23.290Z</updated>
+    <updated>2022-01-15T09:13:12.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이대남 신드롬과 청년 정치의 현주소]]></title>
+        <id>https://alook.so/posts/M9tXMK</id>
+        <link href="https://alook.so/posts/M9tXMK"/>
+        <updated>2022-01-15T09:11:18.647Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXMK">이대남 신드롬과 청년 정치의 현주소</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 제주 아일랜드, 그리고 아이슬란드]]></title>
         <id>https://alook.so/posts/RGtx4E</id>
