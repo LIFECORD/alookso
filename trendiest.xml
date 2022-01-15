@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-15T03:15:53.181Z</updated>
+    <updated>2022-01-15T04:16:18.078Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[부자가 되려면 투자는 필수!]]></title>
+        <id>https://alook.so/posts/yEtbqm</id>
+        <link href="https://alook.so/posts/yEtbqm"/>
+        <updated>2022-01-15T04:14:28.106Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbqm">부자가 되려면 투자는 필수!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인용(認容)과 인용(引用) 사이에서 헤매다]]></title>
         <id>https://alook.so/posts/6Mt9Kp</id>
@@ -74,12 +81,5 @@
         <link href="https://alook.so/posts/jdtEm2"/>
         <updated>2022-01-14T11:09:44.315Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEm2">답글:Welcome. "but" or "and"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올해는 집을 꼭 사고 싶어요]]></title>
-        <id>https://alook.so/posts/a0t0Dn</id>
-        <link href="https://alook.so/posts/a0t0Dn"/>
-        <updated>2022-01-15T03:14:00.215Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t0Dn">올해는 집을 꼭 사고 싶어요</a>]]></content>
     </entry>
 </feed>
