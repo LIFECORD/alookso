@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-16T06:15:24.665Z</updated>
+    <updated>2022-01-16T07:13:19.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[줄어드는 활력, 이제는 스스로 만들기. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/1Rtzoy</id>
+        <link href="https://alook.so/posts/1Rtzoy"/>
+        <updated>2022-01-16T07:11:11.481Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtzoy">줄어드는 활력, 이제는 스스로 만들기.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제는 일상에서 쉽게 보이는 AI, 인간 일자리는... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tEDb</id>
+        <link href="https://alook.so/posts/o7tEDb"/>
+        <updated>2022-01-16T07:11:11.482Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEDb">이제는 일상에서 쉽게 보이는 AI, 인간 일자리는...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[요즘 군대] 2022년, PX에선 이런거도 판다고? TOP 5 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDt0D0</id>
@@ -26,18 +40,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoXP">Lg에너지솔루션 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국과중국 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tEDL</id>
-        <link href="https://alook.so/posts/o7tEDL"/>
-        <updated>2022-01-16T05:12:37.392Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEDL">미국과중국</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[50넘어 취업 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/dztl83</id>
         <link href="https://alook.so/posts/dztl83"/>
         <updated>2022-01-16T03:14:15.510Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl83">50넘어 취업</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로젝트 alookso, 다시 시작합니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/LKtWeG</id>
+        <link href="https://alook.so/posts/LKtWeG"/>
+        <updated>2022-01-14T05:12:52.228Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWeG">프로젝트 alookso, 다시 시작합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이대남 신드롬과 청년 정치의 현주소 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/M9tXMK</id>
+        <link href="https://alook.so/posts/M9tXMK"/>
+        <updated>2022-01-16T07:11:20.895Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXMK">이대남 신드롬과 청년 정치의 현주소</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방역패스 논란에 대한 단상과 여행의 의미 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/KmtWl4</id>
+        <link href="https://alook.so/posts/KmtWl4"/>
+        <updated>2022-01-16T07:11:20.895Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWl4">방역패스 논란에 대한 단상과 여행의 의미</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[애완동물 키우기, 인공지능으로 대체가 가능할까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -47,11 +75,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9lD">애완동물 키우기, 인공지능으로 대체가 가능할까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] '삶'이라는 과대망상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/xlt1Em</id>
-        <link href="https://alook.so/posts/xlt1Em"/>
-        <updated>2022-01-16T02:07:38.897Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1Em">[늦은 아침 생각] '삶'이라는 과대망상</a>]]></content>
+        <title type="html"><![CDATA[백신 접종 부작용 우려하며 반대하고 나서다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/jdtELe</id>
+        <link href="https://alook.so/posts/jdtELe"/>
+        <updated>2022-01-16T07:11:20.895Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtELe">백신 접종 부작용 우려하며 반대하고 나서다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뜬 구름 잡는 소리하지 마세요⋯! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -61,32 +89,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoDP">뜬 구름 잡는 소리하지 마세요⋯!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임산부코로나접종 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/KmtW3q</id>
-        <link href="https://alook.so/posts/KmtW3q"/>
-        <updated>2022-01-16T06:13:39.173Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtW3q">임산부코로나접종</a>]]></content>
+        <title type="html"><![CDATA[계획없이 차도없이 제주관광 가능할까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/E7tXb9</id>
+        <link href="https://alook.so/posts/E7tXb9"/>
+        <updated>2022-01-16T07:11:20.895Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXb9">계획없이 차도없이 제주관광 가능할까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스트레스 안 받는 방법 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/q1tW2o</id>
-        <link href="https://alook.so/posts/q1tW2o"/>
-        <updated>2022-01-16T05:12:46.132Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW2o">스트레스 안 받는 방법</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸과 마음 둘다 챙기기 힘든 요즘. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tEZL</id>
-        <link href="https://alook.so/posts/o7tEZL"/>
-        <updated>2022-01-15T19:09:17.553Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEZL">몸과 마음 둘다 챙기기 힘든 요즘.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점점 줄어들지 않을까... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/70tYBD</id>
-        <link href="https://alook.so/posts/70tYBD"/>
-        <updated>2022-01-16T05:12:46.133Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tYBD">점점 줄어들지 않을까...</a>]]></content>
+        <title type="html"><![CDATA[답글: 제주 아일랜드, 그리고 아이슬란드 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/RGtx4E</id>
+        <link href="https://alook.so/posts/RGtx4E"/>
+        <updated>2022-01-16T07:11:20.897Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx4E">답글: 제주 아일랜드, 그리고 아이슬란드</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[머리숱이 점점 없어지는게 느껴져요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -96,11 +110,39 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0xp">머리숱이 점점 없어지는게 느껴져요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[운전면허 취득 학원 필수일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/dztl53</id>
-        <link href="https://alook.so/posts/dztl53"/>
-        <updated>2022-01-16T04:14:28.433Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl53">운전면허 취득 학원 필수일까?</a>]]></content>
+        <title type="html"><![CDATA[[늦은 아침 생각] '삶'이라는 과대망상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/xlt1Em</id>
+        <link href="https://alook.so/posts/xlt1Em"/>
+        <updated>2022-01-16T02:07:38.897Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1Em">[늦은 아침 생각] '삶'이라는 과대망상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[멋준오빠님이 다녀가셨어요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/OEtKzO</id>
+        <link href="https://alook.so/posts/OEtKzO"/>
+        <updated>2022-01-16T07:11:20.906Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKzO">멋준오빠님이 다녀가셨어요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[요즘 군대] 2022년, PX에선 이런거도 판다고? TOP 5 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/rDt0D0</id>
+        <link href="https://alook.so/posts/rDt0D0"/>
+        <updated>2022-01-16T06:13:30.212Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0D0">[요즘 군대] 2022년, PX에선 이런거도 판다고? TOP 5</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플라스틱 줄이기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0kte80</id>
+        <link href="https://alook.so/posts/0kte80"/>
+        <updated>2022-01-16T07:11:20.907Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kte80">플라스틱 줄이기 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lg에너지솔루션 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/latoXP</id>
+        <link href="https://alook.so/posts/latoXP"/>
+        <updated>2022-01-16T06:13:30.215Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoXP">Lg에너지솔루션 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트 alookso, 다시 시작합니다 (alookso ─ alookso)]]></title>
