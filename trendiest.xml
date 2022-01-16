@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-16T02:09:46.806Z</updated>
+    <updated>2022-01-16T03:16:23.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/LKtWeG"/>
         <updated>2022-01-16T02:07:47.514Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWeG">프로젝트 alookso, 다시 시작합니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[50넘어 취업]]></title>
+        <id>https://alook.so/posts/dztl83</id>
+        <link href="https://alook.so/posts/dztl83"/>
+        <updated>2022-01-16T03:14:24.269Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl83">50넘어 취업</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이대남 신드롬과 청년 정치의 현주소]]></title>
@@ -27,13 +34,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWl4">방역패스 논란에 대한 단상과 여행의 의미</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[계획없이 차도없이 제주관광 가능할까?]]></title>
-        <id>https://alook.so/posts/E7tXb9</id>
-        <link href="https://alook.so/posts/E7tXb9"/>
-        <updated>2022-01-16T02:07:47.526Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXb9">계획없이 차도없이 제주관광 가능할까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[답글: 제주 아일랜드, 그리고 아이슬란드]]></title>
         <id>https://alook.so/posts/RGtx4E</id>
         <link href="https://alook.so/posts/RGtx4E"/>
@@ -41,11 +41,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtx4E">답글: 제주 아일랜드, 그리고 아이슬란드</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[계획없이 차도없이 제주관광 가능할까?]]></title>
+        <id>https://alook.so/posts/E7tXb9</id>
+        <link href="https://alook.so/posts/E7tXb9"/>
+        <updated>2022-01-16T02:07:47.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXb9">계획없이 차도없이 제주관광 가능할까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애완동물 키우기, 인공지능으로 대체가 가능할까요?]]></title>
+        <id>https://alook.so/posts/2xt9lD</id>
+        <link href="https://alook.so/posts/2xt9lD"/>
+        <updated>2022-01-16T03:14:24.273Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt9lD">애완동물 키우기, 인공지능으로 대체가 가능할까요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[멋준오빠님이 다녀가셨어요.]]></title>
         <id>https://alook.so/posts/OEtKzO</id>
         <link href="https://alook.so/posts/OEtKzO"/>
         <updated>2022-01-16T02:07:47.526Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKzO">멋준오빠님이 다녀가셨어요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뜬 구름 잡는 소리하지 마세요⋯!]]></title>
+        <id>https://alook.so/posts/latoDP</id>
+        <link href="https://alook.so/posts/latoDP"/>
+        <updated>2022-01-16T03:14:24.273Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoDP">뜬 구름 잡는 소리하지 마세요⋯!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[플라스틱 줄이기]]></title>
@@ -83,17 +104,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tEZL">몸과 마음 둘다 챙기기 힘든 요즘.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[알파벳(구글), 지금 사도 될까?]]></title>
-        <id>https://alook.so/posts/potm5w</id>
-        <link href="https://alook.so/posts/potm5w"/>
-        <updated>2022-01-16T02:07:47.552Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm5w">알파벳(구글), 지금 사도 될까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운전면허 취득 학원 필수일까?]]></title>
-        <id>https://alook.so/posts/dztl53</id>
-        <link href="https://alook.so/posts/dztl53"/>
-        <updated>2022-01-15T23:11:13.085Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl53">운전면허 취득 학원 필수일까?</a>]]></content>
+        <title type="html"><![CDATA[[늦은 아침 생각] '삶'이라는 과대망상]]></title>
+        <id>https://alook.so/posts/xlt1Em</id>
+        <link href="https://alook.so/posts/xlt1Em"/>
+        <updated>2022-01-16T03:14:24.303Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1Em">[늦은 아침 생각] '삶'이라는 과대망상</a>]]></content>
     </entry>
 </feed>
