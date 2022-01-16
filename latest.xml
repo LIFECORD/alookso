@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-16T14:11:58.415Z</updated>
+    <updated>2022-01-16T15:12:44.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[죽고싶지만 사는이유 part 1.]]></title>
+        <title type="html"><![CDATA[이하늬, 임신 4개월차]]></title>
+        <id>https://alook.so/posts/4Xt478</id>
+        <link href="https://alook.so/posts/4Xt478"/>
+        <updated>2022-01-16T15:10:40.772Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt478">이하늬, 임신 4개월차</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시간에 엄격하면 꼰대?]]></title>
+        <id>https://alook.so/posts/w9tEXz</id>
+        <link href="https://alook.so/posts/w9tEXz"/>
+        <updated>2022-01-16T15:10:40.775Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEXz">시간에 엄격하면 꼰대?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[직업의식의 결여. 노동자 인권의 신장은 축복일까?]]></title>
+        <id>https://alook.so/posts/xlt13Y</id>
+        <link href="https://alook.so/posts/xlt13Y"/>
+        <updated>2022-01-16T15:10:40.776Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt13Y">직업의식의 결여. 노동자 인권의 신장은 축복일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간 김인호 part 3.]]></title>
+        <id>https://alook.so/posts/RGtxvw</id>
+        <link href="https://alook.so/posts/RGtxvw"/>
+        <updated>2022-01-16T15:10:40.777Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtxvw">인간 김인호 part 3.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간 김인호 part 2.]]></title>
+        <id>https://alook.so/posts/kZtmXk</id>
+        <link href="https://alook.so/posts/kZtmXk"/>
+        <updated>2022-01-16T15:10:40.778Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmXk">인간 김인호 part 2.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간 김인호 part 1.]]></title>
         <id>https://alook.so/posts/yEtbWj</id>
         <link href="https://alook.so/posts/yEtbWj"/>
         <updated>2022-01-16T14:09:57.085Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbWj">죽고싶지만 사는이유 part 1.</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbWj">인간 김인호 part 1.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 삶을 돌아보며]]></title>
@@ -18,33 +53,5 @@
         <link href="https://alook.so/posts/LKtW5n"/>
         <updated>2022-01-16T14:09:57.086Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtW5n">내 삶을 돌아보며</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[관대한 이민 수용정책 찬성? 반대?]]></title>
-        <id>https://alook.so/posts/3wtORq</id>
-        <link href="https://alook.so/posts/3wtORq"/>
-        <updated>2022-01-16T14:09:57.089Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtORq">관대한 이민 수용정책 찬성? 반대?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리는 꼭 참아야만 할까?]]></title>
-        <id>https://alook.so/posts/8WtjXK</id>
-        <link href="https://alook.so/posts/8WtjXK"/>
-        <updated>2022-01-16T14:09:57.090Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtjXK">우리는 꼭 참아야만 할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일 새로운 얼룩소를 볼 수 있다길래 들어왔어요]]></title>
-        <id>https://alook.so/posts/G1tq8r</id>
-        <link href="https://alook.so/posts/G1tq8r"/>
-        <updated>2022-01-16T14:09:57.091Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tq8r">내일 새로운 얼룩소를 볼 수 있다길래 들어왔어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백신을 맞는 이유?]]></title>
-        <id>https://alook.so/posts/OEtK5p</id>
-        <link href="https://alook.so/posts/OEtK5p"/>
-        <updated>2022-01-16T14:09:57.092Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtK5p">백신을 맞는 이유?</a>]]></content>
     </entry>
 </feed>
