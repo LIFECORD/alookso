@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-16T12:19:05.475Z</updated>
+    <updated>2022-01-16T13:21:32.994Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl83">50넘어 취업</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프로젝트 alookso, 다시 시작합니다]]></title>
-        <id>https://alook.so/posts/LKtWeG</id>
-        <link href="https://alook.so/posts/LKtWeG"/>
-        <updated>2022-01-16T12:17:07.967Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWeG">프로젝트 alookso, 다시 시작합니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[걸어가야 보이는 도보여행의 풍경]]></title>
         <id>https://alook.so/posts/yEtbOj</id>
         <link href="https://alook.so/posts/yEtbOj"/>
         <updated>2022-01-16T09:11:16.244Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtbOj">걸어가야 보이는 도보여행의 풍경</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로젝트 alookso, 다시 시작합니다]]></title>
+        <id>https://alook.so/posts/LKtWeG</id>
+        <link href="https://alook.so/posts/LKtWeG"/>
+        <updated>2022-01-16T12:17:07.967Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWeG">프로젝트 alookso, 다시 시작합니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[요즘 군대] 2022년, PX에선 이런거도 판다고? TOP 5]]></title>
@@ -69,18 +69,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWl4">방역패스 논란에 대한 단상과 여행의 의미</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lg에너지솔루션]]></title>
-        <id>https://alook.so/posts/latoXP</id>
-        <link href="https://alook.so/posts/latoXP"/>
-        <updated>2022-01-16T07:11:20.909Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoXP">Lg에너지솔루션 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코로나 19 백신 접종에 대해서 여러분들은 어떻게 생각하지는지??]]></title>
         <id>https://alook.so/posts/rDt0Dp</id>
         <link href="https://alook.so/posts/rDt0Dp"/>
         <updated>2022-01-16T12:17:07.983Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0Dp">코로나 19 백신 접종에 대해서 여러분들은 어떻게 생각하지는지??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저는]]></title>
+        <id>https://alook.so/posts/Djt4ZD</id>
+        <link href="https://alook.so/posts/Djt4ZD"/>
+        <updated>2022-01-16T13:19:22.717Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4ZD">저는</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Lg에너지솔루션]]></title>
+        <id>https://alook.so/posts/latoXP</id>
+        <link href="https://alook.so/posts/latoXP"/>
+        <updated>2022-01-16T07:11:20.909Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoXP">Lg에너지솔루션 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[백신 접종 부작용 우려하며 반대하고 나서다]]></title>
