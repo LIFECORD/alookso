@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-17T13:24:03.865Z</updated>
+    <updated>2022-01-17T14:13:12.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -34,6 +34,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtz1V">코로나 이후 일자리 변화 [경제 디깅] </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[김건희 ‘7시간 통화 보도’가 남긴 질문 [brf.]]]></title>
+        <id>https://alook.so/posts/w9tEVj</id>
+        <link href="https://alook.so/posts/w9tEVj"/>
+        <updated>2022-01-17T09:12:44.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEVj">김건희 ‘7시간 통화 보도’가 남긴 질문 [brf.]</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[이 초등학교에는 '국경'이 있다 [brf.]]]></title>
         <id>https://alook.so/posts/6Mt9ye</id>
         <link href="https://alook.so/posts/6Mt9ye"/>
@@ -41,11 +48,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt9ye">이 초등학교에는 '국경'이 있다 [brf.]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김건희 ‘7시간 통화 보도’가 남긴 질문 [brf.]]]></title>
-        <id>https://alook.so/posts/w9tEVj</id>
-        <link href="https://alook.so/posts/w9tEVj"/>
-        <updated>2022-01-17T09:12:44.187Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEVj">김건희 ‘7시간 통화 보도’가 남긴 질문 [brf.]</a>]]></content>
+        <title type="html"><![CDATA[이번 대선 최소한 4자 구도로 간다? [brf.]]]></title>
+        <id>https://alook.so/posts/q1tWdB</id>
+        <link href="https://alook.so/posts/q1tWdB"/>
+        <updated>2022-01-17T13:22:00.009Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWdB">이번 대선 최소한 4자 구도로 간다? [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딸기값, 왜 이렇게 비싸졌냐면 [brf.]]]></title>
@@ -76,18 +83,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEj7">리셀(resell), 소비와 투자 사이에서 [brf.] </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이번 대선 최소한 4자 구도로 간다? [brf.]]]></title>
-        <id>https://alook.so/posts/q1tWdB</id>
-        <link href="https://alook.so/posts/q1tWdB"/>
-        <updated>2022-01-17T13:22:00.009Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWdB">이번 대선 최소한 4자 구도로 간다? [brf.]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[alookso 시즌 2를 시작하면서]]></title>
         <id>https://alook.so/posts/eVtE5n</id>
         <link href="https://alook.so/posts/eVtE5n"/>
         <updated>2022-01-17T13:22:00.009Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtE5n">alookso 시즌 2를 시작하면서</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정치학 대학원생의 한 학기가 담긴 노션 페이지 2개 소개.]]></title>
+        <id>https://alook.so/posts/mbtjaZ</id>
+        <link href="https://alook.so/posts/mbtjaZ"/>
+        <updated>2022-01-17T14:11:14.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjaZ">정치학 대학원생의 한 학기가 담긴 노션 페이지 2개 소개.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['통가 근육맨'을 기억하시나요 [brf.]]]></title>
@@ -104,6 +111,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtmxD">한국인과 외국인 사이</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[내 맛있는 커피, 조금 뜨겁거나 차가워도 괜찮아요!]]></title>
+        <id>https://alook.so/posts/G1tqPv</id>
+        <link href="https://alook.so/posts/G1tqPv"/>
+        <updated>2022-01-17T13:22:00.012Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqPv">내 맛있는 커피, 조금 뜨겁거나 차가워도 괜찮아요!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[산행이 가르쳐 준 삶의 진리]]></title>
         <id>https://alook.so/posts/WLtYow</id>
         <link href="https://alook.so/posts/WLtYow"/>
@@ -118,11 +132,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtW4K">이번엔 서울 내 대형마트... 방역패스, 속속 철회? [brf.]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 맛있는 커피, 조금 뜨겁거나 차가워도 괜찮아요!]]></title>
-        <id>https://alook.so/posts/G1tqPv</id>
-        <link href="https://alook.so/posts/G1tqPv"/>
-        <updated>2022-01-17T13:22:00.012Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqPv">내 맛있는 커피, 조금 뜨겁거나 차가워도 괜찮아요!</a>]]></content>
+        <title type="html"><![CDATA[뜨개 컵홀더 어때요?]]></title>
+        <id>https://alook.so/posts/xlt1r0</id>
+        <link href="https://alook.so/posts/xlt1r0"/>
+        <updated>2022-01-17T14:11:14.530Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1r0">뜨개 컵홀더 어때요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 희소가치라는 공갈은 사람을 뛰게 만든다.]]></title>
@@ -130,19 +144,5 @@
         <link href="https://alook.so/posts/jdtEaq"/>
         <updated>2022-01-17T13:22:00.012Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtEaq">답글: 희소가치라는 공갈은 사람을 뛰게 만든다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잘 산다는 것, 잘 쓴다는 것.]]></title>
-        <id>https://alook.so/posts/latoL2</id>
-        <link href="https://alook.so/posts/latoL2"/>
-        <updated>2022-01-17T13:22:00.013Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latoL2">잘 산다는 것, 잘 쓴다는 것.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[92세 할머니의 조언]]></title>
-        <id>https://alook.so/posts/YytLVO</id>
-        <link href="https://alook.so/posts/YytLVO"/>
-        <updated>2022-01-17T13:22:00.013Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytLVO">92세 할머니의 조언</a>]]></content>
     </entry>
 </feed>
