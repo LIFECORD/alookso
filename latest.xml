@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-16T23:13:03.276Z</updated>
+    <updated>2022-01-17T00:41:29.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[이놈에사건사고]]></title>
-        <id>https://alook.so/posts/92tkV0</id>
-        <link href="https://alook.so/posts/92tkV0"/>
-        <updated>2022-01-16T22:11:54.911Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tkV0">이놈에사건사고</a>]]></content>
+        <title type="html"><![CDATA[고령화의 대책]]></title>
+        <id>https://alook.so/posts/KmtWO6</id>
+        <link href="https://alook.so/posts/KmtWO6"/>
+        <updated>2022-01-17T00:39:14.933Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWO6">고령화의 대책</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[LG에너지솔루션 공모주 Q&A]]></title>
-        <id>https://alook.so/posts/KmtWOo</id>
-        <link href="https://alook.so/posts/KmtWOo"/>
-        <updated>2022-01-16T22:11:54.914Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtWOo">LG에너지솔루션 공모주 Q&amp;A</a>]]></content>
+        <title type="html"><![CDATA[얼룩소를 다시 시작한다네요]]></title>
+        <id>https://alook.so/posts/mbtjXD</id>
+        <link href="https://alook.so/posts/mbtjXD"/>
+        <updated>2022-01-17T00:39:14.934Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjXD">얼룩소를 다시 시작한다네요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[네이버,카카오 왕창사둔 개미들!]]></title>
-        <id>https://alook.so/posts/q1tWLM</id>
-        <link href="https://alook.so/posts/q1tWLM"/>
-        <updated>2022-01-16T21:09:47.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tWLM">네이버,카카오 왕창사둔 개미들!</a>]]></content>
+        <title type="html"><![CDATA[둘째를 가져야 하나 말아야 하나?]]></title>
+        <id>https://alook.so/posts/1RtzKV</id>
+        <link href="https://alook.so/posts/1RtzKV"/>
+        <updated>2022-01-17T00:39:14.936Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzKV">둘째를 가져야 하나 말아야 하나?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여자친구 살인사건 가해자 신상공개 촉구]]></title>
-        <id>https://alook.so/posts/Djt4WD</id>
-        <link href="https://alook.so/posts/Djt4WD"/>
-        <updated>2022-01-16T21:09:47.291Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4WD">여자친구 살인사건 가해자 신상공개 촉구</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채워지지 않는 외로움, 느끼신 적 있으신가요?]]></title>
-        <id>https://alook.so/posts/1RtzKy</id>
-        <link href="https://alook.so/posts/1RtzKy"/>
-        <updated>2022-01-16T21:09:47.291Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtzKy">채워지지 않는 외로움, 느끼신 적 있으신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년도 최저시급과 주휴수당은?]]></title>
-        <id>https://alook.so/posts/o7tE6b</id>
-        <link href="https://alook.so/posts/o7tE6b"/>
-        <updated>2022-01-16T20:12:11.519Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE6b">2022년도 최저시급과 주휴수당은?</a>]]></content>
+        <title type="html"><![CDATA[[세계일보] 윤석열 부부와 친분 있는 무속인, 선대본서 '고문'으로 일한다]]></title>
+        <id>https://alook.so/posts/o7tE6O</id>
+        <link href="https://alook.so/posts/o7tE6O"/>
+        <updated>2022-01-17T00:39:14.937Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tE6O">[세계일보] 윤석열 부부와 친분 있는 무속인, 선대본서 '고문'으로 일한다</a>]]></content>
     </entry>
 </feed>
