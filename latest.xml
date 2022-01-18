@@ -2,35 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-18T08:16:55.992Z</updated>
+    <updated>2022-01-18T09:14:25.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[고스톱]]></title>
-        <id>https://alook.so/posts/YytL78</id>
-        <link href="https://alook.so/posts/YytL78"/>
-        <updated>2022-01-18T08:14:47.005Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytL78">고스톱</a>]]></content>
+        <title type="html"><![CDATA[서류에서 날 탈락시킨 담당자가 제안한 티타임]]></title>
+        <id>https://alook.so/posts/3wtOVw</id>
+        <link href="https://alook.so/posts/3wtOVw"/>
+        <updated>2022-01-18T09:12:21.438Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtOVw">서류에서 날 탈락시킨 담당자가 제안한 티타임</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[셀프답글: '처벌'이 신경 쓰이게 해서라도 '안전'하다면]]></title>
-        <id>https://alook.so/posts/rDt0en</id>
-        <link href="https://alook.so/posts/rDt0en"/>
-        <updated>2022-01-18T08:14:47.006Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt0en">셀프답글: '처벌'이 신경 쓰이게 해서라도 '안전'하다면</a>]]></content>
+        <title type="html"><![CDATA[따뜻한 무관심]]></title>
+        <id>https://alook.so/posts/8WtjP4</id>
+        <link href="https://alook.so/posts/8WtjP4"/>
+        <updated>2022-01-18T09:12:21.441Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtjP4">따뜻한 무관심</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공간의 미래도 바뀌고 있다 <리테일 공간>]]></title>
-        <id>https://alook.so/posts/92tklk</id>
-        <link href="https://alook.so/posts/92tklk"/>
-        <updated>2022-01-18T08:14:47.008Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tklk">공간의 미래도 바뀌고 있다 &lt;리테일 공간&gt;</a>]]></content>
+        <title type="html"><![CDATA[주4일 근무제를 고민하다]]></title>
+        <id>https://alook.so/posts/G1tqKm</id>
+        <link href="https://alook.so/posts/G1tqKm"/>
+        <updated>2022-01-18T09:12:21.441Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tqKm">주4일 근무제를 고민하다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[앵커들의 대선 후보 캠프행, 권언유착인가? [brf.]]]></title>
-        <id>https://alook.so/posts/mbtjDb</id>
-        <link href="https://alook.so/posts/mbtjDb"/>
-        <updated>2022-01-18T08:14:47.009Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjDb">앵커들의 대선 후보 캠프행, 권언유착인가? [brf.]</a>]]></content>
+        <title type="html"><![CDATA[99년생의 고민-연애]]></title>
+        <id>https://alook.so/posts/OEtKyd</id>
+        <link href="https://alook.so/posts/OEtKyd"/>
+        <updated>2022-01-18T09:12:21.443Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtKyd">99년생의 고민-연애</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여기는 수다 전용 계산대입니다]]></title>
+        <id>https://alook.so/posts/vKtqx8</id>
+        <link href="https://alook.so/posts/vKtqx8"/>
+        <updated>2022-01-18T09:12:21.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtqx8">여기는 수다 전용 계산대입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 첫 ‘기후 불복종’ 판결이 열립니다 [brf.]]]></title>
+        <id>https://alook.so/posts/E7tX5q</id>
+        <link href="https://alook.so/posts/E7tX5q"/>
+        <updated>2022-01-18T09:12:21.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tX5q">국내 첫 ‘기후 불복종’ 판결이 열립니다 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 자본의 흐름. NFT? Web3? 새로운 시장이 생기면 누가 설렐까? ㅎㅎ(힌트: 전 아닙니다)]]></title>
+        <id>https://alook.so/posts/latokr</id>
+        <link href="https://alook.so/posts/latokr"/>
+        <updated>2022-01-18T09:12:21.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latokr">새로운 자본의 흐름. NFT? Web3? 새로운 시장이 생기면 누가 설렐까? ㅎㅎ(힌트: 전 아닙니다)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람 사이 얇은 갑을관계]]></title>
+        <id>https://alook.so/posts/mbtjDW</id>
+        <link href="https://alook.so/posts/mbtjDW"/>
+        <updated>2022-01-18T09:12:21.451Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjDW">사람 사이 얇은 갑을관계</a>]]></content>
     </entry>
 </feed>
