@@ -2,15 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-18T06:14:41.394Z</updated>
+    <updated>2022-01-18T07:14:10.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이렇게라면 얼룩소 글을 인공지능으로도 쓸 수 있을 것 같아요. 여생어?]]></title>
+        <id>https://alook.so/posts/Vnta8v</id>
+        <link href="https://alook.so/posts/Vnta8v"/>
+        <updated>2022-01-18T07:12:19.719Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnta8v">이렇게라면 얼룩소 글을 인공지능으로도 쓸 수 있을 것 같아요. 여생어?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학자금 대출, 누구냐 넌! [정check]]]></title>
         <id>https://alook.so/posts/LKtWpo</id>
         <link href="https://alook.so/posts/LKtWpo"/>
         <updated>2022-01-18T06:12:40.147Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWpo">학자금 대출, 누구냐 넌! [정check]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 이제 그만, 착하지 않아도 괜찮아.(감사합니다)]]></title>
+        <id>https://alook.so/posts/WLtYPl</id>
+        <link href="https://alook.so/posts/WLtYPl"/>
+        <updated>2022-01-18T07:12:19.723Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYPl">답글: 이제 그만, 착하지 않아도 괜찮아.(감사합니다)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게임커뮤니티와 수학 유튜버를 소개하고 싶네요..]]></title>
+        <id>https://alook.so/posts/0ktek1</id>
+        <link href="https://alook.so/posts/0ktek1"/>
+        <updated>2022-01-18T07:12:19.723Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktek1">게임커뮤니티와 수학 유튜버를 소개하고 싶네요..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기다림끝에 다시만남 반가워요]]></title>
+        <id>https://alook.so/posts/xlt1Oj</id>
+        <link href="https://alook.so/posts/xlt1Oj"/>
+        <updated>2022-01-18T07:12:19.723Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1Oj">기다림끝에 다시만남 반가워요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중국이니까 가능한 시도인 것 같습니다.]]></title>
@@ -88,33 +116,5 @@
         <link href="https://alook.so/posts/WLtY9Z"/>
         <updated>2022-01-17T23:11:36.291Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtY9Z">어떤 노동자(들)의 죽음</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성공하는 방법]]></title>
-        <id>https://alook.so/posts/Djt4R5</id>
-        <link href="https://alook.so/posts/Djt4R5"/>
-        <updated>2022-01-18T05:13:16.704Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt4R5">성공하는 방법</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 검사에 대해 짧게 드는 생각 두 가지.]]></title>
-        <id>https://alook.so/posts/w9tE2d</id>
-        <link href="https://alook.so/posts/w9tE2d"/>
-        <updated>2022-01-18T00:41:02.923Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tE2d">AI 검사에 대해 짧게 드는 생각 두 가지.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가난한 마인드를 가진 사람의 공통점.]]></title>
-        <id>https://alook.so/posts/yEtb01</id>
-        <link href="https://alook.so/posts/yEtb01"/>
-        <updated>2022-01-18T05:13:16.706Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtb01">가난한 마인드를 가진 사람의 공통점.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 나이 70에]]></title>
-        <id>https://alook.so/posts/q1tW55</id>
-        <link href="https://alook.so/posts/q1tW55"/>
-        <updated>2022-01-17T15:12:01.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW55">내 나이 70에</a>]]></content>
     </entry>
 </feed>
