@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-18T05:15:14.871Z</updated>
+    <updated>2022-01-18T06:14:41.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[학자금 대출, 누구냐 넌! [정check]]]></title>
+        <id>https://alook.so/posts/LKtWpo</id>
+        <link href="https://alook.so/posts/LKtWpo"/>
+        <updated>2022-01-18T06:12:40.147Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtWpo">학자금 대출, 누구냐 넌! [정check]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국이니까 가능한 시도인 것 같습니다.]]></title>
+        <id>https://alook.so/posts/BatMwY</id>
+        <link href="https://alook.so/posts/BatMwY"/>
+        <updated>2022-01-18T06:12:40.147Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatMwY">중국이니까 가능한 시도인 것 같습니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[99년생의 고민-취업]]></title>
+        <id>https://alook.so/posts/lato9x</id>
+        <link href="https://alook.so/posts/lato9x"/>
+        <updated>2022-01-18T06:12:40.147Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lato9x">99년생의 고민-취업</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코로나가 일깨워준 이주노동자의 존재]]></title>
         <id>https://alook.so/posts/Vnta30</id>
@@ -95,26 +116,5 @@
         <link href="https://alook.so/posts/q1tW55"/>
         <updated>2022-01-17T15:12:01.662Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tW55">내 나이 70에</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['유튜버' 과연 행복한가?]]></title>
-        <id>https://alook.so/posts/E7tXKD</id>
-        <link href="https://alook.so/posts/E7tXKD"/>
-        <updated>2022-01-18T00:41:02.925Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tXKD">'유튜버' 과연 행복한가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정치학 대학원생의 한 학기가 담긴 노션 페이지 2개 소개.]]></title>
-        <id>https://alook.so/posts/mbtjaZ</id>
-        <link href="https://alook.so/posts/mbtjaZ"/>
-        <updated>2022-01-17T14:11:14.526Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtjaZ">정치학 대학원생의 한 학기가 담긴 노션 페이지 2개 소개.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뜨개 컵홀더 어때요?]]></title>
-        <id>https://alook.so/posts/xlt1r0</id>
-        <link href="https://alook.so/posts/xlt1r0"/>
-        <updated>2022-01-17T14:11:14.530Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1r0">뜨개 컵홀더 어때요?</a>]]></content>
     </entry>
 </feed>
