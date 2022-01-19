@@ -2,56 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-19T01:53:32.248Z</updated>
+    <updated>2022-01-19T02:25:10.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[역대급 공모주 LG에너지솔루션 청약할까?]]></title>
+        <id>https://alook.so/posts/jdtE1K</id>
+        <link href="https://alook.so/posts/jdtE1K"/>
+        <updated>2022-01-19T02:23:07.800Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtE1K">역대급 공모주 LG에너지솔루션 청약할까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 관점으로 다양한 경험]]></title>
+        <id>https://alook.so/posts/bWtEbV</id>
+        <link href="https://alook.so/posts/bWtEbV"/>
+        <updated>2022-01-19T02:23:07.802Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtEbV">새로운 관점으로 다양한 경험</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래 너는 흘러내려도 나는 흘러내리지 않는다.]]></title>
+        <id>https://alook.so/posts/ZktPRl</id>
+        <link href="https://alook.so/posts/ZktPRl"/>
+        <updated>2022-01-19T02:23:07.804Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktPRl">그래 너는 흘러내려도 나는 흘러내리지 않는다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸과 마음이 아프면 공유해요]]></title>
+        <id>https://alook.so/posts/dztl3n</id>
+        <link href="https://alook.so/posts/dztl3n"/>
+        <updated>2022-01-19T02:23:07.805Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztl3n">몸과 마음이 아프면 공유해요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제로웨이스트, 현실성 있나?]]></title>
+        <id>https://alook.so/posts/J5tVXz</id>
+        <link href="https://alook.so/posts/J5tVXz"/>
+        <updated>2022-01-19T02:23:07.806Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tVXz">제로웨이스트, 현실성 있나?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 집값 어떻게 전망하시나요?]]></title>
+        <id>https://alook.so/posts/potm40</id>
+        <link href="https://alook.so/posts/potm40"/>
+        <updated>2022-01-19T02:23:07.807Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potm40">2022년 집값 어떻게 전망하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[회사 일 잘하는 당신, 주식은 왜 죽쑤나]]></title>
+        <id>https://alook.so/posts/eVtEzj</id>
+        <link href="https://alook.so/posts/eVtEzj"/>
+        <updated>2022-01-19T02:23:07.810Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtEzj">회사 일 잘하는 당신, 주식은 왜 죽쑤나</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비트코인 선물, 누구나 워뇨띠(600만원 시작, 3000억 달성)가 될 수 있을까?]]></title>
         <id>https://alook.so/posts/Pvtpnl</id>
         <link href="https://alook.so/posts/Pvtpnl"/>
         <updated>2022-01-19T01:51:29.420Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtpnl">비트코인 선물, 누구나 워뇨띠(600만원 시작, 3000억 달성)가 될 수 있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 시작! 경제적 자유, 마음의 확신을 갖고 만들어갈 올해의 목표.]]></title>
-        <id>https://alook.so/posts/VntamE</id>
-        <link href="https://alook.so/posts/VntamE"/>
-        <updated>2022-01-19T01:51:29.423Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntamE">얼룩소 시작! 경제적 자유, 마음의 확신을 갖고 만들어갈 올해의 목표.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 이전의 시대는 올까?]]></title>
-        <id>https://alook.so/posts/zvtq0O</id>
-        <link href="https://alook.so/posts/zvtq0O"/>
-        <updated>2022-01-19T01:51:29.423Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtq0O">코로나 이전의 시대는 올까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴직 6개월 전 뭘 해야 하나?]]></title>
-        <id>https://alook.so/posts/WLtYw9</id>
-        <link href="https://alook.so/posts/WLtYw9"/>
-        <updated>2022-01-19T01:51:29.424Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtYw9">퇴직 6개월 전 뭘 해야 하나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초보제로웨이스트 도전기 첫스토리]]></title>
-        <id>https://alook.so/posts/0kteW9</id>
-        <link href="https://alook.so/posts/0kteW9"/>
-        <updated>2022-01-19T01:51:29.426Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteW9">초보제로웨이스트 도전기 첫스토리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amway, Atomy... 다단계??]]></title>
-        <id>https://alook.so/posts/M9tXLy</id>
-        <link href="https://alook.so/posts/M9tXLy"/>
-        <updated>2022-01-19T01:51:29.427Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tXLy">Amway, Atomy... 다단계??</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 방역, 정말로 이게 최선인가?]]></title>
-        <id>https://alook.so/posts/4Xt4Mp</id>
-        <link href="https://alook.so/posts/4Xt4Mp"/>
-        <updated>2022-01-19T01:51:29.428Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt4Mp">코로나 방역, 정말로 이게 최선인가?</a>]]></content>
     </entry>
 </feed>
