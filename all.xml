@@ -2,63 +2,77 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-19T09:13:20.035Z</updated>
+    <updated>2022-01-19T10:13:00.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[주4일제가 기후위기 해결사? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/potMWo</id>
-        <link href="https://alook.so/posts/potMWo"/>
-        <updated>2022-01-19T09:11:15.429Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potMWo">주4일제가 기후위기 해결사?</a>]]></content>
+        <title type="html"><![CDATA[저는 어색하기보단 어렵습니다" (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7t7r7</id>
+        <link href="https://alook.so/posts/o7t7r7"/>
+        <updated>2022-01-19T10:10:55.783Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t7r7">저는 어색하기보단 어렵습니다"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[격공합니다! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[환상의 골 장면 보고 가시겠습니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Yytj6b</id>
+        <link href="https://alook.so/posts/Yytj6b"/>
+        <updated>2022-01-19T10:10:55.783Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytj6b">환상의 골 장면 보고 가시겠습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오세훈, "1인 주택, 5년간 7만가구 이상 공급" (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/rDtXRO</id>
+        <link href="https://alook.so/posts/rDtXRO"/>
+        <updated>2022-01-19T10:10:55.783Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXRO">오세훈, "1인 주택, 5년간 7만가구 이상 공급"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간과 인공지능의 협업, 이 다음 그림은 뭘까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/a0tDj8</id>
+        <link href="https://alook.so/posts/a0tDj8"/>
+        <updated>2022-01-19T10:10:55.785Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tDj8">인간과 인공지능의 협업, 이 다음 그림은 뭘까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈이 많이 왔어요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Zkt16B</id>
+        <link href="https://alook.so/posts/Zkt16B"/>
+        <updated>2022-01-19T10:10:55.786Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt16B">눈이 많이 왔어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리가 주식을 해야하는 이유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/dzt17m</id>
+        <link href="https://alook.so/posts/dzt17m"/>
+        <updated>2022-01-19T10:10:55.787Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt17m">우리가 주식을 해야하는 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[80세에도 도전이 가능할까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/J5tm8b</id>
+        <link href="https://alook.so/posts/J5tm8b"/>
+        <updated>2022-01-19T10:10:55.788Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tm8b">80세에도 도전이 가능할까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[격공합니다! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/eVtmVk</id>
         <link href="https://alook.so/posts/eVtmVk"/>
         <updated>2022-01-19T09:11:15.431Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtmVk">격공합니다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[hot공모주 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Pvtmrw</id>
-        <link href="https://alook.so/posts/Pvtmrw"/>
-        <updated>2022-01-19T09:11:15.432Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtmrw">hot공모주</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐레이션 글쓰기, 어색했었던 이유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[큐레이션 글쓰기, 어색했었던 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/zvtwJK</id>
         <link href="https://alook.so/posts/zvtwJK"/>
         <updated>2022-01-19T09:11:15.434Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwJK">큐레이션 글쓰기, 어색했었던 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[열심히 살아야 할까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/WLtMn5</id>
-        <link href="https://alook.so/posts/WLtMn5"/>
-        <updated>2022-01-19T09:11:15.435Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtMn5">열심히 살아야 할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걷는다는 것 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/0ktKnB</id>
-        <link href="https://alook.so/posts/0ktKnB"/>
-        <updated>2022-01-19T09:11:15.438Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktKnB">걷는다는 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울에는 GTX, 밀라노엔 자전거 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/M9twEV</id>
-        <link href="https://alook.so/posts/M9twEV"/>
-        <updated>2022-01-19T09:11:15.440Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9twEV">서울에는 GTX, 밀라노엔 자전거</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐레이션 글쓰기, 어색했었던 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/zvtwJK</id>
-        <link href="https://alook.so/posts/zvtwJK"/>
-        <updated>2022-01-19T09:11:24.354Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwJK">큐레이션 글쓰기, 어색했었던 이유</a>]]></content>
+        <title type="html"><![CDATA[단양・안동・대구・제주・전주는 지금 [로컬 디깅] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/w9tBpo</id>
+        <link href="https://alook.so/posts/w9tBpo"/>
+        <updated>2022-01-19T10:11:03.880Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tBpo">단양・안동・대구・제주・전주는 지금 [로컬 디깅]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이대남과 이대녀의 경제적 불안 (실업률<고용률<고용보험가입률) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -87,6 +101,13 @@
         <link href="https://alook.so/posts/E7t87r"/>
         <updated>2022-01-19T08:12:27.500Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t87r">아프면 쉴 수 있는 권리, 내게는 있을까.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[석열씨의 음주대모험[뉴스정주행] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/LKteb2</id>
+        <link href="https://alook.so/posts/LKteb2"/>
+        <updated>2022-01-19T07:10:13.067Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKteb2">석열씨의 음주대모험[뉴스정주행]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[✍️ 뉴스탭과 큐레이션을 즐기기 위해 꼭 알아야할 것 3가지 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -150,20 +171,6 @@
         <link href="https://alook.so/posts/w9tEzV"/>
         <updated>2022-01-19T04:13:26.829Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tEzV">앞으로 런던에선 ‘000’ 탈 때마다 세금 내세요 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가짜뉴스 전파자 안철수 [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/xlt1RD</id>
-        <link href="https://alook.so/posts/xlt1RD"/>
-        <updated>2022-01-19T02:24:53.960Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt1RD">가짜뉴스 전파자 안철수 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초보제로웨이스트 도전기 첫스토리 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/0kteW9</id>
-        <link href="https://alook.so/posts/0kteW9"/>
-        <updated>2022-01-19T09:11:24.372Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kteW9">초보제로웨이스트 도전기 첫스토리</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큐레이션 글쓰기 사용설명서 (alookso ─ alookso)]]></title>
