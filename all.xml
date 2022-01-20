@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-20T20:13:44.385Z</updated>
+    <updated>2022-01-20T21:11:23.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[올해도 데이터 구축 사업이로구나! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/70tVLP</id>
+        <link href="https://alook.so/posts/70tVLP"/>
+        <updated>2022-01-20T21:09:21.959Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tVLP">올해도 데이터 구축 사업이로구나!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“남자는 스쿼트, 여자는 플랭크...백년 가는 몸, 하루 5분에 달렸다” (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Yytj14</id>
+        <link href="https://alook.so/posts/Yytj14"/>
+        <updated>2022-01-20T21:09:21.960Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytj14">“남자는 스쿼트, 여자는 플랭크...백년 가는 몸, 하루 5분에 달렸다”</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위드 코로나로 방향잡은 두 국가 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/rDtXz2</id>
+        <link href="https://alook.so/posts/rDtXz2"/>
+        <updated>2022-01-20T21:09:21.961Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXz2">위드 코로나로 방향잡은 두 국가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영국사회의 불안, 우리에게는? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/jdtmrW</id>
+        <link href="https://alook.so/posts/jdtmrW"/>
+        <updated>2022-01-20T21:09:21.962Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtmrW">영국사회의 불안, 우리에게는?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[슈, 채무 변제 노력중. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/Zkt1JV</id>
@@ -24,27 +52,6 @@
         <link href="https://alook.so/posts/J5tmjl"/>
         <updated>2022-01-20T19:08:55.358Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tmjl">37kg 신지수, 독박육아의 고단함</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6년이나 걸렸다😡 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Pvtm7L</id>
-        <link href="https://alook.so/posts/Pvtm7L"/>
-        <updated>2022-01-20T19:08:55.361Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtm7L">6년이나 걸렸다😡</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 극복은 철저한 마인드 셋팅부터….. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Vnt4Rr</id>
-        <link href="https://alook.so/posts/Vnt4Rr"/>
-        <updated>2022-01-20T18:12:07.131Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt4Rr">코로나 극복은 철저한 마인드 셋팅부터…..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KBS '태종 이방원' 찰영중 말, 사망 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/zvtwlL</id>
-        <link href="https://alook.so/posts/zvtwlL"/>
-        <updated>2022-01-20T18:12:07.142Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwlL">KBS '태종 이방원' 찰영중 말, 사망</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[벙어리장갑이라고 부르면 속상해요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
