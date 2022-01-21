@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-21T14:11:36.840Z</updated>
+    <updated>2022-01-21T15:13:56.511Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -76,18 +76,39 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t77Z">포스코에서 또 노동자가 사망했다 [brf.] </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[데일리 알벗] 디지털의 시대에 리터러시를 고민하다]]></title>
+        <id>https://alook.so/posts/BatVVP</id>
+        <link href="https://alook.so/posts/BatVVP"/>
+        <updated>2022-01-21T15:11:52.068Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatVVP">[데일리 알벗] 디지털의 시대에 리터러시를 고민하다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA['메타버스' 목적지는 어디인가요?]]></title>
+        <id>https://alook.so/posts/bWtZkW</id>
+        <link href="https://alook.so/posts/bWtZkW"/>
+        <updated>2022-01-21T15:11:52.068Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZkW">'메타버스' 목적지는 어디인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조금은 다른 관점]]></title>
+        <id>https://alook.so/posts/PvtmK1</id>
+        <link href="https://alook.so/posts/PvtmK1"/>
+        <updated>2022-01-21T15:11:52.073Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtmK1">조금은 다른 관점</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람은 누구나 평등한가? 범죄자의 장기이식을 바라보는 시선]]></title>
+        <id>https://alook.so/posts/mbtzz3</id>
+        <link href="https://alook.so/posts/mbtzz3"/>
+        <updated>2022-01-21T15:11:52.075Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtzz3">사람은 누구나 평등한가? 범죄자의 장기이식을 바라보는 시선</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[혜성충돌 만큼 무서운 ‘탄소중심’ 사회 [brf.]]]></title>
         <id>https://alook.so/posts/PvtmJy</id>
         <link href="https://alook.so/posts/PvtmJy"/>
         <updated>2022-01-21T04:14:55.493Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtmJy">혜성충돌 만큼 무서운 ‘탄소중심’ 사회 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나는 결코 감기가 아니다[brf.]]]></title>
-        <id>https://alook.so/posts/RGtJEe</id>
-        <link href="https://alook.so/posts/RGtJEe"/>
-        <updated>2022-01-21T04:14:55.493Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJEe">코로나는 결코 감기가 아니다[brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[뉴스 issue]  조금 달라도 괜찮다고 응원 주세요; 코로나 속 어린이 재활병원의 발버둥]]></title>
@@ -97,45 +118,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJJ8">[뉴스 issue]  조금 달라도 괜찮다고 응원 주세요; 코로나 속 어린이 재활병원의 발버둥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[카우레터] MS, 82조원에 블리자드 인수]]></title>
-        <id>https://alook.so/posts/G1t1aY</id>
-        <link href="https://alook.so/posts/G1t1aY"/>
-        <updated>2022-01-21T12:16:46.015Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t1aY">[카우레터] MS, 82조원에 블리자드 인수</a>]]></content>
+        <title type="html"><![CDATA[코로나는 결코 감기가 아니다[brf.]]]></title>
+        <id>https://alook.so/posts/RGtJEe</id>
+        <link href="https://alook.so/posts/RGtJEe"/>
+        <updated>2022-01-21T04:14:55.493Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJEe">코로나는 결코 감기가 아니다[brf.]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대선 후보들의 기후 정치 공약을 찾아보다 보니, 이런 곳이]]></title>
-        <id>https://alook.so/posts/2xtKbE</id>
-        <link href="https://alook.so/posts/2xtKbE"/>
-        <updated>2022-01-21T12:16:46.015Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtKbE">대선 후보들의 기후 정치 공약을 찾아보다 보니, 이런 곳이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 후보의 공약이 실현되면 우리 삶은 편해질까?]]></title>
-        <id>https://alook.so/posts/rDtX9m</id>
-        <link href="https://alook.so/posts/rDtX9m"/>
-        <updated>2022-01-21T12:16:46.018Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtX9m">윤석열 후보의 공약이 실현되면 우리 삶은 편해질까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이젠 선거운동도 제로웨이스트로! [brf.]]]></title>
-        <id>https://alook.so/posts/54tll5</id>
-        <link href="https://alook.so/posts/54tll5"/>
-        <updated>2022-01-21T12:16:46.015Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tll5">이젠 선거운동도 제로웨이스트로! [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임이 청년 남성의 노동시장 참여를 줄였다?]]></title>
-        <id>https://alook.so/posts/M9twl9</id>
-        <link href="https://alook.so/posts/M9twl9"/>
-        <updated>2022-01-21T12:16:46.017Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9twl9">게임이 청년 남성의 노동시장 참여를 줄였다?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진중권 정의당 복당, 어떻게 생각하나 [brf.]]]></title>
-        <id>https://alook.so/posts/70tVM1</id>
-        <link href="https://alook.so/posts/70tVM1"/>
-        <updated>2022-01-21T13:14:40.811Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tVM1">진중권 정의당 복당, 어떻게 생각하나 [brf.] </a>]]></content>
+        <title type="html"><![CDATA[긱 경제, 긱 이코노미?? - 4차 산업혁명 시대가 온다!!]]></title>
+        <id>https://alook.so/posts/OEtm2l</id>
+        <link href="https://alook.so/posts/OEtm2l"/>
+        <updated>2022-01-21T15:11:52.081Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtm2l">긱 경제, 긱 이코노미?? - 4차 산업혁명 시대가 온다!!</a>]]></content>
     </entry>
 </feed>
