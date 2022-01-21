@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-21T08:14:56.666Z</updated>
+    <updated>2022-01-21T09:13:00.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -25,6 +25,13 @@
         <link href="https://alook.so/posts/OEtmKb"/>
         <updated>2022-01-21T08:13:02.510Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtmKb">서울시내버스 경영합리화, 적자라면 어쩔 수 없지만 공공성은 지켜야</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 코로나로 사망? 코로나"때문에" 사망!]]></title>
+        <id>https://alook.so/posts/potM9D</id>
+        <link href="https://alook.so/posts/potM9D"/>
+        <updated>2022-01-21T09:11:00.541Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potM9D">답글: 코로나로 사망? 코로나"때문에" 사망!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뽑을 사람이 없는 대선?]]></title>
@@ -90,6 +97,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJEe">코로나는 결코 감기가 아니다[brf.]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[역시 대한민국!!]]></title>
+        <id>https://alook.so/posts/4XtX12</id>
+        <link href="https://alook.so/posts/4XtX12"/>
+        <updated>2022-01-21T09:11:00.551Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtX12">역시 대한민국!!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[오미크론 대유행을 앞두고 마음의 준비를 해야할 것들]]></title>
         <id>https://alook.so/posts/yEtxvD</id>
         <link href="https://alook.so/posts/yEtxvD"/>
@@ -109,19 +123,5 @@
         <link href="https://alook.so/posts/4XtXyd"/>
         <updated>2022-01-20T14:12:06.066Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtXyd">벙어리장갑이라고 부르면 속상해요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성공 노린 OTT 산업, 167조원 시장서 출혈경쟁 지속할까?]]></title>
-        <id>https://alook.so/posts/3wt3rY</id>
-        <link href="https://alook.so/posts/3wt3rY"/>
-        <updated>2022-01-21T08:13:02.531Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt3rY">성공 노린 OTT 산업, 167조원 시장서 출혈경쟁 지속할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부정적인 마음은 물 흐르듯 흘려보낸다.]]></title>
-        <id>https://alook.so/posts/mbtzY2</id>
-        <link href="https://alook.so/posts/mbtzY2"/>
-        <updated>2022-01-21T08:13:02.536Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtzY2">부정적인 마음은 물 흐르듯 흘려보낸다.</a>]]></content>
     </entry>
 </feed>
