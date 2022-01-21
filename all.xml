@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-21T18:14:33.293Z</updated>
+    <updated>2022-01-21T19:11:26.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[늦었다고 생각했을 때가 진짜 늦었다? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Vnt4YY</id>
+        <link href="https://alook.so/posts/Vnt4YY"/>
+        <updated>2022-01-21T19:09:17.727Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt4YY">늦었다고 생각했을 때가 진짜 늦었다?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유럽 축구계의 뜨거운 감자 슈퍼리그 창설 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/2xtKlV</id>
+        <link href="https://alook.so/posts/2xtKlV"/>
+        <updated>2022-01-21T19:09:17.728Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtKlV">유럽 축구계의 뜨거운 감자 슈퍼리그 창설</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[불면증 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/WLtMpM</id>
@@ -38,20 +52,6 @@
         <link href="https://alook.so/posts/XBt4PD"/>
         <updated>2022-01-21T17:15:15.516Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt4PD">어느 시작</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스크를 다시 벗는 날에 대한 걱정. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/RGtJzj</id>
-        <link href="https://alook.so/posts/RGtJzj"/>
-        <updated>2022-01-21T17:15:15.518Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJzj">마스크를 다시 벗는 날에 대한 걱정.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국에서 나온 뉴스가 맞나? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/yEtxwp</id>
-        <link href="https://alook.so/posts/yEtxwp"/>
-        <updated>2022-01-21T17:15:15.518Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxwp">한국에서 나온 뉴스가 맞나?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거짓말 한마디로 무더기 감염발생 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
