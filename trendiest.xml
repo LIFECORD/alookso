@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-22T17:14:08.661Z</updated>
+    <updated>2022-01-22T18:13:49.338Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/latx4w"/>
         <updated>2022-01-22T11:09:17.145Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latx4w">이준석 대표가 말하는 공정</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노키즈존, 차별이 당연해지는 사회의 시작]]></title>
+        <id>https://alook.so/posts/OEtm96</id>
+        <link href="https://alook.so/posts/OEtm96"/>
+        <updated>2022-01-22T13:12:16.990Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtm96">노키즈존, 차별이 당연해지는 사회의 시작</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데일리 알벗] 예술도 투자 종목이 되는 시대]]></title>
@@ -25,13 +32,6 @@
         <link href="https://alook.so/posts/Yytjn1"/>
         <updated>2022-01-22T13:12:16.989Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytjn1">나는 사랑이 어떻게 이뤄지는지 연구했지 (feat. 장범준)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노키즈존, 차별이 당연해지는 사회의 시작]]></title>
-        <id>https://alook.so/posts/OEtm96</id>
-        <link href="https://alook.so/posts/OEtm96"/>
-        <updated>2022-01-22T13:12:16.990Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtm96">노키즈존, 차별이 당연해지는 사회의 시작</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지속가능한 미래를 생각한 독일의 Pfand(공병환수)제도]]></title>
