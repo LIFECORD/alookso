@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-23T00:38:17.483Z</updated>
+    <updated>2022-01-23T01:55:10.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tRLp">데이트폭력 범죄자 신상공개: 당신이 누군지 알고싶지 않아요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[죽으면 지겹도록 잘 잠인데 그런데 말입니다]]></title>
-        <id>https://alook.so/posts/eVtmar</id>
-        <link href="https://alook.so/posts/eVtmar"/>
-        <updated>2022-01-22T17:12:16.959Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtmar">죽으면 지겹도록 잘 잠인데 그런데 말입니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[다름을 틀림으로 인식하는 직장 상사.]]></title>
         <id>https://alook.so/posts/Vnt4MW</id>
         <link href="https://alook.so/posts/Vnt4MW"/>
@@ -90,18 +83,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt4MW">다름을 틀림으로 인식하는 직장 상사.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다른 관점에서 생각해봤습니다.]]></title>
-        <id>https://alook.so/posts/0ktK0e</id>
-        <link href="https://alook.so/posts/0ktK0e"/>
-        <updated>2022-01-23T00:36:16.297Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktK0e">다른 관점에서 생각해봤습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[조금은 다른 관점]]></title>
-        <id>https://alook.so/posts/PvtmK1</id>
-        <link href="https://alook.so/posts/PvtmK1"/>
-        <updated>2022-01-23T00:36:16.298Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtmK1">조금은 다른 관점</a>]]></content>
+        <title type="html"><![CDATA[마음이 지쳤을때에 어떻게 해야하나]]></title>
+        <id>https://alook.so/posts/Yytj3Y</id>
+        <link href="https://alook.so/posts/Yytj3Y"/>
+        <updated>2022-01-23T00:36:16.315Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytj3Y">마음이 지쳤을때에 어떻게 해야하나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🤔 꽉 끼는 청바지를 입었으면 성폭행이 아니라고? [형사소송 디깅]]]></title>
@@ -111,24 +97,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtmmb">🤔 꽉 끼는 청바지를 입었으면 성폭행이 아니라고? [형사소송 디깅]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정재훈 교수가 전하는 '오미크론 대유행' 준비 [brf.]]]></title>
-        <id>https://alook.so/posts/zvtwwV</id>
-        <link href="https://alook.so/posts/zvtwwV"/>
-        <updated>2022-01-23T00:36:16.311Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtwwV">정재훈 교수가 전하는 '오미크론 대유행' 준비 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두 가지 측면에서 입당 허용을 해선 안 된다고 봅니다.]]></title>
-        <id>https://alook.so/posts/Pvtmmq</id>
-        <link href="https://alook.so/posts/Pvtmmq"/>
-        <updated>2022-01-23T00:36:16.313Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtmmq">두 가지 측면에서 입당 허용을 해선 안 된다고 봅니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음이 지쳤을때에 어떻게 해야하나]]></title>
-        <id>https://alook.so/posts/Yytj3Y</id>
-        <link href="https://alook.so/posts/Yytj3Y"/>
-        <updated>2022-01-23T00:36:16.315Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytj3Y">마음이 지쳤을때에 어떻게 해야하나</a>]]></content>
+        <title type="html"><![CDATA[죽으면 지겹도록 잘 잠인데 그런데 말입니다]]></title>
+        <id>https://alook.so/posts/eVtmar</id>
+        <link href="https://alook.so/posts/eVtmar"/>
+        <updated>2022-01-22T17:12:16.959Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtmar">죽으면 지겹도록 잘 잠인데 그런데 말입니다</a>]]></content>
     </entry>
 </feed>
