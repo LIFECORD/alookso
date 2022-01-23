@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-23T10:13:47.390Z</updated>
+    <updated>2022-01-23T11:10:20.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: "인정"이 아니라 "인정 가능성"입니다. 기사에 속지 맙시다.]]></title>
+        <id>https://alook.so/posts/WLtMKz</id>
+        <link href="https://alook.so/posts/WLtMKz"/>
+        <updated>2022-01-23T11:08:22.558Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtMKz">답글: "인정"이 아니라 "인정 가능성"입니다. 기사에 속지 맙시다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 50대 아재의 '비교'에 대한 새로운 관점; "참조"]]></title>
+        <id>https://alook.so/posts/0ktK7y</id>
+        <link href="https://alook.so/posts/0ktK7y"/>
+        <updated>2022-01-23T11:08:22.558Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktK7y">답글: 50대 아재의 '비교'에 대한 새로운 관점; "참조"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[찰나의 순간]]></title>
+        <id>https://alook.so/posts/M9twvJ</id>
+        <link href="https://alook.so/posts/M9twvJ"/>
+        <updated>2022-01-23T11:08:22.569Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9twvJ">찰나의 순간</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10대가 쓰는 '비교'에 대한 새로운 관점]]></title>
         <id>https://alook.so/posts/4XtXpD</id>
         <link href="https://alook.so/posts/4XtXpD"/>
         <updated>2022-01-23T10:11:36.833Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtXpD">10대가 쓰는 '비교'에 대한 새로운 관점</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페루 유조선 기름 유출]]></title>
-        <id>https://alook.so/posts/XBt4Rw</id>
-        <link href="https://alook.so/posts/XBt4Rw"/>
-        <updated>2022-01-23T10:11:36.837Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt4Rw">페루 유조선 기름 유출</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[새해에 점 보시나요?]]></title>
@@ -53,19 +67,5 @@
         <link href="https://alook.so/posts/BatV8Z"/>
         <updated>2022-01-23T10:11:36.848Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatV8Z">로또 1등...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥수수 속대 재활용]]></title>
-        <id>https://alook.so/posts/LKtejV</id>
-        <link href="https://alook.so/posts/LKtejV"/>
-        <updated>2022-01-23T10:11:36.850Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtejV">옥수수 속대 재활용</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외에서 몸이 아플 경우 ,, 외로움보다는 답답함]]></title>
-        <id>https://alook.so/posts/njtmdy</id>
-        <link href="https://alook.so/posts/njtmdy"/>
-        <updated>2022-01-23T10:11:36.851Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtmdy">해외에서 몸이 아플 경우 ,, 외로움보다는 답답함</a>]]></content>
     </entry>
 </feed>
