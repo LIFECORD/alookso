@@ -2,42 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-24T00:37:36.125Z</updated>
+    <updated>2022-01-24T02:01:25.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[운동중독]]></title>
-        <id>https://alook.so/posts/E7t8Lj</id>
-        <link href="https://alook.so/posts/E7t8Lj"/>
-        <updated>2022-01-24T00:35:23.279Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t8Lj">운동중독</a>]]></content>
+        <title type="html"><![CDATA[주식은 과연 도박일까?]]></title>
+        <id>https://alook.so/posts/3wt36V</id>
+        <link href="https://alook.so/posts/3wt36V"/>
+        <updated>2022-01-24T01:59:20.491Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt36V">주식은 과연 도박일까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월요일은 언제나 피곤해]]></title>
-        <id>https://alook.so/posts/latxKe</id>
-        <link href="https://alook.so/posts/latxKe"/>
-        <updated>2022-01-24T00:35:23.282Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latxKe">월요일은 언제나 피곤해</a>]]></content>
+        <title type="html"><![CDATA[임산부로 살아가기 어려운 세상]]></title>
+        <id>https://alook.so/posts/8WtJKR</id>
+        <link href="https://alook.so/posts/8WtJKR"/>
+        <updated>2022-01-24T01:59:20.492Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtJKR">임산부로 살아가기 어려운 세상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기성세대와 MZ 세대의 소통방법]]></title>
-        <id>https://alook.so/posts/54tl1M</id>
-        <link href="https://alook.so/posts/54tl1M"/>
-        <updated>2022-01-24T00:35:23.283Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tl1M">기성세대와 MZ 세대의 소통방법</a>]]></content>
+        <title type="html"><![CDATA[부동산 신조어]]></title>
+        <id>https://alook.so/posts/G1t1z2</id>
+        <link href="https://alook.so/posts/G1t1z2"/>
+        <updated>2022-01-24T01:59:20.492Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t1z2">부동산 신조어</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가난한 사람을 위한 심리학은 없다.]]></title>
-        <id>https://alook.so/posts/q1tvea</id>
-        <link href="https://alook.so/posts/q1tvea"/>
-        <updated>2022-01-23T23:09:53.029Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvea">가난한 사람을 위한 심리학은 없다.</a>]]></content>
+        <title type="html"><![CDATA[백신3차 맞아야 될까요?]]></title>
+        <id>https://alook.so/posts/OEtm0v</id>
+        <link href="https://alook.so/posts/OEtm0v"/>
+        <updated>2022-01-24T01:59:20.492Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtm0v">백신3차 맞아야 될까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내이름이 내삶을 말한다.3화]]></title>
-        <id>https://alook.so/posts/1Rt34Z</id>
-        <link href="https://alook.so/posts/1Rt34Z"/>
-        <updated>2022-01-23T23:09:53.032Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt34Z">내이름이 내삶을 말한다.3화</a>]]></content>
+        <title type="html"><![CDATA[그땐 그때가 지금은 지금이..]]></title>
+        <id>https://alook.so/posts/vKt78l</id>
+        <link href="https://alook.so/posts/vKt78l"/>
+        <updated>2022-01-24T01:59:20.495Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt78l">그땐 그때가 지금은 지금이..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[노동자가 이사회 들어간다, 전망과 우려는 [brf.]]]></title>
+        <id>https://alook.so/posts/E7t8LL</id>
+        <link href="https://alook.so/posts/E7t8LL"/>
+        <updated>2022-01-24T01:59:20.498Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t8LL">노동자가 이사회 들어간다, 전망과 우려는 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["공시가 2배 올랐는데 보유세는 7배 껑충"]]></title>
+        <id>https://alook.so/posts/latxKE</id>
+        <link href="https://alook.so/posts/latxKE"/>
+        <updated>2022-01-24T01:59:20.498Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latxKE">"공시가 2배 올랐는데 보유세는 7배 껑충"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오미크론이 우세종이 되다]]></title>
+        <id>https://alook.so/posts/92tRDj</id>
+        <link href="https://alook.so/posts/92tRDj"/>
+        <updated>2022-01-24T01:59:20.498Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tRDj">오미크론이 우세종이 되다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 가장 중요한 가치의 "득실"을 따지는 것이 협치]]></title>
+        <id>https://alook.so/posts/KmtrZw</id>
+        <link href="https://alook.so/posts/KmtrZw"/>
+        <updated>2022-01-24T01:59:20.500Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtrZw">답글: 가장 중요한 가치의 "득실"을 따지는 것이 협치</a>]]></content>
     </entry>
 </feed>
