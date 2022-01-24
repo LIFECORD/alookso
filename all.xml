@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-23T23:11:49.767Z</updated>
+    <updated>2022-01-24T00:37:36.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[운동중독 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7t8Lj</id>
+        <link href="https://alook.so/posts/E7t8Lj"/>
+        <updated>2022-01-24T00:35:23.279Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t8Lj">운동중독</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월요일은 언제나 피곤해 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/latxKe</id>
+        <link href="https://alook.so/posts/latxKe"/>
+        <updated>2022-01-24T00:35:23.282Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latxKe">월요일은 언제나 피곤해</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기성세대와 MZ 세대의 소통방법 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/54tl1M</id>
+        <link href="https://alook.so/posts/54tl1M"/>
+        <updated>2022-01-24T00:35:23.283Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tl1M">기성세대와 MZ 세대의 소통방법</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가난한 사람을 위한 심리학은 없다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/q1tvea</id>
@@ -17,13 +38,6 @@
         <link href="https://alook.so/posts/1Rt34Z"/>
         <updated>2022-01-23T23:09:53.032Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt34Z">내이름이 내삶을 말한다.3화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침, 뭘 먹으면 좋을까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/YytjvZ</id>
-        <link href="https://alook.so/posts/YytjvZ"/>
-        <updated>2022-01-23T22:11:06.738Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytjvZ">아침, 뭘 먹으면 좋을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美증시 급락하자 줍줍하기 바쁜 서학개미 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
