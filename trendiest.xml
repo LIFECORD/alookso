@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-24T03:16:06.851Z</updated>
+    <updated>2022-01-24T04:15:27.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[[카우레터_B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽]]></title>
+        <title type="html"><![CDATA[가상자산, 얼마나 가지고 있나? [brf.]]]></title>
+        <id>https://alook.so/posts/WLtM0X</id>
+        <link href="https://alook.so/posts/WLtM0X"/>
+        <updated>2022-01-24T04:13:36.980Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtM0X">가상자산, 얼마나 가지고 있나? [brf.] </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캘리그라피 .손글씨!!!]]></title>
+        <id>https://alook.so/posts/yEtxXP</id>
+        <link href="https://alook.so/posts/yEtxXP"/>
+        <updated>2022-01-24T04:13:36.980Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtxXP">캘리그라피 .손글씨!!!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명, 윤석열을 보면 ‘의혹’부터 떠올린다 [brf.]]]></title>
+        <id>https://alook.so/posts/mbtzmn</id>
+        <link href="https://alook.so/posts/mbtzmn"/>
+        <updated>2022-01-24T04:13:36.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtzmn">이재명, 윤석열을 보면 ‘의혹’부터 떠올린다 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽]]></title>
         <id>https://alook.so/posts/q1tvej</id>
         <link href="https://alook.so/posts/q1tvej"/>
         <updated>2022-01-24T02:34:02.596Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvej">[카우레터_B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvej">[B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아침, 뭘 먹으면 좋을까?]]></title>
@@ -95,19 +116,5 @@
         <link href="https://alook.so/posts/RGtJe4"/>
         <updated>2022-01-23T20:11:05.315Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtJe4">답글: '원청'과 '발주처'라는 말장난에 표류 중인 누더기 법</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산책을 하면서 한 생각]]></title>
-        <id>https://alook.so/posts/LKte1V</id>
-        <link href="https://alook.so/posts/LKte1V"/>
-        <updated>2022-01-23T11:08:30.892Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKte1V">산책을 하면서 한 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저처럼 재혼하신분들의 생각이 궁금해요]]></title>
-        <id>https://alook.so/posts/KmtrRB</id>
-        <link href="https://alook.so/posts/KmtrRB"/>
-        <updated>2022-01-23T20:11:05.317Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtrRB">저처럼 재혼하신분들의 생각이 궁금해요</a>]]></content>
     </entry>
 </feed>
