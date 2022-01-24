@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-24T02:35:54.907Z</updated>
+    <updated>2022-01-24T03:16:06.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/YytjvZ"/>
         <updated>2022-01-24T01:59:28.496Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytjvZ">아침, 뭘 먹으면 좋을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삶에 있어서 실패란?]]></title>
+        <id>https://alook.so/posts/6Mt2Dn</id>
+        <link href="https://alook.so/posts/6Mt2Dn"/>
+        <updated>2022-01-24T03:14:07.858Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt2Dn">삶에 있어서 실패란?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[美증시 급락하자 줍줍하기 바쁜 서학개미]]></title>
@@ -62,6 +69,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tRO3">지구의 몸살은 누가 치료해 주나.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[현금 50만 원 Vs 백화점상품권 70만 원]]></title>
+        <id>https://alook.so/posts/54tlv3</id>
+        <link href="https://alook.so/posts/54tlv3"/>
+        <updated>2022-01-24T03:14:07.875Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tlv3">현금 50만 원 Vs 백화점상품권 70만 원</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[답글: "빈용기 보증금제도"가 있습니다]]></title>
         <id>https://alook.so/posts/jdtmzM</id>
         <link href="https://alook.so/posts/jdtmzM"/>
@@ -95,12 +109,5 @@
         <link href="https://alook.so/posts/KmtrRB"/>
         <updated>2022-01-23T20:11:05.317Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtrRB">저처럼 재혼하신분들의 생각이 궁금해요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 사회에서 장애인으로 산다는 것]]></title>
-        <id>https://alook.so/posts/rDtXy4</id>
-        <link href="https://alook.so/posts/rDtXy4"/>
-        <updated>2022-01-23T08:12:01.128Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXy4">한국 사회에서 장애인으로 산다는 것</a>]]></content>
     </entry>
 </feed>
