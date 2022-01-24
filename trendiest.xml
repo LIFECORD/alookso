@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-24T02:01:25.339Z</updated>
+    <updated>2022-01-24T02:35:54.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[카우레터_B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽]]></title>
+        <id>https://alook.so/posts/q1tvej</id>
+        <link href="https://alook.so/posts/q1tvej"/>
+        <updated>2022-01-24T02:34:02.596Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvej">[카우레터_B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아침, 뭘 먹으면 좋을까?]]></title>
         <id>https://alook.so/posts/YytjvZ</id>
@@ -95,12 +102,5 @@
         <link href="https://alook.so/posts/rDtXy4"/>
         <updated>2022-01-23T08:12:01.128Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXy4">한국 사회에서 장애인으로 산다는 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: [늦은 아침 생각] "Fail"의 진정한 뜻-희망사전에 등재요망^^]]></title>
-        <id>https://alook.so/posts/Kmtrjd</id>
-        <link href="https://alook.so/posts/Kmtrjd"/>
-        <updated>2022-01-23T20:11:05.322Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtrjd">답글: [늦은 아침 생각] "Fail"의 진정한 뜻-희망사전에 등재요망^^</a>]]></content>
     </entry>
 </feed>

@@ -2,70 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-24T02:01:25.360Z</updated>
+    <updated>2022-01-24T02:35:54.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[주식은 과연 도박일까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/3wt36V</id>
-        <link href="https://alook.so/posts/3wt36V"/>
-        <updated>2022-01-24T01:59:20.491Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt36V">주식은 과연 도박일까?</a>]]></content>
+        <title type="html"><![CDATA[가상자산, 얼마나 가지고 있나? [brf.] (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/WLtM0X</id>
+        <link href="https://alook.so/posts/WLtM0X"/>
+        <updated>2022-01-24T02:33:54.425Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtM0X">가상자산, 얼마나 가지고 있나? [brf.] </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[임산부로 살아가기 어려운 세상 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/8WtJKR</id>
-        <link href="https://alook.so/posts/8WtJKR"/>
-        <updated>2022-01-24T01:59:20.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtJKR">임산부로 살아가기 어려운 세상</a>]]></content>
+        <title type="html"><![CDATA[퇴사할 때 성희롱 피해사실을 이메일 발송한 게 명예훼손? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/XBt40o</id>
+        <link href="https://alook.so/posts/XBt40o"/>
+        <updated>2022-01-24T02:33:54.427Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt40o">퇴사할 때 성희롱 피해사실을 이메일 발송한 게 명예훼손?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부동산 신조어 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/G1t1z2</id>
-        <link href="https://alook.so/posts/G1t1z2"/>
-        <updated>2022-01-24T01:59:20.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t1z2">부동산 신조어</a>]]></content>
+        <title type="html"><![CDATA[인공지능시대 우리는 어떻게 해야할까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/w9tBer</id>
+        <link href="https://alook.so/posts/w9tBer"/>
+        <updated>2022-01-24T02:33:54.428Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tBer">인공지능시대 우리는 어떻게 해야할까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[백신3차 맞아야 될까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/OEtm0v</id>
-        <link href="https://alook.so/posts/OEtm0v"/>
-        <updated>2022-01-24T01:59:20.492Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtm0v">백신3차 맞아야 될까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그땐 그때가 지금은 지금이.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/vKt78l</id>
-        <link href="https://alook.so/posts/vKt78l"/>
-        <updated>2022-01-24T01:59:20.495Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt78l">그땐 그때가 지금은 지금이..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노동자가 이사회 들어간다, 전망과 우려는 [brf.] (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7t8LL</id>
-        <link href="https://alook.so/posts/E7t8LL"/>
-        <updated>2022-01-24T01:59:20.498Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t8LL">노동자가 이사회 들어간다, 전망과 우려는 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["공시가 2배 올랐는데 보유세는 7배 껑충" (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/latxKE</id>
-        <link href="https://alook.so/posts/latxKE"/>
-        <updated>2022-01-24T01:59:20.498Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latxKE">"공시가 2배 올랐는데 보유세는 7배 껑충"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론이 우세종이 되다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/92tRDj</id>
-        <link href="https://alook.so/posts/92tRDj"/>
-        <updated>2022-01-24T01:59:20.498Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tRDj">오미크론이 우세종이 되다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 가장 중요한 가치의 "득실"을 따지는 것이 협치 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/KmtrZw</id>
-        <link href="https://alook.so/posts/KmtrZw"/>
-        <updated>2022-01-24T01:59:20.500Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtrZw">답글: 가장 중요한 가치의 "득실"을 따지는 것이 협치</a>]]></content>
+        <title type="html"><![CDATA[[카우레터_B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1tvej</id>
+        <link href="https://alook.so/posts/q1tvej"/>
+        <updated>2022-01-24T02:34:02.596Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvej">[카우레터_B컷] 알고리즘의 국제 관계: 베이징 동계 올림픽</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아침, 뭘 먹으면 좋을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -157,13 +122,6 @@
         <link href="https://alook.so/posts/rDtXy4"/>
         <updated>2022-01-23T08:12:01.128Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXy4">한국 사회에서 장애인으로 산다는 것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: [늦은 아침 생각] "Fail"의 진정한 뜻-희망사전에 등재요망^^ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Kmtrjd</id>
-        <link href="https://alook.so/posts/Kmtrjd"/>
-        <updated>2022-01-23T20:11:05.322Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtrjd">답글: [늦은 아침 생각] "Fail"의 진정한 뜻-희망사전에 등재요망^^</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큐레이션 글쓰기 사용설명서 (alookso ─ alookso)]]></title>
