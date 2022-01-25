@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-25T06:14:36.164Z</updated>
+    <updated>2022-01-25T07:13:02.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[첫인상에 대해서.]]></title>
-        <id>https://alook.so/posts/a0tD2r</id>
-        <link href="https://alook.so/posts/a0tD2r"/>
-        <updated>2022-01-25T06:12:40.124Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tD2r">첫인상에 대해서.</a>]]></content>
+        <title type="html"><![CDATA[[데일리 알벗] 행동하는 시민을 발견하다]]></title>
+        <id>https://alook.so/posts/54tlZJ</id>
+        <link href="https://alook.so/posts/54tlZJ"/>
+        <updated>2022-01-25T07:11:06.638Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tlZJ">[데일리 알벗] 행동하는 시민을 발견하다 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[시사인] "나는 인간이 아니다. 초거대 인공지능(AI)이다"]]></title>
-        <id>https://alook.so/posts/potMqn</id>
-        <link href="https://alook.so/posts/potMqn"/>
-        <updated>2022-01-25T06:12:40.126Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potMqn">[시사인] "나는 인간이 아니다. 초거대 인공지능(AI)이다"</a>]]></content>
+        <title type="html"><![CDATA[친척의 투자 권유]]></title>
+        <id>https://alook.so/posts/q1tvPk</id>
+        <link href="https://alook.so/posts/q1tvPk"/>
+        <updated>2022-01-25T07:11:06.639Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvPk">친척의 투자 권유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[6월부터 '일회용 컵' 보증금 300원..다른 매장에 반납 가능]]></title>
-        <id>https://alook.so/posts/zvtw9Z</id>
-        <link href="https://alook.so/posts/zvtw9Z"/>
-        <updated>2022-01-25T06:12:40.128Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtw9Z">6월부터 '일회용 컵' 보증금 300원..다른 매장에 반납 가능</a>]]></content>
+        <title type="html"><![CDATA[우리나라 미래는 어떨까요?]]></title>
+        <id>https://alook.so/posts/1Rt30G</id>
+        <link href="https://alook.so/posts/1Rt30G"/>
+        <updated>2022-01-25T07:11:06.642Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt30G">우리나라 미래는 어떨까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[초소형 딱정벌레가 빠르게 나는 비결]]></title>
+        <id>https://alook.so/posts/o7t7KG</id>
+        <link href="https://alook.so/posts/o7t7KG"/>
+        <updated>2022-01-25T07:11:06.643Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t7KG">초소형 딱정벌레가 빠르게 나는 비결</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보여주기 위해서 살고 있나요?]]></title>
+        <id>https://alook.so/posts/YytjdL</id>
+        <link href="https://alook.so/posts/YytjdL"/>
+        <updated>2022-01-25T07:11:06.647Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytjdL">보여주기 위해서 살고 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[젠더갈등, 무엇을 위한 것인가?]]></title>
+        <id>https://alook.so/posts/rDtXKj</id>
+        <link href="https://alook.so/posts/rDtXKj"/>
+        <updated>2022-01-25T07:11:06.647Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXKj">젠더갈등, 무엇을 위한 것인가?</a>]]></content>
     </entry>
 </feed>
