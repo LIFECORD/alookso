@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-25T15:13:01.844Z</updated>
+    <updated>2022-01-25T16:17:07.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -27,6 +27,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tV4V">공무원이 되고 우울증을 얻으며 드는 생각</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[한달동안 운동하면서 느낀 감정들]]></title>
+        <id>https://alook.so/posts/OEtmW4</id>
+        <link href="https://alook.so/posts/OEtmW4"/>
+        <updated>2022-01-25T06:12:47.869Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtmW4">한달동안 운동하면서 느낀 감정들</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[답글: 제조업 일자리 – 한국, 중국 감소하고, 미국, 독일 늘어나?]]></title>
         <id>https://alook.so/posts/dzt1kw</id>
         <link href="https://alook.so/posts/dzt1kw"/>
@@ -41,20 +48,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tlZJ">[데일리 알벗] 행동하는 시민을 발견하다 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한달동안 운동하면서 느낀 감정들]]></title>
-        <id>https://alook.so/posts/OEtmW4</id>
-        <link href="https://alook.so/posts/OEtmW4"/>
-        <updated>2022-01-25T06:12:47.869Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtmW4">한달동안 운동하면서 느낀 감정들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸건강이 먼저일까? 마음 건강이 먼저일까?]]></title>
-        <id>https://alook.so/posts/bWtZbr</id>
-        <link href="https://alook.so/posts/bWtZbr"/>
-        <updated>2022-01-25T14:10:14.795Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZbr">몸건강이 먼저일까? 마음 건강이 먼저일까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[거시적인 관점에서 볼 수 있는 눈]]></title>
         <id>https://alook.so/posts/KmtrJ5</id>
         <link href="https://alook.so/posts/KmtrJ5"/>
@@ -67,6 +60,13 @@
         <link href="https://alook.so/posts/bWtZKX"/>
         <updated>2022-01-25T11:09:07.207Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZKX">기자에게 '개XX'라고 욕하다 걸린 대통령이 있다고? [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸건강이 먼저일까? 마음 건강이 먼저일까?]]></title>
+        <id>https://alook.so/posts/bWtZbr</id>
+        <link href="https://alook.so/posts/bWtZbr"/>
+        <updated>2022-01-25T14:10:14.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZbr">몸건강이 먼저일까? 마음 건강이 먼저일까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Q. 우리나라의 최강 보수층은? A. 젊은 남자, 일명 이대남.]]></title>
@@ -90,6 +90,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt42y">은행 점포 폐쇄, 규제 필요한가? [brf.] </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가상화폐, 세금 걷을까 말까 [정check]]]></title>
+        <id>https://alook.so/posts/Kmtrpn</id>
+        <link href="https://alook.so/posts/Kmtrpn"/>
+        <updated>2022-01-25T11:09:07.204Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtrpn">가상화폐, 세금 걷을까 말까 [정check]</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[왜 언론은 더 이상 "오존층 구멍"에 대한 이야기를 하지 않는걸까?]]></title>
         <id>https://alook.so/posts/yEtxYM</id>
         <link href="https://alook.so/posts/yEtxYM"/>
@@ -102,13 +109,6 @@
         <link href="https://alook.so/posts/bWtZ6Y"/>
         <updated>2022-01-25T15:11:02.441Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtZ6Y">유권자는 아니지만 교육정책 정도는 알아야 할 것 같아서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가상화폐, 세금 걷을까 말까 [정check]]]></title>
-        <id>https://alook.so/posts/Kmtrpn</id>
-        <link href="https://alook.so/posts/Kmtrpn"/>
-        <updated>2022-01-25T11:09:07.204Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtrpn">가상화폐, 세금 걷을까 말까 [정check]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 캠프는 ‘노동 안전’에 반대한다? [brf.]]]></title>
