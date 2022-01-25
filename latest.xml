@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-25T02:02:16.207Z</updated>
+    <updated>2022-01-25T02:37:19.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[반려동물 동반 카페, 알고 보면 단속 대상? [brf.]]]></title>
+        <id>https://alook.so/posts/70tV3V</id>
+        <link href="https://alook.so/posts/70tV3V"/>
+        <updated>2022-01-25T02:35:25.660Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tV3V">반려동물 동반 카페, 알고 보면 단속 대상? [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연말정산 간소화 서비스 알아보자!]]></title>
+        <id>https://alook.so/posts/rDtXBj</id>
+        <link href="https://alook.so/posts/rDtXBj"/>
+        <updated>2022-01-25T02:35:25.661Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXBj">연말정산 간소화 서비스 알아보자!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 3차 접종 맞을까 말까?]]></title>
+        <id>https://alook.so/posts/E7t8Z2</id>
+        <link href="https://alook.so/posts/E7t8Z2"/>
+        <updated>2022-01-25T02:35:25.662Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t8Z2">코로나 3차 접종 맞을까 말까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이코패스? 소시오패스? 다 한 줄기다.]]></title>
+        <id>https://alook.so/posts/latxWZ</id>
+        <link href="https://alook.so/posts/latxWZ"/>
+        <updated>2022-01-25T02:35:25.663Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latxWZ">사이코패스? 소시오패스? 다 한 줄기다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[8:45]]></title>
         <id>https://alook.so/posts/KmtrVx</id>
@@ -18,54 +46,5 @@
         <link href="https://alook.so/posts/mbtzdG"/>
         <updated>2022-01-25T02:00:12.033Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtzdG">한강의밤 그리고 코로나..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인주의가 보편화된 사회에 식구란 의미를 다시 한번 생각합니다.]]></title>
-        <id>https://alook.so/posts/54tl6K</id>
-        <link href="https://alook.so/posts/54tl6K"/>
-        <updated>2022-01-25T02:00:12.033Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tl6K">개인주의가 보편화된 사회에 식구란 의미를 다시 한번 생각합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로또..]]></title>
-        <id>https://alook.so/posts/q1tvV0</id>
-        <link href="https://alook.so/posts/q1tvV0"/>
-        <updated>2022-01-25T02:00:12.038Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tvV0">로또..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고독사]]></title>
-        <id>https://alook.so/posts/DjtzVO</id>
-        <link href="https://alook.so/posts/DjtzVO"/>
-        <updated>2022-01-25T02:00:12.039Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtzVO">고독사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유재석과 백종원의 성공 공통점]]></title>
-        <id>https://alook.so/posts/1Rt3jx</id>
-        <link href="https://alook.so/posts/1Rt3jx"/>
-        <updated>2022-01-25T02:00:12.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt3jx">유재석과 백종원의 성공 공통점</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[함께 공부하는 경린이 경제 - 1호 (2022.01.25.)]]></title>
-        <id>https://alook.so/posts/YytjK5</id>
-        <link href="https://alook.so/posts/YytjK5"/>
-        <updated>2022-01-25T02:00:12.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytjK5">함께 공부하는 경린이 경제 - 1호 (2022.01.25.)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 경험.]]></title>
-        <id>https://alook.so/posts/rDtXBR</id>
-        <link href="https://alook.so/posts/rDtXBR"/>
-        <updated>2022-01-25T02:00:12.043Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtXBR">새로운 경험.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕하세요 대한민국 고등학생입니다]]></title>
-        <id>https://alook.so/posts/jdtmRd</id>
-        <link href="https://alook.so/posts/jdtmRd"/>
-        <updated>2022-01-25T02:00:12.044Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtmRd">안녕하세요 대한민국 고등학생입니다</a>]]></content>
     </entry>
 </feed>
