@@ -2,56 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-25T23:14:08.834Z</updated>
+    <updated>2022-01-26T00:43:08.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[스페인 바르셀로나 분리독립 시위가 일어난 배경와 이유]]></title>
-        <id>https://alook.so/posts/3wtpbn</id>
-        <link href="https://alook.so/posts/3wtpbn"/>
-        <updated>2022-01-25T23:11:58.714Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtpbn">스페인 바르셀로나 분리독립 시위가 일어난 배경와 이유</a>]]></content>
+        <title type="html"><![CDATA[지금 지치셨나요?]]></title>
+        <id>https://alook.so/posts/VntbyB</id>
+        <link href="https://alook.so/posts/VntbyB"/>
+        <updated>2022-01-26T00:40:59.637Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntbyB">지금 지치셨나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[데일리 알벗] 학습이 경쟁력인 시대]]></title>
-        <id>https://alook.so/posts/8Wt3Ev</id>
-        <link href="https://alook.so/posts/8Wt3Ev"/>
-        <updated>2022-01-25T23:11:58.747Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt3Ev">[데일리 알벗] 학습이 경쟁력인 시대</a>]]></content>
+        <title type="html"><![CDATA[미래가 아닌 지금 이 순간을 살아라]]></title>
+        <id>https://alook.so/posts/zvtXGo</id>
+        <link href="https://alook.so/posts/zvtXGo"/>
+        <updated>2022-01-26T00:40:59.639Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtXGo">미래가 아닌 지금 이 순간을 살아라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넘어지지 않고 걸을 수는 없다.]]></title>
-        <id>https://alook.so/posts/G1txM0</id>
-        <link href="https://alook.so/posts/G1txM0"/>
-        <updated>2022-01-25T23:11:58.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1txM0">넘어지지 않고 걸을 수는 없다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 홈술이 유행은 유행이었나봐요]]></title>
-        <id>https://alook.so/posts/OEtzlP</id>
-        <link href="https://alook.so/posts/OEtzlP"/>
-        <updated>2022-01-25T23:11:58.749Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtzlP">요즘 홈술이 유행은 유행이었나봐요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 러시아 전쟁, 3차 대전으로 번지나]]></title>
-        <id>https://alook.so/posts/92to1n</id>
-        <link href="https://alook.so/posts/92to1n"/>
-        <updated>2022-01-25T22:10:26.133Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92to1n">우크라이나 러시아 전쟁, 3차 대전으로 번지나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반려견과 같이 살려면...]]></title>
-        <id>https://alook.so/posts/KmtlK2</id>
-        <link href="https://alook.so/posts/KmtlK2"/>
-        <updated>2022-01-25T21:09:51.362Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtlK2">반려견과 같이 살려면...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[역차별 역대급 사건]]></title>
-        <id>https://alook.so/posts/mbtl4P</id>
-        <link href="https://alook.so/posts/mbtl4P"/>
-        <updated>2022-01-25T21:09:51.363Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtl4P">역차별 역대급 사건</a>]]></content>
+        <title type="html"><![CDATA['1000원 김밥' 처럼 사라지는 '1000원 커피']]></title>
+        <id>https://alook.so/posts/0kt8Bb</id>
+        <link href="https://alook.so/posts/0kt8Bb"/>
+        <updated>2022-01-26T00:40:59.641Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8Bb">'1000원 김밥' 처럼 사라지는 '1000원 커피'</a>]]></content>
     </entry>
 </feed>
