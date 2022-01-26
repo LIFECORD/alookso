@@ -2,56 +2,91 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-26T14:12:41.941Z</updated>
+    <updated>2022-01-26T15:13:24.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[노노노] 표 장사도 큰그림 그려가며 합시다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[영어, 그 권력 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/XBt1MM</id>
+        <link href="https://alook.so/posts/XBt1MM"/>
+        <updated>2022-01-26T15:11:13.204Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1MM">영어, 그 권력</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자리가 사람을 만드는 건가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xltxzJ</id>
+        <link href="https://alook.so/posts/xltxzJ"/>
+        <updated>2022-01-26T15:11:13.207Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltxzJ">자리가 사람을 만드는 건가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상 사람들이 선망하는 길, 정말 당신의 길인가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/RGt421</id>
+        <link href="https://alook.so/posts/RGt421"/>
+        <updated>2022-01-26T15:11:13.209Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt421">세상 사람들이 선망하는 길, 정말 당신의 길인가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 아파트를 지키는 히어로 ! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Bat9lb</id>
+        <link href="https://alook.so/posts/Bat9lb"/>
+        <updated>2022-01-26T15:11:13.209Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat9lb">우리 아파트를 지키는 히어로 ! </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(어쩌면 딴소리) 65세가 노인일까요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/njtvoJ</id>
+        <link href="https://alook.so/posts/njtvoJ"/>
+        <updated>2022-01-26T15:11:22.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtvoJ">(어쩌면 딴소리) 65세가 노인일까요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안철수와 KBS - 권력의 차원과 기성 언론에 대해 생각해보게 되는 사건. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/E7tbY1</id>
+        <link href="https://alook.so/posts/E7tbY1"/>
+        <updated>2022-01-26T15:11:22.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tbY1">안철수와 KBS - 권력의 차원과 기성 언론에 대해 생각해보게 되는 사건.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도시 철도 계획의 큰 그림 부족은 이미 너무 많이 겪은 것 같습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/mbtlP1</id>
+        <link href="https://alook.so/posts/mbtlP1"/>
+        <updated>2022-01-26T15:11:22.050Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtlP1">도시 철도 계획의 큰 그림 부족은 이미 너무 많이 겪은 것 같습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노노노] 표 장사도 큰그림 그려가며 합시다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/jdt69p</id>
         <link href="https://alook.so/posts/jdt69p"/>
         <updated>2022-01-26T14:10:37.032Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt69p">[노노노] 표 장사도 큰그림 그려가며 합시다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가사노동의 가치가 GDP의 25%를 넘고, 올해부터 가사노동법이 적용되지만 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[가사노동의 가치가 GDP의 25%를 넘고, 올해부터 가사노동법이 적용되지만 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/bWtYpJ</id>
         <link href="https://alook.so/posts/bWtYpJ"/>
         <updated>2022-01-26T14:10:37.032Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtYpJ">가사노동의 가치가 GDP의 25%를 넘고, 올해부터 가사노동법이 적용되지만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생각을 결정하는 단 한가지! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/a0t1aO</id>
-        <link href="https://alook.so/posts/a0t1aO"/>
-        <updated>2022-01-26T14:10:37.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t1aO">생각을 결정하는 단 한가지!</a>]]></content>
+        <title type="html"><![CDATA[🧭‘탈모 공약’이 불러온 포퓰리즘 논란 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/mbtlB1</id>
+        <link href="https://alook.so/posts/mbtlB1"/>
+        <updated>2022-01-26T15:11:22.056Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtlB1">🧭‘탈모 공약’이 불러온 포퓰리즘 논란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지금에야 느낀점 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/dzt0r0</id>
-        <link href="https://alook.so/posts/dzt0r0"/>
-        <updated>2022-01-26T14:10:37.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt0r0">지금에야 느낀점</a>]]></content>
+        <title type="html"><![CDATA[[뉴스 issue] 9초도 길다; 정치로 파고든 이기적 유전자 "밈(Meme)" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djtbl2</id>
+        <link href="https://alook.so/posts/Djtbl2"/>
+        <updated>2022-01-26T15:11:22.058Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtbl2">[뉴스 issue] 9초도 길다; 정치로 파고든 이기적 유전자 "밈(Meme)"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나를 차분하게 만드는 무채색 이야기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/J5t4rm</id>
-        <link href="https://alook.so/posts/J5t4rm"/>
-        <updated>2022-01-26T14:10:37.044Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t4rm">나를 차분하게 만드는 무채색 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[계속되는 코로나로인해 몸도 마음도 지쳐가는 시기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/pot5Km</id>
-        <link href="https://alook.so/posts/pot5Km"/>
-        <updated>2022-01-26T14:10:37.045Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot5Km">계속되는 코로나로인해 몸도 마음도 지쳐가는 시기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[감사할수록 더 많은 것을 얻는다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/eVt0OX</id>
-        <link href="https://alook.so/posts/eVt0OX"/>
-        <updated>2022-01-26T14:10:37.047Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0OX">감사할수록 더 많은 것을 얻는다</a>]]></content>
+        <title type="html"><![CDATA[곁에서 본 요양보호사 선생님들은 대단하셨습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/eVt0rV</id>
+        <link href="https://alook.so/posts/eVt0rV"/>
+        <updated>2022-01-26T15:11:22.059Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0rV">곁에서 본 요양보호사 선생님들은 대단하셨습니다. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[몇 가지 아이디어 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -68,11 +103,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1o5">스스로 느낀 경제공부의 필요성(feat.종신보험)</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[혁신이 노동자의 일자리를 빼앗는 문제에 관해 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/6MtKeP</id>
+        <link href="https://alook.so/posts/6MtKeP"/>
+        <updated>2022-01-26T15:11:22.061Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtKeP">혁신이 노동자의 일자리를 빼앗는 문제에 관해</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[TV토론 초청은 방송사 재량이라고? [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/vKtn6p</id>
         <link href="https://alook.so/posts/vKtn6p"/>
         <updated>2022-01-26T13:13:59.991Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtn6p">TV토론 초청은 방송사 재량이라고? [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기본소득당 오준호 후보의 정치개혁 5대공약 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/E7tba0</id>
+        <link href="https://alook.so/posts/E7tba0"/>
+        <updated>2022-01-26T15:11:22.063Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tba0">기본소득당 오준호 후보의 정치개혁 5대공약</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[설 연휴 전 이어지는 택배 파업, 왜? [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -82,67 +131,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RteRr">설 연휴 전 이어지는 택배 파업, 왜? [brf.]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[포항・하동・인천・대구는 지금 [로컬 디깅] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/J5t4Wy</id>
-        <link href="https://alook.so/posts/J5t4Wy"/>
-        <updated>2022-01-26T08:13:24.399Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t4Wy">포항・하동・인천・대구는 지금 [로컬 디깅]</a>]]></content>
+        <title type="html"><![CDATA[80대 치매 노인을 붙잡고 폭행하다니.. 시설의 민낯 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1txpW</id>
+        <link href="https://alook.so/posts/q1txpW"/>
+        <updated>2022-01-26T15:11:22.065Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1txpW">80대 치매 노인을 붙잡고 폭행하다니.. 시설의 민낯</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문재인 대통령은 약속을 지켰을까 [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/mbtl7P</id>
-        <link href="https://alook.so/posts/mbtl7P"/>
-        <updated>2022-01-26T08:15:05.311Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtl7P">문재인 대통령은 약속을 지켰을까 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[적절한 나라 빚, 절대적 기준은 없다 [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/RGt4ad</id>
-        <link href="https://alook.so/posts/RGt4ad"/>
-        <updated>2022-01-26T08:15:05.310Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt4ad">적절한 나라 빚, 절대적 기준은 없다 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바뀐 alookso 투데이, 전체 한눈에 알아보기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/VntbOy</id>
-        <link href="https://alook.so/posts/VntbOy"/>
-        <updated>2022-01-26T08:13:24.402Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntbOy">바뀐 alookso 투데이, 전체 한눈에 알아보기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 어떻게 해야하는 걸까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/2xtVx0</id>
-        <link href="https://alook.so/posts/2xtVx0"/>
-        <updated>2022-01-26T11:09:57.941Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtVx0">나는 어떻게 해야하는 걸까 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["연기금이 자국 기업에 소송하는 나라"는 있다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/54tmkl</id>
-        <link href="https://alook.so/posts/54tmkl"/>
-        <updated>2022-01-26T09:11:07.186Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tmkl">"연기금이 자국 기업에 소송하는 나라"는 있다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[낯설게 ‘되기’, 최승희 - 이진아, 『네이션과 무용 -최승희의 민족 표상과 젠더 수행』 읽기(1) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/YytW02</id>
-        <link href="https://alook.so/posts/YytW02"/>
-        <updated>2022-01-26T14:10:45.867Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytW02">낯설게 ‘되기’, 최승희 - 이진아, 『네이션과 무용 -최승희의 민족 표상과 젠더 수행』 읽기(1)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[90년대생은 정말 국민연금을 못 받을까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Zktea4</id>
-        <link href="https://alook.so/posts/Zktea4"/>
-        <updated>2022-01-26T04:12:54.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktea4">90년대생은 정말 국민연금을 못 받을까요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노인 여성에게 돌려주는 ‘명함’ [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/6MtKY5</id>
-        <link href="https://alook.so/posts/6MtKY5"/>
-        <updated>2022-01-26T07:10:53.871Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtKY5">노인 여성에게 돌려주는 ‘명함’ [brf.]</a>]]></content>
+        <title type="html"><![CDATA[청년 월세 지원이 청년에게 달갑지 않은 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/70tOvJ</id>
+        <link href="https://alook.so/posts/70tOvJ"/>
+        <updated>2022-01-26T15:11:22.066Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOvJ"> 청년 월세 지원이 청년에게 달갑지 않은 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큐레이션 글쓰기 사용설명서 (alookso ─ alookso)]]></title>
