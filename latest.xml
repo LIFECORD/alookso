@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-26T02:03:15.837Z</updated>
+    <updated>2022-01-26T02:40:18.050Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[노인 여성에게 돌려주는 ‘명함’ [brf.]]]></title>
+        <id>https://alook.so/posts/6MtKY5</id>
+        <link href="https://alook.so/posts/6MtKY5"/>
+        <updated>2022-01-26T02:38:18.831Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtKY5">노인 여성에게 돌려주는 ‘명함’ [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[5년동안 소개팅어플해 본 후기]]></title>
+        <id>https://alook.so/posts/3wtpEn</id>
+        <link href="https://alook.so/posts/3wtpEn"/>
+        <updated>2022-01-26T02:38:18.832Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtpEn">5년동안 소개팅어플해 본 후기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[학원차에서 내리던 초등학생, 문에 옷 끼어 사망]]></title>
+        <id>https://alook.so/posts/vKtnBm</id>
+        <link href="https://alook.so/posts/vKtnBm"/>
+        <updated>2022-01-26T02:38:18.836Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtnBm">학원차에서 내리던 초등학생, 문에 옷 끼어 사망</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이재명 vs 윤석열 <부동산 대선> '비교']]></title>
+        <id>https://alook.so/posts/E7tb7W</id>
+        <link href="https://alook.so/posts/E7tb7W"/>
+        <updated>2022-01-26T02:38:18.838Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tb7W">이재명 vs 윤석열 &lt;부동산 대선&gt; '비교'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주가폭락 S&P 500이 10일동안 12%이상 빠진 사례]]></title>
         <id>https://alook.so/posts/KmtlD2</id>
@@ -25,33 +53,5 @@
         <link href="https://alook.so/posts/54tm34"/>
         <updated>2022-01-26T02:01:09.297Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tm34">음... 얼룩소 잘모르겠어요!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신용카드 발급 이벤트 풍차돌리기로 연200만원 부수익 창출?]]></title>
-        <id>https://alook.so/posts/Djtb3a</id>
-        <link href="https://alook.so/posts/Djtb3a"/>
-        <updated>2022-01-26T02:01:09.305Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtb3a">신용카드 발급 이벤트 풍차돌리기로 연200만원 부수익 창출?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보아부터 BTS까지...K팝 빌보드 점령의 역사]]></title>
-        <id>https://alook.so/posts/1RteJJ</id>
-        <link href="https://alook.so/posts/1RteJJ"/>
-        <updated>2022-01-26T02:01:09.311Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RteJJ">보아부터 BTS까지...K팝 빌보드 점령의 역사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 공부는 아이의 선택이어야 합니다.]]></title>
-        <id>https://alook.so/posts/o7tGny</id>
-        <link href="https://alook.so/posts/o7tGny"/>
-        <updated>2022-01-26T02:01:09.312Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tGny">답글: 공부는 아이의 선택이어야 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소멸하는 지방도시]]></title>
-        <id>https://alook.so/posts/YytWl2</id>
-        <link href="https://alook.so/posts/YytWl2"/>
-        <updated>2022-01-26T02:01:09.312Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytWl2">소멸하는 지방도시</a>]]></content>
     </entry>
 </feed>
