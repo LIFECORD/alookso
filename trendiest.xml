@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-27T21:11:12.163Z</updated>
+    <updated>2022-01-27T22:12:16.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat9D7">자질 vs. 정권교체 [brf.]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[방역패스 무슨 의미가 있을까?]]></title>
+        <id>https://alook.so/posts/OEtzG2</id>
+        <link href="https://alook.so/posts/OEtzG2"/>
+        <updated>2022-01-27T09:11:07.824Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtzG2">방역패스 무슨 의미가 있을까?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[노노노] 표 장사도 큰 그림 그려가며 합시다]]></title>
         <id>https://alook.so/posts/jdt69p</id>
         <link href="https://alook.so/posts/jdt69p"/>
@@ -102,13 +109,6 @@
         <link href="https://alook.so/posts/XBt1YE"/>
         <updated>2022-01-27T21:09:22.531Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1YE">네덜란드는 되고 한국은 안 되는 것...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방역패스 무슨 의미가 있을까?]]></title>
-        <id>https://alook.so/posts/OEtzG2</id>
-        <link href="https://alook.so/posts/OEtzG2"/>
-        <updated>2022-01-27T09:11:07.824Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtzG2">방역패스 무슨 의미가 있을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[데일리 알벗] '윤석열 현상'을 설명하다]]></title>
