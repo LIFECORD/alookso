@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-27T10:13:18.652Z</updated>
+    <updated>2022-01-27T11:11:10.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[다른 사람과 생각을 나눈다는 것만으로도]]></title>
+        <id>https://alook.so/posts/Djtbrr</id>
+        <link href="https://alook.so/posts/Djtbrr"/>
+        <updated>2022-01-27T11:09:06.616Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtbrr">다른 사람과 생각을 나눈다는 것만으로도 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[커피 한잔이 우리에게 전해왔던 기후변화에 대한 경고]]></title>
+        <id>https://alook.so/posts/1Rte5X</id>
+        <link href="https://alook.so/posts/1Rte5X"/>
+        <updated>2022-01-27T11:09:06.621Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rte5X">커피 한잔이 우리에게 전해왔던 기후변화에 대한 경고</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 감사일기를 쓰는 이유]]></title>
+        <id>https://alook.so/posts/70tOwG</id>
+        <link href="https://alook.so/posts/70tOwG"/>
+        <updated>2022-01-27T11:09:06.622Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOwG">내가 감사일기를 쓰는 이유</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개미들]]></title>
         <id>https://alook.so/posts/YytWRk</id>
@@ -39,19 +60,5 @@
         <link href="https://alook.so/posts/a0t1bj"/>
         <updated>2022-01-27T10:11:19.213Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0t1bj">우크라이나 사태가 재촉하는 ‘신재생에너지’ 드라이브 [에너지 디깅]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 국민연금은 "미래 세대"가 아닌 "현재 세대"의 문제]]></title>
-        <id>https://alook.so/posts/ZkteBa</id>
-        <link href="https://alook.so/posts/ZkteBa"/>
-        <updated>2022-01-27T10:11:19.214Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZkteBa">답글: 국민연금은 "미래 세대"가 아닌 "현재 세대"의 문제</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패스트패션 업체들이 만든 `쓰레기 산’]]></title>
-        <id>https://alook.so/posts/pot5B4</id>
-        <link href="https://alook.so/posts/pot5B4"/>
-        <updated>2022-01-27T10:11:19.215Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot5B4">패스트패션 업체들이 만든 `쓰레기 산’</a>]]></content>
     </entry>
 </feed>
