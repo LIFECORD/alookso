@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-27T00:38:22.529Z</updated>
+    <updated>2022-01-27T01:56:22.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[데일리 알벗] '윤석열 현상'을 설명하다]]></title>
+        <id>https://alook.so/posts/dzt0vb</id>
+        <link href="https://alook.so/posts/dzt0vb"/>
+        <updated>2022-01-27T01:54:29.312Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt0vb">[데일리 알벗] '윤석열 현상'을 설명하다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서른 즈음에(1994) = 마흔다섯 즈음에(2022)]]></title>
+        <id>https://alook.so/posts/RGt4Vx</id>
+        <link href="https://alook.so/posts/RGt4Vx"/>
+        <updated>2022-01-27T01:54:29.315Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt4Vx">서른 즈음에(1994) = 마흔다섯 즈음에(2022)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[남들보다 조금 일찍 일어나 보는 건 어떨까?]]></title>
         <id>https://alook.so/posts/KmtlGD</id>
@@ -74,12 +88,5 @@
         <link href="https://alook.so/posts/Djtbl2"/>
         <updated>2022-01-26T15:11:22.058Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtbl2">[뉴스 issue] 9초도 길다; 정치로 파고든 이기적 유전자 "밈(Meme)"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곁에서 본 요양보호사 선생님들은 대단하셨습니다.]]></title>
-        <id>https://alook.so/posts/eVt0rV</id>
-        <link href="https://alook.so/posts/eVt0rV"/>
-        <updated>2022-01-26T15:11:22.059Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0rV">곁에서 본 요양보호사 선생님들은 대단하셨습니다. </a>]]></content>
     </entry>
 </feed>
