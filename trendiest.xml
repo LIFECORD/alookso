@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-27T16:17:15.323Z</updated>
+    <updated>2022-01-27T17:16:10.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1ex">왜 엄마는 그런것도 못해?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[의사의 수명은 법이 보장하는데 환자의 생명은 누가 보장하나...]]></title>
+        <id>https://alook.so/posts/LKtlMq</id>
+        <link href="https://alook.so/posts/LKtlMq"/>
+        <updated>2022-01-27T17:14:25.417Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtlMq">의사의 수명은 법이 보장하는데 환자의 생명은 누가 보장하나...</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘동영상 그 남자’ 모든 혐의 무죄 [brf.]]]></title>
         <id>https://alook.so/posts/E7tbW8</id>
         <link href="https://alook.so/posts/E7tbW8"/>
@@ -116,12 +123,5 @@
         <link href="https://alook.so/posts/OEtzG2"/>
         <updated>2022-01-27T09:11:07.824Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtzG2">방역패스 무슨 의미가 있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국의 코로나 대응은 민주주의 원칙을 침해했는가?]]></title>
-        <id>https://alook.so/posts/1RteXX</id>
-        <link href="https://alook.so/posts/1RteXX"/>
-        <updated>2022-01-27T08:13:48.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RteXX">한국의 코로나 대응은 민주주의 원칙을 침해했는가?</a>]]></content>
     </entry>
 </feed>
