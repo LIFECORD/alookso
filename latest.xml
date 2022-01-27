@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-27T13:19:27.996Z</updated>
+    <updated>2022-01-27T14:12:20.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[역술인에 ‘조국 대통령 되나’ 통화 의혹…尹측 “물어본들 무슨 문제”]]></title>
+        <id>https://alook.so/posts/J5t49R</id>
+        <link href="https://alook.so/posts/J5t49R"/>
+        <updated>2022-01-27T14:10:16.742Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t49R">역술인에 ‘조국 대통령 되나’ 통화 의혹…尹측 “물어본들 무슨 문제”</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23살, 언제나 거울 앞의 나를 바라보는 것은 어렵다.]]></title>
         <id>https://alook.so/posts/eVt0K1</id>
@@ -25,19 +32,5 @@
         <link href="https://alook.so/posts/zvtX4B"/>
         <updated>2022-01-27T13:17:14.637Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtX4B">청년 고독사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 기후변화,이대로 괜찮나?]]></title>
-        <id>https://alook.so/posts/4Xtr90</id>
-        <link href="https://alook.so/posts/4Xtr90"/>
-        <updated>2022-01-27T13:17:14.639Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtr90">세계 기후변화,이대로 괜찮나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국의 50년을 내다보는 시스템 개혁을 필요하다.]]></title>
-        <id>https://alook.so/posts/XBt1Vx</id>
-        <link href="https://alook.so/posts/XBt1Vx"/>
-        <updated>2022-01-27T13:17:14.640Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1Vx">대한민국의 50년을 내다보는 시스템 개혁을 필요하다.</a>]]></content>
     </entry>
 </feed>
