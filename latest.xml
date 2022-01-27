@@ -2,49 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-26T23:13:04.367Z</updated>
+    <updated>2022-01-27T00:38:22.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[저, 정말 가기 싫어요]]></title>
-        <id>https://alook.so/posts/vKtnaW</id>
-        <link href="https://alook.so/posts/vKtnaW"/>
-        <updated>2022-01-26T23:10:55.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtnaW">저, 정말 가기 싫어요</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 보상?궁금]]></title>
+        <id>https://alook.so/posts/0kt8JR</id>
+        <link href="https://alook.so/posts/0kt8JR"/>
+        <updated>2022-01-27T00:36:10.855Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8JR">얼룩소 보상?궁금</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에코프로비엠 내부자 거래 소식]]></title>
-        <id>https://alook.so/posts/E7tbw3</id>
-        <link href="https://alook.so/posts/E7tbw3"/>
-        <updated>2022-01-26T23:10:55.752Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tbw3">에코프로비엠 내부자 거래 소식</a>]]></content>
+        <title type="html"><![CDATA[펫샵 동물확대 아닌가요?]]></title>
+        <id>https://alook.so/posts/4Xtrkq</id>
+        <link href="https://alook.so/posts/4Xtrkq"/>
+        <updated>2022-01-27T00:36:10.856Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtrkq">펫샵 동물확대 아닌가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남들보다 조금 일찍 일어나 보는 건 어떨까?]]></title>
-        <id>https://alook.so/posts/KmtlGD</id>
-        <link href="https://alook.so/posts/KmtlGD"/>
-        <updated>2022-01-26T22:09:52.887Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtlGD">남들보다 조금 일찍 일어나 보는 건 어떨까?</a>]]></content>
+        <title type="html"><![CDATA[이재명 형수 욕설파일 조작정황 발견.. 새누리당과 공모의혹??????]]></title>
+        <id>https://alook.so/posts/XBt1KE</id>
+        <link href="https://alook.so/posts/XBt1KE"/>
+        <updated>2022-01-27T00:36:10.856Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1KE">이재명 형수 욕설파일 조작정황 발견.. 새누리당과 공모의혹??????</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[‘김·곶감·밤’ 尹 명절 선물 논란에... 진중권 “난 전복·홍삼 받아” 물타기]]></title>
-        <id>https://alook.so/posts/54tmBo</id>
-        <link href="https://alook.so/posts/54tmBo"/>
-        <updated>2022-01-26T22:09:52.888Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tmBo">‘김·곶감·밤’ 尹 명절 선물 논란에... 진중권 “난 전복·홍삼 받아” 물타기</a>]]></content>
+        <title type="html"><![CDATA[서른 즈음에(1994) = 마흔다섯 즈음에(2022)]]></title>
+        <id>https://alook.so/posts/RGt4Vx</id>
+        <link href="https://alook.so/posts/RGt4Vx"/>
+        <updated>2022-01-27T00:36:10.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt4Vx">서른 즈음에(1994) = 마흔다섯 즈음에(2022)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[교통카드 “암행어사 출두야” 3만명이 몰린이유  궁금해?]]></title>
-        <id>https://alook.so/posts/Djtb7e</id>
-        <link href="https://alook.so/posts/Djtb7e"/>
-        <updated>2022-01-26T22:09:52.891Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtb7e">교통카드 “암행어사 출두야” 3만명이 몰린이유  궁금해?</a>]]></content>
+        <title type="html"><![CDATA[다섯 쌍둥이 분만시킨 전종관 교수님]]></title>
+        <id>https://alook.so/posts/kZt01G</id>
+        <link href="https://alook.so/posts/kZt01G"/>
+        <updated>2022-01-27T00:36:10.858Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt01G">다섯 쌍둥이 분만시킨 전종관 교수님</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정부,"집단면역" 다시 꺼낸이유?]]></title>
-        <id>https://alook.so/posts/1Rtex0</id>
-        <link href="https://alook.so/posts/1Rtex0"/>
-        <updated>2022-01-26T22:09:52.892Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtex0">정부,"집단면역" 다시 꺼낸이유?</a>]]></content>
+        <title type="html"><![CDATA[현대산업개발 광주 아파트 붕괴, 시공사 부실 드러나]]></title>
+        <id>https://alook.so/posts/yEtqJv</id>
+        <link href="https://alook.so/posts/yEtqJv"/>
+        <updated>2022-01-27T00:36:10.858Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtqJv">현대산업개발 광주 아파트 붕괴, 시공사 부실 드러나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜왜왜? 국가만 잘사는 나라 대한민국 국민들은 다 죽어가는데?]]></title>
+        <id>https://alook.so/posts/Bat9X7</id>
+        <link href="https://alook.so/posts/Bat9X7"/>
+        <updated>2022-01-27T00:36:10.859Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat9X7">왜왜왜? 국가만 잘사는 나라 대한민국 국민들은 다 죽어가는데?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 인생의 올바른 네비게이션.]]></title>
+        <id>https://alook.so/posts/LKtl6J</id>
+        <link href="https://alook.so/posts/LKtl6J"/>
+        <updated>2022-01-27T00:36:10.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtl6J">답글: 인생의 올바른 네비게이션.</a>]]></content>
     </entry>
 </feed>
