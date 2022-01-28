@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-28T21:18:46.388Z</updated>
+    <updated>2022-01-28T22:12:32.809Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2022년의 봄은 시작 되겠지? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -138,6 +138,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntbVD">재건축·재개발- 용적률 폭탄 돌리기가 아니라 그린뉴딜로 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나는 잘하고 있다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/vKtnqj</id>
+        <link href="https://alook.so/posts/vKtnqj"/>
+        <updated>2022-01-28T22:10:31.623Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtnqj">나는 잘하고 있다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[다른 사람과 생각을 나눈다는 것만으로도 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Djtbrr</id>
         <link href="https://alook.so/posts/Djtbrr"/>
@@ -157,13 +164,6 @@
         <link href="https://alook.so/posts/1RteXX"/>
         <updated>2022-01-28T20:11:12.259Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RteXX">한국의 코로나 대응은 민주주의 원칙을 침해했는가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미숙련 외국인 노동자는 무슨 죄인가 [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/w9t38a</id>
-        <link href="https://alook.so/posts/w9t38a"/>
-        <updated>2022-01-28T08:14:29.155Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t38a">미숙련 외국인 노동자는 무슨 죄인가 [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저는 하고싶은 것이 없는데요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
