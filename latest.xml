@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-28T08:14:47.344Z</updated>
+    <updated>2022-01-28T09:13:05.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[`문과생 코딩 열풍 ‘ 서울대의 학점 고민]]></title>
+        <id>https://alook.so/posts/XBt1Wd</id>
+        <link href="https://alook.so/posts/XBt1Wd"/>
+        <updated>2022-01-28T09:11:06.908Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1Wd">`문과생 코딩 열풍 ‘ 서울대의 학점 고민</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 민주 국가에서 ‘금서’가 웬말! [brf.]]]></title>
+        <id>https://alook.so/posts/w9t36a</id>
+        <link href="https://alook.so/posts/w9t36a"/>
+        <updated>2022-01-28T09:11:06.908Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t36a">2022년 민주 국가에서 ‘금서’가 웬말! [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘여경 무용론’, 누가 초래했나 [brf.]]]></title>
+        <id>https://alook.so/posts/xltxW7</id>
+        <link href="https://alook.so/posts/xltxW7"/>
+        <updated>2022-01-28T09:11:06.911Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltxW7">‘여경 무용론’, 누가 초래했나 [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 왜 금수저에 열광하는가]]></title>
+        <id>https://alook.so/posts/kZt0Gy</id>
+        <link href="https://alook.so/posts/kZt0Gy"/>
+        <updated>2022-01-28T09:11:06.912Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt0Gy">우리는 왜 금수저에 열광하는가</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🧭매번 같은 문제, 매번 다른 목숨]]></title>
         <id>https://alook.so/posts/yEtqrK</id>
@@ -25,12 +53,5 @@
         <link href="https://alook.so/posts/njtv5a"/>
         <updated>2022-01-28T08:12:43.243Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtv5a">투자에 대한 말말말(여기저기서 취합)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“울음은 사람들과 잘 지낸다는 증거”]]></title>
-        <id>https://alook.so/posts/OEtzXL</id>
-        <link href="https://alook.so/posts/OEtzXL"/>
-        <updated>2022-01-28T08:12:43.245Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtzXL">“울음은 사람들과 잘 지낸다는 증거”</a>]]></content>
     </entry>
 </feed>
