@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-29T04:15:08.753Z</updated>
+    <updated>2022-01-29T05:11:25.442Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 신기술 등장]]></title>
+        <id>https://alook.so/posts/Zkte1v</id>
+        <link href="https://alook.so/posts/Zkte1v"/>
+        <updated>2022-01-29T05:09:25.780Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkte1v">애플 신기술 등장</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소와 새해 시작. 그리고 갑분고백]]></title>
+        <id>https://alook.so/posts/dzt01p</id>
+        <link href="https://alook.so/posts/dzt01p"/>
+        <updated>2022-01-29T05:09:25.780Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt01p">얼룩소와 새해 시작. 그리고 갑분고백</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[성과금 받는 기분 어떨까요?]]></title>
+        <id>https://alook.so/posts/J5t4m6</id>
+        <link href="https://alook.so/posts/J5t4m6"/>
+        <updated>2022-01-29T05:09:25.781Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t4m6">성과금 받는 기분 어떨까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음주운전은 자신의 커리어를 깎아먹는 행위]]></title>
+        <id>https://alook.so/posts/pot5MG</id>
+        <link href="https://alook.so/posts/pot5MG"/>
+        <updated>2022-01-29T05:09:25.785Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot5MG">음주운전은 자신의 커리어를 깎아먹는 행위</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[들어봤니? 말해봤니?]]></title>
+        <id>https://alook.so/posts/eVt0mW</id>
+        <link href="https://alook.so/posts/eVt0mW"/>
+        <updated>2022-01-29T05:09:25.785Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0mW">들어봤니? 말해봤니?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대판 봉이 김선달 ?]]></title>
         <id>https://alook.so/posts/Vntb43</id>
@@ -25,19 +60,5 @@
         <link href="https://alook.so/posts/0kt8Ko"/>
         <updated>2022-01-29T04:13:02.378Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8Ko">남편이 설날에 혼자 시가에 갔다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리 알벗] 독자경험(RX)을 고민하는 미디어]]></title>
-        <id>https://alook.so/posts/xltxa9</id>
-        <link href="https://alook.so/posts/xltxa9"/>
-        <updated>2022-01-29T01:47:05.874Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltxa9">[데일리 알벗] 독자경험(RX)을 고민하는 미디어</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 주식 하기전 미국 주식부터 제대로 알자!]]></title>
-        <id>https://alook.so/posts/RGt4J3</id>
-        <link href="https://alook.so/posts/RGt4J3"/>
-        <updated>2022-01-29T01:47:05.875Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt4J3">국내 주식 하기전 미국 주식부터 제대로 알자!</a>]]></content>
     </entry>
 </feed>
