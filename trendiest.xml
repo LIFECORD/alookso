@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-01-29T12:17:26.049Z</updated>
+    <updated>2022-01-29T13:13:38.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtezM">스웨덴 핵폐기물 최종처분장 건설계획 승인, 한국은 무엇이 진행되고 있나? [brf.]</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[이럴땐 어떻게 하나요?]]></title>
+        <id>https://alook.so/posts/70tOOk</id>
+        <link href="https://alook.so/posts/70tOOk"/>
+        <updated>2022-01-29T12:15:41.244Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOOk">이럴땐 어떻게 하나요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘여경 무용론’, 누가 초래했나 [brf.]]]></title>
         <id>https://alook.so/posts/xltxW7</id>
         <link href="https://alook.so/posts/xltxW7"/>
@@ -83,18 +90,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8rK">아직도 국제 결혼하면 농어촌 남성에게 돈 준다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이럴땐 어떻게 하나요?]]></title>
-        <id>https://alook.so/posts/70tOOk</id>
-        <link href="https://alook.so/posts/70tOOk"/>
-        <updated>2022-01-29T12:15:41.244Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tOOk">이럴땐 어떻게 하나요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[2022년 민주 국가에서 ‘금서’가 웬말! [brf.]]]></title>
         <id>https://alook.so/posts/w9t36a</id>
         <link href="https://alook.so/posts/w9t36a"/>
         <updated>2022-01-29T11:09:32.097Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t36a">2022년 민주 국가에서 ‘금서’가 웬말! [brf.]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화산 폭발로 기름 범벅된 바다, 누가 책임져야 할까]]></title>
+        <id>https://alook.so/posts/Pvtv5b</id>
+        <link href="https://alook.so/posts/Pvtv5b"/>
+        <updated>2022-01-29T11:09:32.104Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtv5b">화산 폭발로 기름 범벅된 바다, 누가 책임져야 할까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리는 왜 금수저에 열광하는가]]></title>
@@ -116,13 +123,6 @@
         <link href="https://alook.so/posts/zvtXbW"/>
         <updated>2022-01-29T11:09:32.101Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtXbW">앞으로 전기차 제대로 못 팔면 기여금 '수십억' 물 수 있다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화산 폭발로 기름 범벅된 바다, 누가 책임져야 할까]]></title>
-        <id>https://alook.so/posts/Pvtv5b</id>
-        <link href="https://alook.so/posts/Pvtv5b"/>
-        <updated>2022-01-29T11:09:32.104Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtv5b">화산 폭발로 기름 범벅된 바다, 누가 책임져야 할까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소리없이 다가온 인플레이션의 강력한 숙취]]></title>
