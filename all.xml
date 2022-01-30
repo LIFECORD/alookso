@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-30T06:13:56.065Z</updated>
+    <updated>2022-01-30T07:12:18.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[커피 끊기 실패로 돌아가다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/ZkteL5</id>
+        <link href="https://alook.so/posts/ZkteL5"/>
+        <updated>2022-01-30T07:10:13.191Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZkteL5">커피 끊기 실패로 돌아가다 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정은경, 기모란, 이재갑, 정재훈을 지지하고 응원하고 항상 감사한다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/dzt0WW</id>
@@ -24,34 +31,6 @@
         <link href="https://alook.so/posts/eVt0n0"/>
         <updated>2022-01-30T05:09:29.751Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0n0">[데일리 알벗] 형식이 메시지다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 후보들의 공약 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Vntbpa</id>
-        <link href="https://alook.so/posts/Vntbpa"/>
-        <updated>2022-01-30T05:09:29.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntbpa">대선 후보들의 공약</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충남 예산 산란계 농장서 고병원성 AI 의심사례…72만마리 사육 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/zvtX3b</id>
-        <link href="https://alook.so/posts/zvtX3b"/>
-        <updated>2022-01-30T05:09:29.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtX3b">충남 예산 산란계 농장서 고병원성 AI 의심사례…72만마리 사육</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘지금 우리 학교는’ 터졌다! 공개 1일차 세계 1위 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/2xtVwO</id>
-        <link href="https://alook.so/posts/2xtVwO"/>
-        <updated>2022-01-30T05:09:29.762Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtVwO">‘지금 우리 학교는’ 터졌다! 공개 1일차 세계 1위</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라에서 원전폐지,맞을까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/WLt46W</id>
-        <link href="https://alook.so/posts/WLt46W"/>
-        <updated>2022-01-30T05:09:29.765Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt46W">우리나라에서 원전폐지,맞을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 미성숙 언론의 미숙련 보도 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
