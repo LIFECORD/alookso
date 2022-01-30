@@ -2,56 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-30T10:12:20.808Z</updated>
+    <updated>2022-01-30T11:10:15.654Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나를 사랑하자]]></title>
+        <id>https://alook.so/posts/WLt4EW</id>
+        <link href="https://alook.so/posts/WLt4EW"/>
+        <updated>2022-01-30T11:08:21.685Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt4EW">나를 사랑하자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현재 재택근무를 하십니까? 아님 출퇴근 하시나요?]]></title>
+        <id>https://alook.so/posts/0kt8Rl</id>
+        <link href="https://alook.so/posts/0kt8Rl"/>
+        <updated>2022-01-30T11:08:21.686Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8Rl">현재 재택근무를 하십니까? 아님 출퇴근 하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중독 발생의 이유와 해결법]]></title>
+        <id>https://alook.so/posts/XBt1ze</id>
+        <link href="https://alook.so/posts/XBt1ze"/>
+        <updated>2022-01-30T11:08:21.687Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1ze">중독 발생의 이유와 해결법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중독은 가까이에 있다(담배)]]></title>
+        <id>https://alook.so/posts/RGt4v2</id>
+        <link href="https://alook.so/posts/RGt4v2"/>
+        <updated>2022-01-30T11:08:21.687Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt4v2">중독은 가까이에 있다(담배)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무엇으로 경제적 자유를 얻을수 있을까...]]></title>
+        <id>https://alook.so/posts/kZt0XO</id>
+        <link href="https://alook.so/posts/kZt0XO"/>
+        <updated>2022-01-30T11:08:21.688Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt0XO">무엇으로 경제적 자유를 얻을수 있을까...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나의 선택에 대한 허탈감.]]></title>
         <id>https://alook.so/posts/Bat915</id>
         <link href="https://alook.so/posts/Bat915"/>
         <updated>2022-01-30T10:10:21.077Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat915">나의 선택에 대한 허탈감.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[요즘 군대] 요즘 군대의 설날, 명절에 군인들은 뭐해요?]]></title>
-        <id>https://alook.so/posts/LKtl57</id>
-        <link href="https://alook.so/posts/LKtl57"/>
-        <updated>2022-01-30T10:10:21.077Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtl57">[요즘 군대] 요즘 군대의 설날, 명절에 군인들은 뭐해요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타벅스를 가는 이유.]]></title>
-        <id>https://alook.so/posts/njtvp0</id>
-        <link href="https://alook.so/posts/njtvp0"/>
-        <updated>2022-01-30T10:10:21.077Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtvp0">스타벅스를 가는 이유.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약간 지긋지긋한 날들]]></title>
-        <id>https://alook.so/posts/6MtKx0</id>
-        <link href="https://alook.so/posts/6MtKx0"/>
-        <updated>2022-01-30T10:10:21.077Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtKx0">약간 지긋지긋한 날들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내이름이 내삶을 말한다.9화 재성5,6]]></title>
-        <id>https://alook.so/posts/G1txG7</id>
-        <link href="https://alook.so/posts/G1txG7"/>
-        <updated>2022-01-30T09:09:48.149Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1txG7">내이름이 내삶을 말한다.9화 재성5,6</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세 살 식습관 중요]]></title>
-        <id>https://alook.so/posts/OEtzox</id>
-        <link href="https://alook.so/posts/OEtzox"/>
-        <updated>2022-01-30T09:09:48.153Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtzox">세 살 식습관 중요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부모가 된다는건 ...]]></title>
-        <id>https://alook.so/posts/vKtnXe</id>
-        <link href="https://alook.so/posts/vKtnXe"/>
-        <updated>2022-01-30T09:09:48.157Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtnXe">부모가 된다는건 ...</a>]]></content>
     </entry>
 </feed>
