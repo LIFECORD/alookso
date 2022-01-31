@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-31T15:12:16.408Z</updated>
+    <updated>2022-01-31T16:17:01.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[상금을 똑같이 지급하면 '성평등한' 스포츠가 되는걸까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Bat928</id>
+        <link href="https://alook.so/posts/Bat928"/>
+        <updated>2022-01-31T16:14:52.363Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat928">상금을 똑같이 지급하면 '성평등한' 스포츠가 되는걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설날 어떻게 보내고 계신가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/LKtlq1</id>
+        <link href="https://alook.so/posts/LKtlq1"/>
+        <updated>2022-01-31T16:14:52.363Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtlq1">설날 어떻게 보내고 계신가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다들 잘 내려가셨죠? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/6MtKnX</id>
+        <link href="https://alook.so/posts/6MtKnX"/>
+        <updated>2022-01-31T16:14:52.372Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtKnX">다들 잘 내려가셨죠?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[악의 마음을 읽는 자들, 범죄 장르물의 새 지평 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/8Wt35m</id>
@@ -38,27 +59,6 @@
         <link href="https://alook.so/posts/E7tbnO"/>
         <updated>2022-01-31T15:10:12.818Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tbnO">미라클모닝의 저주</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[킵고잉(keep going) 하는 마음 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/lateL3</id>
-        <link href="https://alook.so/posts/lateL3"/>
-        <updated>2022-01-31T15:10:12.819Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lateL3">킵고잉(keep going) 하는 마음</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아사나로 수련하기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/92todo</id>
-        <link href="https://alook.so/posts/92todo"/>
-        <updated>2022-01-31T14:09:49.283Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92todo">아사나로 수련하기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[명품 옷이 필요한가. 내가 명품인데. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Kmtlor</id>
-        <link href="https://alook.so/posts/Kmtlor"/>
-        <updated>2022-01-31T14:09:49.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtlor">명품 옷이 필요한가. 내가 명품인데.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[요양병원이 요양을 위한 공간이 되기를 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
