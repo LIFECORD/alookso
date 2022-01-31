@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-01-31T05:11:56.578Z</updated>
+    <updated>2022-01-31T06:15:04.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대선후보 알아보기] 진보당 김재연 후보]]></title>
+        <id>https://alook.so/posts/3wtpWr</id>
+        <link href="https://alook.so/posts/3wtpWr"/>
+        <updated>2022-01-31T06:13:10.368Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtpWr">[대선후보 알아보기] 진보당 김재연 후보</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요양병원이 요양을 위한 공간이 되기를]]></title>
+        <id>https://alook.so/posts/8Wt3mz</id>
+        <link href="https://alook.so/posts/8Wt3mz"/>
+        <updated>2022-01-31T06:13:10.369Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt3mz">요양병원이 요양을 위한 공간이 되기를</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명절이란 단어가 주는 설레임]]></title>
+        <id>https://alook.so/posts/G1txR3</id>
+        <link href="https://alook.so/posts/G1txR3"/>
+        <updated>2022-01-31T06:13:10.373Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1txR3">명절이란 단어가 주는 설레임</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짝퉁을 입으면 짝퉁인생일까]]></title>
         <id>https://alook.so/posts/OEtz7G</id>
@@ -18,12 +39,5 @@
         <link href="https://alook.so/posts/vKtnkE"/>
         <updated>2022-01-31T05:10:02.531Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtnkE">2022.01.31 혈관 건강 지키려면 '이것' 마시세요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠은 최고의 면역제... 좋은 잠이 좋은 삶을 깨운다]]></title>
-        <id>https://alook.so/posts/o7tG6z</id>
-        <link href="https://alook.so/posts/o7tG6z"/>
-        <updated>2022-01-31T04:13:26.336Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tG6z">잠은 최고의 면역제... 좋은 잠이 좋은 삶을 깨운다</a>]]></content>
     </entry>
 </feed>
