@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-01-31T03:12:48.242Z</updated>
+    <updated>2022-01-31T04:15:28.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[잠은 최고의 면역제... 좋은 잠이 좋은 삶을 깨운다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tG6z</id>
+        <link href="https://alook.so/posts/o7tG6z"/>
+        <updated>2022-01-31T04:13:26.336Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tG6z">잠은 최고의 면역제... 좋은 잠이 좋은 삶을 깨운다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG에너지솔루션, 독일 벌칸 에너지로부터 수산화리튬 공급받는다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/YytWnd</id>
+        <link href="https://alook.so/posts/YytWnd"/>
+        <updated>2022-01-31T04:13:26.339Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytWnd">LG에너지솔루션, 독일 벌칸 에너지로부터 수산화리튬 공급받는다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[주식 공부 하기 싫으면 이것만 투자하자 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/jdt6yY</id>
         <link href="https://alook.so/posts/jdt6yY"/>
         <updated>2022-01-31T03:10:47.567Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt6yY">주식 공부 하기 싫으면 이것만 투자하자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[40년 이어온 제사  중단의 사유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/bWtYRx</id>
-        <link href="https://alook.so/posts/bWtYRx"/>
-        <updated>2022-01-31T02:23:37.663Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtYRx">40년 이어온 제사  중단의 사유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[필사] 익숙한 것과의 결별 / 구본형 / 혁신(변화)이 어려운 이유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/PvtvE9</id>
-        <link href="https://alook.so/posts/PvtvE9"/>
-        <updated>2022-01-31T01:51:36.949Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtvE9">[필사] 익숙한 것과의 결별 / 구본형 / 혁신(변화)이 어려운 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼설족 이젠 모두 혼자 이네요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/VntbZ1</id>
-        <link href="https://alook.so/posts/VntbZ1"/>
-        <updated>2022-01-31T01:51:36.951Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntbZ1">혼설족 이젠 모두 혼자 이네요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부동산, 집을 바라보는 우리의 시선과 제도에 달려있다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
