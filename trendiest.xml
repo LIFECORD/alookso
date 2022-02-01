@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-01T05:13:09.931Z</updated>
+    <updated>2022-02-01T06:14:58.084Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/jdt64Y"/>
         <updated>2022-01-31T15:10:20.873Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt64Y">[뉴스 issue] 팔도를 움직인 "모디슈머"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 꿈을 꾸는 엄마로 산다는 것]]></title>
+        <id>https://alook.so/posts/xltx9P</id>
+        <link href="https://alook.so/posts/xltx9P"/>
+        <updated>2022-02-01T06:12:54.616Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltx9P">답글: 꿈을 꾸는 엄마로 산다는 것</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[짝퉁을 입으면 짝퉁인생일까]]></title>
@@ -55,18 +62,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tb0J">대선후보 토론회와 장학 퀴즈, 사랑과 전쟁</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[술에 취해서 한 실수는 심신미약이 아닙니다.]]></title>
-        <id>https://alook.so/posts/lateXk</id>
-        <link href="https://alook.so/posts/lateXk"/>
-        <updated>2022-01-31T05:10:10.058Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lateXk">술에 취해서 한 실수는 심신미약이 아닙니다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[명품자랑하는 가짜인생]]></title>
         <id>https://alook.so/posts/2xtVP8</id>
         <link href="https://alook.so/posts/2xtVP8"/>
         <updated>2022-01-31T05:10:10.047Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtVP8">명품자랑하는 가짜인생</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[술에 취해서 한 실수는 심신미약이 아닙니다.]]></title>
+        <id>https://alook.so/posts/lateXk</id>
+        <link href="https://alook.so/posts/lateXk"/>
+        <updated>2022-01-31T05:10:10.058Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lateXk">술에 취해서 한 실수는 심신미약이 아닙니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[시리얼도 리필이 되나요?]]></title>
@@ -83,13 +90,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt0WW">정은경, 기모란, 이재갑, 정재훈을 지지하고 응원하고 항상 감사한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감사하기는 하지만, 공감은 불가합니다.]]></title>
-        <id>https://alook.so/posts/XBt1az</id>
-        <link href="https://alook.so/posts/XBt1az"/>
-        <updated>2022-01-31T03:10:55.171Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1az">감사하기는 하지만, 공감은 불가합니다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[설날입니다:)]]></title>
         <id>https://alook.so/posts/VntbPa</id>
         <link href="https://alook.so/posts/VntbPa"/>
@@ -97,10 +97,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntbPa">설날입니다:)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 꿈은 꾸고, 깨고, 그리고 또 꾸는 것 아닐까요?]]></title>
-        <id>https://alook.so/posts/G1txD7</id>
-        <link href="https://alook.so/posts/G1txD7"/>
-        <updated>2022-02-01T05:11:11.507Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1txD7">답글: 꿈은 꾸고, 깨고, 그리고 또 꾸는 것 아닐까요?</a>]]></content>
+        <title type="html"><![CDATA[감사하기는 하지만, 공감은 불가합니다.]]></title>
+        <id>https://alook.so/posts/XBt1az</id>
+        <link href="https://alook.so/posts/XBt1az"/>
+        <updated>2022-01-31T03:10:55.171Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1az">감사하기는 하지만, 공감은 불가합니다.</a>]]></content>
     </entry>
 </feed>
