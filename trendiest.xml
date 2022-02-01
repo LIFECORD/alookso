@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-01T08:15:03.663Z</updated>
+    <updated>2022-02-01T09:13:12.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/xltx9P"/>
         <updated>2022-02-01T06:12:54.616Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltx9P">답글: 꿈을 꾸는 엄마로 산다는 것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상금을 똑같이 지급하면 '성평등한' 스포츠가 되는걸까?]]></title>
+        <id>https://alook.so/posts/Bat928</id>
+        <link href="https://alook.so/posts/Bat928"/>
+        <updated>2022-02-01T09:11:08.752Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat928">상금을 똑같이 지급하면 '성평등한' 스포츠가 되는걸까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[악의 마음을 읽는 자들, 범죄 장르물의 새 지평]]></title>
@@ -88,19 +95,5 @@
         <link href="https://alook.so/posts/YytWrJ"/>
         <updated>2022-01-31T03:10:55.171Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytWrJ">시리얼도 리필이 되나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설날입니다:)]]></title>
-        <id>https://alook.so/posts/VntbPa</id>
-        <link href="https://alook.so/posts/VntbPa"/>
-        <updated>2022-01-30T13:12:06.571Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntbPa">설날입니다:)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[술에 취해서 한 실수는 심신미약이 아닙니다.]]></title>
-        <id>https://alook.so/posts/lateXk</id>
-        <link href="https://alook.so/posts/lateXk"/>
-        <updated>2022-01-31T05:10:10.058Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lateXk">술에 취해서 한 실수는 심신미약이 아닙니다.</a>]]></content>
     </entry>
 </feed>
