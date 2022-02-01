@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-01T18:15:06.827Z</updated>
+    <updated>2022-02-01T19:11:49.031Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[전기 노동자 故김다운씨의 죽음 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -45,13 +45,6 @@
         <link href="https://alook.so/posts/0kt8zJ"/>
         <updated>2022-02-01T15:10:51.317Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt8zJ">월세를 살아야할까? 전세를 살아야할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[확진자가 더 늘어날 것 같습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/M9tMz3</id>
-        <link href="https://alook.so/posts/M9tMz3"/>
-        <updated>2022-02-01T15:10:51.319Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tMz3">확진자가 더 늘어날 것 같습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[외국인 혐오를 경계하라 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
