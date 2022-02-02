@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-02T16:17:49.986Z</updated>
+    <updated>2022-02-02T17:15:13.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[메타버스를 타고.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Pvtv8z</id>
+        <link href="https://alook.so/posts/Pvtv8z"/>
+        <updated>2022-02-02T17:13:18.180Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtv8z">메타버스를 타고..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내생에도 봄날이 올까... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/VntbBM</id>
+        <link href="https://alook.so/posts/VntbBM"/>
+        <updated>2022-02-02T17:13:18.182Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntbBM">내생에도 봄날이 올까...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폭풍이 휩쓴 아프리카 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/2xtVov</id>
@@ -45,13 +59,6 @@
         <link href="https://alook.so/posts/w9t32E"/>
         <updated>2022-02-02T16:15:39.849Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t32E">말의 감옥.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미안해요. 고마워요. 사랑해요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/RGt4WE</id>
-        <link href="https://alook.so/posts/RGt4WE"/>
-        <updated>2022-02-02T15:12:36.203Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt4WE">미안해요. 고마워요. 사랑해요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무역과 환경 - 탄소국경조정 이야기 (1) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
