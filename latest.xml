@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-03T16:16:37.203Z</updated>
+    <updated>2022-02-03T17:15:39.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[전 얼룩커 입니다 feat-포인트]]></title>
-        <id>https://alook.so/posts/yEtqy2</id>
-        <link href="https://alook.so/posts/yEtqy2"/>
-        <updated>2022-02-03T16:14:41.285Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtqy2">전 얼룩커 입니다 feat-포인트</a>]]></content>
+        <title type="html"><![CDATA[커가는 과정이라 생각이 들면서도...]]></title>
+        <id>https://alook.so/posts/eVt0zR</id>
+        <link href="https://alook.so/posts/eVt0zR"/>
+        <updated>2022-02-03T17:13:37.787Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt0zR">커가는 과정이라 생각이 들면서도...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대통령에 당선되면 민심을 얻은걸까?]]></title>
-        <id>https://alook.so/posts/LKtl9L</id>
-        <link href="https://alook.so/posts/LKtl9L"/>
-        <updated>2022-02-03T16:14:41.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtl9L">대통령에 당선되면 민심을 얻은걸까?</a>]]></content>
+        <title type="html"><![CDATA[오늘날씨, 금요일 '입춘' 영하10도 강추위 제주도·서울날씨예보]]></title>
+        <id>https://alook.so/posts/Pvtvnr</id>
+        <link href="https://alook.so/posts/Pvtvnr"/>
+        <updated>2022-02-03T17:13:37.788Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtvnr">오늘날씨, 금요일 '입춘' 영하10도 강추위 제주도·서울날씨예보</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다이어트에 대해 어떻게 생각하시나요?]]></title>
-        <id>https://alook.so/posts/3wtplZ</id>
-        <link href="https://alook.so/posts/3wtplZ"/>
-        <updated>2022-02-03T16:14:41.288Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtplZ">다이어트에 대해 어떻게 생각하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생활비 줄이는 방법, 반값 할인 공략하기]]></title>
-        <id>https://alook.so/posts/G1tx7v</id>
-        <link href="https://alook.so/posts/G1tx7v"/>
-        <updated>2022-02-03T16:14:41.289Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tx7v">생활비 줄이는 방법, 반값 할인 공략하기</a>]]></content>
+        <title type="html"><![CDATA[月600만원 넘게버는데…10명 중 9명 "나는 중산층 이하"]]></title>
+        <id>https://alook.so/posts/Vntbmw</id>
+        <link href="https://alook.so/posts/Vntbmw"/>
+        <updated>2022-02-03T17:13:37.789Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntbmw">月600만원 넘게버는데…10명 중 9명 "나는 중산층 이하"</a>]]></content>
     </entry>
 </feed>
