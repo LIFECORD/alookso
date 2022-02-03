@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-03T03:13:23.701Z</updated>
+    <updated>2022-02-03T04:15:21.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 오해와 진실]]></title>
+        <id>https://alook.so/posts/3wtp65</id>
+        <link href="https://alook.so/posts/3wtp65"/>
+        <updated>2022-02-03T04:13:20.904Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtp65">답글: 오해와 진실</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이코/소시오패스를 만든 계기/환경/확률]]></title>
         <id>https://alook.so/posts/OEtz0m</id>
@@ -116,12 +123,5 @@
         <link href="https://alook.so/posts/3wtpZL"/>
         <updated>2022-02-03T03:11:22.004Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtpZL">2022~02~02</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데일리 알벗] 나답게 늙어간다는 것]]></title>
-        <id>https://alook.so/posts/92to8v</id>
-        <link href="https://alook.so/posts/92to8v"/>
-        <updated>2022-02-02T10:11:33.926Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92to8v">[데일리 알벗] 나답게 늙어간다는 것</a>]]></content>
     </entry>
 </feed>
