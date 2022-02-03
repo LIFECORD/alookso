@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-03T00:38:36.584Z</updated>
+    <updated>2022-02-03T01:53:23.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -118,17 +118,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92to8v">[데일리 알벗] 나답게 늙어간다는 것</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[말의 감옥.]]></title>
+        <id>https://alook.so/posts/w9t32E</id>
+        <link href="https://alook.so/posts/w9t32E"/>
+        <updated>2022-02-03T01:51:24.619Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t32E">말의 감옥.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[외국인 혐오를 경계하라]]></title>
         <id>https://alook.so/posts/rDt3yD</id>
         <link href="https://alook.so/posts/rDt3yD"/>
         <updated>2022-02-02T22:10:15.706Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt3yD">외국인 혐오를 경계하라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["정의구현 드라마"가 필요해]]></title>
-        <id>https://alook.so/posts/XBt1r3</id>
-        <link href="https://alook.so/posts/XBt1r3"/>
-        <updated>2022-02-02T22:10:15.706Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt1r3">"정의구현 드라마"가 필요해</a>]]></content>
     </entry>
 </feed>
