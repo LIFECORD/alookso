@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-03T12:17:46.743Z</updated>
+    <updated>2022-02-03T13:16:15.363Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[보상에 대한 자그마한 건의입니다(많이 달라! 이런거 아니구요)]]></title>
-        <id>https://alook.so/posts/70tO3n</id>
-        <link href="https://alook.so/posts/70tO3n"/>
-        <updated>2022-02-03T12:15:50.304Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tO3n">보상에 대한 자그마한 건의입니다(많이 달라! 이런거 아니구요)</a>]]></content>
+        <title type="html"><![CDATA[얼굴도 모르는 타인과 협업하는 세상]]></title>
+        <id>https://alook.so/posts/Pvtvy0</id>
+        <link href="https://alook.so/posts/Pvtvy0"/>
+        <updated>2022-02-03T13:14:20.019Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtvy0">얼굴도 모르는 타인과 협업하는 세상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잃지 않고 마음편한 주식 장기투자 방법론]]></title>
-        <id>https://alook.so/posts/YytWwa</id>
-        <link href="https://alook.so/posts/YytWwa"/>
-        <updated>2022-02-03T12:15:50.305Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytWwa">잃지 않고 마음편한 주식 장기투자 방법론</a>]]></content>
+        <title type="html"><![CDATA[건강관리 어떻게 하시나요?]]></title>
+        <id>https://alook.so/posts/WLt4VK</id>
+        <link href="https://alook.so/posts/WLt4VK"/>
+        <updated>2022-02-03T13:14:20.020Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt4VK">건강관리 어떻게 하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여러분의 사소한 습관은 무엇인가요?]]></title>
+        <id>https://alook.so/posts/M9tM5R</id>
+        <link href="https://alook.so/posts/M9tM5R"/>
+        <updated>2022-02-03T13:14:20.022Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tM5R">여러분의 사소한 습관은 무엇인가요?</a>]]></content>
     </entry>
 </feed>
