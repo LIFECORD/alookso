@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-04T16:15:52.318Z</updated>
+    <updated>2022-02-04T17:11:14.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[능력만 있다면 창업은 생각했어요.]]></title>
+        <id>https://alook.so/posts/vKtzmB</id>
+        <link href="https://alook.so/posts/vKtzmB"/>
+        <updated>2022-02-04T17:09:26.001Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtzmB">능력만 있다면 창업은 생각했어요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[창업에 대해서 어떻게 생각하세요?]]></title>
+        <id>https://alook.so/posts/Zktzn2</id>
+        <link href="https://alook.so/posts/Zktzn2"/>
+        <updated>2022-02-04T17:09:26.001Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktzn2">창업에 대해서 어떻게 생각하세요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[판단이 잘 되지 않는 문제라면 전문가 집단의 행동을 살펴보면 항상 답이 나옵니다.]]></title>
         <id>https://alook.so/posts/PvtKqZ</id>
@@ -81,19 +95,5 @@
         <link href="https://alook.so/posts/E7tj9Y"/>
         <updated>2022-02-04T16:13:57.085Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tj9Y">얼룩소를 하며 느낀 솔직한 마음</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: alookso가 포인트, 재미가 있네요.]]></title>
-        <id>https://alook.so/posts/rDtnve</id>
-        <link href="https://alook.so/posts/rDtnve"/>
-        <updated>2022-02-04T06:11:42.479Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtnve">답글: alookso가 포인트, 재미가 있네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Rupert's blah #1]Web3로 바라보는 얼룩소. 나아가 한국의 보상구조]]></title>
-        <id>https://alook.so/posts/KmtYDL</id>
-        <link href="https://alook.so/posts/KmtYDL"/>
-        <updated>2022-02-04T16:13:57.085Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtYDL">[Rupert's blah #1]Web3로 바라보는 얼룩소. 나아가 한국의 보상구조</a>]]></content>
     </entry>
 </feed>
