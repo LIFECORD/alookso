@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-04T03:11:37.567Z</updated>
+    <updated>2022-02-04T04:14:25.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[네트워크 마케팅?]]></title>
-        <id>https://alook.so/posts/0ktwMV</id>
-        <link href="https://alook.so/posts/0ktwMV"/>
-        <updated>2022-02-04T03:09:40.753Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktwMV">네트워크 마케팅?</a>]]></content>
+        <title type="html"><![CDATA[성경에 나오는 2 이야기 3탄]]></title>
+        <id>https://alook.so/posts/o7tbnK</id>
+        <link href="https://alook.so/posts/o7tbnK"/>
+        <updated>2022-02-04T04:11:23.805Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tbnK">성경에 나오는 2 이야기 3탄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독서 중, 밑줄 그은 문장 나누기 토픽 어떨까요?]]></title>
-        <id>https://alook.so/posts/M9tKEG</id>
-        <link href="https://alook.so/posts/M9tKEG"/>
-        <updated>2022-02-04T03:09:40.753Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tKEG">독서 중, 밑줄 그은 문장 나누기 토픽 어떨까요?</a>]]></content>
+        <title type="html"><![CDATA[답글: alookso가 포인트 재미가 있네요.]]></title>
+        <id>https://alook.so/posts/rDtnve</id>
+        <link href="https://alook.so/posts/rDtnve"/>
+        <updated>2022-02-04T04:11:23.807Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtnve">답글: alookso가 포인트 재미가 있네요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나에는 천연자원만이 아니라 사람이 있다]]></title>
-        <id>https://alook.so/posts/xltMon</id>
-        <link href="https://alook.so/posts/xltMon"/>
-        <updated>2022-02-04T03:09:40.756Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltMon">우크라이나에는 천연자원만이 아니라 사람이 있다 </a>]]></content>
+        <title type="html"><![CDATA[[Rupert's blah #1]Web3로 바라보는 얼룩소. 나아가 한국의 보상구조]]></title>
+        <id>https://alook.so/posts/KmtYDL</id>
+        <link href="https://alook.so/posts/KmtYDL"/>
+        <updated>2022-02-04T04:11:23.809Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtYDL">[Rupert's blah #1]Web3로 바라보는 얼룩소. 나아가 한국의 보상구조</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이름 값.]]></title>
+        <id>https://alook.so/posts/mbtZqm</id>
+        <link href="https://alook.so/posts/mbtZqm"/>
+        <updated>2022-02-04T04:11:23.811Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtZqm">이름 값.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🇰🇷대한민국 축구, 결승 진출❗]]></title>
+        <id>https://alook.so/posts/54tV3R</id>
+        <link href="https://alook.so/posts/54tV3R"/>
+        <updated>2022-02-04T04:11:23.812Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tV3R">🇰🇷대한민국 축구, 결승 진출❗</a>]]></content>
     </entry>
 </feed>
