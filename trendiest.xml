@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-04T01:46:27.495Z</updated>
+    <updated>2022-02-04T02:14:14.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -102,6 +102,13 @@
         <link href="https://alook.so/posts/vKtnVL"/>
         <updated>2022-02-03T23:09:09.434Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtnVL">답글: "혐오" 주의자의 이상한 건보료</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생각이 많은 날, 글 쓰고 싶어요]]></title>
+        <id>https://alook.so/posts/njtvxm</id>
+        <link href="https://alook.so/posts/njtvxm"/>
+        <updated>2022-02-04T02:12:19.962Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtvxm">생각이 많은 날, 글 쓰고 싶어요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 족쇄가 되는 만능 카드 "법카"]]></title>
