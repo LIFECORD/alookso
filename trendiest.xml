@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-04T07:12:39.325Z</updated>
+    <updated>2022-02-04T08:12:41.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1txyv">alookso에 기여한 지난 2개월간 기록</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: alookso가 포인트, 재미가 있네요.]]></title>
+        <id>https://alook.so/posts/rDtnve</id>
+        <link href="https://alook.so/posts/rDtnve"/>
+        <updated>2022-02-04T06:11:42.479Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtnve">답글: alookso가 포인트, 재미가 있네요.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[무식해도 진실한 나의 포인트.]]></title>
         <id>https://alook.so/posts/potdWp</id>
         <link href="https://alook.so/posts/potdWp"/>
         <updated>2022-02-04T07:10:44.623Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potdWp">무식해도 진실한 나의 포인트.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 군대, 코로나19가 새로운 휴가 제도를 만들다.]]></title>
-        <id>https://alook.so/posts/M9tKxG</id>
-        <link href="https://alook.so/posts/M9tKxG"/>
-        <updated>2022-02-04T05:08:36.451Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tKxG">요즘 군대, 코로나19가 새로운 휴가 제도를 만들다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[보상의 기준을 구체적으로 밝히지 않는건 굉장히 옳은 운영 같습니다.]]></title>
@@ -55,18 +55,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1txVl">보상의 기준을 구체적으로 밝히지 않는건 굉장히 옳은 운영 같습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[요즘 군대, 코로나19가 새로운 휴가 제도를 만들다.]]></title>
+        <id>https://alook.so/posts/M9tKxG</id>
+        <link href="https://alook.so/posts/M9tKxG"/>
+        <updated>2022-02-04T05:08:36.451Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tKxG">요즘 군대, 코로나19가 새로운 휴가 제도를 만들다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[대선후보 토론, 9개 신문의 첫 마디는 [brf.]]]></title>
         <id>https://alook.so/posts/4Xtd8V</id>
         <link href="https://alook.so/posts/4Xtd8V"/>
         <updated>2022-02-04T07:10:44.627Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtd8V">대선후보 토론, 9개 신문의 첫 마디는 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: alookso가 포인트, 재미가 있네요.]]></title>
-        <id>https://alook.so/posts/rDtnve</id>
-        <link href="https://alook.so/posts/rDtnve"/>
-        <updated>2022-02-04T06:11:42.479Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtnve">답글: alookso가 포인트, 재미가 있네요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[얼룩소] 포인트를 받았어요!]]></title>
@@ -95,12 +95,5 @@
         <link href="https://alook.so/posts/dzt0M6"/>
         <updated>2022-02-04T07:10:44.633Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt0M6">새로운 코로나 진단 체계, 이 그림 한장으로 끝내세요 [brf.]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7개월 간 23번... '프로사과러' 재명씨 [뉴스정주행]]]></title>
-        <id>https://alook.so/posts/jdt6We</id>
-        <link href="https://alook.so/posts/jdt6We"/>
-        <updated>2022-02-04T07:10:44.634Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt6We">7개월 간 23번... '프로사과러' 재명씨 [뉴스정주행]</a>]]></content>
     </entry>
 </feed>
