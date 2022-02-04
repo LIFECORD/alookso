@@ -2,56 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-04T06:13:40.618Z</updated>
+    <updated>2022-02-04T07:12:39.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[기후 관련 웹툰]]></title>
-        <id>https://alook.so/posts/XBtEoP</id>
-        <link href="https://alook.so/posts/XBtEoP"/>
-        <updated>2022-02-04T06:11:33.309Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtEoP">기후 관련 웹툰</a>]]></content>
+        <title type="html"><![CDATA[MS, 클라우드 타고 더 갈것 vs 구글, 하루 7% 올라도 여전히 싸 [뉴스]]]></title>
+        <id>https://alook.so/posts/92tL35</id>
+        <link href="https://alook.so/posts/92tL35"/>
+        <updated>2022-02-04T07:10:34.802Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tL35">MS, 클라우드 타고 더 갈것 vs 구글, 하루 7% 올라도 여전히 싸 [뉴스]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지칠대로 지친 코로나시대]]></title>
-        <id>https://alook.so/posts/w9tOnO</id>
-        <link href="https://alook.so/posts/w9tOnO"/>
-        <updated>2022-02-04T06:11:33.309Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tOnO">지칠대로 지친 코로나시대</a>]]></content>
+        <title type="html"><![CDATA[답글: 이런 일상 글, 여백이 있어서 좋아요.]]></title>
+        <id>https://alook.so/posts/DjtL6p</id>
+        <link href="https://alook.so/posts/DjtL6p"/>
+        <updated>2022-02-04T07:10:34.805Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtL6p">답글: 이런 일상 글, 여백이 있어서 좋아요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[유럽은 ‘위드 오미크론’,  우리나라는 시기상조?]]></title>
-        <id>https://alook.so/posts/RGt51J</id>
-        <link href="https://alook.so/posts/RGt51J"/>
-        <updated>2022-02-04T06:11:33.309Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt51J">유럽은 ‘위드 오미크론’,  우리나라는 시기상조?</a>]]></content>
+        <title type="html"><![CDATA[답글: 한국 청소년처럼 외통수에 몰린 직업군도 없을 것 같네요]]></title>
+        <id>https://alook.so/posts/1RtGR7</id>
+        <link href="https://alook.so/posts/1RtGR7"/>
+        <updated>2022-02-04T07:10:34.806Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtGR7">답글: 한국 청소년처럼 외통수에 몰린 직업군도 없을 것 같네요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자연과 사람의  삶]]></title>
-        <id>https://alook.so/posts/yEtdVr</id>
-        <link href="https://alook.so/posts/yEtdVr"/>
-        <updated>2022-02-04T06:11:33.312Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtdVr">자연과 사람의  삶 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[규제 강화? 표현의 자유? 넘쳐나는 음란물 막으려면]]></title>
-        <id>https://alook.so/posts/BatW5L</id>
-        <link href="https://alook.so/posts/BatW5L"/>
-        <updated>2022-02-04T06:11:33.316Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatW5L">규제 강화? 표현의 자유? 넘쳐나는 음란물 막으려면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대선 후보의 기후 공약]]></title>
-        <id>https://alook.so/posts/njtkXG</id>
-        <link href="https://alook.so/posts/njtkXG"/>
-        <updated>2022-02-04T06:11:33.317Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtkXG">대선 후보의 기후 공약</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사랑하게 해줘서 고마워~♡ 캘리그라피 캔버스 작품]]></title>
-        <id>https://alook.so/posts/3wtMdD</id>
-        <link href="https://alook.so/posts/3wtMdD"/>
-        <updated>2022-02-04T06:11:33.318Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtMdD">사랑하게 해줘서 고마워~♡ 캘리그라피 캔버스 작품</a>]]></content>
+        <title type="html"><![CDATA[하루중 잠깐의 틈에서 내면을 다독여 보세요.]]></title>
+        <id>https://alook.so/posts/o7tblK</id>
+        <link href="https://alook.so/posts/o7tblK"/>
+        <updated>2022-02-04T07:10:34.810Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tblK">하루중 잠깐의 틈에서 내면을 다독여 보세요.</a>]]></content>
     </entry>
 </feed>
