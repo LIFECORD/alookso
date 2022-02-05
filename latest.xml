@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-05T11:10:34.624Z</updated>
+    <updated>2022-02-05T12:14:28.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[소풍]]></title>
-        <id>https://alook.so/posts/eVtd08</id>
-        <link href="https://alook.so/posts/eVtd08"/>
-        <updated>2022-02-05T11:08:40.939Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtd08">소풍</a>]]></content>
+        <title type="html"><![CDATA[답글: 저도 자영업자입니다.]]></title>
+        <id>https://alook.so/posts/xltMMl</id>
+        <link href="https://alook.so/posts/xltMMl"/>
+        <updated>2022-02-05T12:12:27.198Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltMMl">답글: 저도 자영업자입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아침잠이 많은 사람의 새벽 5시에 기상]]></title>
-        <id>https://alook.so/posts/PvtKv8</id>
-        <link href="https://alook.so/posts/PvtKv8"/>
-        <updated>2022-02-05T11:08:40.940Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtKv8">아침잠이 많은 사람의 새벽 5시에 기상</a>]]></content>
+        <title type="html"><![CDATA[충신과 간신(회사내)]]></title>
+        <id>https://alook.so/posts/RGt55z</id>
+        <link href="https://alook.so/posts/RGt55z"/>
+        <updated>2022-02-05T12:12:27.200Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt55z">충신과 간신(회사내)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로 시작했어요 :)]]></title>
-        <id>https://alook.so/posts/VntGbo</id>
-        <link href="https://alook.so/posts/VntGbo"/>
-        <updated>2022-02-05T11:08:40.941Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntGbo">새로 시작했어요 :)</a>]]></content>
+        <title type="html"><![CDATA[2022 베이징 한복 개막식 그냥 넘겨도 될 문제인가?]]></title>
+        <id>https://alook.so/posts/6MtEEq</id>
+        <link href="https://alook.so/posts/6MtEEq"/>
+        <updated>2022-02-05T12:12:27.201Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtEEq">2022 베이징 한복 개막식 그냥 넘겨도 될 문제인가?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주말엔 뭐하죠]]></title>
+        <id>https://alook.so/posts/3wtMMv</id>
+        <link href="https://alook.so/posts/3wtMMv"/>
+        <updated>2022-02-05T12:12:27.202Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtMMv">주말엔 뭐하죠</a>]]></content>
     </entry>
 </feed>
