@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-06T14:11:30.214Z</updated>
+    <updated>2022-02-06T15:12:04.412Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[내 마음의 추억 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/w9tO5J</id>
-        <link href="https://alook.so/posts/w9tO5J"/>
-        <updated>2022-02-06T14:09:31.280Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tO5J">내 마음의 추억</a>]]></content>
+        <title type="html"><![CDATA[요즘 제가 꽂힌 노래가 있어요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tbJp</id>
+        <link href="https://alook.so/posts/o7tbJp"/>
+        <updated>2022-02-06T15:10:02.704Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tbJp">요즘 제가 꽂힌 노래가 있어요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주식이야기 인생이야기 1 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/xltM4R</id>
-        <link href="https://alook.so/posts/xltM4R"/>
-        <updated>2022-02-06T14:09:31.281Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltM4R">주식이야기 인생이야기 1</a>]]></content>
+        <title type="html"><![CDATA[월요병 극복 방법이 있으신가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/70t67y</id>
+        <link href="https://alook.so/posts/70t67y"/>
+        <updated>2022-02-06T15:10:02.707Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t67y">월요병 극복 방법이 있으신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 백신,이대로 괜찮을까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/RGt5p8</id>
-        <link href="https://alook.so/posts/RGt5p8"/>
-        <updated>2022-02-06T14:09:31.283Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt5p8">코로나 백신,이대로 괜찮을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나백수, 어떤부업으로 돈을 벌까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/kZtPbM</id>
-        <link href="https://alook.so/posts/kZtPbM"/>
-        <updated>2022-02-06T14:09:31.284Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtPbM">코로나백수, 어떤부업으로 돈을 벌까요?</a>]]></content>
+        <title type="html"><![CDATA[아버지 우리 아버지 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/KmtYEm</id>
+        <link href="https://alook.so/posts/KmtYEm"/>
+        <updated>2022-02-06T15:10:02.708Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtYEm">아버지 우리 아버지 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 인연에 관한 이야기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -47,13 +40,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtYjK">악플에 대한 유튜버의 생각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여러분은 어떤 꿈을 가지고 사시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/2xtX4P</id>
-        <link href="https://alook.so/posts/2xtX4P"/>
-        <updated>2022-02-06T08:11:43.002Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtX4P">여러분은 어떤 꿈을 가지고 사시나요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[La Flor De La Canela. 제가 부른 남미곡입니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/6MtEdz</id>
         <link href="https://alook.so/posts/6MtEdz"/>
@@ -61,18 +47,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtEdz">La Flor De La Canela. 제가 부른 남미곡입니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지금 당신이 사는 세상은 어떤 세상인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/potdYW</id>
-        <link href="https://alook.so/posts/potdYW"/>
-        <updated>2022-02-06T13:11:49.422Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potdYW">지금 당신이 사는 세상은 어떤 세상인가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무(비)드(라마)Q(레이션)] 시간여행 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/mbtZya</id>
-        <link href="https://alook.so/posts/mbtZya"/>
-        <updated>2022-02-06T08:11:43.005Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtZya">[무(비)드(라마)Q(레이션)] 시간여행</a>]]></content>
+        <title type="html"><![CDATA[여러분은 어떤 꿈을 가지고 사시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/2xtX4P</id>
+        <link href="https://alook.so/posts/2xtX4P"/>
+        <updated>2022-02-06T08:11:43.002Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtX4P">여러분은 어떤 꿈을 가지고 사시나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엑셀로드의 게임과 팃포탯 전략 - 크고 길게 보면 협력은 선택이 아닌 순리 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -82,11 +61,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6qP">엑셀로드의 게임과 팃포탯 전략 - 크고 길게 보면 협력은 선택이 아닌 순리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제가 너무 발칙하고 못된 건가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/4Xtd5d</id>
-        <link href="https://alook.so/posts/4Xtd5d"/>
-        <updated>2022-02-06T06:12:28.573Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtd5d">제가 너무 발칙하고 못된 건가요?</a>]]></content>
+        <title type="html"><![CDATA[지금 당신이 사는 세상은 어떤 세상인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/potdYW</id>
+        <link href="https://alook.so/posts/potdYW"/>
+        <updated>2022-02-06T13:11:49.422Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potdYW">지금 당신이 사는 세상은 어떤 세상인가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[흙회장, 얼룩소에 누구보다 높은 지분을 가지고 있는 사람 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -96,11 +75,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktwxZ">흙회장, 얼룩소에 누구보다 높은 지분을 가지고 있는 사람</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[무(비)드(라마)Q(레이션)] 시간여행 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/mbtZya</id>
+        <link href="https://alook.so/posts/mbtZya"/>
+        <updated>2022-02-06T08:11:43.005Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtZya">[무(비)드(라마)Q(레이션)] 시간여행</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[일기 쓰시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/lat3ma</id>
         <link href="https://alook.so/posts/lat3ma"/>
         <updated>2022-02-06T06:12:28.579Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat3ma">일기 쓰시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제가 너무 발칙하고 못된 건가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/4Xtd5d</id>
+        <link href="https://alook.so/posts/4Xtd5d"/>
+        <updated>2022-02-06T06:12:28.573Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtd5d">제가 너무 발칙하고 못된 건가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[어린날의 마음은 어땠을까?... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -145,11 +138,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat34a">목은 말랐지만 토론이 후보 결정에 영향을 미칠까요? </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[배움에는 나이가 없다.(박말례 할머니의 동기부여) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtMje</id>
+        <link href="https://alook.so/posts/3wtMje"/>
+        <updated>2022-02-06T15:10:11.165Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtMje">배움에는 나이가 없다.(박말례 할머니의 동기부여)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[윤석열의 말은 왜 항상 숨겨진 맥락과 취지를 애써 읽어내야 하는걸까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/potdMX</id>
         <link href="https://alook.so/posts/potdMX"/>
         <updated>2022-02-06T13:11:49.443Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potdMX">윤석열의 말은 왜 항상 숨겨진 맥락과 취지를 애써 읽어내야 하는걸까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리의 마지막까지 쥐어 짤 세금 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/w9tO1B</id>
+        <link href="https://alook.so/posts/w9tO1B"/>
+        <updated>2022-02-06T15:10:11.168Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tO1B">우리의 마지막까지 쥐어 짤 세금</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큐레이션 글쓰기 사용설명서 (alookso ─ alookso)]]></title>
