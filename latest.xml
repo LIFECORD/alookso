@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-06T13:13:52.222Z</updated>
+    <updated>2022-02-06T14:11:30.137Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[이에는 이 눈에는 눈 하다가 그만 다치세요.]]></title>
-        <id>https://alook.so/posts/jdtxBE</id>
-        <link href="https://alook.so/posts/jdtxBE"/>
-        <updated>2022-02-06T13:11:39.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtxBE">이에는 이 눈에는 눈 하다가 그만 다치세요.</a>]]></content>
+        <title type="html"><![CDATA[내 마음의 추억]]></title>
+        <id>https://alook.so/posts/w9tO5J</id>
+        <link href="https://alook.so/posts/w9tO5J"/>
+        <updated>2022-02-06T14:09:31.280Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tO5J">내 마음의 추억</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[행복의 기준]]></title>
-        <id>https://alook.so/posts/J5t235</id>
-        <link href="https://alook.so/posts/J5t235"/>
-        <updated>2022-02-06T13:11:39.746Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t235">행복의 기준</a>]]></content>
+        <title type="html"><![CDATA[주식이야기 인생이야기 1]]></title>
+        <id>https://alook.so/posts/xltM4R</id>
+        <link href="https://alook.so/posts/xltM4R"/>
+        <updated>2022-02-06T14:09:31.281Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltM4R">주식이야기 인생이야기 1</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누군가를 괴롭혀 얻은 건 무엇일까]]></title>
-        <id>https://alook.so/posts/potdpy</id>
-        <link href="https://alook.so/posts/potdpy"/>
-        <updated>2022-02-06T13:11:39.746Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potdpy">누군가를 괴롭혀 얻은 건 무엇일까</a>]]></content>
+        <title type="html"><![CDATA[코로나 백신,이대로 괜찮을까?]]></title>
+        <id>https://alook.so/posts/RGt5p8</id>
+        <link href="https://alook.so/posts/RGt5p8"/>
+        <updated>2022-02-06T14:09:31.283Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt5p8">코로나 백신,이대로 괜찮을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진짜 칭찬.]]></title>
-        <id>https://alook.so/posts/VntGol</id>
-        <link href="https://alook.so/posts/VntGol"/>
-        <updated>2022-02-06T13:11:39.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntGol">진짜 칭찬.</a>]]></content>
+        <title type="html"><![CDATA[코로나백수, 어떤부업으로 돈을 벌까요?]]></title>
+        <id>https://alook.so/posts/kZtPbM</id>
+        <link href="https://alook.so/posts/kZtPbM"/>
+        <updated>2022-02-06T14:09:31.284Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtPbM">코로나백수, 어떤부업으로 돈을 벌까요?</a>]]></content>
     </entry>
 </feed>
