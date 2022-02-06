@@ -2,49 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-06T04:15:18.323Z</updated>
+    <updated>2022-02-06T05:11:08.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[어쩜 이것이야말로 진정한 캘리그라피?]]></title>
-        <id>https://alook.so/posts/zvtkaL</id>
-        <link href="https://alook.so/posts/zvtkaL"/>
-        <updated>2022-02-06T04:13:18.972Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtkaL">어쩜 이것이야말로 진정한 캘리그라피?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분은 어떤 꿈을 가지고 사시나요?]]></title>
-        <id>https://alook.so/posts/2xtX4P</id>
-        <link href="https://alook.so/posts/2xtX4P"/>
-        <updated>2022-02-06T04:13:18.976Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtX4P">여러분은 어떤 꿈을 가지고 사시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제가 너무 발칙하고 못된 건가요?]]></title>
-        <id>https://alook.so/posts/4Xtd5d</id>
-        <link href="https://alook.so/posts/4Xtd5d"/>
-        <updated>2022-02-06T04:13:18.979Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtd5d">제가 너무 발칙하고 못된 건가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리의 마지막까지 쥐어 짤 세금]]></title>
-        <id>https://alook.so/posts/w9tO1B</id>
-        <link href="https://alook.so/posts/w9tO1B"/>
-        <updated>2022-02-06T04:13:18.980Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tO1B">우리의 마지막까지 쥐어 짤 세금</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기후변화: 2000년 걸쳐 생성된 에베레스트 빙하, 25년 동안 녹아내렸다]]></title>
-        <id>https://alook.so/posts/xltM91</id>
-        <link href="https://alook.so/posts/xltM91"/>
-        <updated>2022-02-06T04:13:18.981Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltM91">기후변화: 2000년 걸쳐 생성된 에베레스트 빙하, 25년 동안 녹아내렸다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[논산훈련소, 27년만에 흡연 시범허용… “조교가 담배 심부름” 불만도]]></title>
-        <id>https://alook.so/posts/RGt59B</id>
-        <link href="https://alook.so/posts/RGt59B"/>
-        <updated>2022-02-06T04:13:18.983Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt59B">논산훈련소, 27년만에 흡연 시범허용… “조교가 담배 심부름” 불만도</a>]]></content>
+        <title type="html"><![CDATA[순두부와 연두부 이야기]]></title>
+        <id>https://alook.so/posts/70t6pP</id>
+        <link href="https://alook.so/posts/70t6pP"/>
+        <updated>2022-02-06T05:09:14.957Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6pP">순두부와 연두부 이야기</a>]]></content>
     </entry>
 </feed>
