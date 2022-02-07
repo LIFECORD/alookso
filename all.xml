@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-07T21:10:52.085Z</updated>
+    <updated>2022-02-07T22:12:42.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[내향적인 사람이 사회생활에 유리하다?! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/w9twKe</id>
+        <link href="https://alook.so/posts/w9twKe"/>
+        <updated>2022-02-07T22:10:43.257Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9twKe">내향적인 사람이 사회생활에 유리하다?!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[비닐사용제한확대가필요합니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xltEVw</id>
+        <link href="https://alook.so/posts/xltEVw"/>
+        <updated>2022-02-07T22:10:43.258Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltEVw">비닐사용제한확대가필요합니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인수인계라는게... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/BatmbJ</id>
@@ -19,18 +33,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtEb0">전  요리를 좋아합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나를 사랑하자 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/8WteEq</id>
-        <link href="https://alook.so/posts/8WteEq"/>
-        <updated>2022-02-07T20:09:05.377Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WteEq">나를 사랑하자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“돌아갈 방법 없는지...” 황대헌, 실격 후 마이클 조던 명언 올렸다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/G1tDM8</id>
-        <link href="https://alook.so/posts/G1tDM8"/>
-        <updated>2022-02-07T19:08:18.596Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tDM8">“돌아갈 방법 없는지...” 황대헌, 실격 후 마이클 조던 명언 올렸다</a>]]></content>
+        <title type="html"><![CDATA[‘구조적 성차별’은 없다는데, 진짜로? [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/rDtn47</id>
+        <link href="https://alook.so/posts/rDtn47"/>
+        <updated>2022-02-07T20:09:14.112Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtn47">‘구조적 성차별’은 없다는데, 진짜로? [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오늘 저를 몹시 화나게 한 기사를 공유해봅니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -38,13 +45,6 @@
         <link href="https://alook.so/posts/xltMLb"/>
         <updated>2022-02-07T20:09:14.112Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltMLb">오늘 저를 몹시 화나게 한 기사를 공유해봅니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘구조적 성차별’은 없다는데, 진짜로? [brf.] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/rDtn47</id>
-        <link href="https://alook.so/posts/rDtn47"/>
-        <updated>2022-02-07T20:09:14.112Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtn47">‘구조적 성차별’은 없다는데, 진짜로? [brf.]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파산한 사람을 두 번 울리는 우리 법률 [입법 디깅] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
