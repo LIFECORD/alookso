@@ -2,56 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-07T00:40:27.468Z</updated>
+    <updated>2022-02-07T01:56:06.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[월요일 아침, 지금 여러분은 무얼 하고 계시나요?]]></title>
-        <id>https://alook.so/posts/KmtYLV</id>
-        <link href="https://alook.so/posts/KmtYLV"/>
-        <updated>2022-02-07T00:38:21.188Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtYLV">월요일 아침, 지금 여러분은 무얼 하고 계시나요?</a>]]></content>
+        <title type="html"><![CDATA[[오늘의 금값시세] 2월 7일 한 돈(3.75g) 금시세]]></title>
+        <id>https://alook.so/posts/3wtMeO</id>
+        <link href="https://alook.so/posts/3wtMeO"/>
+        <updated>2022-02-07T01:54:01.329Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtMeO">[오늘의 금값시세] 2월 7일 한 돈(3.75g) 금시세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[페미는 왜  남자를 미워 해 ?]]></title>
-        <id>https://alook.so/posts/mbtZR0</id>
-        <link href="https://alook.so/posts/mbtZR0"/>
-        <updated>2022-02-07T00:38:21.193Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtZR0">페미는 왜  남자를 미워 해 ?</a>]]></content>
+        <title type="html"><![CDATA[빅뱅, 4년 만에 컴백…누리꾼 반응 '응원'VS'싸늘']]></title>
+        <id>https://alook.so/posts/G1tYma</id>
+        <link href="https://alook.so/posts/G1tYma"/>
+        <updated>2022-02-07T01:54:01.333Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tYma">빅뱅, 4년 만에 컴백…누리꾼 반응 '응원'VS'싸늘'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전분의 또 다른 형태 저항성 전분의 발견]]></title>
-        <id>https://alook.so/posts/DjtLvJ</id>
-        <link href="https://alook.so/posts/DjtLvJ"/>
-        <updated>2022-02-07T00:38:21.193Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtLvJ">전분의 또 다른 형태 저항성 전분의 발견</a>]]></content>
+        <title type="html"><![CDATA[백신 3차 휴우증]]></title>
+        <id>https://alook.so/posts/OEt2vj</id>
+        <link href="https://alook.so/posts/OEt2vj"/>
+        <updated>2022-02-07T01:54:01.337Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt2vj">백신 3차 휴우증</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[연휴가 끝나고 다시 현실로...]]></title>
-        <id>https://alook.so/posts/1RtGVP</id>
-        <link href="https://alook.so/posts/1RtGVP"/>
-        <updated>2022-02-07T00:38:21.193Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtGVP">연휴가 끝나고 다시 현실로...</a>]]></content>
+        <title type="html"><![CDATA[어떤 시대에 살고 계세요?]]></title>
+        <id>https://alook.so/posts/vKtz4O</id>
+        <link href="https://alook.so/posts/vKtz4O"/>
+        <updated>2022-02-07T01:54:01.338Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtz4O">어떤 시대에 살고 계세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[뉴스 issue] 사장 반, 노동자 반인 "반반의 존재"]]></title>
-        <id>https://alook.so/posts/70t6jy</id>
-        <link href="https://alook.so/posts/70t6jy"/>
-        <updated>2022-02-07T00:38:21.194Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6jy">[뉴스 issue] 사장 반, 노동자 반인 "반반의 존재"</a>]]></content>
+        <title type="html"><![CDATA[월급 올라도 소용없는 이유 있었네…소득세·보험료 2배 더 올라]]></title>
+        <id>https://alook.so/posts/E7tjok</id>
+        <link href="https://alook.so/posts/E7tjok"/>
+        <updated>2022-02-07T01:54:01.339Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tjok">월급 올라도 소용없는 이유 있었네…소득세·보험료 2배 더 올라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[고소후기] 악플을 고소 하면 어떻게 될까요?]]></title>
-        <id>https://alook.so/posts/YytyMp</id>
-        <link href="https://alook.so/posts/YytyMp"/>
-        <updated>2022-02-07T00:38:21.197Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytyMp">[고소후기] 악플을 고소 하면 어떻게 될까요? </a>]]></content>
+        <title type="html"><![CDATA[2월 5일, 건강 문제로 토론 연기하자 해놓고 술 마신 석열씨]]></title>
+        <id>https://alook.so/posts/lat3jw</id>
+        <link href="https://alook.so/posts/lat3jw"/>
+        <updated>2022-02-07T01:54:01.340Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat3jw">2월 5일, 건강 문제로 토론 연기하자 해놓고 술 마신 석열씨</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월요일 아침에 기차여행 떠나보기🚂]]></title>
-        <id>https://alook.so/posts/rDtnVW</id>
-        <link href="https://alook.so/posts/rDtnVW"/>
-        <updated>2022-02-07T00:38:21.198Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtnVW">월요일 아침에 기차여행 떠나보기🚂</a>]]></content>
+        <title type="html"><![CDATA[명품에 대한 생각]]></title>
+        <id>https://alook.so/posts/92tLE9</id>
+        <link href="https://alook.so/posts/92tLE9"/>
+        <updated>2022-02-07T01:54:01.341Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tLE9">명품에 대한 생각</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남을 신경쓰는 나.]]></title>
+        <id>https://alook.so/posts/mbtZx8</id>
+        <link href="https://alook.so/posts/mbtZx8"/>
+        <updated>2022-02-07T01:54:01.341Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtZx8">남을 신경쓰는 나.</a>]]></content>
     </entry>
 </feed>
