@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-07T12:18:35.187Z</updated>
+    <updated>2022-02-07T13:16:45.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[....여름이었다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Zktzlr</id>
-        <link href="https://alook.so/posts/Zktzlr"/>
-        <updated>2022-02-07T12:16:37.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktzlr">....여름이었다.</a>]]></content>
+        <title type="html"><![CDATA["구조적 성차별은 없다"면 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/4XtdMD</id>
+        <link href="https://alook.so/posts/4XtdMD"/>
+        <updated>2022-02-07T13:14:24.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtdMD">"구조적 성차별은 없다"면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[배모씨와 김혜경씨의 118,000원이 업무추진비 지출일 때의 문제는? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/dzt5kB</id>
-        <link href="https://alook.so/posts/dzt5kB"/>
-        <updated>2022-02-07T12:16:37.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt5kB">배모씨와 김혜경씨의 118,000원이 업무추진비 지출일 때의 문제는?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 지금 콜라겐이 부족한가? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/J5t2ew</id>
-        <link href="https://alook.so/posts/J5t2ew"/>
-        <updated>2022-02-07T12:16:37.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t2ew">나는 지금 콜라겐이 부족한가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[같은 생각, 같은 하루 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/eVtd17</id>
-        <link href="https://alook.so/posts/eVtd17"/>
-        <updated>2022-02-07T12:16:37.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtd17">같은 생각, 같은 하루</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성범죄 감형의 이유? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/2xtXqm</id>
-        <link href="https://alook.so/posts/2xtXqm"/>
-        <updated>2022-02-07T12:16:37.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtXqm">성범죄 감형의 이유?</a>]]></content>
+        <title type="html"><![CDATA[저는 이런 글을 쓰고 싶어요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/92tLz3</id>
+        <link href="https://alook.so/posts/92tLz3"/>
+        <updated>2022-02-07T13:14:35.513Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tLz3">저는 이런 글을 쓰고 싶어요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: "한복"과 "조선족", 그리고 "혐오" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -108,20 +87,6 @@
         <link href="https://alook.so/posts/70t6El"/>
         <updated>2022-02-07T11:08:56.329Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6El">답글: 저도 그래요...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저두 월요일이 싫어요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/rDtnd7</id>
-        <link href="https://alook.so/posts/rDtnd7"/>
-        <updated>2022-02-07T10:11:27.055Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtnd7">저두 월요일이 싫어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저만 그런가요...?(심각) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/lat37w</id>
-        <link href="https://alook.so/posts/lat37w"/>
-        <updated>2022-02-07T10:11:27.067Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat37w">저만 그런가요...?(심각)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큐레이션 글쓰기 사용설명서 (alookso ─ alookso)]]></title>
