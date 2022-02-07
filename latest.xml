@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-07T07:12:12.196Z</updated>
+    <updated>2022-02-07T08:14:59.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[코로나 끝나긴 하는걸까?]]></title>
-        <id>https://alook.so/posts/1RtGmz</id>
-        <link href="https://alook.so/posts/1RtGmz"/>
-        <updated>2022-02-07T07:10:20.741Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtGmz">코로나 끝나긴 하는걸까?</a>]]></content>
+        <title type="html"><![CDATA[재택치료자 관리 효율화, 안전도 챙길 수 있을까?]]></title>
+        <id>https://alook.so/posts/o7tbX3</id>
+        <link href="https://alook.so/posts/o7tbX3"/>
+        <updated>2022-02-07T08:13:06.610Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tbX3">재택치료자 관리 효율화, 안전도 챙길 수 있을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진짜 고생이 많으시네요.]]></title>
-        <id>https://alook.so/posts/o7tbPw</id>
-        <link href="https://alook.so/posts/o7tbPw"/>
-        <updated>2022-02-07T07:10:20.744Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tbPw">진짜 고생이 많으시네요. </a>]]></content>
+        <title type="html"><![CDATA[사전투표 과연 문제가 없는가?]]></title>
+        <id>https://alook.so/posts/70t6R0</id>
+        <link href="https://alook.so/posts/70t6R0"/>
+        <updated>2022-02-07T08:13:06.612Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6R0">사전투표 과연 문제가 없는가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[메타와 넷플릭스 주가 동반 급락]]></title>
-        <id>https://alook.so/posts/70t6Pl</id>
-        <link href="https://alook.so/posts/70t6Pl"/>
-        <updated>2022-02-07T07:10:20.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6Pl">메타와 넷플릭스 주가 동반 급락</a>]]></content>
+        <title type="html"><![CDATA[내리막길만 있는건 아니다.]]></title>
+        <id>https://alook.so/posts/E7tjJv</id>
+        <link href="https://alook.so/posts/E7tjJv"/>
+        <updated>2022-02-07T08:13:06.613Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tjJv">내리막길만 있는건 아니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글 잘쓰시는 분들이 역시나 많네요.]]></title>
+        <id>https://alook.so/posts/92tLwB</id>
+        <link href="https://alook.so/posts/92tLwB"/>
+        <updated>2022-02-07T08:13:06.614Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tLwB">글 잘쓰시는 분들이 역시나 많네요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: "샹 죽기보다야 더 하겠냐."]]></title>
+        <id>https://alook.so/posts/KmtY6y</id>
+        <link href="https://alook.so/posts/KmtY6y"/>
+        <updated>2022-02-07T08:13:06.616Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtY6y">답글: "샹 죽기보다야 더 하겠냐."</a>]]></content>
     </entry>
 </feed>
