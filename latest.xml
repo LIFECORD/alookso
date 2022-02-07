@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-07T09:13:16.112Z</updated>
+    <updated>2022-02-07T10:13:21.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[영화관에 아쉬운 점]]></title>
-        <id>https://alook.so/posts/zvtkRv</id>
-        <link href="https://alook.so/posts/zvtkRv"/>
-        <updated>2022-02-07T09:11:17.420Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtkRv">영화관에 아쉬운 점</a>]]></content>
+        <title type="html"><![CDATA[다시 필을 잡게 해주셔서 감사합니다]]></title>
+        <id>https://alook.so/posts/XBtE2Y</id>
+        <link href="https://alook.so/posts/XBtE2Y"/>
+        <updated>2022-02-07T10:11:18.664Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtE2Y">다시 필을 잡게 해주셔서 감사합니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[배달비 부담, 이대로 가단 다 죽지 않을까?]]></title>
-        <id>https://alook.so/posts/M9tK5l</id>
-        <link href="https://alook.so/posts/M9tK5l"/>
-        <updated>2022-02-07T09:11:17.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tK5l">배달비 부담, 이대로 가단 다 죽지 않을까?</a>]]></content>
+        <title type="html"><![CDATA[답글: "한복"과 "조선족", 그리고 "혐오"]]></title>
+        <id>https://alook.so/posts/RGt5wM</id>
+        <link href="https://alook.so/posts/RGt5wM"/>
+        <updated>2022-02-07T10:11:18.667Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt5wM">답글: "한복"과 "조선족", 그리고 "혐오"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제 2의 군함도, '사도 광산' 유네스코 세계문화유산 등재를 막아주세요]]></title>
-        <id>https://alook.so/posts/4XtdGl</id>
-        <link href="https://alook.so/posts/4XtdGl"/>
-        <updated>2022-02-07T09:11:17.421Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtdGl">제 2의 군함도, '사도 광산' 유네스코 세계문화유산 등재를 막아주세요</a>]]></content>
+        <title type="html"><![CDATA[인공지능 시대의 가장 중요한 것은?]]></title>
+        <id>https://alook.so/posts/BatWKB</id>
+        <link href="https://alook.so/posts/BatWKB"/>
+        <updated>2022-02-07T10:11:18.668Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatWKB">인공지능 시대의 가장 중요한 것은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누가 "에-"소리를 내었는가?: 윤석열의 말버릇을 읽는 법]]></title>
-        <id>https://alook.so/posts/XBtEnY</id>
-        <link href="https://alook.so/posts/XBtEnY"/>
-        <updated>2022-02-07T09:11:17.423Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtEnY">누가 "에-"소리를 내었는가?: 윤석열의 말버릇을 읽는 법</a>]]></content>
+        <title type="html"><![CDATA[중대재해기업처벌법, 아직 갈 길이 멀다]]></title>
+        <id>https://alook.so/posts/njtkPz</id>
+        <link href="https://alook.so/posts/njtkPz"/>
+        <updated>2022-02-07T10:11:18.669Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtkPz">중대재해기업처벌법, 아직 갈 길이 멀다</a>]]></content>
     </entry>
 </feed>
