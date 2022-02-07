@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-07T08:14:59.688Z</updated>
+    <updated>2022-02-07T09:13:16.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[재택치료자 관리 효율화, 안전도 챙길 수 있을까?]]></title>
-        <id>https://alook.so/posts/o7tbX3</id>
-        <link href="https://alook.so/posts/o7tbX3"/>
-        <updated>2022-02-07T08:13:06.610Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tbX3">재택치료자 관리 효율화, 안전도 챙길 수 있을까?</a>]]></content>
+        <title type="html"><![CDATA[영화관에 아쉬운 점]]></title>
+        <id>https://alook.so/posts/zvtkRv</id>
+        <link href="https://alook.so/posts/zvtkRv"/>
+        <updated>2022-02-07T09:11:17.420Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtkRv">영화관에 아쉬운 점</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사전투표 과연 문제가 없는가?]]></title>
-        <id>https://alook.so/posts/70t6R0</id>
-        <link href="https://alook.so/posts/70t6R0"/>
-        <updated>2022-02-07T08:13:06.612Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t6R0">사전투표 과연 문제가 없는가?</a>]]></content>
+        <title type="html"><![CDATA[배달비 부담, 이대로 가단 다 죽지 않을까?]]></title>
+        <id>https://alook.so/posts/M9tK5l</id>
+        <link href="https://alook.so/posts/M9tK5l"/>
+        <updated>2022-02-07T09:11:17.421Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tK5l">배달비 부담, 이대로 가단 다 죽지 않을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내리막길만 있는건 아니다.]]></title>
-        <id>https://alook.so/posts/E7tjJv</id>
-        <link href="https://alook.so/posts/E7tjJv"/>
-        <updated>2022-02-07T08:13:06.613Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tjJv">내리막길만 있는건 아니다.</a>]]></content>
+        <title type="html"><![CDATA[제 2의 군함도, '사도 광산' 유네스코 세계문화유산 등재를 막아주세요]]></title>
+        <id>https://alook.so/posts/4XtdGl</id>
+        <link href="https://alook.so/posts/4XtdGl"/>
+        <updated>2022-02-07T09:11:17.421Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtdGl">제 2의 군함도, '사도 광산' 유네스코 세계문화유산 등재를 막아주세요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글 잘쓰시는 분들이 역시나 많네요.]]></title>
-        <id>https://alook.so/posts/92tLwB</id>
-        <link href="https://alook.so/posts/92tLwB"/>
-        <updated>2022-02-07T08:13:06.614Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tLwB">글 잘쓰시는 분들이 역시나 많네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: "샹 죽기보다야 더 하겠냐."]]></title>
-        <id>https://alook.so/posts/KmtY6y</id>
-        <link href="https://alook.so/posts/KmtY6y"/>
-        <updated>2022-02-07T08:13:06.616Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtY6y">답글: "샹 죽기보다야 더 하겠냐."</a>]]></content>
+        <title type="html"><![CDATA[누가 "에-"소리를 내었는가?: 윤석열의 말버릇을 읽는 법]]></title>
+        <id>https://alook.so/posts/XBtEnY</id>
+        <link href="https://alook.so/posts/XBtEnY"/>
+        <updated>2022-02-07T09:11:17.423Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtEnY">누가 "에-"소리를 내었는가?: 윤석열의 말버릇을 읽는 법</a>]]></content>
     </entry>
 </feed>
