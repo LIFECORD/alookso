@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-08T21:12:12.588Z</updated>
+    <updated>2022-02-08T22:12:12.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -55,6 +55,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5pn">결국 해내는 사람의 특징 </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[“코로나 확진자도 대선 투표” 추진된다]]></title>
+        <id>https://alook.so/posts/dzt8ry</id>
+        <link href="https://alook.so/posts/dzt8ry"/>
+        <updated>2022-02-08T22:10:18.634Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt8ry">“코로나 확진자도 대선 투표” 추진된다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[토스트를 먹다가 고양이와 눈이 마주쳤습니다.]]></title>
         <id>https://alook.so/posts/potXKO</id>
         <link href="https://alook.so/posts/potXKO"/>
@@ -95,12 +102,5 @@
         <link href="https://alook.so/posts/njt4oe"/>
         <updated>2022-02-08T21:10:26.401Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt4oe">0.01초가 이렇게 큰 것이었다니.......</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭔가 해봐야겠다는 생각은 들지만 솔직히 뭘 할 수 있는 건지 모르겠다.]]></title>
-        <id>https://alook.so/posts/92tP3a</id>
-        <link href="https://alook.so/posts/92tP3a"/>
-        <updated>2022-02-08T20:11:16.999Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tP3a">뭔가 해봐야겠다는 생각은 들지만 솔직히 뭘 할 수 있는 건지 모르겠다.</a>]]></content>
     </entry>
 </feed>
