@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-08T04:15:15.637Z</updated>
+    <updated>2022-02-08T05:12:12.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/dzt87K"/>
         <updated>2022-02-08T04:13:25.226Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt87K">답글:...여름이었다. 실화편.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어제 너무 화가 나더라고요]]></title>
+        <id>https://alook.so/posts/M9td40</id>
+        <link href="https://alook.so/posts/M9td40"/>
+        <updated>2022-02-08T05:10:18.432Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9td40">어제 너무 화가 나더라고요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아까운 인재 하나가 사라지는 순간이군요]]></title>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/92tLz3"/>
         <updated>2022-02-07T13:14:35.513Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tLz3">저는 이런 글을 쓰고 싶어요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[처음 적는 글]]></title>
-        <id>https://alook.so/posts/lat327</id>
-        <link href="https://alook.so/posts/lat327"/>
-        <updated>2022-02-08T04:13:25.231Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat327">처음 적는 글</a>]]></content>
     </entry>
 </feed>
