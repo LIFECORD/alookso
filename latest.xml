@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-08T06:16:13.051Z</updated>
+    <updated>2022-02-08T07:12:26.532Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[농부의 마음으로]]></title>
-        <id>https://alook.so/posts/kZt8LV</id>
-        <link href="https://alook.so/posts/kZt8LV"/>
-        <updated>2022-02-08T06:14:10.875Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt8LV">농부의 마음으로</a>]]></content>
+        <title type="html"><![CDATA[산호초 ‘백화 현상’, 5억명 생계 위협... 대응 시급해]]></title>
+        <id>https://alook.so/posts/Kmt3k8</id>
+        <link href="https://alook.so/posts/Kmt3k8"/>
+        <updated>2022-02-08T07:10:30.751Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3k8">산호초 ‘백화 현상’, 5억명 생계 위협... 대응 시급해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그래서, 기본대출!]]></title>
-        <id>https://alook.so/posts/LKtEaM</id>
-        <link href="https://alook.so/posts/LKtEaM"/>
-        <updated>2022-02-08T06:14:10.878Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtEaM">그래서, 기본대출!</a>]]></content>
+        <title type="html"><![CDATA[자존감과 자존심]]></title>
+        <id>https://alook.so/posts/54tb4Z</id>
+        <link href="https://alook.so/posts/54tb4Z"/>
+        <updated>2022-02-08T07:10:30.753Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tb4Z">자존감과 자존심</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현 시대의 2030 이대로 괜찮을까요? (청년고독사)]]></title>
-        <id>https://alook.so/posts/6MtaOV</id>
-        <link href="https://alook.so/posts/6MtaOV"/>
-        <updated>2022-02-08T06:14:10.880Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtaOV">현 시대의 2030 이대로 괜찮을까요? (청년고독사)</a>]]></content>
+        <title type="html"><![CDATA[이재명의 민주당 선긋기 -(1) 역대 가장 높은 임기말 지지율을 가진 대통령 문재인?]]></title>
+        <id>https://alook.so/posts/1RtyMm</id>
+        <link href="https://alook.so/posts/1RtyMm"/>
+        <updated>2022-02-08T07:10:30.754Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtyMm">이재명의 민주당 선긋기 -(1) 역대 가장 높은 임기말 지지율을 가진 대통령 문재인?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무기력함의 굴레에서: <나는 왜 무기력을 되풀이하는가>를 읽고]]></title>
-        <id>https://alook.so/posts/8Wte71</id>
-        <link href="https://alook.so/posts/8Wte71"/>
-        <updated>2022-02-08T06:14:10.881Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wte71">무기력함의 굴레에서: &lt;나는 왜 무기력을 되풀이하는가&gt;를 읽고</a>]]></content>
+        <title type="html"><![CDATA[감독없는 대표팀은 상상도 못함]]></title>
+        <id>https://alook.so/posts/jdtZ5k</id>
+        <link href="https://alook.so/posts/jdtZ5k"/>
+        <updated>2022-02-08T07:10:30.757Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtZ5k">감독없는 대표팀은 상상도 못함</a>]]></content>
     </entry>
 </feed>
