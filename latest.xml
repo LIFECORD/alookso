@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-09T12:18:40.547Z</updated>
+    <updated>2022-02-09T13:16:43.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[복근]]></title>
-        <id>https://alook.so/posts/xltEMJ</id>
-        <link href="https://alook.so/posts/xltEMJ"/>
-        <updated>2022-02-09T12:16:46.493Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltEMJ">복근</a>]]></content>
+        <title type="html"><![CDATA[돈의 의미]]></title>
+        <id>https://alook.so/posts/E7tOj1</id>
+        <link href="https://alook.so/posts/E7tOj1"/>
+        <updated>2022-02-09T13:14:45.479Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tOj1">돈의 의미</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['나라를 구한 인터뷰' 보시고 결정에 도움이 되시길.......]]></title>
-        <id>https://alook.so/posts/RGtz51</id>
-        <link href="https://alook.so/posts/RGtz51"/>
-        <updated>2022-02-09T12:16:46.493Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtz51">'나라를 구한 인터뷰' 보시고 결정에 도움이 되시길.......</a>]]></content>
+        <title type="html"><![CDATA[여러분들의 첫사랑 이야기를 들려주세요]]></title>
+        <id>https://alook.so/posts/latD3j</id>
+        <link href="https://alook.so/posts/latD3j"/>
+        <updated>2022-02-09T13:14:45.479Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latD3j">여러분들의 첫사랑 이야기를 들려주세요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자가검사키트, 마스크논란과 닮았다!]]></title>
-        <id>https://alook.so/posts/kZt8Pq</id>
-        <link href="https://alook.so/posts/kZt8Pq"/>
-        <updated>2022-02-09T12:16:46.494Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt8Pq">자가검사키트, 마스크논란과 닮았다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 화는 어디서 부터 시작된걸까?]]></title>
-        <id>https://alook.so/posts/BatmWb</id>
-        <link href="https://alook.so/posts/BatmWb"/>
-        <updated>2022-02-09T12:16:46.496Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatmWb">이 화는 어디서 부터 시작된걸까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[억만장자가 고향 마을을 불도저로 밀어버린 이유.]]></title>
-        <id>https://alook.so/posts/njt4vJ</id>
-        <link href="https://alook.so/posts/njt4vJ"/>
-        <updated>2022-02-09T12:16:46.497Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt4vJ">억만장자가 고향 마을을 불도저로 밀어버린 이유.</a>]]></content>
+        <title type="html"><![CDATA[걱정있니?]]></title>
+        <id>https://alook.so/posts/1RtyGp</id>
+        <link href="https://alook.so/posts/1RtyGp"/>
+        <updated>2022-02-09T13:14:45.481Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtyGp">걱정있니?</a>]]></content>
     </entry>
 </feed>
