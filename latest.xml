@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-09T02:38:45.129Z</updated>
+    <updated>2022-02-09T03:12:30.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[확진자의 3일, 발달장애인의 180일]]></title>
-        <id>https://alook.so/posts/njt4yV</id>
-        <link href="https://alook.so/posts/njt4yV"/>
-        <updated>2022-02-09T02:36:52.252Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt4yV">확진자의 3일, 발달장애인의 180일</a>]]></content>
+        <title type="html"><![CDATA[죄송합니다.]]></title>
+        <id>https://alook.so/posts/eVtZy9</id>
+        <link href="https://alook.so/posts/eVtZy9"/>
+        <updated>2022-02-09T03:10:32.229Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtZy9">죄송합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미얀마 쿠데타 1년, 침묵으로 절규한 시민들]]></title>
-        <id>https://alook.so/posts/E7tOVW</id>
-        <link href="https://alook.so/posts/E7tOVW"/>
-        <updated>2022-02-09T02:36:52.256Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tOVW">미얀마 쿠데타 1년, 침묵으로 절규한 시민들</a>]]></content>
+        <title type="html"><![CDATA[햄버거 속에 민달팽이가 있다면 먹어야하나 말아야 하나?]]></title>
+        <id>https://alook.so/posts/PvtX7R</id>
+        <link href="https://alook.so/posts/PvtX7R"/>
+        <updated>2022-02-09T03:10:32.235Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtX7R">햄버거 속에 민달팽이가 있다면 먹어야하나 말아야 하나?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[수국을 바라보며]]></title>
-        <id>https://alook.so/posts/Kmt3a2</id>
-        <link href="https://alook.so/posts/Kmt3a2"/>
-        <updated>2022-02-09T02:36:52.257Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3a2">수국을 바라보며</a>]]></content>
+        <title type="html"><![CDATA[다행이다]]></title>
+        <id>https://alook.so/posts/VntYRB</id>
+        <link href="https://alook.so/posts/VntYRB"/>
+        <updated>2022-02-09T03:10:32.237Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntYRB">다행이다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3월부터 교사가 역학조사한다]]></title>
+        <id>https://alook.so/posts/0kt0Db</id>
+        <link href="https://alook.so/posts/0kt0Db"/>
+        <updated>2022-02-09T03:10:32.239Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt0Db">3월부터 교사가 역학조사한다</a>]]></content>
     </entry>
 </feed>
