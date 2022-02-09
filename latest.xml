@@ -2,28 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-09T10:13:09.410Z</updated>
+    <updated>2022-02-09T11:11:07.187Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[자율주행 자동차와 AI]]></title>
-        <id>https://alook.so/posts/RGtz41</id>
-        <link href="https://alook.so/posts/RGtz41"/>
-        <updated>2022-02-09T10:11:09.392Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtz41">자율주행 자동차와 AI</a>]]></content>
+        <title type="html"><![CDATA[[에이레네의 교육 여행] 교육의 의미]]></title>
+        <id>https://alook.so/posts/DjtmbX</id>
+        <link href="https://alook.so/posts/DjtmbX"/>
+        <updated>2022-02-09T11:09:10.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtmbX">[에이레네의 교육 여행] 교육의 의미</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음만은 이미 몸짱!!]]></title>
-        <id>https://alook.so/posts/yEtwqE</id>
-        <link href="https://alook.so/posts/yEtwqE"/>
-        <updated>2022-02-09T10:11:09.392Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtwqE">마음만은 이미 몸짱!!</a>]]></content>
+        <title type="html"><![CDATA[요즘 사람들은]]></title>
+        <id>https://alook.so/posts/1Rtyep</id>
+        <link href="https://alook.so/posts/1Rtyep"/>
+        <updated>2022-02-09T11:09:10.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtyep">요즘 사람들은</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주식의 기본 양봉,음봉,고가,저가를 알아보자]]></title>
-        <id>https://alook.so/posts/LKtEeD</id>
-        <link href="https://alook.so/posts/LKtEeD"/>
-        <updated>2022-02-09T10:11:09.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtEeD">주식의 기본 양봉,음봉,고가,저가를 알아보자</a>]]></content>
+        <title type="html"><![CDATA[자기계발 과정에서 가장 어려운 것은 무엇일까요??]]></title>
+        <id>https://alook.so/posts/o7tZG4</id>
+        <link href="https://alook.so/posts/o7tZG4"/>
+        <updated>2022-02-09T11:09:10.765Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZG4">자기계발 과정에서 가장 어려운 것은 무엇일까요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공감합니다.]]></title>
+        <id>https://alook.so/posts/70tBOp</id>
+        <link href="https://alook.so/posts/70tBOp"/>
+        <updated>2022-02-09T11:09:10.768Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tBOp">공감합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: "스타워즈"로 보는 "세대 순환론"]]></title>
+        <id>https://alook.so/posts/Yyt8WV</id>
+        <link href="https://alook.so/posts/Yyt8WV"/>
+        <updated>2022-02-09T11:09:10.768Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt8WV">답글: "스타워즈"로 보는 "세대 순환론"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑과 이별 사이의 감정]]></title>
+        <id>https://alook.so/posts/rDtx3G</id>
+        <link href="https://alook.so/posts/rDtx3G"/>
+        <updated>2022-02-09T11:09:10.771Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtx3G">사랑과 이별 사이의 감정</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진심으로 축하드립니다.]]></title>
+        <id>https://alook.so/posts/bWt5YJ</id>
+        <link href="https://alook.so/posts/bWt5YJ"/>
+        <updated>2022-02-09T11:09:10.772Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5YJ">진심으로 축하드립니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주저 앉고 싶었을때...]]></title>
+        <id>https://alook.so/posts/a0tO1O</id>
+        <link href="https://alook.so/posts/a0tO1O"/>
+        <updated>2022-02-09T11:09:10.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tO1O">주저 앉고 싶었을때...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일단 한번 시도하는게 중요합니다.]]></title>
+        <id>https://alook.so/posts/Zktkez</id>
+        <link href="https://alook.so/posts/Zktkez"/>
+        <updated>2022-02-09T11:09:10.774Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktkez">일단 한번 시도하는게 중요합니다.</a>]]></content>
     </entry>
 </feed>
