@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-09T17:15:59.379Z</updated>
+    <updated>2022-02-09T18:15:19.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[눈물 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/latDdO</id>
+        <link href="https://alook.so/posts/latDdO"/>
+        <updated>2022-02-09T18:12:23.858Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latDdO">눈물</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[운동을 하는 상상만으로도 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/q1t2ky</id>
@@ -31,27 +38,6 @@
         <link href="https://alook.so/posts/o7tZD8"/>
         <updated>2022-02-09T17:13:50.709Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZD8">이 또한 지나가리라.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해양생태계 파괴와 태풍 이상기온 변화는 도시 건설붐의 결과물이다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70tBKR</id>
-        <link href="https://alook.so/posts/70tBKR"/>
-        <updated>2022-02-09T17:13:50.709Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tBKR">해양생태계 파괴와 태풍 이상기온 변화는 도시 건설붐의 결과물이다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안타까운 애비 마음 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/rDtxDd</id>
-        <link href="https://alook.so/posts/rDtxDd"/>
-        <updated>2022-02-09T17:13:50.710Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtxDd">안타까운 애비 마음</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT? 이게 뭐여 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/bWt5J6</id>
-        <link href="https://alook.so/posts/bWt5J6"/>
-        <updated>2022-02-09T16:14:52.572Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5J6">NFT? 이게 뭐여</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[놀랍게도, 여성가족부 쟁점은 생각보다 더 중요하다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -138,13 +124,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtyGp">걱정있니?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🧭빅테크와 반독점법: 리나 칸의 문제의식을 따라가면 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/2xtlZ9</id>
-        <link href="https://alook.so/posts/2xtlZ9"/>
-        <updated>2022-02-09T17:14:00.686Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlZ9">🧭빅테크와 반독점법: 리나 칸의 문제의식을 따라가면</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인생이 힘들고 포기하고 싶을 때. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/4Xtqqq</id>
         <link href="https://alook.so/posts/4Xtqqq"/>
@@ -152,11 +131,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtqqq">인생이 힘들고 포기하고 싶을 때.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에 쉬어가는 코너 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/OEtBP1</id>
-        <link href="https://alook.so/posts/OEtBP1"/>
-        <updated>2022-02-09T17:14:00.689Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtBP1">얼룩소에 쉬어가는 코너</a>]]></content>
+        <title type="html"><![CDATA[🧭빅테크와 반독점법: 리나 칸의 문제의식을 따라가면 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/2xtlZ9</id>
+        <link href="https://alook.so/posts/2xtlZ9"/>
+        <updated>2022-02-09T17:14:00.686Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlZ9">🧭빅테크와 반독점법: 리나 칸의 문제의식을 따라가면</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뒤늦은 청년내일채움공제 해지 통보, 무슨 일이 있었나? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -171,6 +150,13 @@
         <link href="https://alook.so/posts/o7tZb8"/>
         <updated>2022-02-09T16:15:01.536Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZb8">[데일리 알벗] 다양한 독자층을 확보한 뉴스 매체가 더 좋은 매체일까? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에 쉬어가는 코너 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/OEtBP1</id>
+        <link href="https://alook.so/posts/OEtBP1"/>
+        <updated>2022-02-09T17:14:00.689Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtBP1">얼룩소에 쉬어가는 코너</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: "스타워즈"로 보는 "세대 순환론" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
