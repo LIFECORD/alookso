@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-09T04:15:27.924Z</updated>
+    <updated>2022-02-09T05:12:05.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[내주변에  주린이들이  몇명인가요??]]></title>
-        <id>https://alook.so/posts/zvtWvo</id>
-        <link href="https://alook.so/posts/zvtWvo"/>
-        <updated>2022-02-09T04:13:32.088Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtWvo">내주변에  주린이들이  몇명인가요??</a>]]></content>
+        <title type="html"><![CDATA[실효성 낮은 ‘가정폭력 임시조치’... GPS 추적이 답일까]]></title>
+        <id>https://alook.so/posts/70tBMJ</id>
+        <link href="https://alook.so/posts/70tBMJ"/>
+        <updated>2022-02-09T05:10:09.620Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tBMJ">실효성 낮은 ‘가정폭력 임시조치’... GPS 추적이 답일까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이의 영어 공부, 나의 영어 실력]]></title>
-        <id>https://alook.so/posts/w9tw8P</id>
-        <link href="https://alook.so/posts/w9tw8P"/>
-        <updated>2022-02-09T04:13:32.090Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tw8P">아이의 영어 공부, 나의 영어 실력</a>]]></content>
+        <title type="html"><![CDATA[배달플랫폼, 요금제 개편... 자영업자·소비자 부담 가중되나]]></title>
+        <id>https://alook.so/posts/rDtxjY</id>
+        <link href="https://alook.so/posts/rDtxjY"/>
+        <updated>2022-02-09T05:10:09.621Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtxjY">배달플랫폼, 요금제 개편... 자영업자·소비자 부담 가중되나</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이를 싫어하면 왜 보육교사를 하는건가요?]]></title>
+        <id>https://alook.so/posts/92tPWn</id>
+        <link href="https://alook.so/posts/92tPWn"/>
+        <updated>2022-02-09T05:10:09.621Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tPWn">아이를 싫어하면 왜 보육교사를 하는건가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[편견이 생기는 이유.]]></title>
+        <id>https://alook.so/posts/Kmt3M2</id>
+        <link href="https://alook.so/posts/Kmt3M2"/>
+        <updated>2022-02-09T05:10:09.621Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3M2">편견이 생기는 이유. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우와... 정말 멋진 그림이에요.]]></title>
+        <id>https://alook.so/posts/mbtMkP</id>
+        <link href="https://alook.so/posts/mbtMkP"/>
+        <updated>2022-02-09T05:10:09.623Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtMkP">우와... 정말 멋진 그림이에요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회에서도 통용되는 요즘 군대 명언들 TOP 5]]></title>
+        <id>https://alook.so/posts/54tbd4</id>
+        <link href="https://alook.so/posts/54tbd4"/>
+        <updated>2022-02-09T05:10:09.624Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tbd4">사회에서도 통용되는 요즘 군대 명언들 TOP 5</a>]]></content>
     </entry>
 </feed>
