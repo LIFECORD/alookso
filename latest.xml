@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-08T23:13:49.988Z</updated>
+    <updated>2022-02-09T00:43:18.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[함께라는 힘]]></title>
-        <id>https://alook.so/posts/jdtZGv</id>
-        <link href="https://alook.so/posts/jdtZGv"/>
-        <updated>2022-02-08T23:11:40.564Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtZGv">함께라는 힘</a>]]></content>
+        <title type="html"><![CDATA[코로나로 인한 점심문화의 변화?]]></title>
+        <id>https://alook.so/posts/XBtPkp</id>
+        <link href="https://alook.so/posts/XBtPkp"/>
+        <updated>2022-02-09T00:41:22.362Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtPkp">코로나로 인한 점심문화의 변화?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저두 커피를 줄이고 있어요]]></title>
-        <id>https://alook.so/posts/dzt86V</id>
-        <link href="https://alook.so/posts/dzt86V"/>
-        <updated>2022-02-08T23:11:40.567Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt86V">저두 커피를 줄이고 있어요</a>]]></content>
+        <title type="html"><![CDATA[힘든 시간을 보내고 있을 그대에게……]]></title>
+        <id>https://alook.so/posts/w9tw9R</id>
+        <link href="https://alook.so/posts/w9tw9R"/>
+        <updated>2022-02-09T00:41:22.368Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tw9R">힘든 시간을 보내고 있을 그대에게……</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[커피를 끊었을때 생기는 이득 5]]></title>
-        <id>https://alook.so/posts/potXxR</id>
-        <link href="https://alook.so/posts/potXxR"/>
-        <updated>2022-02-08T22:10:09.637Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potXxR">커피를 끊었을때 생기는 이득 5</a>]]></content>
+        <title type="html"><![CDATA[세상은 불공평하다.]]></title>
+        <id>https://alook.so/posts/xltE7B</id>
+        <link href="https://alook.so/posts/xltE7B"/>
+        <updated>2022-02-09T00:41:22.369Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltE7B">세상은 불공평하다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[산다는것과 살아내야하는것]]></title>
+        <id>https://alook.so/posts/kZt8V1</id>
+        <link href="https://alook.so/posts/kZt8V1"/>
+        <updated>2022-02-09T00:41:22.372Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt8V1">산다는것과 살아내야하는것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대선 후보를 고르는 법 - 삶이라는 숙제를 풀어가며]]></title>
+        <id>https://alook.so/posts/Batmvk</id>
+        <link href="https://alook.so/posts/Batmvk"/>
+        <updated>2022-02-09T00:41:22.373Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batmvk"> 대선 후보를 고르는 법 - 삶이라는 숙제를 풀어가며 </a>]]></content>
     </entry>
 </feed>
