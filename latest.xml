@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-10T07:12:17.508Z</updated>
+    <updated>2022-02-10T08:14:28.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[몸과 마음의 진정한 내용은 무엇일까.]]></title>
-        <id>https://alook.so/posts/mbtM6d</id>
-        <link href="https://alook.so/posts/mbtM6d"/>
-        <updated>2022-02-10T07:10:23.297Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtM6d">몸과 마음의 진정한 내용은 무엇일까.</a>]]></content>
+        <title type="html"><![CDATA[군복무 단축 또 한다고 ? 군대를 없애라]]></title>
+        <id>https://alook.so/posts/0kt0bK</id>
+        <link href="https://alook.so/posts/0kt0bK"/>
+        <updated>2022-02-10T08:12:32.403Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt0bK">군복무 단축 또 한다고 ? 군대를 없애라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["요즘 울적하세요?" 대화로 노인 건강 관리하는 로봇 나온다]]></title>
-        <id>https://alook.so/posts/q1t2jK</id>
-        <link href="https://alook.so/posts/q1t2jK"/>
-        <updated>2022-02-10T07:10:23.298Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t2jK">"요즘 울적하세요?" 대화로 노인 건강 관리하는 로봇 나온다</a>]]></content>
+        <title type="html"><![CDATA[긴 글이라고 좋은 건 아닙니다]]></title>
+        <id>https://alook.so/posts/M9tdRX</id>
+        <link href="https://alook.so/posts/M9tdRX"/>
+        <updated>2022-02-10T08:12:32.404Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tdRX">긴 글이라고 좋은 건 아닙니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아동·청소년 성폭력 피해자 영상녹화진술 위헌... 대안 모색 필요]]></title>
-        <id>https://alook.so/posts/o7tZ4d</id>
-        <link href="https://alook.so/posts/o7tZ4d"/>
-        <updated>2022-02-10T07:10:23.298Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZ4d">아동·청소년 성폭력 피해자 영상녹화진술 위헌... 대안 모색 필요</a>]]></content>
+        <title type="html"><![CDATA[카카오 주가에 변화가 있을까요?]]></title>
+        <id>https://alook.so/posts/XBtPJd</id>
+        <link href="https://alook.so/posts/XBtPJd"/>
+        <updated>2022-02-10T08:12:32.404Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtPJd">카카오 주가에 변화가 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[긍정이와 민낯이]]></title>
+        <id>https://alook.so/posts/w9twVa</id>
+        <link href="https://alook.so/posts/w9twVa"/>
+        <updated>2022-02-10T08:12:32.405Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9twVa">긍정이와 민낯이</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 진심이 담긴 글이 최고의 글]]></title>
+        <id>https://alook.so/posts/RGtz60</id>
+        <link href="https://alook.so/posts/RGtz60"/>
+        <updated>2022-02-10T08:12:32.408Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtz60">답글: 진심이 담긴 글이 최고의 글</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차준환, 올림픽 톱5 진입 성공!]]></title>
+        <id>https://alook.so/posts/yEtweK</id>
+        <link href="https://alook.so/posts/yEtweK"/>
+        <updated>2022-02-10T08:12:32.409Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtweK">차준환, 올림픽 톱5 진입 성공!</a>]]></content>
     </entry>
 </feed>
