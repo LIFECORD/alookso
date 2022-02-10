@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-10T06:14:25.497Z</updated>
+    <updated>2022-02-10T07:12:17.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[IMF 전세계 집값 경고~!!]]></title>
-        <id>https://alook.so/posts/bWt5rE</id>
-        <link href="https://alook.so/posts/bWt5rE"/>
-        <updated>2022-02-10T06:12:30.856Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5rE">IMF 전세계 집값 경고~!!</a>]]></content>
+        <title type="html"><![CDATA[몸과 마음의 진정한 내용은 무엇일까.]]></title>
+        <id>https://alook.so/posts/mbtM6d</id>
+        <link href="https://alook.so/posts/mbtM6d"/>
+        <updated>2022-02-10T07:10:23.297Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtM6d">몸과 마음의 진정한 내용은 무엇일까.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자율주행차가 정해진 노선을 택시처럼 운행한다고?]]></title>
-        <id>https://alook.so/posts/J5tEdp</id>
-        <link href="https://alook.so/posts/J5tEdp"/>
-        <updated>2022-02-10T06:12:30.857Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEdp">자율주행차가 정해진 노선을 택시처럼 운행한다고?</a>]]></content>
+        <title type="html"><![CDATA["요즘 울적하세요?" 대화로 노인 건강 관리하는 로봇 나온다]]></title>
+        <id>https://alook.so/posts/q1t2jK</id>
+        <link href="https://alook.so/posts/q1t2jK"/>
+        <updated>2022-02-10T07:10:23.298Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t2jK">"요즘 울적하세요?" 대화로 노인 건강 관리하는 로봇 나온다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중국~]]></title>
-        <id>https://alook.so/posts/potXOx</id>
-        <link href="https://alook.so/posts/potXOx"/>
-        <updated>2022-02-10T06:12:30.858Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potXOx">중국~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국의 미래는 어떨까? 저출산, 고령화, 청년 실업, 청년 간병, 건강 보험 고갈, 국민 연금 고갈]]></title>
-        <id>https://alook.so/posts/zvtW86</id>
-        <link href="https://alook.so/posts/zvtW86"/>
-        <updated>2022-02-10T06:12:30.859Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtW86">대한민국의 미래는 어떨까? 저출산, 고령화, 청년 실업, 청년 간병, 건강 보험 고갈, 국민 연금 고갈 </a>]]></content>
+        <title type="html"><![CDATA[아동·청소년 성폭력 피해자 영상녹화진술 위헌... 대안 모색 필요]]></title>
+        <id>https://alook.so/posts/o7tZ4d</id>
+        <link href="https://alook.so/posts/o7tZ4d"/>
+        <updated>2022-02-10T07:10:23.298Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZ4d">아동·청소년 성폭력 피해자 영상녹화진술 위헌... 대안 모색 필요</a>]]></content>
     </entry>
 </feed>
