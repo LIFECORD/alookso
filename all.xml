@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-11T06:15:53.173Z</updated>
+    <updated>2022-02-11T07:11:56.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[먹고합시다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/WLtpl3</id>
-        <link href="https://alook.so/posts/WLtpl3"/>
-        <updated>2022-02-11T06:13:42.533Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtpl3">먹고합시다</a>]]></content>
+        <title type="html"><![CDATA[처음은 왜 어렵나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/92tPwJ</id>
+        <link href="https://alook.so/posts/92tPwJ"/>
+        <updated>2022-02-11T07:10:01.180Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tPwJ">처음은 왜 어렵나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[꽃을 피울 당신의 이름을 부르다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/0kt0XO</id>
-        <link href="https://alook.so/posts/0kt0XO"/>
-        <updated>2022-02-11T06:13:42.534Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt0XO">꽃을 피울 당신의 이름을 부르다.</a>]]></content>
+        <title type="html"><![CDATA[개미지옥 환영합니다! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/mbtM0E</id>
+        <link href="https://alook.so/posts/mbtM0E"/>
+        <updated>2022-02-11T07:10:01.181Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtM0E">개미지옥 환영합니다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아동센터, 통학버스 운행 포기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/4XtqY7</id>
-        <link href="https://alook.so/posts/4XtqY7"/>
-        <updated>2022-02-11T06:13:42.825Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtqY7">아동센터, 통학버스 운행 포기 </a>]]></content>
+        <title type="html"><![CDATA[공적인 세상 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/54tbYk</id>
+        <link href="https://alook.so/posts/54tbYk"/>
+        <updated>2022-02-11T07:10:01.182Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tbYk">공적인 세상</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한심한 나 자신, 무기력이 찾아온다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/XBtP5z</id>
-        <link href="https://alook.so/posts/XBtP5z"/>
-        <updated>2022-02-11T06:13:42.827Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtP5z">한심한 나 자신, 무기력이 찾아온다.</a>]]></content>
+        <title type="html"><![CDATA[스며드는 것(간장게장 시)의 반전 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/q1t2OG</id>
+        <link href="https://alook.so/posts/q1t2OG"/>
+        <updated>2022-02-11T07:10:01.184Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t2OG">스며드는 것(간장게장 시)의 반전</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배달비에 관한 생각 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/DjtmjE</id>
+        <link href="https://alook.so/posts/DjtmjE"/>
+        <updated>2022-02-11T07:10:01.185Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtmjE">배달비에 관한 생각</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너도 나도 누구든 누군가를 가르칠 수 있는 시대 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tZPz</id>
+        <link href="https://alook.so/posts/o7tZPz"/>
+        <updated>2022-02-11T07:10:01.186Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZPz">너도 나도 누구든 누군가를 가르칠 수 있는 시대</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 디지털 노마드를 다시 이해하게 되네요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -47,11 +61,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt5e1">우리의 바다는 시간이 없다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대선서베이] 다시, 북한 문제는 보수의 운동장이다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <title type="html"><![CDATA[다시, 북한 문제는 보수의 운동장이다 [대선서베이] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/xltELX</id>
         <link href="https://alook.so/posts/xltELX"/>
         <updated>2022-02-11T01:58:09.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltELX">[대선서베이] 다시, 북한 문제는 보수의 운동장이다</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltELX">다시, 북한 문제는 보수의 운동장이다 [대선서베이]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[졸업을 축하해 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -96,11 +110,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latDbB">글은 길고 어려워야 제 맛일까? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대선서베이] ‘친(親) 진보 – 비(非) 이재명’ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <title type="html"><![CDATA[인스타 스토리 사용하시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Kmt3Z0</id>
+        <link href="https://alook.so/posts/Kmt3Z0"/>
+        <updated>2022-02-11T03:10:52.270Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3Z0">인스타 스토리 사용하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘친(親) 진보 – 비(非) 이재명’ [대선서베이] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/WLtp3O</id>
         <link href="https://alook.so/posts/WLtp3O"/>
         <updated>2022-02-10T06:12:45.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtp3O">[대선서베이] ‘친(親) 진보 – 비(非) 이재명’</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtp3O">‘친(親) 진보 – 비(非) 이재명’ [대선서베이] </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 글은 '길이'보다는 '무게' (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -110,11 +131,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tPvV">답글: 글은 '길이'보다는 '무게'</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인스타 스토리 사용하시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Kmt3Z0</id>
-        <link href="https://alook.so/posts/Kmt3Z0"/>
-        <updated>2022-02-11T03:10:52.270Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt3Z0">인스타 스토리 사용하시나요?</a>]]></content>
+        <title type="html"><![CDATA[[alookzip] 동계올림픽, 민주주의, 대출 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/kZt8YO</id>
+        <link href="https://alook.so/posts/kZt8YO"/>
+        <updated>2022-02-11T01:59:18.373Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt8YO">[alookzip] 동계올림픽, 민주주의, 대출</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가설에 관한 지극히 개인적인 경험 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -159,46 +180,39 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tOrx">오미크론 확산기에 예측 모형이란</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[alookzip] 동계올림픽, 민주주의, 대출 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/kZt8YO</id>
-        <link href="https://alook.so/posts/kZt8YO"/>
-        <updated>2022-02-11T01:59:18.373Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt8YO">[alookzip] 동계올림픽, 민주주의, 대출</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대선서베이] 다시, 북한 문제는 보수의 운동장이다 (alookso ─ alookso)]]></title>
+        <title type="html"><![CDATA[다시, 북한 문제는 보수의 운동장이다 [대선서베이] (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/xltELX</id>
         <link href="https://alook.so/posts/xltELX"/>
         <updated>2022-02-11T01:58:09.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltELX">[대선서베이] 다시, 북한 문제는 보수의 운동장이다</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltELX">다시, 북한 문제는 보수의 운동장이다 [대선서베이]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대선서베이] ‘친(親) 진보 – 비(非) 이재명’ (alookso ─ alookso)]]></title>
+        <title type="html"><![CDATA[‘친(親) 진보 – 비(非) 이재명’ [대선서베이] (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/WLtp3O</id>
         <link href="https://alook.so/posts/WLtp3O"/>
         <updated>2022-02-10T06:12:45.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtp3O">[대선서베이] ‘친(親) 진보 – 비(非) 이재명’</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtp3O">‘친(親) 진보 – 비(非) 이재명’ [대선서베이] </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대선서베이] 안철수 지지층은 결국 윤석열을 찍을까 (alookso ─ alookso)]]></title>
+        <title type="html"><![CDATA[안철수 지지층은 결국 윤석열을 찍을까 [대선서베이] (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/RGtzvX</id>
         <link href="https://alook.so/posts/RGtzvX"/>
         <updated>2022-02-10T01:54:28.241Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtzvX">[대선서베이] 안철수 지지층은 결국 윤석열을 찍을까</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtzvX">안철수 지지층은 결국 윤석열을 찍을까 [대선서베이] </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대선서베이] 놀랍게도, 여성가족부 쟁점은 생각보다 더 중요하다 (alookso ─ alookso)]]></title>
+        <title type="html"><![CDATA[놀랍게도, 여성가족부 쟁점은 생각보다 더 중요하다 [대선서베이] (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/1Rtyar</id>
         <link href="https://alook.so/posts/1Rtyar"/>
         <updated>2022-02-09T06:12:58.720Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtyar">[대선서베이] 놀랍게도, 여성가족부 쟁점은 생각보다 더 중요하다</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtyar">놀랍게도, 여성가족부 쟁점은 생각보다 더 중요하다 [대선서베이] </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대선서베이] 젊을수록 진보이던 시대는 끝났다 (alookso ─ alookso)]]></title>
+        <title type="html"><![CDATA[젊을수록 진보이던 시대는 끝났다 [대선서베이] (alookso ─ alookso)]]></title>
         <id>https://alook.so/posts/J5tEpo</id>
         <link href="https://alook.so/posts/J5tEpo"/>
         <updated>2022-02-09T02:00:56.592Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEpo">[대선서베이] 젊을수록 진보이던 시대는 끝났다</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEpo">젊을수록 진보이던 시대는 끝났다 [대선서베이] </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[큐레이션 글쓰기 사용설명서 (alookso ─ alookso)]]></title>
