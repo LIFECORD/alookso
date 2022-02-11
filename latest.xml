@@ -2,63 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-10T23:13:09.371Z</updated>
+    <updated>2022-02-11T00:43:51.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[가설에 관한 지극히 개인적인 경험]]></title>
-        <id>https://alook.so/posts/1RtyV3</id>
-        <link href="https://alook.so/posts/1RtyV3"/>
-        <updated>2022-02-10T23:11:07.288Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtyV3">가설에 관한 지극히 개인적인 경험 </a>]]></content>
+        <title type="html"><![CDATA[모두를 위한 기본소득]]></title>
+        <id>https://alook.so/posts/G1tDL7</id>
+        <link href="https://alook.so/posts/G1tDL7"/>
+        <updated>2022-02-11T00:41:57.109Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tDL7">모두를 위한 기본소득</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 생애 첫 캘리그라피 공모전 입선 수상 ^^]]></title>
-        <id>https://alook.so/posts/70tBjM</id>
-        <link href="https://alook.so/posts/70tBjM"/>
-        <updated>2022-02-10T23:11:07.289Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tBjM">내 생애 첫 캘리그라피 공모전 입선 수상 ^^</a>]]></content>
+        <title type="html"><![CDATA[진심으로 축하드립니다.]]></title>
+        <id>https://alook.so/posts/OEtBdx</id>
+        <link href="https://alook.so/posts/OEtBdx"/>
+        <updated>2022-02-11T00:41:57.110Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtBdx">진심으로 축하드립니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음 챙김? 혹은 몸 챙김?]]></title>
-        <id>https://alook.so/posts/Yyt8MB</id>
-        <link href="https://alook.so/posts/Yyt8MB"/>
-        <updated>2022-02-10T23:11:07.290Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt8MB">마음 챙김? 혹은 몸 챙김?</a>]]></content>
+        <title type="html"><![CDATA[소상공인 방역지원금 1000만원 형평성 논란?]]></title>
+        <id>https://alook.so/posts/vKtKle</id>
+        <link href="https://alook.so/posts/vKtKle"/>
+        <updated>2022-02-11T00:41:57.111Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtKle">소상공인 방역지원금 1000만원 형평성 논란?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트폰과 떨어져서 하는 생활]]></title>
-        <id>https://alook.so/posts/jdtZ2P</id>
-        <link href="https://alook.so/posts/jdtZ2P"/>
-        <updated>2022-02-10T23:11:07.291Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtZ2P">스마트폰과 떨어져서 하는 생활</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어쩌면 기술보다는 사람의 문제]]></title>
-        <id>https://alook.so/posts/bWt58l</id>
-        <link href="https://alook.so/posts/bWt58l"/>
-        <updated>2022-02-10T23:11:07.294Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt58l">어쩌면 기술보다는 사람의 문제</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이거는 어쩔 수 없는 일이 아닌가요?]]></title>
-        <id>https://alook.so/posts/Zktkon</id>
-        <link href="https://alook.so/posts/Zktkon"/>
-        <updated>2022-02-10T23:11:07.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktkon">이거는 어쩔 수 없는 일이 아닌가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['나'라는 친구]]></title>
-        <id>https://alook.so/posts/dzt8B4</id>
-        <link href="https://alook.so/posts/dzt8B4"/>
-        <updated>2022-02-10T23:11:07.296Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt8B4">'나'라는 친구</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카운터에서 김밥 먹는 알바생, 저만 역한가요?]]></title>
-        <id>https://alook.so/posts/J5tEGM</id>
-        <link href="https://alook.so/posts/J5tEGM"/>
-        <updated>2022-02-10T23:11:07.298Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tEGM">카운터에서 김밥 먹는 알바생, 저만 역한가요?</a>]]></content>
+        <title type="html"><![CDATA[카운터에서 먹는 것은 근무자 잘못이 맞습니다. 하지만..]]></title>
+        <id>https://alook.so/posts/latDak</id>
+        <link href="https://alook.so/posts/latDak"/>
+        <updated>2022-02-11T00:41:57.111Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latDak">카운터에서 먹는 것은 근무자 잘못이 맞습니다. 하지만..</a>]]></content>
     </entry>
 </feed>
