@@ -2,35 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-12T00:52:49.988Z</updated>
+    <updated>2022-02-12T02:02:03.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[기쁨의 눈물흘린   은메달리스트  최민정]]></title>
-        <id>https://alook.so/posts/Kmt38z</id>
-        <link href="https://alook.so/posts/Kmt38z"/>
-        <updated>2022-02-12T00:50:40.924Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt38z">기쁨의 눈물흘린   은메달리스트  최민정 </a>]]></content>
+        <title type="html"><![CDATA[싸이버 렉카들 문제많아요!!]]></title>
+        <id>https://alook.so/posts/G1tDjy</id>
+        <link href="https://alook.so/posts/G1tDjy"/>
+        <updated>2022-02-12T01:59:56.517Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tDjy">싸이버 렉카들 문제많아요!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴직을 앞두고...이런 상사가 되어주세요. 9]]></title>
-        <id>https://alook.so/posts/mbtM5v</id>
-        <link href="https://alook.so/posts/mbtM5v"/>
-        <updated>2022-02-12T00:50:40.925Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtM5v">퇴직을 앞두고...이런 상사가 되어주세요. 9</a>]]></content>
+        <title type="html"><![CDATA[드라마 작가 지원하는데 과제를 제출?]]></title>
+        <id>https://alook.so/posts/OEtBnO</id>
+        <link href="https://alook.so/posts/OEtBnO"/>
+        <updated>2022-02-12T01:59:56.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtBnO">드라마 작가 지원하는데 과제를 제출?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[작품 감상….]]></title>
-        <id>https://alook.so/posts/Djtmpw</id>
-        <link href="https://alook.so/posts/Djtmpw"/>
-        <updated>2022-02-12T00:50:40.925Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtmpw">작품 감상….</a>]]></content>
+        <title type="html"><![CDATA[기후위기와 분쟁의 관계]]></title>
+        <id>https://alook.so/posts/E7tOx9</id>
+        <link href="https://alook.so/posts/E7tOx9"/>
+        <updated>2022-02-12T01:59:56.522Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tOx9">기후위기와 분쟁의 관계</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부의 추월차선이라는 책을 읽고...]]></title>
-        <id>https://alook.so/posts/o7tZz2</id>
-        <link href="https://alook.so/posts/o7tZz2"/>
-        <updated>2022-02-12T00:50:40.928Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tZz2">부의 추월차선이라는 책을 읽고...</a>]]></content>
+        <title type="html"><![CDATA[임시조치는 가벼운 처벌일 뿐]]></title>
+        <id>https://alook.so/posts/92tPa1</id>
+        <link href="https://alook.so/posts/92tPa1"/>
+        <updated>2022-02-12T01:59:56.524Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tPa1">임시조치는 가벼운 처벌일 뿐</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신속 항원 검사]]></title>
+        <id>https://alook.so/posts/Kmt384</id>
+        <link href="https://alook.so/posts/Kmt384"/>
+        <updated>2022-02-12T01:59:56.525Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt384">신속 항원 검사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[160억 사기 사건이면 엄청난데]]></title>
+        <id>https://alook.so/posts/mbtM55</id>
+        <link href="https://alook.so/posts/mbtM55"/>
+        <updated>2022-02-12T01:59:56.526Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtM55">160억 사기 사건이면 엄청난데</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주식 차트분석 이것만 알아도 반은 먹고들어간다(박스권매매)]]></title>
+        <id>https://alook.so/posts/54tb7y</id>
+        <link href="https://alook.so/posts/54tb7y"/>
+        <updated>2022-02-12T01:59:56.528Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tb7y">주식 차트분석 이것만 알아도 반은 먹고들어간다(박스권매매)</a>]]></content>
     </entry>
 </feed>
