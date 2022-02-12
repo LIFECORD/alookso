@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-12T03:12:47.395Z</updated>
+    <updated>2022-02-12T04:15:43.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 포정해우(庖丁解牛)의 리더가 필요한데...]]></title>
+        <id>https://alook.so/posts/1RtyL6</id>
+        <link href="https://alook.so/posts/1RtyL6"/>
+        <updated>2022-02-12T04:13:45.240Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtyL6">답글: 포정해우(庖丁解牛)의 리더가 필요한데...</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["당첨 가망 없으니..." 청약통장 깨기 시작했다]]></title>
         <id>https://alook.so/posts/eVtZzy</id>
@@ -53,19 +60,5 @@
         <link href="https://alook.so/posts/bWt5K1"/>
         <updated>2022-02-12T02:38:28.061Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt5K1">딸 성추행한 동네 남학생이 잡혔는데 얼굴도 안알려줘요. 왜?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도도새의 법칙이 생긴 유래]]></title>
-        <id>https://alook.so/posts/2xtlkr</id>
-        <link href="https://alook.so/posts/2xtlkr"/>
-        <updated>2022-02-12T02:38:28.062Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtlkr">도도새의 법칙이 생긴 유래 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩커분들이 모두 공감할 수 있는 짤]]></title>
-        <id>https://alook.so/posts/M9td5W</id>
-        <link href="https://alook.so/posts/M9td5W"/>
-        <updated>2022-02-12T02:38:28.067Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9td5W">얼룩커분들이 모두 공감할 수 있는 짤</a>]]></content>
     </entry>
 </feed>
