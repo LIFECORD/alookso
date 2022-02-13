@@ -2,21 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-12T23:12:44.853Z</updated>
+    <updated>2022-02-13T00:46:35.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[시중에 돈이 많이  풀려 있다는데......]]></title>
-        <id>https://alook.so/posts/latXlv</id>
-        <link href="https://alook.so/posts/latXlv"/>
-        <updated>2022-02-12T23:10:39.223Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latXlv">시중에 돈이 많이  풀려 있다는데......</a>]]></content>
+        <title type="html"><![CDATA[민들레처럼]]></title>
+        <id>https://alook.so/posts/G1tG6M</id>
+        <link href="https://alook.so/posts/G1tG6M"/>
+        <updated>2022-02-13T00:44:27.793Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tG6M">민들레처럼</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음을 놓는 게 쉽지가 않다.]]></title>
-        <id>https://alook.so/posts/92t2J0</id>
-        <link href="https://alook.so/posts/92t2J0"/>
-        <updated>2022-02-12T23:10:39.225Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t2J0">마음을 놓는 게 쉽지가 않다.</a>]]></content>
+        <title type="html"><![CDATA[저는 어느 정도 적응이 되었지만]]></title>
+        <id>https://alook.so/posts/OEtoen</id>
+        <link href="https://alook.so/posts/OEtoen"/>
+        <updated>2022-02-13T00:44:27.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtoen">저는 어느 정도 적응이 되었지만</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최근에 얼룩소가 바뀐 것 같아요.]]></title>
+        <id>https://alook.so/posts/vKtXW2</id>
+        <link href="https://alook.so/posts/vKtXW2"/>
+        <updated>2022-02-13T00:44:27.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtXW2">최근에 얼룩소가 바뀐 것 같아요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저의 휴식 방법]]></title>
+        <id>https://alook.so/posts/E7tlYR</id>
+        <link href="https://alook.so/posts/E7tlYR"/>
+        <updated>2022-02-13T00:44:27.796Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tlYR">저의 휴식 방법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘이대남’밖의 ‘이대남’들이 행동에 나섰다]]></title>
+        <id>https://alook.so/posts/latXl2</id>
+        <link href="https://alook.so/posts/latXl2"/>
+        <updated>2022-02-13T00:44:27.797Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latXl2">‘이대남’밖의 ‘이대남’들이 행동에 나섰다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘도 코로나 확진자 5만명]]></title>
+        <id>https://alook.so/posts/KmtyX6</id>
+        <link href="https://alook.so/posts/KmtyX6"/>
+        <updated>2022-02-13T00:44:27.799Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtyX6">오늘도 코로나 확진자 5만명</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[앞으로 잘 부탁드립니다.]]></title>
+        <id>https://alook.so/posts/54tGz2</id>
+        <link href="https://alook.so/posts/54tGz2"/>
+        <updated>2022-02-13T00:44:27.800Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tGz2">앞으로 잘 부탁드립니다.</a>]]></content>
     </entry>
 </feed>
