@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-13T07:12:21.497Z</updated>
+    <updated>2022-02-13T08:14:20.840Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -34,18 +34,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtnkn">[늦은 아침 생각] 글의 무게와 길이, 그리고 진실과 사실</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상처 주는 말만 하는 사람]]></title>
-        <id>https://alook.so/posts/2xtwRK</id>
-        <link href="https://alook.so/posts/2xtwRK"/>
-        <updated>2022-02-13T05:09:32.428Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtwRK">상처 주는 말만 하는 사람</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[alookso [구독] 메뉴, 혹시 들어가보셨나요]]></title>
         <id>https://alook.so/posts/LKtkxK</id>
         <link href="https://alook.so/posts/LKtkxK"/>
         <updated>2022-02-13T02:29:57.418Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtkxK">alookso [구독] 메뉴, 혹시 들어가보셨나요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저는 어느 정도 적응이 되었지만]]></title>
+        <id>https://alook.so/posts/OEtoen</id>
+        <link href="https://alook.so/posts/OEtoen"/>
+        <updated>2022-02-13T08:12:32.773Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtoen">저는 어느 정도 적응이 되었지만</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘이대남’밖의 ‘이대남’들이 행동에 나섰다]]></title>
@@ -76,11 +76,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtyko">답글: 코로나19, 우리 사회에 위험한 질병일까? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현안님! 용서해주세요!!]]></title>
-        <id>https://alook.so/posts/6MtBeL</id>
-        <link href="https://alook.so/posts/6MtBeL"/>
-        <updated>2022-02-12T14:09:16.016Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtBeL">현안님! 용서해주세요!! </a>]]></content>
+        <title type="html"><![CDATA[러시아는 정말 전쟁을 원하는걸까?]]></title>
+        <id>https://alook.so/posts/latXOP</id>
+        <link href="https://alook.so/posts/latXOP"/>
+        <updated>2022-02-13T08:12:32.783Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latXOP">러시아는 정말 전쟁을 원하는걸까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[미꾸라지 잡기. 공론의 장에서 분탕질 맙시다. 좋은 말로 일단 합니다.]]></title>
