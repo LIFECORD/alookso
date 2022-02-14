@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-14T06:15:00.707Z</updated>
+    <updated>2022-02-14T07:13:02.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소 글쓰기 좋아요 댓글 구독자 많으면?]]></title>
-        <id>https://alook.so/posts/Vntp4v</id>
-        <link href="https://alook.so/posts/Vntp4v"/>
-        <updated>2022-02-14T06:13:00.581Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntp4v">얼룩소 글쓰기 좋아요 댓글 구독자 많으면?</a>]]></content>
+        <title type="html"><![CDATA[여행 과  인생길]]></title>
+        <id>https://alook.so/posts/3wt4pP</id>
+        <link href="https://alook.so/posts/3wt4pP"/>
+        <updated>2022-02-14T07:11:06.503Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt4pP">여행 과  인생길</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2번째 포인트 받았어요^^]]></title>
-        <id>https://alook.so/posts/zvt3wR</id>
-        <link href="https://alook.so/posts/zvt3wR"/>
-        <updated>2022-02-14T06:13:00.583Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt3wR">2번째 포인트 받았어요^^</a>]]></content>
+        <title type="html"><![CDATA[벌크업 식단]]></title>
+        <id>https://alook.so/posts/KmtylM</id>
+        <link href="https://alook.so/posts/KmtylM"/>
+        <updated>2022-02-14T07:11:06.504Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtylM">벌크업 식단</a>]]></content>
     </entry>
 </feed>
