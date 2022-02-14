@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-14T05:13:28.257Z</updated>
+    <updated>2022-02-14T06:15:00.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[설문과 면접조사는 조사방법을 잘 살펴 봐야]]></title>
+        <id>https://alook.so/posts/bWtJE9</id>
+        <link href="https://alook.so/posts/bWtJE9"/>
+        <updated>2022-02-14T06:13:08.359Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtJE9">설문과 면접조사는 조사방법을 잘 살펴 봐야</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스마트워치로 산소포화도측정기 대체 가능할까요?]]></title>
         <id>https://alook.so/posts/4XtLxL</id>
