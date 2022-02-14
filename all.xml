@@ -2,49 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-14T15:13:04.773Z</updated>
+    <updated>2022-02-14T16:16:27.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[영화 <메기(2019)>를 보고나서 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54tG5p</id>
-        <link href="https://alook.so/posts/54tG5p"/>
-        <updated>2022-02-14T15:10:59.311Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tG5p">영화 &lt;메기(2019)&gt;를 보고나서</a>]]></content>
+        <title type="html"><![CDATA[4차 부스터샷, 몇차가 마지막일까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/6MtByE</id>
+        <link href="https://alook.so/posts/6MtByE"/>
+        <updated>2022-02-14T16:14:24.672Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtByE">4차 부스터샷, 몇차가 마지막일까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[일론 머스크의 뉴럴링크와 동물 학대 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/1Rto1O</id>
-        <link href="https://alook.so/posts/1Rto1O"/>
-        <updated>2022-02-14T15:10:59.312Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rto1O">일론 머스크의 뉴럴링크와 동물 학대 </a>]]></content>
+        <title type="html"><![CDATA[안녕, 반가워. alookso :) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/8WtpmJ</id>
+        <link href="https://alook.so/posts/8WtpmJ"/>
+        <updated>2022-02-14T16:14:24.673Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtpmJ">안녕, 반가워. alookso :)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[헬퍼라고 하지만 그 속은 늑대 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/o7tD20</id>
-        <link href="https://alook.so/posts/o7tD20"/>
-        <updated>2022-02-14T15:10:59.326Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tD20">헬퍼라고 하지만 그 속은 늑대</a>]]></content>
+        <title type="html"><![CDATA[어디에나 있지만 볼 수 없는 고졸 노동자 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/OEto7X</id>
+        <link href="https://alook.so/posts/OEto7X"/>
+        <updated>2022-02-14T16:14:24.675Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEto7X">어디에나 있지만 볼 수 없는 고졸 노동자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[솔직히 돈벌고 싶어서 글씁니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[학생의 끝, 성인의 시작1 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7tlvV</id>
+        <link href="https://alook.so/posts/E7tlvV"/>
+        <updated>2022-02-14T16:14:24.676Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tlvV">학생의 끝, 성인의 시작1</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔직히 돈벌고 싶어서 글씁니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/70tKxv</id>
         <link href="https://alook.so/posts/70tKxv"/>
         <updated>2022-02-14T15:10:59.326Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tKxv">솔직히 돈벌고 싶어서 글씁니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이대남 입장에서 바라본(보려고 노력한) 이대남 현상 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/YytxV6</id>
-        <link href="https://alook.so/posts/YytxV6"/>
-        <updated>2022-02-14T15:10:59.619Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytxV6">이대남 입장에서 바라본(보려고 노력한) 이대남 현상</a>]]></content>
+        <title type="html"><![CDATA[얼룩소 이 많은 포인트 다 어디서 나온건가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/WLt6vB</id>
+        <link href="https://alook.so/posts/WLt6vB"/>
+        <updated>2022-02-14T16:14:32.249Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt6vB">얼룩소 이 많은 포인트 다 어디서 나온건가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글 : 타고난 천재는 없다는데 동의하시나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/rDtD6v</id>
-        <link href="https://alook.so/posts/rDtD6v"/>
-        <updated>2022-02-14T15:10:59.622Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtD6v">답글 : 타고난 천재는 없다는데 동의하시나요? </a>]]></content>
+        <title type="html"><![CDATA[답글: 여성은 남성보다 극단적 의견을 보이지 않나? - 연령별로 보았습니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/dztWZE</id>
+        <link href="https://alook.so/posts/dztWZE"/>
+        <updated>2022-02-14T16:14:32.250Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztWZE">답글: 여성은 남성보다 극단적 의견을 보이지 않나? - 연령별로 보았습니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 소비 지출의 출원지는 "소득"만일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -59,13 +66,6 @@
         <link href="https://alook.so/posts/92t22O"/>
         <updated>2022-02-14T14:10:29.386Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t22O">얼룩소가 앞으로도 건전한 토론의 장이 되길 바라요 ^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 정녕 루시퍼였나 (feat.얼룩소 포인트) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/DjtDDG</id>
-        <link href="https://alook.so/posts/DjtDDG"/>
-        <updated>2022-02-14T14:10:29.393Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtDDG">나는 정녕 루시퍼였나 (feat.얼룩소 포인트)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타고난 천재는 없다는데 동의하시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -115,20 +115,6 @@
         <link href="https://alook.so/posts/q1tkWX"/>
         <updated>2022-02-14T07:11:14.510Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tkWX">서울과 경기는 고향이 될 수 없을까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 호남에서 민주당의 초(超) 우위의 작동방식(feat. 조귀동 "전라디언의 굴레") (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/q1tk1X</id>
-        <link href="https://alook.so/posts/q1tk1X"/>
-        <updated>2022-02-14T14:10:29.403Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tk1X">답글: 호남에서 민주당의 초(超) 우위의 작동방식(feat. 조귀동 "전라디언의 굴레")</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트워치로 산소포화도측정기 대체 가능할까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/4XtLxL</id>
-        <link href="https://alook.so/posts/4XtLxL"/>
-        <updated>2022-02-14T05:11:25.746Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtLxL">스마트워치로 산소포화도측정기 대체 가능할까요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 ‘셀프 재택치료’ 준비 하셨나요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
