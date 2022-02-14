@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-14T07:13:02.985Z</updated>
+    <updated>2022-02-14T08:16:16.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[여행 과  인생길]]></title>
-        <id>https://alook.so/posts/3wt4pP</id>
-        <link href="https://alook.so/posts/3wt4pP"/>
-        <updated>2022-02-14T07:11:06.503Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt4pP">여행 과  인생길</a>]]></content>
+        <title type="html"><![CDATA[미래가 바뀌는 아침 습관 2가지]]></title>
+        <id>https://alook.so/posts/Yytxy8</id>
+        <link href="https://alook.so/posts/Yytxy8"/>
+        <updated>2022-02-14T08:14:11.979Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytxy8">미래가 바뀌는 아침 습관 2가지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[벌크업 식단]]></title>
-        <id>https://alook.so/posts/KmtylM</id>
-        <link href="https://alook.so/posts/KmtylM"/>
-        <updated>2022-02-14T07:11:06.504Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtylM">벌크업 식단</a>]]></content>
+        <title type="html"><![CDATA[축하드립니다.]]></title>
+        <id>https://alook.so/posts/rDtDnn</id>
+        <link href="https://alook.so/posts/rDtDnn"/>
+        <updated>2022-02-14T08:14:11.982Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtDnn">축하드립니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루가 급한데... 소상공인 지원금 ‘공회전’ 이유]]></title>
+        <id>https://alook.so/posts/E7tljb</id>
+        <link href="https://alook.so/posts/E7tljb"/>
+        <updated>2022-02-14T08:14:11.985Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tljb">하루가 급한데... 소상공인 지원금 ‘공회전’ 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리의 미래교육을 누구에게 맡기는게 좋을까요?]]></title>
+        <id>https://alook.so/posts/latX3x</id>
+        <link href="https://alook.so/posts/latX3x"/>
+        <updated>2022-02-14T08:14:11.987Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latX3x">우리의 미래교육을 누구에게 맡기는게 좋을까요?</a>]]></content>
     </entry>
 </feed>
