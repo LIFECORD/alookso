@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-14T01:54:07.743Z</updated>
+    <updated>2022-02-14T02:23:55.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[급여 들어왔습니다]]></title>
+        <id>https://alook.so/posts/mbtKpm</id>
+        <link href="https://alook.so/posts/mbtKpm"/>
+        <updated>2022-02-14T02:22:11.687Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtKpm">급여 들어왔습니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글초보의 alookso 첫 글쓰기]]></title>
         <id>https://alook.so/posts/Kmtyq3</id>
@@ -25,13 +32,6 @@
         <link href="https://alook.so/posts/bWtJMo"/>
         <updated>2022-02-14T00:37:40.036Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtJMo">시월드! 새판을 짜다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[많이 아는 사람 보다 깊이 있는 사람이 되기를]]></title>
-        <id>https://alook.so/posts/XBtwp9</id>
-        <link href="https://alook.so/posts/XBtwp9"/>
-        <updated>2022-02-14T01:52:09.742Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtwp9">많이 아는 사람 보다 깊이 있는 사람이 되기를</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최재호 님을 위한 변명]]></title>
@@ -104,10 +104,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latXl2">‘이대남’밖의 ‘이대남’들이 행동에 나섰다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토론에 관한 개인적인 생각 하나를 붙여 봅니다.]]></title>
-        <id>https://alook.so/posts/Vntpj5</id>
-        <link href="https://alook.so/posts/Vntpj5"/>
-        <updated>2022-02-13T03:10:54.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntpj5">토론에 관한 개인적인 생각 하나를 붙여 봅니다. </a>]]></content>
+        <title type="html"><![CDATA[내 글의 나이는 몇 살일까.]]></title>
+        <id>https://alook.so/posts/dztW23</id>
+        <link href="https://alook.so/posts/dztW23"/>
+        <updated>2022-02-14T02:22:11.705Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztW23">내 글의 나이는 몇 살일까. </a>]]></content>
     </entry>
 </feed>
