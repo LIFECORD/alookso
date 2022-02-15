@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-15T05:12:55.566Z</updated>
+    <updated>2022-02-15T06:14:57.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/XBtwjO"/>
         <updated>2022-02-15T05:11:08.117Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtwjO">[동계올림픽] 기후위기 모르는 그들만의 리그?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만의 규칙을 정하는 것도 하나의 방법]]></title>
+        <id>https://alook.so/posts/DjtDwL</id>
+        <link href="https://alook.so/posts/DjtDwL"/>
+        <updated>2022-02-15T06:13:03.331Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtDwL">나만의 규칙을 정하는 것도 하나의 방법</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나만의 얼룩소 규칙]]></title>
@@ -62,20 +69,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t22O">얼룩소가 앞으로도 건전한 토론의 장이 되길 바라요 ^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈은 누가 쓸까요?]]></title>
-        <id>https://alook.so/posts/VntppV</id>
-        <link href="https://alook.so/posts/VntppV"/>
-        <updated>2022-02-15T05:11:08.126Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntppV">돈은 누가 쓸까요? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["남과 비교하면 나만 힘들더라구요"]]></title>
-        <id>https://alook.so/posts/DjtDmG</id>
-        <link href="https://alook.so/posts/DjtDmG"/>
-        <updated>2022-02-15T05:11:08.130Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtDmG">"남과 비교하면 나만 힘들더라구요"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[타고난 천재는 없다는데 동의하시나요?]]></title>
         <id>https://alook.so/posts/6MtBEr</id>
         <link href="https://alook.so/posts/6MtBEr"/>
@@ -116,13 +109,6 @@
         <link href="https://alook.so/posts/bWtJ3e"/>
         <updated>2022-02-14T03:11:38.191Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtJ3e">충성! 얼룩소 보상 수령 신고합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시간대비 효율은 조금 더 떨어진 것 같지만...]]></title>
-        <id>https://alook.so/posts/0ktE4V</id>
-        <link href="https://alook.so/posts/0ktE4V"/>
-        <updated>2022-02-15T05:11:08.136Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktE4V">시간대비 효율은 조금 더 떨어진 것 같지만...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 반성과 후회의 시간]]></title>
