@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-15T04:15:34.329Z</updated>
+    <updated>2022-02-15T05:12:55.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[답글: 합리적 이유에 누락된 가정 - 잃는 집토끼보다 얻는 산토끼가 항상 많다? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[집순이 오미크론 감염되다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/LKtk02</id>
+        <link href="https://alook.so/posts/LKtk02"/>
+        <updated>2022-02-15T05:11:00.042Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtk02">집순이 오미크론 감염되다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[운명은 정해져 있을까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/OEtoZr</id>
+        <link href="https://alook.so/posts/OEtoZr"/>
+        <updated>2022-02-15T05:11:00.042Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtoZr">운명은 정해져 있을까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현안님..제게 길을...열어주세요(루시퍼 드림) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/vKtXww</id>
+        <link href="https://alook.so/posts/vKtXww"/>
+        <updated>2022-02-15T05:11:00.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtXww">현안님..제게 길을...열어주세요(루시퍼 드림)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 합리적 이유에 누락된 가정 - 잃는 집토끼가 얻는 산토끼보다 항상 많다? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/bWtJzM</id>
         <link href="https://alook.so/posts/bWtJzM"/>
-        <updated>2022-02-15T04:13:29.020Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtJzM">답글: 합리적 이유에 누락된 가정 - 잃는 집토끼보다 얻는 산토끼가 항상 많다?</a>]]></content>
+        <updated>2022-02-15T05:11:08.117Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtJzM">답글: 합리적 이유에 누락된 가정 - 잃는 집토끼가 얻는 산토끼보다 항상 많다?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나에게 잘 맞는 핀테크(?)에서 마음 테크(!)로 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/a0tlG8</id>
-        <link href="https://alook.so/posts/a0tlG8"/>
-        <updated>2022-02-15T04:13:29.024Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tlG8">나에게 잘 맞는 핀테크(?)에서 마음 테크(!)로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아의 우크라이나침공-전쟁진짜 일어날까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/dztWEm</id>
-        <link href="https://alook.so/posts/dztWEm"/>
-        <updated>2022-02-15T04:13:29.025Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztWEm">러시아의 우크라이나침공-전쟁진짜 일어날까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소주값이 5천원이라는데 ... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/J5tZkb</id>
-        <link href="https://alook.so/posts/J5tZkb"/>
-        <updated>2022-02-15T04:13:29.026Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tZkb">소주값이 5천원이라는데 ...</a>]]></content>
+        <title type="html"><![CDATA[[동계올림픽] 기후위기 모르는 그들만의 리그? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/XBtwjO</id>
+        <link href="https://alook.so/posts/XBtwjO"/>
+        <updated>2022-02-15T03:11:48.164Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtwjO">[동계올림픽] 기후위기 모르는 그들만의 리그?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나만의 얼룩소 규칙 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -38,13 +45,6 @@
         <link href="https://alook.so/posts/rDtD1O"/>
         <updated>2022-02-15T02:05:04.981Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtD1O">나만의 얼룩소 규칙</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포인트 출금 하고 싶어요~~~ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/q1tkdY</id>
-        <link href="https://alook.so/posts/q1tkdY"/>
-        <updated>2022-02-15T04:13:37.543Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tkdY">포인트 출금 하고 싶어요~~~</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그럼에도 대학은 선택이라고 가르치렵니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -61,18 +61,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEto7X">어디에나 있지만 만날 수 없는 고졸 노동자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[대선서베이] 답글의 답글: 주장의 강도에 성별이 미치는 영향에 대하여 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/VntpZP</id>
-        <link href="https://alook.so/posts/VntpZP"/>
-        <updated>2022-02-15T00:42:29.407Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntpZP">[대선서베이] 답글의 답글: 주장의 강도에 성별이 미치는 영향에 대하여 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 여성은 남성보다 극단적 의견을 보이지 않나? - 연령별로 보았습니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/dztWZE</id>
-        <link href="https://alook.so/posts/dztWZE"/>
-        <updated>2022-02-14T16:14:32.250Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztWZE">답글: 여성은 남성보다 극단적 의견을 보이지 않나? - 연령별로 보았습니다</a>]]></content>
+        <title type="html"><![CDATA[도저히 사랑할 수 없을, 나의 시어머니 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/BatxR0</id>
+        <link href="https://alook.so/posts/BatxR0"/>
+        <updated>2022-02-15T05:11:08.126Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatxR0">도저히 사랑할 수 없을, 나의 시어머니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 소비 지출의 출원지는 "소득"만일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -89,25 +82,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t22O">얼룩소가 앞으로도 건전한 토론의 장이 되길 바라요 ^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 소주 한 잔, 그리고 세금 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/54tGbP</id>
-        <link href="https://alook.so/posts/54tGbP"/>
-        <updated>2022-02-15T02:05:14.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tGbP">답글: 소주 한 잔, 그리고 세금</a>]]></content>
+        <title type="html"><![CDATA[돈은 누가 쓸까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/VntppV</id>
+        <link href="https://alook.so/posts/VntppV"/>
+        <updated>2022-02-15T05:11:08.126Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntppV">돈은 누가 쓸까요? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리의 미래교육을 누구에게 맡기는게 좋을까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/latX3x</id>
-        <link href="https://alook.so/posts/latX3x"/>
-        <updated>2022-02-14T11:09:30.362Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latX3x">우리의 미래교육을 누구에게 맡기는게 좋을까요?</a>]]></content>
+        <title type="html"><![CDATA["남과 비교하면 나만 힘들더라구요" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/DjtDmG</id>
+        <link href="https://alook.so/posts/DjtDmG"/>
+        <updated>2022-02-15T05:11:08.130Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtDmG">"남과 비교하면 나만 힘들더라구요"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 여성은 남성보다 극단적 의견을 보이지 않나? - 글쎄요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/LKtkeo</id>
-        <link href="https://alook.so/posts/LKtkeo"/>
-        <updated>2022-02-15T03:11:56.151Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtkeo">답글: 여성은 남성보다 극단적 의견을 보이지 않나? - 글쎄요. </a>]]></content>
+        <title type="html"><![CDATA[타고난 천재는 없다는데 동의하시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/6MtBEr</id>
+        <link href="https://alook.so/posts/6MtBEr"/>
+        <updated>2022-02-15T05:11:08.132Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtBEr">타고난 천재는 없다는데 동의하시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마음을 다치지 않기 위해선 무엇보다 냉소하지 않는 게 중요하다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/dztW52</id>
+        <link href="https://alook.so/posts/dztW52"/>
+        <updated>2022-02-15T05:11:08.132Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztW52">마음을 다치지 않기 위해선 무엇보다 냉소하지 않는 게 중요하다. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 근데 왜 아버지의 출신만 물은거죠? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -117,25 +117,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt3m2">답글: 근데 왜 아버지의 출신만 물은거죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[설문과 면접조사는 조사방법을 잘 살펴 봐야 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtJE9</id>
-        <link href="https://alook.so/posts/bWtJE9"/>
-        <updated>2022-02-15T03:11:56.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtJE9">설문과 면접조사는 조사방법을 잘 살펴 봐야</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년이 청년에게 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/1Rtoa7</id>
-        <link href="https://alook.so/posts/1Rtoa7"/>
-        <updated>2022-02-15T03:11:56.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtoa7">청년이 청년에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19가 한국인의 정신건강과 사회신뢰에 미친 영향 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Yytxbw</id>
-        <link href="https://alook.so/posts/Yytxbw"/>
-        <updated>2022-02-15T03:11:56.158Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytxbw">코로나19가 한국인의 정신건강과 사회신뢰에 미친 영향</a>]]></content>
+        <title type="html"><![CDATA[서울과 경기는 고향이 될 수 없을까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1tkWX</id>
+        <link href="https://alook.so/posts/q1tkWX"/>
+        <updated>2022-02-14T07:11:14.510Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tkWX">서울과 경기는 고향이 될 수 없을까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 ‘셀프 재택치료’ 준비 하셨나요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -150,6 +136,13 @@
         <link href="https://alook.so/posts/bWtJ3e"/>
         <updated>2022-02-14T03:11:38.191Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtJ3e">충성! 얼룩소 보상 수령 신고합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시간대비 효율은 조금 더 떨어진 것 같지만... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0ktE4V</id>
+        <link href="https://alook.so/posts/0ktE4V"/>
+        <updated>2022-02-15T05:11:08.136Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktE4V">시간대비 효율은 조금 더 떨어진 것 같지만...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 반성과 후회의 시간 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
