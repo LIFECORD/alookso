@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-16T06:15:09.069Z</updated>
+    <updated>2022-02-16T07:12:41.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[어제도 깜깜한 밤에 산책을 나갔습니다]]></title>
-        <id>https://alook.so/posts/3wt47Y</id>
-        <link href="https://alook.so/posts/3wt47Y"/>
-        <updated>2022-02-16T06:13:04.131Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt47Y">어제도 깜깜한 밤에 산책을 나갔습니다</a>]]></content>
+        <title type="html"><![CDATA[물가가 사람 잡는다.]]></title>
+        <id>https://alook.so/posts/2xtwkP</id>
+        <link href="https://alook.so/posts/2xtwkP"/>
+        <updated>2022-02-16T07:10:34.390Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtwkP">물가가 사람 잡는다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫글. 안녕,]]></title>
-        <id>https://alook.so/posts/8WtpBk</id>
-        <link href="https://alook.so/posts/8WtpBk"/>
-        <updated>2022-02-16T06:13:04.131Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtpBk">첫글. 안녕,</a>]]></content>
+        <title type="html"><![CDATA[한국 쇼트트랙 반칙왕 제작]]></title>
+        <id>https://alook.so/posts/M9ta5d</id>
+        <link href="https://alook.so/posts/M9ta5d"/>
+        <updated>2022-02-16T07:10:34.391Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9ta5d">한국 쇼트트랙 반칙왕 제작</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[AI시대.. 인간은 어떻게 바뀌어야 할까요?]]></title>
-        <id>https://alook.so/posts/G1tGJ6</id>
-        <link href="https://alook.so/posts/G1tGJ6"/>
-        <updated>2022-02-16T06:13:04.132Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tGJ6">AI시대.. 인간은 어떻게 바뀌어야 할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양이 불태운 사건 시말리  잡히다]]></title>
-        <id>https://alook.so/posts/vKtXeR</id>
-        <link href="https://alook.so/posts/vKtXeR"/>
-        <updated>2022-02-16T06:13:04.132Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtXeR">고양이 불태운 사건 시말리  잡히다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자가 될려면  몇년이 걸릴까요?]]></title>
-        <id>https://alook.so/posts/latXW5</id>
-        <link href="https://alook.so/posts/latXW5"/>
-        <updated>2022-02-16T06:13:04.134Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latXW5">부자가 될려면  몇년이 걸릴까요?</a>]]></content>
+        <title type="html"><![CDATA[거짓말 쟁이들...]]></title>
+        <id>https://alook.so/posts/XBtwn1</id>
+        <link href="https://alook.so/posts/XBtwn1"/>
+        <updated>2022-02-16T07:10:34.393Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtwn1">거짓말 쟁이들...</a>]]></content>
     </entry>
 </feed>
