@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-16T21:11:46.944Z</updated>
+    <updated>2022-02-16T22:12:46.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[플리마켓(벼룩시장) 아시나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -24,13 +24,6 @@
         <link href="https://alook.so/posts/2xtvxV"/>
         <updated>2022-02-16T20:11:46.652Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtvxV">여러분은 어떤 보통 사람인가요❓</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[囊中之錐(낭중지추) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/xlt3y2</id>
-        <link href="https://alook.so/posts/xlt3y2"/>
-        <updated>2022-02-16T18:13:04.651Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt3y2">囊中之錐(낭중지추)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기대수명의 지역 불평등이 줄어들었다고? - 답글: [카우레터_B컷] 기대 수명으로 알아본 건강 불평등 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
