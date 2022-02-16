@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-16T10:14:43.285Z</updated>
+    <updated>2022-02-16T11:11:51.806Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[어제도 깜깜한 밤에 산책을 나갔습니다]]></title>
+        <id>https://alook.so/posts/3wt47Y</id>
+        <link href="https://alook.so/posts/3wt47Y"/>
+        <updated>2022-02-16T11:10:06.603Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt47Y">어제도 깜깜한 밤에 산책을 나갔습니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[독서산책: 월든을 읽고난 뒤]  소비주의에 길들여진 우리들]]></title>
+        <id>https://alook.so/posts/70tKo1</id>
+        <link href="https://alook.so/posts/70tKo1"/>
+        <updated>2022-02-16T11:10:06.606Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tKo1">[독서산책: 월든을 읽고난 뒤]  소비주의에 길들여진 우리들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어디에나 있지만 만날 수 없는 고졸 노동자]]></title>
         <id>https://alook.so/posts/OEto7X</id>
@@ -18,13 +32,6 @@
         <link href="https://alook.so/posts/rDtDe2"/>
         <updated>2022-02-16T10:12:40.520Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtDe2">당신의 소울푸드는 무엇인가요? '빵'을 사랑한 여자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스마트, 친환경 시대에 부각되는 민주적 시민정신]]></title>
-        <id>https://alook.so/posts/70tKXY</id>
-        <link href="https://alook.so/posts/70tKXY"/>
-        <updated>2022-02-16T10:12:40.520Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tKXY">스마트, 친환경 시대에 부각되는 민주적 시민정신</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[40대 직장인입니다, 3년째 점심을 먹지 않습니다]]></title>
@@ -88,12 +95,5 @@
         <link href="https://alook.so/posts/XBtwjO"/>
         <updated>2022-02-16T08:13:24.098Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtwjO">[동계올림픽] 기후위기 모르는 그들만의 리그?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약물 스캔들과 이카루스의 유혹]]></title>
-        <id>https://alook.so/posts/6MtBzw</id>
-        <link href="https://alook.so/posts/6MtBzw"/>
-        <updated>2022-02-16T10:12:40.556Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtBzw">약물 스캔들과 이카루스의 유혹</a>]]></content>
     </entry>
 </feed>
