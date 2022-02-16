@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-16T12:18:36.965Z</updated>
+    <updated>2022-02-16T13:15:41.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[불면증은 하루를 망친다]]></title>
-        <id>https://alook.so/posts/dztWRD</id>
-        <link href="https://alook.so/posts/dztWRD"/>
-        <updated>2022-02-16T12:16:34.239Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztWRD">불면증은 하루를 망친다</a>]]></content>
+        <title type="html"><![CDATA[29살직장인]]></title>
+        <id>https://alook.so/posts/4XtD8e</id>
+        <link href="https://alook.so/posts/4XtD8e"/>
+        <updated>2022-02-16T13:13:44.415Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtD8e">29살직장인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[https://youtu.be/sCB604szSZU]]></title>
-        <id>https://alook.so/posts/eVtnvp</id>
-        <link href="https://alook.so/posts/eVtnvp"/>
-        <updated>2022-02-16T12:16:34.241Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtnvp">https://youtu.be/sCB604szSZU</a>]]></content>
+        <title type="html"><![CDATA[음식이야기(된장밥)]]></title>
+        <id>https://alook.so/posts/RGtbr8</id>
+        <link href="https://alook.so/posts/RGtbr8"/>
+        <updated>2022-02-16T13:13:44.416Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtbr8">음식이야기(된장밥)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[약물 복용한 발리예바에게 그 어떤 멘트도 할 수 없었다.]]></title>
-        <id>https://alook.so/posts/Pvt14q</id>
-        <link href="https://alook.so/posts/Pvt14q"/>
-        <updated>2022-02-16T12:16:34.241Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt14q">약물 복용한 발리예바에게 그 어떤 멘트도 할 수 없었다.</a>]]></content>
+        <title type="html"><![CDATA[저녁을 두그릇 먹는건 아니시죠?]]></title>
+        <id>https://alook.so/posts/yEtORB</id>
+        <link href="https://alook.so/posts/yEtORB"/>
+        <updated>2022-02-16T13:13:44.424Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtORB">저녁을 두그릇 먹는건 아니시죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[누군가 나를 좋아해 준다는 것...]]></title>
-        <id>https://alook.so/posts/Vntpql</id>
-        <link href="https://alook.so/posts/Vntpql"/>
-        <updated>2022-02-16T12:16:34.242Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntpql">누군가 나를 좋아해 준다는 것...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["불면증 증상, 우울증 등 정신과 질환 동반 파악해야"]]></title>
-        <id>https://alook.so/posts/WLt6kJ</id>
-        <link href="https://alook.so/posts/WLt6kJ"/>
-        <updated>2022-02-16T12:16:34.244Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt6kJ">"불면증 증상, 우울증 등 정신과 질환 동반 파악해야"</a>]]></content>
+        <title type="html"><![CDATA[하루감사]]></title>
+        <id>https://alook.so/posts/BatxyP</id>
+        <link href="https://alook.so/posts/BatxyP"/>
+        <updated>2022-02-16T13:13:44.425Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatxyP">하루감사</a>]]></content>
     </entry>
 </feed>
