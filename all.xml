@@ -2,21 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-17T11:10:44.034Z</updated>
+    <updated>2022-02-17T12:18:36.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[완벽하지 않아도 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/YytrEY</id>
-        <link href="https://alook.so/posts/YytrEY"/>
-        <updated>2022-02-17T11:08:49.474Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytrEY">완벽하지 않아도</a>]]></content>
+        <title type="html"><![CDATA[자기합리화의 함정. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/92tBZ3</id>
+        <link href="https://alook.so/posts/92tBZ3"/>
+        <updated>2022-02-17T12:16:40.832Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tBZ3">자기합리화의 함정.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[리유저블 컵 사용해보신 적 있으신가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/rDtmlM</id>
-        <link href="https://alook.so/posts/rDtmlM"/>
-        <updated>2022-02-17T11:08:49.476Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtmlM">리유저블 컵 사용해보신 적 있으신가요?</a>]]></content>
+        <title type="html"><![CDATA['졸부'가 꿈인 저와 많이 비슷하네요! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Kmt0bB</id>
+        <link href="https://alook.so/posts/Kmt0bB"/>
+        <updated>2022-02-17T12:16:40.834Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt0bB">'졸부'가 꿈인 저와 많이 비슷하네요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑합니다. 그리고 미안합니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/mbteG7</id>
+        <link href="https://alook.so/posts/mbteG7"/>
+        <updated>2022-02-17T12:16:40.835Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbteG7">사랑합니다. 그리고 미안합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만의 공간. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/q1tMR8</id>
+        <link href="https://alook.so/posts/q1tMR8"/>
+        <updated>2022-02-17T12:16:40.835Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tMR8"> 나만의 공간.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이발소에서... (부제: 어른의 냄새) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/DjtZk1</id>
+        <link href="https://alook.so/posts/DjtZk1"/>
+        <updated>2022-02-17T12:16:40.837Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtZk1">이발소에서... (부제: 어른의 냄새)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쉬운건데 왜 몰랐을까요..? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/zvtm1v</id>
+        <link href="https://alook.so/posts/zvtm1v"/>
+        <updated>2022-02-17T12:16:48.341Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtm1v">쉬운건데 왜 몰랐을까요..?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘멍청하다’고 말하는 것을 조심해야 한다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/XBtzGn</id>
+        <link href="https://alook.so/posts/XBtzGn"/>
+        <updated>2022-02-17T12:16:48.344Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtzGn">‘멍청하다’고 말하는 것을 조심해야 한다   </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[하루란 그래프 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -122,20 +157,6 @@
         <link href="https://alook.so/posts/jdtLq3"/>
         <updated>2022-02-16T12:16:42.975Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtLq3">뭣이 중헌디... 이번에는 아예 못 보는군요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 소울푸드는 무엇인가요? '빵'을 사랑한 여자 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/rDtDe2</id>
-        <link href="https://alook.so/posts/rDtDe2"/>
-        <updated>2022-02-17T09:11:29.602Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtDe2">당신의 소울푸드는 무엇인가요? '빵'을 사랑한 여자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[약물 복용한 발리예바에게 그 어떤 멘트도 할 수 없었다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/92t2GD</id>
-        <link href="https://alook.so/posts/92t2GD"/>
-        <updated>2022-02-17T09:11:29.603Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t2GD">약물 복용한 발리예바에게 그 어떤 멘트도 할 수 없었다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘이대남’은 보수다. 그런데 어떤 보수? [대선서베이] (alookso ─ alookso)]]></title>
