@@ -2,28 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-17T01:51:52.893Z</updated>
+    <updated>2022-02-17T02:23:33.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[내 관계를 망치고 있던 00...드디어 발견!]]></title>
-        <id>https://alook.so/posts/vKtDRO</id>
-        <link href="https://alook.so/posts/vKtDRO"/>
-        <updated>2022-02-17T01:49:40.344Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtDRO">내 관계를 망치고 있던 00...드디어 발견!</a>]]></content>
+        <title type="html"><![CDATA[마음을 울리는 응답하라 명대사들]]></title>
+        <id>https://alook.so/posts/xlt3Jb</id>
+        <link href="https://alook.so/posts/xlt3Jb"/>
+        <updated>2022-02-17T02:21:34.138Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt3Jb">마음을 울리는 응답하라 명대사들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[카우레터_B컷] 미국은 금리를 왜 올릴까요?]]></title>
-        <id>https://alook.so/posts/E7t03k</id>
-        <link href="https://alook.so/posts/E7t03k"/>
-        <updated>2022-02-17T01:49:40.344Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t03k">[카우레터_B컷] 미국은 금리를 왜 올릴까요?</a>]]></content>
+        <title type="html"><![CDATA[남녀간의 사랑과 결혼]]></title>
+        <id>https://alook.so/posts/RGtvqG</id>
+        <link href="https://alook.so/posts/RGtvqG"/>
+        <updated>2022-02-17T02:21:34.139Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtvqG">남녀간의 사랑과 결혼</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아이를 낳지 않는 이유가 무엇일까요?]]></title>
-        <id>https://alook.so/posts/latd1w</id>
-        <link href="https://alook.so/posts/latd1w"/>
-        <updated>2022-02-17T01:49:40.346Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latd1w">아이를 낳지 않는 이유가 무엇일까요?</a>]]></content>
+        <title type="html"><![CDATA[유튜브는 이제 믿을 곳이 못되네요.]]></title>
+        <id>https://alook.so/posts/Bat1qm</id>
+        <link href="https://alook.so/posts/Bat1qm"/>
+        <updated>2022-02-17T02:21:34.142Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat1qm">유튜브는 이제 믿을 곳이 못되네요.</a>]]></content>
     </entry>
 </feed>
