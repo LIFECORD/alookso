@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-18T00:48:21.224Z</updated>
+    <updated>2022-02-18T02:03:46.782Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[마블유니버스 한국정치판, 디테일 빠진 풍자들]]></title>
+        <id>https://alook.so/posts/XBtzWo</id>
+        <link href="https://alook.so/posts/XBtzWo"/>
+        <updated>2022-02-18T02:01:47.414Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtzWo">마블유니버스 한국정치판, 디테일 빠진 풍자들</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이발소에서... (부제: 어른의 냄새)]]></title>
         <id>https://alook.so/posts/DjtZk1</id>
@@ -62,13 +69,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtzVw">[Add-on]얼룩소 프로젝트 9회차를 보완해봅시다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쉬운건데 왜 몰랐을까요..?]]></title>
-        <id>https://alook.so/posts/zvtm1v</id>
-        <link href="https://alook.so/posts/zvtm1v"/>
-        <updated>2022-02-17T14:10:29.628Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtm1v">쉬운건데 왜 몰랐을까요..?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[‘멍청하다’고 말하는 것을 조심해야 한다]]></title>
         <id>https://alook.so/posts/XBtzGn</id>
         <link href="https://alook.so/posts/XBtzGn"/>
@@ -109,20 +109,6 @@
         <link href="https://alook.so/posts/J5tZR5"/>
         <updated>2022-02-17T23:11:05.778Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tZR5">기대수명의 지역 불평등이 줄어들었다고? - 답글: [카우레터_B컷] 기대 수명으로 알아본 건강 불평등</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 일자리의 변화: 장시간 노동의 감소, 시간제 일자리의 증가]]></title>
-        <id>https://alook.so/posts/vKtXoG</id>
-        <link href="https://alook.so/posts/vKtXoG"/>
-        <updated>2022-02-17T23:11:05.778Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtXoG">한국 일자리의 변화: 장시간 노동의 감소, 시간제 일자리의 증가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가해자 적극제재보다 중요한 것은 "사전 예방"]]></title>
-        <id>https://alook.so/posts/w9tqZ5</id>
-        <link href="https://alook.so/posts/w9tqZ5"/>
-        <updated>2022-02-17T23:11:05.778Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tqZ5">가해자 적극제재보다 중요한 것은 "사전 예방"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뭣이 중헌디... 이번에는 아예 못 보는군요.]]></title>
