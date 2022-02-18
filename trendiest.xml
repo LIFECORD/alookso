@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-18T14:11:59.306Z</updated>
+    <updated>2022-02-18T15:13:17.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[부업이 참 많아요]]></title>
-        <id>https://alook.so/posts/w9tXqZ</id>
-        <link href="https://alook.so/posts/w9tXqZ"/>
-        <updated>2022-02-18T14:10:09.930Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tXqZ">부업이 참 많아요</a>]]></content>
+        <title type="html"><![CDATA[요즘 군대, 휴대폰 사용으로 인한 디지털 부조리]]></title>
+        <id>https://alook.so/posts/Yytrx5</id>
+        <link href="https://alook.so/posts/Yytrx5"/>
+        <updated>2022-02-18T15:11:31.122Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytrx5">요즘 군대, 휴대폰 사용으로 인한 디지털 부조리</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[연애를 하면서]]></title>
@@ -25,13 +25,6 @@
         <link href="https://alook.so/posts/kZtXGZ"/>
         <updated>2022-02-18T12:18:24.308Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtXGZ">[대선 tip take talk 1] 투표는 "방향" 설정부터</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불금에 마음에도 불을!]]></title>
-        <id>https://alook.so/posts/kZtX8z</id>
-        <link href="https://alook.so/posts/kZtX8z"/>
-        <updated>2022-02-18T12:18:24.311Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtX8z">불금에 마음에도 불을!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 포퓰리즘과 권위주의 문항과 군말 - 보다 자세한 결과분석 자료는 어때요?]]></title>
@@ -109,5 +102,12 @@
         <link href="https://alook.so/posts/70tdDl"/>
         <updated>2022-02-18T12:18:24.333Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tdDl">대선. 한 편의 블랙코미디. 조롱과 저주의 굿판.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[그 해 우리는] 원작 속, 다큐멘터리 비하인드]]></title>
+        <id>https://alook.so/posts/2xtvpo</id>
+        <link href="https://alook.so/posts/2xtvpo"/>
+        <updated>2022-02-18T15:11:31.138Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtvpo">[그 해 우리는] 원작 속, 다큐멘터리 비하인드</a>]]></content>
     </entry>
 </feed>
