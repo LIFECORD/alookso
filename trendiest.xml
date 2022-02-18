@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-18T08:15:10.051Z</updated>
+    <updated>2022-02-18T09:13:08.729Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[사람과 사람]]></title>
-        <id>https://alook.so/posts/eVto05</id>
-        <link href="https://alook.so/posts/eVto05"/>
-        <updated>2022-02-18T08:13:05.835Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVto05">사람과 사람</a>]]></content>
+        <title type="html"><![CDATA[궁금한 점 하나.]]></title>
+        <id>https://alook.so/posts/92tBoa</id>
+        <link href="https://alook.so/posts/92tBoa"/>
+        <updated>2022-02-18T09:11:21.398Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tBoa">궁금한 점 하나. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인스타와 블로그에 링크트리를 넣었다]]></title>
+        <id>https://alook.so/posts/92tBWj</id>
+        <link href="https://alook.so/posts/92tBWj"/>
+        <updated>2022-02-18T09:11:21.398Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tBWj">인스타와 블로그에 링크트리를 넣었다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[후보별 애창곡 혹은 애정하는 노래]]></title>
@@ -39,13 +46,6 @@
         <link href="https://alook.so/posts/rDtm0x"/>
         <updated>2022-02-18T06:14:54.377Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtm0x">당연한 희생은 없다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미라클 모닝? 진짜 중요한 건 따로있다]]></title>
-        <id>https://alook.so/posts/92tBb3</id>
-        <link href="https://alook.so/posts/92tBb3"/>
-        <updated>2022-02-18T08:13:05.845Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tBb3">미라클 모닝? 진짜 중요한 건 따로있다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 전설의 단사천 회장, 거기서 나오네요]]></title>
