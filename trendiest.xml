@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-19T08:14:30.901Z</updated>
+    <updated>2022-02-19T09:14:14.118Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA['발끈' 하던 사춘기 아들, 아빠 퇴근만 기다리는 이유]]></title>
+        <id>https://alook.so/posts/potYrL</id>
+        <link href="https://alook.so/posts/potYrL"/>
+        <updated>2022-02-19T09:12:17.703Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potYrL">﻿'발끈' 하던 사춘기 아들, 아빠 퇴근만 기다리는 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후보별 10대 공약 키워드]]></title>
+        <id>https://alook.so/posts/RGtvYb</id>
+        <link href="https://alook.so/posts/RGtvYb"/>
+        <updated>2022-02-19T09:12:17.704Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtvYb">후보별 10대 공약 키워드</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MBTI가 뭐길래]]></title>
+        <id>https://alook.so/posts/mbtenP</id>
+        <link href="https://alook.so/posts/mbtenP"/>
+        <updated>2022-02-19T09:12:17.706Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtenP">MBTI가 뭐길래</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그동안 잘 버텨왔네요. 저 확진입니다. 그리고 반성합니다.]]></title>
+        <id>https://alook.so/posts/Bat1Y9</id>
+        <link href="https://alook.so/posts/Bat1Y9"/>
+        <updated>2022-02-19T09:12:17.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat1Y9">그동안 잘 버텨왔네요. 저 확진입니다. 그리고 반성합니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걱정거리 이젠 그만 와라 🤯😖]]></title>
         <id>https://alook.so/posts/w9tXmP</id>
@@ -41,25 +69,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tMLk">티켓값 5억? 우주여행의 시대 그리고 과제.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 편해야 사람들에게 웃음을 줄 수 있다]]></title>
-        <id>https://alook.so/posts/6Mtxy6</id>
-        <link href="https://alook.so/posts/6Mtxy6"/>
-        <updated>2022-02-19T07:11:01.784Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtxy6">내가 편해야 사람들에게 웃음을 줄 수 있다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[요즘 군대, 휴대폰 사용으로 인한 디지털 부조리]]></title>
         <id>https://alook.so/posts/Yytrx5</id>
         <link href="https://alook.so/posts/Yytrx5"/>
         <updated>2022-02-18T15:11:31.122Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytrx5">요즘 군대, 휴대폰 사용으로 인한 디지털 부조리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대선 tip take talk 1] 투표는 "방향" 설정부터]]></title>
-        <id>https://alook.so/posts/kZtXGZ</id>
-        <link href="https://alook.so/posts/kZtXGZ"/>
-        <updated>2022-02-18T12:18:24.308Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtXGZ">[대선 tip take talk 1] 투표는 "방향" 설정부터</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 포퓰리즘과 권위주의 문항과 군말 - 보다 자세한 결과분석 자료는 어때요?]]></title>
@@ -74,13 +88,6 @@
         <link href="https://alook.so/posts/92tBoa"/>
         <updated>2022-02-18T12:18:24.312Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tBoa">궁금한 점 하나. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 줄 수 있는 건, 오직 응원뿐. 좋은 일을 잘 하고 있는 얼룩소]]></title>
-        <id>https://alook.so/posts/jdtp6k</id>
-        <link href="https://alook.so/posts/jdtp6k"/>
-        <updated>2022-02-18T12:18:24.323Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtp6k">내가 줄 수 있는 건, 오직 응원뿐. 좋은 일을 잘 하고 있는 얼룩소</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사실 저는 내향적인 사람입니다!]]></title>
