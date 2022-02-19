@@ -2,21 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-19T18:14:06.968Z</updated>
+    <updated>2022-02-19T19:11:25.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[아기를 기다리는 시간이 길어질수록 사람들과의 거리는 멀어진다.]]></title>
-        <id>https://alook.so/posts/potYer</id>
-        <link href="https://alook.so/posts/potYer"/>
-        <updated>2022-02-19T17:10:14.339Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potYer">아기를 기다리는 시간이 길어질수록 사람들과의 거리는 멀어진다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이돌로 실패를 하면 그 충격은 오래가더라]]></title>
-        <id>https://alook.so/posts/eVto9P</id>
-        <link href="https://alook.so/posts/eVto9P"/>
-        <updated>2022-02-19T17:10:14.341Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVto9P">아이돌로 실패를 하면 그 충격은 오래가더라</a>]]></content>
+        <title type="html"><![CDATA[사기 & 사랑]]></title>
+        <id>https://alook.so/posts/q1tMmy</id>
+        <link href="https://alook.so/posts/q1tMmy"/>
+        <updated>2022-02-19T19:09:26.564Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tMmy">사기 &amp; 사랑</a>]]></content>
     </entry>
 </feed>
