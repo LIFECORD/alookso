@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-20T14:12:13.191Z</updated>
+    <updated>2022-02-20T15:13:22.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘, 문득.]]></title>
-        <id>https://alook.so/posts/yEtWyK</id>
-        <link href="https://alook.so/posts/yEtWyK"/>
-        <updated>2022-02-20T14:10:11.910Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtWyK">오늘, 문득.</a>]]></content>
+        <title type="html"><![CDATA[[초능력 이야기 2] 도플갱어 (분신술)]]></title>
+        <id>https://alook.so/posts/Yytr20</id>
+        <link href="https://alook.so/posts/Yytr20"/>
+        <updated>2022-02-20T15:11:25.482Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytr20">[초능력 이야기 2] 도플갱어 (분신술)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다들 초조하신가요?]]></title>
-        <id>https://alook.so/posts/6Mtxbm</id>
-        <link href="https://alook.so/posts/6Mtxbm"/>
-        <updated>2022-02-20T14:10:11.911Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtxbm">다들 초조하신가요?</a>]]></content>
+        <title type="html"><![CDATA[나를 바꾸는 삶의 시작]]></title>
+        <id>https://alook.so/posts/rDtmZJ</id>
+        <link href="https://alook.so/posts/rDtmZJ"/>
+        <updated>2022-02-20T15:11:25.485Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtmZJ">나를 바꾸는 삶의 시작</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사소한 안전 문제]]></title>
+        <id>https://alook.so/posts/mbterd</id>
+        <link href="https://alook.so/posts/mbterd"/>
+        <updated>2022-02-20T15:11:25.485Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbterd">사소한 안전 문제</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이시국에  투표 어떻게  할까요????]]></title>
+        <id>https://alook.so/posts/54tJyY</id>
+        <link href="https://alook.so/posts/54tJyY"/>
+        <updated>2022-02-20T15:11:25.486Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tJyY">이시국에  투표 어떻게  할까요????</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 그냥 '나'답게 살기로 했다.]]></title>
+        <id>https://alook.so/posts/q1tMwK</id>
+        <link href="https://alook.so/posts/q1tMwK"/>
+        <updated>2022-02-20T15:11:25.487Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tMwK">나는 그냥 '나'답게 살기로 했다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["여성도 주권자 반페미 전략은 민주주의에 대한 도전"]]></title>
+        <id>https://alook.so/posts/DjtZeP</id>
+        <link href="https://alook.so/posts/DjtZeP"/>
+        <updated>2022-02-20T15:11:25.489Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtZeP">"여성도 주권자 반페미 전략은 민주주의에 대한 도전"</a>]]></content>
     </entry>
 </feed>
