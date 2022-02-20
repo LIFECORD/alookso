@@ -2,49 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-19T23:13:17.144Z</updated>
+    <updated>2022-02-20T02:03:29.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[제자의 소식]]></title>
-        <id>https://alook.so/posts/Bat137</id>
-        <link href="https://alook.so/posts/Bat137"/>
-        <updated>2022-02-19T23:11:11.513Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat137">제자의 소식</a>]]></content>
+        <title type="html"><![CDATA[삼시세끼 차리는 어머니께 항상 감사하고 죄송합니다.]]></title>
+        <id>https://alook.so/posts/Kmt0vD</id>
+        <link href="https://alook.so/posts/Kmt0vD"/>
+        <updated>2022-02-20T02:01:20.008Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt0vD">삼시세끼 차리는 어머니께 항상 감사하고 죄송합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하루를 살아낸다는 것]]></title>
-        <id>https://alook.so/posts/6MtxL1</id>
-        <link href="https://alook.so/posts/6MtxL1"/>
-        <updated>2022-02-19T23:11:11.520Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtxL1">하루를 살아낸다는 것</a>]]></content>
+        <title type="html"><![CDATA[희생을 강요하는 것 자체가 문제]]></title>
+        <id>https://alook.so/posts/mbteo4</id>
+        <link href="https://alook.so/posts/mbteo4"/>
+        <updated>2022-02-20T02:01:20.009Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbteo4">희생을 강요하는 것 자체가 문제</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[회사안에서 공공의 적이 었지만...]]></title>
-        <id>https://alook.so/posts/8WtX9n</id>
-        <link href="https://alook.so/posts/8WtX9n"/>
-        <updated>2022-02-19T22:11:40.121Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtX9n">회사안에서 공공의 적이 었지만...</a>]]></content>
+        <title type="html"><![CDATA[커피 농장이 사라질 것이라는 이야기가 있었어요.]]></title>
+        <id>https://alook.so/posts/54tJno</id>
+        <link href="https://alook.so/posts/54tJno"/>
+        <updated>2022-02-20T02:01:20.014Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tJno">커피 농장이 사라질 것이라는 이야기가 있었어요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지구의 온도가 올라가면 ᆢ]]></title>
-        <id>https://alook.so/posts/G1t8mn</id>
-        <link href="https://alook.so/posts/G1t8mn"/>
-        <updated>2022-02-19T22:11:40.126Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t8mn">지구의 온도가 올라가면 ᆢ</a>]]></content>
+        <title type="html"><![CDATA[나의 소확행은?]]></title>
+        <id>https://alook.so/posts/q1tMqy</id>
+        <link href="https://alook.so/posts/q1tMqy"/>
+        <updated>2022-02-20T02:01:20.014Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tMqy">나의 소확행은?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[면역]]></title>
-        <id>https://alook.so/posts/OEt5vM</id>
-        <link href="https://alook.so/posts/OEt5vM"/>
-        <updated>2022-02-19T21:10:19.667Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt5vM">면역</a>]]></content>
+        <title type="html"><![CDATA[“백세 넘어서도 재밌고 신나는 일 한다”]]></title>
+        <id>https://alook.so/posts/DjtZde</id>
+        <link href="https://alook.so/posts/DjtZde"/>
+        <updated>2022-02-20T02:01:20.014Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtZde">“백세 넘어서도 재밌고 신나는 일 한다”</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자연스러움]]></title>
-        <id>https://alook.so/posts/latdjO</id>
-        <link href="https://alook.so/posts/latdjO"/>
-        <updated>2022-02-19T21:10:19.669Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latdjO">자연스러움</a>]]></content>
+        <title type="html"><![CDATA[애쓰지 않고 편안하게]]></title>
+        <id>https://alook.so/posts/o7tod8</id>
+        <link href="https://alook.so/posts/o7tod8"/>
+        <updated>2022-02-20T02:01:20.015Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tod8">애쓰지 않고 편안하게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[맨시티 팬이시군요.]]></title>
+        <id>https://alook.so/posts/70td9R</id>
+        <link href="https://alook.so/posts/70td9R"/>
+        <updated>2022-02-20T02:01:20.015Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70td9R">맨시티 팬이시군요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[와... 야식...]]></title>
+        <id>https://alook.so/posts/Yytre7</id>
+        <link href="https://alook.so/posts/Yytre7"/>
+        <updated>2022-02-20T02:01:20.016Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytre7">와... 야식...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국도 커피를 마시기 시작했다.]]></title>
+        <id>https://alook.so/posts/rDtmkd</id>
+        <link href="https://alook.so/posts/rDtmkd"/>
+        <updated>2022-02-20T02:01:20.018Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtmkd">중국도 커피를 마시기 시작했다.</a>]]></content>
     </entry>
 </feed>
