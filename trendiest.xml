@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-20T12:18:28.985Z</updated>
+    <updated>2022-02-20T13:14:47.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[발렌타인데이 초콜릿의 달콤함과 씁쓸함.]]></title>
+        <id>https://alook.so/posts/1Rtd6d</id>
+        <link href="https://alook.so/posts/1Rtd6d"/>
+        <updated>2022-02-20T13:12:48.003Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtd6d">발렌타인데이 초콜릿의 달콤함과 씁쓸함.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일요일 휴일을 가족 👪 과 함께 소소하게 즐기며~~]]></title>
         <id>https://alook.so/posts/Bat1dz</id>
@@ -95,13 +102,6 @@
         <link href="https://alook.so/posts/LKt5XJ"/>
         <updated>2022-02-19T22:11:48.548Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt5XJ">삼시세끼를 차리는 마음에 대해</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나, 오미크론을 '단순한 감기'라고 인식하면 안되는 이유]]></title>
-        <id>https://alook.so/posts/70tdpZ</id>
-        <link href="https://alook.so/posts/70tdpZ"/>
-        <updated>2022-02-20T12:16:40.382Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tdpZ">코로나, 오미크론을 '단순한 감기'라고 인식하면 안되는 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['발끈' 하던 사춘기 아들, 아빠 퇴근만 기다리는 이유]]></title>
