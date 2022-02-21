@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-21T14:13:36.307Z</updated>
+    <updated>2022-02-21T15:15:26.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[청년희망적금 5부제가입]]></title>
-        <id>https://alook.so/posts/w9tP84</id>
-        <link href="https://alook.so/posts/w9tP84"/>
-        <updated>2022-02-21T14:11:36.877Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tP84">청년희망적금 5부제가입</a>]]></content>
+        <title type="html"><![CDATA[과장님 생신]]></title>
+        <id>https://alook.so/posts/mbtXly</id>
+        <link href="https://alook.so/posts/mbtXly"/>
+        <updated>2022-02-21T15:13:29.464Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtXly">과장님 생신</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[체력이 있어야 실행한다? 의지가 있어야 실행한다?]]></title>
-        <id>https://alook.so/posts/xltkdm</id>
-        <link href="https://alook.so/posts/xltkdm"/>
-        <updated>2022-02-21T14:11:36.879Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltkdm">체력이 있어야 실행한다? 의지가 있어야 실행한다?</a>]]></content>
+        <title type="html"><![CDATA[저는 어떤 일을 하면 좋을까요?]]></title>
+        <id>https://alook.so/posts/54teme</id>
+        <link href="https://alook.so/posts/54teme"/>
+        <updated>2022-02-21T15:13:29.465Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54teme">저는 어떤 일을 하면 좋을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스스로 생각해보기 10]]></title>
-        <id>https://alook.so/posts/yEt4vl</id>
-        <link href="https://alook.so/posts/yEt4vl"/>
-        <updated>2022-02-21T14:11:36.880Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt4vl">스스로 생각해보기 10</a>]]></content>
+        <title type="html"><![CDATA[자존감에 대하여]]></title>
+        <id>https://alook.so/posts/q1tLxM</id>
+        <link href="https://alook.so/posts/q1tLxM"/>
+        <updated>2022-02-21T15:13:29.469Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tLxM">자존감에 대하여</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스스로 생각해보기 9]]></title>
-        <id>https://alook.so/posts/njt7bp</id>
-        <link href="https://alook.so/posts/njt7bp"/>
-        <updated>2022-02-21T14:11:36.880Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt7bp">스스로 생각해보기 9</a>]]></content>
+        <title type="html"><![CDATA[초보주리님들 청개구리주식스쿨에서 주식을 시작해 보세요]]></title>
+        <id>https://alook.so/posts/DjtWbD</id>
+        <link href="https://alook.so/posts/DjtWbD"/>
+        <updated>2022-02-21T15:13:29.470Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtWbD">초보주리님들 청개구리주식스쿨에서 주식을 시작해 보세요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[43세 자영업자의 오늘......]]></title>
-        <id>https://alook.so/posts/3wtPn5</id>
-        <link href="https://alook.so/posts/3wtPn5"/>
-        <updated>2022-02-21T14:11:36.882Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtPn5">43세 자영업자의 오늘......</a>]]></content>
+        <title type="html"><![CDATA[경제에 대해]]></title>
+        <id>https://alook.so/posts/YytnWj</id>
+        <link href="https://alook.so/posts/YytnWj"/>
+        <updated>2022-02-21T15:13:29.472Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytnWj">경제에 대해</a>]]></content>
     </entry>
 </feed>
