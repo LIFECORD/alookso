@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-21T12:20:50.502Z</updated>
+    <updated>2022-02-21T13:17:59.234Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[덕용 구입]]></title>
-        <id>https://alook.so/posts/rDtGlb</id>
-        <link href="https://alook.so/posts/rDtGlb"/>
-        <updated>2022-02-21T12:18:41.584Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtGlb">덕용 구입</a>]]></content>
+        <title type="html"><![CDATA[우연히 만난 얼룩소]]></title>
+        <id>https://alook.so/posts/o7t6VP</id>
+        <link href="https://alook.so/posts/o7t6VP"/>
+        <updated>2022-02-21T13:16:00.587Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6VP">우연히 만난 얼룩소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무료자료 배포중]]></title>
-        <id>https://alook.so/posts/Zktqnb</id>
-        <link href="https://alook.so/posts/Zktqnb"/>
-        <updated>2022-02-21T12:18:41.588Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktqnb">무료자료 배포중</a>]]></content>
+        <title type="html"><![CDATA[지금 바라는 것]]></title>
+        <id>https://alook.so/posts/lat4GK</id>
+        <link href="https://alook.so/posts/lat4GK"/>
+        <updated>2022-02-21T13:16:00.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat4GK">지금 바라는 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음이 지칠 때 무얼 하시나요?]]></title>
-        <id>https://alook.so/posts/J5tKJ8</id>
-        <link href="https://alook.so/posts/J5tKJ8"/>
-        <updated>2022-02-21T12:18:41.588Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tKJ8">마음이 지칠 때 무얼 하시나요?</a>]]></content>
+        <title type="html"><![CDATA[2월21일 월요일]]></title>
+        <id>https://alook.so/posts/92tVbv</id>
+        <link href="https://alook.so/posts/92tVbv"/>
+        <updated>2022-02-21T13:16:00.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tVbv">2월21일 월요일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[처음 접했던 투자 "주식"]]></title>
-        <id>https://alook.so/posts/potlB7</id>
-        <link href="https://alook.so/posts/potlB7"/>
-        <updated>2022-02-21T12:18:41.590Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potlB7">처음 접했던 투자 "주식" </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 주식 입문기]]></title>
-        <id>https://alook.so/posts/eVtwpx</id>
-        <link href="https://alook.so/posts/eVtwpx"/>
-        <updated>2022-02-21T12:18:41.590Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtwpx">나의 주식 입문기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄심리]]></title>
-        <id>https://alook.so/posts/PvtEq4</id>
-        <link href="https://alook.so/posts/PvtEq4"/>
-        <updated>2022-02-21T12:18:41.593Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtEq4">범죄심리 </a>]]></content>
+        <title type="html"><![CDATA[인생 살아가다 지칠때..]]></title>
+        <id>https://alook.so/posts/KmtOxz</id>
+        <link href="https://alook.so/posts/KmtOxz"/>
+        <updated>2022-02-21T13:16:00.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtOxz">인생 살아가다 지칠때..</a>]]></content>
     </entry>
 </feed>
