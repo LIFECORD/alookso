@@ -2,49 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-21T10:14:43.122Z</updated>
+    <updated>2022-02-21T11:12:00.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[연명의료 중단, 결정권 누구에게 있어야 할까]]></title>
-        <id>https://alook.so/posts/WLtvO3</id>
-        <link href="https://alook.so/posts/WLtvO3"/>
-        <updated>2022-02-21T10:12:53.858Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtvO3">연명의료 중단, 결정권 누구에게 있어야 할까</a>]]></content>
+        <title type="html"><![CDATA[영화 <윤희에게>, 곧 끝나갈 겨울과 다가오는 봄을 생각하며]]></title>
+        <id>https://alook.so/posts/vKtpyE</id>
+        <link href="https://alook.so/posts/vKtpyE"/>
+        <updated>2022-02-21T11:09:54.465Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtpyE">영화 &lt;윤희에게&gt;, 곧 끝나갈 겨울과 다가오는 봄을 생각하며</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이렇게나 많은 따봉숫자가 안보이시나요?]]></title>
-        <id>https://alook.so/posts/0ktxdO</id>
-        <link href="https://alook.so/posts/0ktxdO"/>
-        <updated>2022-02-21T10:12:53.859Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktxdO">이렇게나 많은 따봉숫자가 안보이시나요?</a>]]></content>
+        <title type="html"><![CDATA[연애를 하며 가끔은 진지한 질문을 하는 게 관계 발전에 좋다]]></title>
+        <id>https://alook.so/posts/mbtXOE</id>
+        <link href="https://alook.so/posts/mbtXOE"/>
+        <updated>2022-02-21T11:09:54.466Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtXOE">연애를 하며 가끔은 진지한 질문을 하는 게 관계 발전에 좋다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[걱정]]></title>
-        <id>https://alook.so/posts/M9tJ0j</id>
-        <link href="https://alook.so/posts/M9tJ0j"/>
-        <updated>2022-02-21T10:12:53.864Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tJ0j">걱정</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘(21일) 대선 토론회 함께 얘기 나눠보아요! [토론소]]]></title>
-        <id>https://alook.so/posts/XBtaGz</id>
-        <link href="https://alook.so/posts/XBtaGz"/>
-        <updated>2022-02-21T10:12:53.865Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtaGz">오늘(21일) 대선 토론회 함께 얘기 나눠보아요! [토론소]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소주값 상승? 소주로 반주 못할까?]]></title>
-        <id>https://alook.so/posts/w9tPbq</id>
-        <link href="https://alook.so/posts/w9tPbq"/>
-        <updated>2022-02-21T10:12:53.866Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tPbq">소주값 상승? 소주로 반주 못할까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소모품의 수명이 다하기전에 결단하시길!]]></title>
-        <id>https://alook.so/posts/xltknE</id>
-        <link href="https://alook.so/posts/xltknE"/>
-        <updated>2022-02-21T10:12:53.867Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltknE">소모품의 수명이 다하기전에 결단하시길!</a>]]></content>
+        <title type="html"><![CDATA[이거는 진짜 위험해요.]]></title>
+        <id>https://alook.so/posts/DjtW7E</id>
+        <link href="https://alook.so/posts/DjtW7E"/>
+        <updated>2022-02-21T11:09:54.467Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtW7E">이거는 진짜 위험해요.</a>]]></content>
     </entry>
 </feed>
