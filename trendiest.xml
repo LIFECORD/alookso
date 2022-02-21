@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-21T13:17:59.230Z</updated>
+    <updated>2022-02-21T14:13:36.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[5시에 기상이란]]></title>
+        <id>https://alook.so/posts/q1tLEz</id>
+        <link href="https://alook.so/posts/q1tLEz"/>
+        <updated>2022-02-21T14:11:45.250Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tLEz">5시에 기상이란</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정서적 이혼 상태]]></title>
+        <id>https://alook.so/posts/kZtoVr</id>
+        <link href="https://alook.so/posts/kZtoVr"/>
+        <updated>2022-02-21T14:11:45.251Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtoVr">정서적 이혼 상태</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸과 마음은 이어져 있는 것 같아요.]]></title>
+        <id>https://alook.so/posts/2xtPb7</id>
+        <link href="https://alook.so/posts/2xtPb7"/>
+        <updated>2022-02-21T14:11:45.252Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtPb7">몸과 마음은 이어져 있는 것 같아요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심상정의 5년 전 1분, 그리고 오늘의 1분]]></title>
         <id>https://alook.so/posts/bWtRlk</id>
@@ -13,18 +34,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtRlk">심상정의 5년 전 1분, 그리고 오늘의 1분</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열 후보는 세금을 왜 걷는지 알고 있을까요?]]></title>
-        <id>https://alook.so/posts/WLtvZa</id>
-        <link href="https://alook.so/posts/WLtvZa"/>
-        <updated>2022-02-21T13:16:08.441Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtvZa">윤석열 후보는 세금을 왜 걷는지 알고 있을까요? </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[저는 안철수 후보가 돋보였던 토론 같습니다.]]></title>
         <id>https://alook.so/posts/BatRE6</id>
         <link href="https://alook.so/posts/BatRE6"/>
         <updated>2022-02-21T13:16:08.441Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatRE6">저는 안철수 후보가 돋보였던 토론 같습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 후보는 세금을 왜 걷는지 알고 있을까요?]]></title>
+        <id>https://alook.so/posts/WLtvZa</id>
+        <link href="https://alook.so/posts/WLtvZa"/>
+        <updated>2022-02-21T13:16:08.441Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtvZa">윤석열 후보는 세금을 왜 걷는지 알고 있을까요? </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[특이한 광경: 이재명과 안철수]]></title>
@@ -83,25 +104,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktRvo">퇴사하고 소를 키우겠다는 동료가 남 일 같지 않았다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🤔 어떤 대통령 후보의 '120시간']]></title>
-        <id>https://alook.so/posts/OEt9wx</id>
-        <link href="https://alook.so/posts/OEt9wx"/>
-        <updated>2022-02-21T13:16:08.460Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt9wx">🤔 어떤 대통령 후보의 '120시간'</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[숨겨진 이벤트: 지방선거와 선거구 획정]]></title>
         <id>https://alook.so/posts/1RtK2M</id>
         <link href="https://alook.so/posts/1RtK2M"/>
         <updated>2022-02-21T05:11:35.160Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtK2M">숨겨진 이벤트: 지방선거와 선거구 획정</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국 체육의 문제점]]></title>
-        <id>https://alook.so/posts/Yytrov</id>
-        <link href="https://alook.so/posts/Yytrov"/>
-        <updated>2022-02-21T13:16:08.463Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytrov">대한민국 체육의 문제점</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 글을 쓴다는 것은 굉장한 일]]></title>
@@ -111,31 +118,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tWeM">[늦은 아침 생각] 글을 쓴다는 것은 굉장한 일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[환경을 위하는 마음엔 인센티브를 바라면 안될까요?]]></title>
-        <id>https://alook.so/posts/1Rtd7l</id>
-        <link href="https://alook.so/posts/1Rtd7l"/>
-        <updated>2022-02-21T13:16:08.465Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtd7l">환경을 위하는 마음엔 인센티브를 바라면 안될까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여성가족부, 정말 반헌법적 기관일까?]]></title>
-        <id>https://alook.so/posts/o7toBd</id>
-        <link href="https://alook.so/posts/o7toBd"/>
-        <updated>2022-02-21T01:56:12.549Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7toBd">여성가족부, 정말 반헌법적 기관일까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[지하철 틈에 빠질까봐 고민해보신 적 있으신가요?]]></title>
         <id>https://alook.so/posts/1Rtdjd</id>
         <link href="https://alook.so/posts/1Rtdjd"/>
         <updated>2022-02-21T01:56:12.550Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtdjd">지하철 틈에 빠질까봐 고민해보신 적 있으신가요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내외 ESG 경영의 맥락에 대해 알아보자 - 국내 기업들의 환골탈태를 기원하며.]]></title>
-        <id>https://alook.so/posts/xlt3K7</id>
-        <link href="https://alook.so/posts/xlt3K7"/>
-        <updated>2022-02-21T13:16:08.469Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt3K7">국내외 ESG 경영의 맥락에 대해 알아보자 - 국내 기업들의 환골탈태를 기원하며.</a>]]></content>
     </entry>
 </feed>

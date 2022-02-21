@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-21T13:17:59.234Z</updated>
+    <updated>2022-02-21T14:13:36.307Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우연히 만난 얼룩소]]></title>
-        <id>https://alook.so/posts/o7t6VP</id>
-        <link href="https://alook.so/posts/o7t6VP"/>
-        <updated>2022-02-21T13:16:00.587Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6VP">우연히 만난 얼룩소</a>]]></content>
+        <title type="html"><![CDATA[청년희망적금 5부제가입]]></title>
+        <id>https://alook.so/posts/w9tP84</id>
+        <link href="https://alook.so/posts/w9tP84"/>
+        <updated>2022-02-21T14:11:36.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tP84">청년희망적금 5부제가입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지금 바라는 것]]></title>
-        <id>https://alook.so/posts/lat4GK</id>
-        <link href="https://alook.so/posts/lat4GK"/>
-        <updated>2022-02-21T13:16:00.590Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat4GK">지금 바라는 것</a>]]></content>
+        <title type="html"><![CDATA[체력이 있어야 실행한다? 의지가 있어야 실행한다?]]></title>
+        <id>https://alook.so/posts/xltkdm</id>
+        <link href="https://alook.so/posts/xltkdm"/>
+        <updated>2022-02-21T14:11:36.879Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltkdm">체력이 있어야 실행한다? 의지가 있어야 실행한다?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2월21일 월요일]]></title>
-        <id>https://alook.so/posts/92tVbv</id>
-        <link href="https://alook.so/posts/92tVbv"/>
-        <updated>2022-02-21T13:16:00.590Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tVbv">2월21일 월요일</a>]]></content>
+        <title type="html"><![CDATA[스스로 생각해보기 10]]></title>
+        <id>https://alook.so/posts/yEt4vl</id>
+        <link href="https://alook.so/posts/yEt4vl"/>
+        <updated>2022-02-21T14:11:36.880Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt4vl">스스로 생각해보기 10</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인생 살아가다 지칠때..]]></title>
-        <id>https://alook.so/posts/KmtOxz</id>
-        <link href="https://alook.so/posts/KmtOxz"/>
-        <updated>2022-02-21T13:16:00.590Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtOxz">인생 살아가다 지칠때..</a>]]></content>
+        <title type="html"><![CDATA[스스로 생각해보기 9]]></title>
+        <id>https://alook.so/posts/njt7bp</id>
+        <link href="https://alook.so/posts/njt7bp"/>
+        <updated>2022-02-21T14:11:36.880Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt7bp">스스로 생각해보기 9</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[43세 자영업자의 오늘......]]></title>
+        <id>https://alook.so/posts/3wtPn5</id>
+        <link href="https://alook.so/posts/3wtPn5"/>
+        <updated>2022-02-21T14:11:36.882Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtPn5">43세 자영업자의 오늘......</a>]]></content>
     </entry>
 </feed>
