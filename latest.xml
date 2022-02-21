@@ -2,42 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-21T16:17:00.197Z</updated>
+    <updated>2022-02-21T17:14:19.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[맨몸운동]]></title>
-        <id>https://alook.so/posts/ZktqLX</id>
-        <link href="https://alook.so/posts/ZktqLX"/>
-        <updated>2022-02-21T16:14:58.281Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktqLX">맨몸운동</a>]]></content>
+        <title type="html"><![CDATA[몸이  아플때]]></title>
+        <id>https://alook.so/posts/E7tDDD</id>
+        <link href="https://alook.so/posts/E7tDDD"/>
+        <updated>2022-02-21T17:12:20.218Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tDDD">몸이  아플때 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[객관적으로 나의 인생을 돌아보기 (과거~현재)]]></title>
-        <id>https://alook.so/posts/dztVWO</id>
-        <link href="https://alook.so/posts/dztVWO"/>
-        <updated>2022-02-21T16:14:58.283Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztVWO">객관적으로 나의 인생을 돌아보기 (과거~현재)</a>]]></content>
+        <title type="html"><![CDATA[자본가와 프롤레타리아, 그리고 그 경계]]></title>
+        <id>https://alook.so/posts/lat44d</id>
+        <link href="https://alook.so/posts/lat44d"/>
+        <updated>2022-02-21T17:12:20.221Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat44d">자본가와 프롤레타리아, 그리고 그 경계</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[회사가기 싫어요]]></title>
-        <id>https://alook.so/posts/PvtE10</id>
-        <link href="https://alook.so/posts/PvtE10"/>
-        <updated>2022-02-21T16:14:58.287Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtE10">회사가기 싫어요</a>]]></content>
+        <title type="html"><![CDATA[자영업자로 몸과마음이 지쳤어요]]></title>
+        <id>https://alook.so/posts/92tVV2</id>
+        <link href="https://alook.so/posts/92tVV2"/>
+        <updated>2022-02-21T17:12:20.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tVV2">자영업자로 몸과마음이 지쳤어요 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에 처음 방문해서]]></title>
-        <id>https://alook.so/posts/zvtx35</id>
-        <link href="https://alook.so/posts/zvtx35"/>
-        <updated>2022-02-21T16:14:58.289Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtx35">얼룩소에 처음 방문해서</a>]]></content>
+        <title type="html"><![CDATA[나의 입시 일기]]></title>
+        <id>https://alook.so/posts/mbtXXZ</id>
+        <link href="https://alook.so/posts/mbtXXZ"/>
+        <updated>2022-02-21T17:12:20.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtXXZ">나의 입시 일기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[눈은 졸린데 잘수가 없다...]]></title>
-        <id>https://alook.so/posts/2xtPwG</id>
-        <link href="https://alook.so/posts/2xtPwG"/>
-        <updated>2022-02-21T16:14:58.295Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtPwG">눈은 졸린데 잘수가 없다...</a>]]></content>
+        <title type="html"><![CDATA[사람이 곧 힘인 시대]]></title>
+        <id>https://alook.so/posts/q1tLLv</id>
+        <link href="https://alook.so/posts/q1tLLv"/>
+        <updated>2022-02-21T17:12:20.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tLLv">사람이 곧 힘인 시대</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑에 대한 단상]]></title>
+        <id>https://alook.so/posts/DjtWW4</id>
+        <link href="https://alook.so/posts/DjtWW4"/>
+        <updated>2022-02-21T17:12:20.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtWW4">사랑에 대한 단상</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[휴먼스테인에 대한 단상]]></title>
+        <id>https://alook.so/posts/1RtKKa</id>
+        <link href="https://alook.so/posts/1RtKKa"/>
+        <updated>2022-02-21T17:12:20.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtKKa">휴먼스테인에 대한 단상</a>]]></content>
     </entry>
 </feed>
