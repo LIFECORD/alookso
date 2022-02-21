@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-21T04:16:44.002Z</updated>
+    <updated>2022-02-21T05:13:28.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[숨겨진 이벤트: 지방선거와 선거구 획정]]></title>
+        <id>https://alook.so/posts/1RtK2M</id>
+        <link href="https://alook.so/posts/1RtK2M"/>
+        <updated>2022-02-21T05:11:35.160Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtK2M">숨겨진 이벤트: 지방선거와 선거구 획정</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 글을 쓴다는 것은 굉장한 일]]></title>
+        <id>https://alook.so/posts/70tWeM</id>
+        <link href="https://alook.so/posts/70tWeM"/>
+        <updated>2022-02-21T05:11:35.160Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tWeM">[늦은 아침 생각] 글을 쓴다는 것은 굉장한 일</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Add-on] 윤석열 검색량이 왜 저때 많을까? - 쉽게 사용 가능한 텍스트 분석 활용]]></title>
         <id>https://alook.so/posts/0ktRWo</id>
@@ -13,18 +27,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktRWo">[Add-on] 윤석열 검색량이 왜 저때 많을까? - 쉽게 사용 가능한 텍스트 분석 활용</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아무 대가 없이 도와준 건 맞는데..]]></title>
-        <id>https://alook.so/posts/70td4j</id>
-        <link href="https://alook.so/posts/70td4j"/>
-        <updated>2022-02-21T04:14:45.827Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70td4j">아무 대가 없이 도와준 건 맞는데..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애기를 좋아하지만]]></title>
-        <id>https://alook.so/posts/o7t6yl</id>
-        <link href="https://alook.so/posts/o7t6yl"/>
-        <updated>2022-02-21T03:12:21.728Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6yl">애기를 좋아하지만</a>]]></content>
+        <title type="html"><![CDATA[지금 주변의 사람들에게 집중해요.]]></title>
+        <id>https://alook.so/posts/WLtEwb</id>
+        <link href="https://alook.so/posts/WLtEwb"/>
+        <updated>2022-02-21T05:11:35.160Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtEwb">지금 주변의 사람들에게 집중해요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선후보들이 꼽은 책]]></title>
@@ -55,13 +62,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvtbjx">[무드Q] 로드 무비 - 길 위의 인생</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 국내 ESG 경영은 왜 이 모양일까 - 국내 기업들의 환골탈태를 기원하며.]]></title>
-        <id>https://alook.so/posts/4XtDPx</id>
-        <link href="https://alook.so/posts/4XtDPx"/>
-        <updated>2022-02-21T04:14:45.837Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtDPx">답글: 국내 ESG 경영은 왜 이 모양일까 - 국내 기업들의 환골탈태를 기원하며.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[흡연자와 함께 산다]]></title>
         <id>https://alook.so/posts/rDtmBq</id>
         <link href="https://alook.so/posts/rDtmBq"/>
@@ -76,32 +76,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtDZ0">세상을 멈추게 만들었던 노부부의 꼭 잡은 두손</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[화실에 다닙니다 -1]]></title>
-        <id>https://alook.so/posts/Zkt5vx</id>
-        <link href="https://alook.so/posts/Zkt5vx"/>
-        <updated>2022-02-20T17:10:44.403Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt5vx">화실에 다닙니다 -1</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[코로나, 블록체인이 바꿔놓은 졸업식 풍경]]></title>
         <id>https://alook.so/posts/yEtWjL</id>
         <link href="https://alook.so/posts/yEtWjL"/>
         <updated>2022-02-20T15:11:33.928Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtWjL">코로나, 블록체인이 바꿔놓은 졸업식 풍경</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 쉬면서 뛰어요.]]></title>
-        <id>https://alook.so/posts/6Mtxk3</id>
-        <link href="https://alook.so/posts/6Mtxk3"/>
-        <updated>2022-02-21T04:14:45.847Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtxk3">우리 쉬면서 뛰어요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그냥 열심히 했는데 '좋아요 1000개' 달성!]]></title>
-        <id>https://alook.so/posts/latdWM</id>
-        <link href="https://alook.so/posts/latdWM"/>
-        <updated>2022-02-20T14:10:20.588Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latdWM">그냥 열심히 했는데 '좋아요 1000개' 달성!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[발렌타인데이 초콜릿의 달콤함과 씁쓸함.]]></title>
@@ -116,13 +95,6 @@
         <link href="https://alook.so/posts/Bat1eo"/>
         <updated>2022-02-20T11:10:13.287Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat1eo">인연을 만들지 못해 후회하고 있습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나의 소확행은?]]></title>
-        <id>https://alook.so/posts/q1tMqy</id>
-        <link href="https://alook.so/posts/q1tMqy"/>
-        <updated>2022-02-21T04:14:45.860Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tMqy">나의 소확행은?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[삼시세끼를 차리는 마음에 대해]]></title>
