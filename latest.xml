@@ -2,35 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-21T03:14:09.428Z</updated>
+    <updated>2022-02-21T04:16:43.981Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[정말 고생많이하셨네요]]></title>
-        <id>https://alook.so/posts/DjtW3b</id>
-        <link href="https://alook.so/posts/DjtW3b"/>
-        <updated>2022-02-21T03:12:13.414Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtW3b">정말 고생많이하셨네요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 글을 쓴다는 것은 굉장한 일]]></title>
-        <id>https://alook.so/posts/70tWeM</id>
-        <link href="https://alook.so/posts/70tWeM"/>
-        <updated>2022-02-21T03:12:13.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tWeM">[늦은 아침 생각] 글을 쓴다는 것은 굉장한 일</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바로 세우기]]></title>
-        <id>https://alook.so/posts/jdtydP</id>
-        <link href="https://alook.so/posts/jdtydP"/>
-        <updated>2022-02-21T03:12:13.416Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtydP">바로 세우기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지자체의 공공시설의 운영 및 사업]]></title>
-        <id>https://alook.so/posts/Zktqan</id>
-        <link href="https://alook.so/posts/Zktqan"/>
-        <updated>2022-02-21T03:12:13.417Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktqan">지자체의 공공시설의 운영 및 사업</a>]]></content>
+        <title type="html"><![CDATA[눈치]]></title>
+        <id>https://alook.so/posts/VntZWO</id>
+        <link href="https://alook.so/posts/VntZWO"/>
+        <updated>2022-02-21T04:14:36.876Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntZWO">눈치</a>]]></content>
     </entry>
 </feed>
