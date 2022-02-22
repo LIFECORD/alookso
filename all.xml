@@ -2,35 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-22T16:18:07.684Z</updated>
+    <updated>2022-02-22T17:17:06.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[엄마, 나 이제 뉴스기사 찾아 읽어! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/ZktELL</id>
-        <link href="https://alook.so/posts/ZktELL"/>
-        <updated>2022-02-22T16:16:10.366Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktELL">엄마, 나 이제 뉴스기사 찾아 읽어!</a>]]></content>
+        <title type="html"><![CDATA[급똥 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/bWtqeR</id>
+        <link href="https://alook.so/posts/bWtqeR"/>
+        <updated>2022-02-22T17:15:07.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtqeR">급똥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서먹한 엄마와 거친 남미로 떠났다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/dztLW8</id>
-        <link href="https://alook.so/posts/dztLW8"/>
-        <updated>2022-02-22T16:16:10.371Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztLW8">서먹한 엄마와 거친 남미로 떠났다</a>]]></content>
+        <title type="html"><![CDATA[코로나 확진 후 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/a0tPXX</id>
+        <link href="https://alook.so/posts/a0tPXX"/>
+        <updated>2022-02-22T17:15:07.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tPXX">코로나 확진 후</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[걱정됩니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/J5t1Z2</id>
-        <link href="https://alook.so/posts/J5t1Z2"/>
-        <updated>2022-02-22T16:16:10.372Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t1Z2">걱정됩니다</a>]]></content>
+        <title type="html"><![CDATA[다같이 놀자 동네 한바퀴 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/dztLZ8</id>
+        <link href="https://alook.so/posts/dztLZ8"/>
+        <updated>2022-02-22T17:15:07.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztLZ8">다같이 놀자 동네 한바퀴</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mbti로 채용불가 판정? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/potaR5</id>
-        <link href="https://alook.so/posts/potaR5"/>
-        <updated>2022-02-22T16:16:10.373Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potaR5">mbti로 채용불가 판정?</a>]]></content>
+        <title type="html"><![CDATA[스트레스 지수 테스트하는 법 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/potaY5</id>
+        <link href="https://alook.so/posts/potaY5"/>
+        <updated>2022-02-22T17:15:07.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potaY5">스트레스 지수 테스트하는 법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수면과 인생 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/eVtaom</id>
+        <link href="https://alook.so/posts/eVtaom"/>
+        <updated>2022-02-22T17:15:07.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtaom">수면과 인생</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1일 1지원 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/PvtVbp</id>
+        <link href="https://alook.so/posts/PvtVbp"/>
+        <updated>2022-02-22T17:15:07.454Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtVbp">1일 1지원</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아무것도 몰랐던 시절의 행복 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/VntMPk</id>
+        <link href="https://alook.so/posts/VntMPk"/>
+        <updated>2022-02-22T17:15:07.457Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntMPk">아무것도 몰랐던 시절의 행복</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 귀화해 1200억 번 스키 선수 미국으로 다시 돌아가나 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/zvtLmv</id>
+        <link href="https://alook.so/posts/zvtLmv"/>
+        <updated>2022-02-22T17:15:07.458Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtLmv">중국 귀화해 1200억 번 스키 선수 미국으로 다시 돌아가나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[군대판 정신병원, '그린캠프'를 아시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -40,18 +68,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt67X">군대판 정신병원, '그린캠프'를 아시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돌발성난청을 아시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/PvtV7q</id>
-        <link href="https://alook.so/posts/PvtV7q"/>
-        <updated>2022-02-22T16:16:18.284Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtV7q">돌발성난청을 아시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴사 결심 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/jdt4PE</id>
-        <link href="https://alook.so/posts/jdt4PE"/>
-        <updated>2022-02-22T14:11:20.347Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt4PE">퇴사 결심</a>]]></content>
+        <title type="html"><![CDATA[얼룩소.. 희노애락을 주는곳.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/kZtRPp</id>
+        <link href="https://alook.so/posts/kZtRPp"/>
+        <updated>2022-02-22T17:15:16.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtRPp">얼룩소.. 희노애락을 주는곳..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[발달지연이란 이름으로 8년째 케어중입니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -103,13 +124,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tJP8">두 가지 질문 - 답글: '이대남'과 '이대녀'의 표심은 어디서 갈리나 [대선서베이]</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나의 출근을 방해하는 장애인단체 시위 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/VntZ10</id>
-        <link href="https://alook.so/posts/VntZ10"/>
-        <updated>2022-02-22T04:14:08.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntZ10">나의 출근을 방해하는 장애인단체 시위</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[삼년쓰던 스마트폰, 배터리를 교체하다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/LKt8OK</id>
         <link href="https://alook.so/posts/LKt8OK"/>
@@ -117,11 +131,39 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt8OK">삼년쓰던 스마트폰, 배터리를 교체하다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[나의 출근을 방해하는 장애인단체 시위 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/VntZ10</id>
+        <link href="https://alook.so/posts/VntZ10"/>
+        <updated>2022-02-22T04:14:08.152Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntZ10">나의 출근을 방해하는 장애인단체 시위</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/o7t6mz</id>
+        <link href="https://alook.so/posts/o7t6mz"/>
+        <updated>2022-02-22T17:15:16.061Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6mz">평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나.. </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[심상정의 5년 전 1분, 그리고 오늘의 1분 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/bWtRlk</id>
         <link href="https://alook.so/posts/bWtRlk"/>
         <updated>2022-02-21T13:16:08.441Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtRlk">심상정의 5년 전 1분, 그리고 오늘의 1분</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저는 안철수 후보가 돋보였던 토론 같습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/BatRE6</id>
+        <link href="https://alook.so/posts/BatRE6"/>
+        <updated>2022-02-22T17:15:16.063Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatRE6">저는 안철수 후보가 돋보였던 토론 같습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🤔 어떤 대통령 후보의 '120시간' (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/OEt9wx</id>
+        <link href="https://alook.so/posts/OEt9wx"/>
+        <updated>2022-02-22T17:15:16.064Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt9wx">🤔 어떤 대통령 후보의 '120시간'</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선 토론회, 얼룩커들의 후기 [토론소] (alookso ─ alookso)]]></title>

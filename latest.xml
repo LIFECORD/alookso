@@ -2,35 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T16:18:07.674Z</updated>
+    <updated>2022-02-22T17:17:06.106Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[엄마, 나 이제 뉴스기사 찾아 읽어!]]></title>
-        <id>https://alook.so/posts/ZktELL</id>
-        <link href="https://alook.so/posts/ZktELL"/>
-        <updated>2022-02-22T16:16:10.366Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktELL">엄마, 나 이제 뉴스기사 찾아 읽어!</a>]]></content>
+        <title type="html"><![CDATA[급똥]]></title>
+        <id>https://alook.so/posts/bWtqeR</id>
+        <link href="https://alook.so/posts/bWtqeR"/>
+        <updated>2022-02-22T17:15:07.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtqeR">급똥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[서먹한 엄마와 거친 남미로 떠났다]]></title>
-        <id>https://alook.so/posts/dztLW8</id>
-        <link href="https://alook.so/posts/dztLW8"/>
-        <updated>2022-02-22T16:16:10.371Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztLW8">서먹한 엄마와 거친 남미로 떠났다</a>]]></content>
+        <title type="html"><![CDATA[코로나 확진 후]]></title>
+        <id>https://alook.so/posts/a0tPXX</id>
+        <link href="https://alook.so/posts/a0tPXX"/>
+        <updated>2022-02-22T17:15:07.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tPXX">코로나 확진 후</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[걱정됩니다]]></title>
-        <id>https://alook.so/posts/J5t1Z2</id>
-        <link href="https://alook.so/posts/J5t1Z2"/>
-        <updated>2022-02-22T16:16:10.372Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t1Z2">걱정됩니다</a>]]></content>
+        <title type="html"><![CDATA[다같이 놀자 동네 한바퀴]]></title>
+        <id>https://alook.so/posts/dztLZ8</id>
+        <link href="https://alook.so/posts/dztLZ8"/>
+        <updated>2022-02-22T17:15:07.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztLZ8">다같이 놀자 동네 한바퀴</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[mbti로 채용불가 판정?]]></title>
-        <id>https://alook.so/posts/potaR5</id>
-        <link href="https://alook.so/posts/potaR5"/>
-        <updated>2022-02-22T16:16:10.373Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potaR5">mbti로 채용불가 판정?</a>]]></content>
+        <title type="html"><![CDATA[스트레스 지수 테스트하는 법]]></title>
+        <id>https://alook.so/posts/potaY5</id>
+        <link href="https://alook.so/posts/potaY5"/>
+        <updated>2022-02-22T17:15:07.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potaY5">스트레스 지수 테스트하는 법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[수면과 인생]]></title>
+        <id>https://alook.so/posts/eVtaom</id>
+        <link href="https://alook.so/posts/eVtaom"/>
+        <updated>2022-02-22T17:15:07.453Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtaom">수면과 인생</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1일 1지원]]></title>
+        <id>https://alook.so/posts/PvtVbp</id>
+        <link href="https://alook.so/posts/PvtVbp"/>
+        <updated>2022-02-22T17:15:07.454Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtVbp">1일 1지원</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아무것도 몰랐던 시절의 행복]]></title>
+        <id>https://alook.so/posts/VntMPk</id>
+        <link href="https://alook.so/posts/VntMPk"/>
+        <updated>2022-02-22T17:15:07.457Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntMPk">아무것도 몰랐던 시절의 행복</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국 귀화해 1200억 번 스키 선수 미국으로 다시 돌아가나]]></title>
+        <id>https://alook.so/posts/zvtLmv</id>
+        <link href="https://alook.so/posts/zvtLmv"/>
+        <updated>2022-02-22T17:15:07.458Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtLmv">중국 귀화해 1200억 번 스키 선수 미국으로 다시 돌아가나</a>]]></content>
     </entry>
 </feed>
