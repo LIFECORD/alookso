@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T03:14:04.852Z</updated>
+    <updated>2022-02-22T04:15:59.579Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[멈춰있다 생각될 때]]></title>
-        <id>https://alook.so/posts/WLtvdG</id>
-        <link href="https://alook.so/posts/WLtvdG"/>
-        <updated>2022-02-22T03:11:55.016Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtvdG">멈춰있다 생각될 때 </a>]]></content>
+        <title type="html"><![CDATA[미국주식 비트코인]]></title>
+        <id>https://alook.so/posts/xltk05</id>
+        <link href="https://alook.so/posts/xltk05"/>
+        <updated>2022-02-22T04:14:00.274Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltk05">미국주식 비트코인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[혹시 블로그 초보(블린이)분들 있나요?]]></title>
-        <id>https://alook.so/posts/M9tJD8</id>
-        <link href="https://alook.so/posts/M9tJD8"/>
-        <updated>2022-02-22T03:11:55.020Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tJD8">혹시 블로그 초보(블린이)분들 있나요?</a>]]></content>
+        <title type="html"><![CDATA[18살고딩의인생이야기]]></title>
+        <id>https://alook.so/posts/kZtoWn</id>
+        <link href="https://alook.so/posts/kZtoWn"/>
+        <updated>2022-02-22T04:14:00.274Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtoWn">18살고딩의인생이야기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30대  쌓아온 부업거리 1화 애드센스]]></title>
-        <id>https://alook.so/posts/w9tPDp</id>
-        <link href="https://alook.so/posts/w9tPDp"/>
-        <updated>2022-02-22T03:11:55.021Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tPDp">30대  쌓아온 부업거리 1화 애드센스</a>]]></content>
+        <title type="html"><![CDATA[김치볶음밥]]></title>
+        <id>https://alook.so/posts/njt7qW</id>
+        <link href="https://alook.so/posts/njt7qW"/>
+        <updated>2022-02-22T04:14:00.277Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt7qW">김치볶음밥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부업금지에 대한 나의 생각]]></title>
-        <id>https://alook.so/posts/kZto9J</id>
-        <link href="https://alook.so/posts/kZto9J"/>
-        <updated>2022-02-22T03:11:55.023Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZto9J">부업금지에 대한 나의 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삶의 목표가 필요한이유]]></title>
-        <id>https://alook.so/posts/yEt42y</id>
-        <link href="https://alook.so/posts/yEt42y"/>
-        <updated>2022-02-22T03:11:55.024Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt42y">삶의 목표가 필요한이유</a>]]></content>
+        <title type="html"><![CDATA[스타벅스 주문실수]]></title>
+        <id>https://alook.so/posts/6MtM37</id>
+        <link href="https://alook.so/posts/6MtM37"/>
+        <updated>2022-02-22T04:14:00.278Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtM37">스타벅스 주문실수</a>]]></content>
     </entry>
 </feed>
