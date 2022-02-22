@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T04:15:59.579Z</updated>
+    <updated>2022-02-22T05:12:58.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[미국주식 비트코인]]></title>
-        <id>https://alook.so/posts/xltk05</id>
-        <link href="https://alook.so/posts/xltk05"/>
-        <updated>2022-02-22T04:14:00.274Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltk05">미국주식 비트코인</a>]]></content>
+        <title type="html"><![CDATA[MBTI에 대한 나의 생각]]></title>
+        <id>https://alook.so/posts/E7tDJV</id>
+        <link href="https://alook.so/posts/E7tDJV"/>
+        <updated>2022-02-22T05:10:50.225Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tDJV">MBTI에 대한 나의 생각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[18살고딩의인생이야기]]></title>
-        <id>https://alook.so/posts/kZtoWn</id>
-        <link href="https://alook.so/posts/kZtoWn"/>
-        <updated>2022-02-22T04:14:00.274Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtoWn">18살고딩의인생이야기</a>]]></content>
+        <title type="html"><![CDATA[분노 치유하기]]></title>
+        <id>https://alook.so/posts/lat468</id>
+        <link href="https://alook.so/posts/lat468"/>
+        <updated>2022-02-22T05:10:50.229Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat468">분노 치유하기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김치볶음밥]]></title>
-        <id>https://alook.so/posts/njt7qW</id>
-        <link href="https://alook.so/posts/njt7qW"/>
-        <updated>2022-02-22T04:14:00.277Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt7qW">김치볶음밥</a>]]></content>
+        <title type="html"><![CDATA[상속이 결국은 국가에 세금으로 헌납하는 신박한 제도?!]]></title>
+        <id>https://alook.so/posts/KmtO6b</id>
+        <link href="https://alook.so/posts/KmtO6b"/>
+        <updated>2022-02-22T05:10:50.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtO6b">상속이 결국은 국가에 세금으로 헌납하는 신박한 제도?!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스타벅스 주문실수]]></title>
-        <id>https://alook.so/posts/6MtM37</id>
-        <link href="https://alook.so/posts/6MtM37"/>
-        <updated>2022-02-22T04:14:00.278Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtM37">스타벅스 주문실수</a>]]></content>
+        <title type="html"><![CDATA[세상은 과연 따뜻한가]]></title>
+        <id>https://alook.so/posts/54teYp</id>
+        <link href="https://alook.so/posts/54teYp"/>
+        <updated>2022-02-22T05:10:50.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54teYp">세상은 과연 따뜻한가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돌아가신 할머니가 꿈에 자주나오는 이유는 뭘까요?]]></title>
+        <id>https://alook.so/posts/q1tLOY</id>
+        <link href="https://alook.so/posts/q1tLOY"/>
+        <updated>2022-02-22T05:10:50.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tLOY">돌아가신 할머니가 꿈에 자주나오는 이유는 뭘까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드디어 동생이 필요없다는 아이]]></title>
+        <id>https://alook.so/posts/DjtWj7</id>
+        <link href="https://alook.so/posts/DjtWj7"/>
+        <updated>2022-02-22T05:10:50.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtWj7">드디어 동생이 필요없다는 아이</a>]]></content>
     </entry>
 </feed>
