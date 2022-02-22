@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-22T22:13:35.677Z</updated>
+    <updated>2022-02-22T23:14:01.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이글이 읽혀질까요? ㅎㅎ]]></title>
+        <id>https://alook.so/posts/8WtmqW</id>
+        <link href="https://alook.so/posts/8WtmqW"/>
+        <updated>2022-02-22T23:12:07.185Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtmqW">이글이 읽혀질까요? ㅎㅎ</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자가진단 키트로 코피를 터뜨리다.]]></title>
         <id>https://alook.so/posts/1Rt1xj</id>
@@ -20,18 +27,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtyMR">층간 소음에 대해 어떻게 생각하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[군대판 정신병원, '그린캠프'를 아시나요?]]></title>
-        <id>https://alook.so/posts/rDt67X</id>
-        <link href="https://alook.so/posts/rDt67X"/>
-        <updated>2022-02-22T16:16:18.284Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt67X">군대판 정신병원, '그린캠프'를 아시나요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[얼룩소.. 희노애락을 주는곳..]]></title>
         <id>https://alook.so/posts/kZtRPp</id>
         <link href="https://alook.so/posts/kZtRPp"/>
         <updated>2022-02-22T17:15:16.044Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtRPp">얼룩소.. 희노애락을 주는곳..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[군대판 정신병원, '그린캠프'를 아시나요?]]></title>
+        <id>https://alook.so/posts/rDt67X</id>
+        <link href="https://alook.so/posts/rDt67X"/>
+        <updated>2022-02-22T16:16:18.284Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt67X">군대판 정신병원, '그린캠프'를 아시나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[발달지연이란 이름으로 8년째 케어중입니다.]]></title>
@@ -90,11 +97,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntZ10">나의 출근을 방해하는 장애인단체 시위</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나..]]></title>
-        <id>https://alook.so/posts/o7t6mz</id>
-        <link href="https://alook.so/posts/o7t6mz"/>
-        <updated>2022-02-22T22:11:43.237Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6mz">평균과 중위값의 차이 중소기업, 대기업 임금 격차로 설명되나.. </a>]]></content>
+        <title type="html"><![CDATA[삼년쓰던 스마트폰, 배터리를 교체하다]]></title>
+        <id>https://alook.so/posts/LKt8OK</id>
+        <link href="https://alook.so/posts/LKt8OK"/>
+        <updated>2022-02-22T23:12:07.213Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt8OK">삼년쓰던 스마트폰, 배터리를 교체하다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심상정의 5년 전 1분, 그리고 오늘의 1분]]></title>
@@ -102,12 +109,5 @@
         <link href="https://alook.so/posts/bWtRlk"/>
         <updated>2022-02-21T13:16:08.441Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtRlk">심상정의 5년 전 1분, 그리고 오늘의 1분</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🤔 어떤 대통령 후보의 '120시간']]></title>
-        <id>https://alook.so/posts/OEt9wx</id>
-        <link href="https://alook.so/posts/OEt9wx"/>
-        <updated>2022-02-22T22:11:43.239Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt9wx">🤔 어떤 대통령 후보의 '120시간'</a>]]></content>
     </entry>
 </feed>
