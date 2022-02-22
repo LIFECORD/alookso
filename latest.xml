@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T13:19:05.426Z</updated>
+    <updated>2022-02-22T14:13:18.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[그때 젊음이 그리운 걸까? 그때 시대가 그리운 걸까?]]></title>
-        <id>https://alook.so/posts/OEt73l</id>
-        <link href="https://alook.so/posts/OEt73l"/>
-        <updated>2022-02-22T13:17:05.135Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt73l">그때 젊음이 그리운 걸까? 그때 시대가 그리운 걸까?</a>]]></content>
+        <title type="html"><![CDATA[오늘처럼 내일도]]></title>
+        <id>https://alook.so/posts/J5t1V7</id>
+        <link href="https://alook.so/posts/J5t1V7"/>
+        <updated>2022-02-22T14:11:10.374Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t1V7">오늘처럼 내일도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이대남은 스윙보터다.]]></title>
-        <id>https://alook.so/posts/vKtkjo</id>
-        <link href="https://alook.so/posts/vKtkjo"/>
-        <updated>2022-02-22T13:17:05.140Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtkjo">이대남은 스윙보터다.</a>]]></content>
+        <title type="html"><![CDATA[저도 그렇게 생각했어요!]]></title>
+        <id>https://alook.so/posts/eVtaEb</id>
+        <link href="https://alook.so/posts/eVtaEb"/>
+        <updated>2022-02-22T14:11:10.377Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtaEb">저도 그렇게 생각했어요!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[행복]]></title>
-        <id>https://alook.so/posts/E7tvVE</id>
-        <link href="https://alook.so/posts/E7tvVE"/>
-        <updated>2022-02-22T13:17:05.140Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tvVE">행복</a>]]></content>
+        <title type="html"><![CDATA[결혼 전 알면 좋은 것들]]></title>
+        <id>https://alook.so/posts/VntMaX</id>
+        <link href="https://alook.so/posts/VntMaX"/>
+        <updated>2022-02-22T14:11:10.378Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntMaX">결혼 전 알면 좋은 것들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지금 이 순간에 얼룩소에서 활동하는 중입니다.]]></title>
-        <id>https://alook.so/posts/latmZn</id>
-        <link href="https://alook.so/posts/latmZn"/>
-        <updated>2022-02-22T13:17:05.141Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latmZn">지금 이 순간에 얼룩소에서 활동하는 중입니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시각장애인이 디지털 노마드에 관심을 갔는다는것]]></title>
-        <id>https://alook.so/posts/mbtyp0</id>
-        <link href="https://alook.so/posts/mbtyp0"/>
-        <updated>2022-02-22T13:17:05.142Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtyp0">시각장애인이 디지털 노마드에 관심을 갔는다는것</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소를 알고 시작한 이유.]]></title>
-        <id>https://alook.so/posts/DjtGxJ</id>
-        <link href="https://alook.so/posts/DjtGxJ"/>
-        <updated>2022-02-22T13:17:05.143Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtGxJ">얼룩소를 알고 시작한 이유.</a>]]></content>
+        <title type="html"><![CDATA[퇴사 결심도 쉽지는 않더라구요.]]></title>
+        <id>https://alook.so/posts/M9tjXz</id>
+        <link href="https://alook.so/posts/M9tjXz"/>
+        <updated>2022-02-22T14:11:10.379Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tjXz">퇴사 결심도 쉽지는 않더라구요.</a>]]></content>
     </entry>
 </feed>
