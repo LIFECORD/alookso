@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T14:13:18.139Z</updated>
+    <updated>2022-02-22T15:14:41.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘처럼 내일도]]></title>
-        <id>https://alook.so/posts/J5t1V7</id>
-        <link href="https://alook.so/posts/J5t1V7"/>
-        <updated>2022-02-22T14:11:10.374Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t1V7">오늘처럼 내일도</a>]]></content>
+        <title type="html"><![CDATA[좋아하는 것과 잘하는 것]]></title>
+        <id>https://alook.so/posts/VntMYW</id>
+        <link href="https://alook.so/posts/VntMYW"/>
+        <updated>2022-02-22T15:12:39.613Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntMYW">좋아하는 것과 잘하는 것</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저도 그렇게 생각했어요!]]></title>
-        <id>https://alook.so/posts/eVtaEb</id>
-        <link href="https://alook.so/posts/eVtaEb"/>
-        <updated>2022-02-22T14:11:10.377Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtaEb">저도 그렇게 생각했어요!</a>]]></content>
+        <title type="html"><![CDATA[나는 도대체 잘하는게 뭘까?]]></title>
+        <id>https://alook.so/posts/2xtjl5</id>
+        <link href="https://alook.so/posts/2xtjl5"/>
+        <updated>2022-02-22T15:12:39.615Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtjl5">나는 도대체 잘하는게 뭘까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[결혼 전 알면 좋은 것들]]></title>
-        <id>https://alook.so/posts/VntMaX</id>
-        <link href="https://alook.so/posts/VntMaX"/>
-        <updated>2022-02-22T14:11:10.378Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntMaX">결혼 전 알면 좋은 것들</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퇴사 결심도 쉽지는 않더라구요.]]></title>
-        <id>https://alook.so/posts/M9tjXz</id>
-        <link href="https://alook.so/posts/M9tjXz"/>
-        <updated>2022-02-22T14:11:10.379Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tjXz">퇴사 결심도 쉽지는 않더라구요.</a>]]></content>
+        <title type="html"><![CDATA[청년희망적금]]></title>
+        <id>https://alook.so/posts/4XtKda</id>
+        <link href="https://alook.so/posts/4XtKda"/>
+        <updated>2022-02-22T15:12:39.618Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtKda">청년희망적금</a>]]></content>
     </entry>
 </feed>
