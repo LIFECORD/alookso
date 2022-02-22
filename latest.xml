@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T06:15:31.491Z</updated>
+    <updated>2022-02-22T07:19:12.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[코로나 양성 판정..]]></title>
-        <id>https://alook.so/posts/DjtWnL</id>
-        <link href="https://alook.so/posts/DjtWnL"/>
-        <updated>2022-02-22T06:13:37.872Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtWnL">코로나 양성 판정..</a>]]></content>
+        <title type="html"><![CDATA[20,30대가 종잣돈 모을때 흔들리는 순간]]></title>
+        <id>https://alook.so/posts/4Xt7EW</id>
+        <link href="https://alook.so/posts/4Xt7EW"/>
+        <updated>2022-02-22T07:17:07.110Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt7EW">20,30대가 종잣돈 모을때 흔들리는 순간</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[초등학교 입학 준비]]></title>
-        <id>https://alook.so/posts/1RtK0e</id>
-        <link href="https://alook.so/posts/1RtK0e"/>
-        <updated>2022-02-22T06:13:37.874Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtK0e">초등학교 입학 준비 </a>]]></content>
+        <title type="html"><![CDATA[매일 열심히 다이어리를 쓰다.]]></title>
+        <id>https://alook.so/posts/w9tPJG</id>
+        <link href="https://alook.so/posts/w9tPJG"/>
+        <updated>2022-02-22T07:17:07.117Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tPJG">매일 열심히 다이어리를 쓰다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자기 충족적 예연 (근심,걱정,불안)]]></title>
-        <id>https://alook.so/posts/o7t6K7</id>
-        <link href="https://alook.so/posts/o7t6K7"/>
-        <updated>2022-02-22T06:13:37.875Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6K7">자기 충족적 예연 (근심,걱정,불안)</a>]]></content>
+        <title type="html"><![CDATA[대선 토론 불편함에 의해 집중력을 잃었다]]></title>
+        <id>https://alook.so/posts/RGtGrV</id>
+        <link href="https://alook.so/posts/RGtGrV"/>
+        <updated>2022-02-22T07:17:07.117Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtGrV">대선 토론 불편함에 의해 집중력을 잃었다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인구의 미래에 대해서 알아보자]]></title>
+        <id>https://alook.so/posts/kZtoZv</id>
+        <link href="https://alook.so/posts/kZtoZv"/>
+        <updated>2022-02-22T07:17:07.123Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtoZv">인구의 미래에 대해서 알아보자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스가 도대체 뭐길래?]]></title>
+        <id>https://alook.so/posts/BatRyq</id>
+        <link href="https://alook.so/posts/BatRyq"/>
+        <updated>2022-02-22T07:17:07.123Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatRyq">메타버스가 도대체 뭐길래?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[감정노동자]]></title>
+        <id>https://alook.so/posts/LKt8Dy</id>
+        <link href="https://alook.so/posts/LKt8Dy"/>
+        <updated>2022-02-22T07:17:07.125Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt8Dy">감정노동자</a>]]></content>
     </entry>
 </feed>
