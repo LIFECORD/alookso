@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T02:05:51.405Z</updated>
+    <updated>2022-02-22T02:32:30.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[중국 왜이럴까??]]></title>
-        <id>https://alook.so/posts/1RtK45</id>
-        <link href="https://alook.so/posts/1RtK45"/>
-        <updated>2022-02-22T02:03:52.375Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtK45">중국 왜이럴까??</a>]]></content>
+        <title type="html"><![CDATA[건강 검진에 대한 내 생각]]></title>
+        <id>https://alook.so/posts/w9tPep</id>
+        <link href="https://alook.so/posts/w9tPep"/>
+        <updated>2022-02-22T02:30:22.105Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tPep">건강 검진에 대한 내 생각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['40대 가장 묻지마 폭행' 20대 만취녀 무고죄 무혐의]]></title>
-        <id>https://alook.so/posts/o7t6OW</id>
-        <link href="https://alook.so/posts/o7t6OW"/>
-        <updated>2022-02-22T02:03:52.377Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t6OW">'40대 가장 묻지마 폭행' 20대 만취녀 무고죄 무혐의</a>]]></content>
+        <title type="html"><![CDATA[대선 후보 첫TV 토론을 보고..]]></title>
+        <id>https://alook.so/posts/kZto4J</id>
+        <link href="https://alook.so/posts/kZto4J"/>
+        <updated>2022-02-22T02:30:22.112Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZto4J">대선 후보 첫TV 토론을 보고..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[봄 누리기]]></title>
-        <id>https://alook.so/posts/rDtGL5</id>
-        <link href="https://alook.so/posts/rDtGL5"/>
-        <updated>2022-02-22T02:03:52.380Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtGL5">봄 누리기</a>]]></content>
+        <title type="html"><![CDATA[펜데믹과 미래]]></title>
+        <id>https://alook.so/posts/yEt4Xy</id>
+        <link href="https://alook.so/posts/yEt4Xy"/>
+        <updated>2022-02-22T02:30:22.112Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt4Xy">펜데믹과 미래</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다이어트]]></title>
-        <id>https://alook.so/posts/jdtyk9</id>
-        <link href="https://alook.so/posts/jdtyk9"/>
-        <updated>2022-02-22T02:03:52.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtyk9">다이어트 </a>]]></content>
+        <title type="html"><![CDATA[과연 이번 대선끝나면 어떻게될까??]]></title>
+        <id>https://alook.so/posts/BatROK</id>
+        <link href="https://alook.so/posts/BatROK"/>
+        <updated>2022-02-22T02:30:22.115Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatROK">과연 이번 대선끝나면 어떻게될까??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인공지능시대의 도래]]></title>
-        <id>https://alook.so/posts/a0tWw9</id>
-        <link href="https://alook.so/posts/a0tWw9"/>
-        <updated>2022-02-22T02:03:52.382Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tWw9">인공지능시대의 도래</a>]]></content>
+        <title type="html"><![CDATA[나약한 내 잘못이라는 생각]]></title>
+        <id>https://alook.so/posts/njt7EO</id>
+        <link href="https://alook.so/posts/njt7EO"/>
+        <updated>2022-02-22T02:30:22.115Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt7EO">나약한 내 잘못이라는 생각</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제 마음과 다르게 말과 표현이 서투네요..]]></title>
+        <id>https://alook.so/posts/6MtMor</id>
+        <link href="https://alook.so/posts/6MtMor"/>
+        <updated>2022-02-22T02:30:22.124Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtMor">제 마음과 다르게 말과 표현이 서투네요..</a>]]></content>
     </entry>
 </feed>
