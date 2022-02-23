@@ -2,29 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-23T03:14:31.369Z</updated>
+    <updated>2022-02-23T04:15:44.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[현 우크라이나 사태에 대한 키에프 언론의 통렬한 기고]]></title>
+        <id>https://alook.so/posts/bWtqWY</id>
+        <link href="https://alook.so/posts/bWtqWY"/>
+        <updated>2022-02-23T04:13:54.024Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtqWY">현 우크라이나 사태에 대한 키에프 언론의 통렬한 기고</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정부는 기업이 아니잖아요.]]></title>
+        <id>https://alook.so/posts/ZktEV3</id>
+        <link href="https://alook.so/posts/ZktEV3"/>
+        <updated>2022-02-23T04:13:54.027Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktEV3">정부는 기업이 아니잖아요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스타트업 김대표만 있나, 성령충만교회 김목사도 있겠지]]></title>
+        <id>https://alook.so/posts/vKtkqO</id>
+        <link href="https://alook.so/posts/vKtkqO"/>
+        <updated>2022-02-23T04:13:54.027Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtkqO">스타트업 김대표만 있나, 성령충만교회 김목사도 있겠지</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소의 알고리즘을 이해하고 싶다.]]></title>
         <id>https://alook.so/posts/4XtK3b</id>
         <link href="https://alook.so/posts/4XtK3b"/>
         <updated>2022-02-23T03:12:39.861Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtK3b">얼룩소의 알고리즘을 이해하고 싶다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저두 그런 생각을 합니다.]]></title>
-        <id>https://alook.so/posts/potaw2</id>
-        <link href="https://alook.so/posts/potaw2"/>
-        <updated>2022-02-23T02:04:34.243Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potaw2">저두 그런 생각을 합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전학온 친구들에게 텃새 고만 부리시고 ..]]></title>
-        <id>https://alook.so/posts/Kmtnjw</id>
-        <link href="https://alook.so/posts/Kmtnjw"/>
-        <updated>2022-02-23T02:04:34.244Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtnjw">전학온 친구들에게 텃새 고만 부리시고 ..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[통계청 2020년 임금근로일자리 소득(보수) 결과 관련 기사]]></title>
