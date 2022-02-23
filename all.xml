@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-23T21:13:34.692Z</updated>
+    <updated>2022-02-23T22:12:49.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[복잡한 우린 시간이 필요해요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/3wtBMr</id>
-        <link href="https://alook.so/posts/3wtBMr"/>
-        <updated>2022-02-23T21:11:33.433Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtBMr">복잡한 우린 시간이 필요해요</a>]]></content>
+        <title type="html"><![CDATA[아침출근 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/eVt5d3</id>
+        <link href="https://alook.so/posts/eVt5d3"/>
+        <updated>2022-02-23T22:10:53.028Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt5d3">아침출근</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엄마를 토막내서 화분에 꽂아버린 패륜아 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/8Wt58z</id>
-        <link href="https://alook.so/posts/8Wt58z"/>
-        <updated>2022-02-23T21:11:33.434Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt58z">엄마를 토막내서 화분에 꽂아버린 패륜아</a>]]></content>
+        <title type="html"><![CDATA[아침을 자기 암시문 반복 듣기로 시작하기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/PvtzK9</id>
+        <link href="https://alook.so/posts/PvtzK9"/>
+        <updated>2022-02-23T22:10:53.030Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtzK9">아침을 자기 암시문 반복 듣기로 시작하기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치킨, 햄버거 값 매주 공개한대요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/2xt4X8</id>
+        <link href="https://alook.so/posts/2xt4X8"/>
+        <updated>2022-02-23T22:10:53.032Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt4X8">치킨, 햄버거 값 매주 공개한대요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거, 먹는 거로는 장난 치지 맙시다! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
