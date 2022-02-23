@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-23T15:13:58.612Z</updated>
+    <updated>2022-02-23T16:16:55.480Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[1K도 건강회복도 모두 축하드립니다 👍]]></title>
-        <id>https://alook.so/posts/Yyt3BB</id>
-        <link href="https://alook.so/posts/Yyt3BB"/>
-        <updated>2022-02-23T15:12:06.619Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt3BB"> 1K도 건강회복도 모두 축하드립니다 👍 </a>]]></content>
+        <title type="html"><![CDATA[코로나 확진 3일차 후기]]></title>
+        <id>https://alook.so/posts/kZtzmO</id>
+        <link href="https://alook.so/posts/kZtzmO"/>
+        <updated>2022-02-23T16:14:59.146Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtzmO">코로나 확진 3일차 후기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 하루/1(면접)]]></title>
-        <id>https://alook.so/posts/bWtP3l</id>
-        <link href="https://alook.so/posts/bWtP3l"/>
-        <updated>2022-02-23T15:12:06.620Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtP3l">오늘 하루/1(면접)</a>]]></content>
+        <title type="html"><![CDATA[오늘 처음 글을 써봅니다^^]]></title>
+        <id>https://alook.so/posts/yEtlbZ</id>
+        <link href="https://alook.so/posts/yEtlbZ"/>
+        <updated>2022-02-23T16:14:59.147Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtlbZ">오늘 처음 글을 써봅니다^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[청년희망적금 한풀이..]]></title>
-        <id>https://alook.so/posts/a0tZ5b</id>
-        <link href="https://alook.so/posts/a0tZ5b"/>
-        <updated>2022-02-23T15:12:06.620Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tZ5b">청년희망적금 한풀이..</a>]]></content>
+        <title type="html"><![CDATA[당신은 몇차원 사람인가요!??~~]]></title>
+        <id>https://alook.so/posts/LKtqW7</id>
+        <link href="https://alook.so/posts/LKtqW7"/>
+        <updated>2022-02-23T16:14:59.147Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtqW7">당신은 몇차원 사람인가요!??~~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[달달한게 자꾸 땡겨요. ㅋㅋ]]></title>
-        <id>https://alook.so/posts/ZktDpn</id>
-        <link href="https://alook.so/posts/ZktDpn"/>
-        <updated>2022-02-23T15:12:06.621Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktDpn">달달한게 자꾸 땡겨요. ㅋㅋ</a>]]></content>
+        <title type="html"><![CDATA[짠순이 재테크]]></title>
+        <id>https://alook.so/posts/njt2V0</id>
+        <link href="https://alook.so/posts/njt2V0"/>
+        <updated>2022-02-23T16:14:59.148Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt2V0">짠순이 재테크</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로고침]]></title>
-        <id>https://alook.so/posts/J5tBPM</id>
-        <link href="https://alook.so/posts/J5tBPM"/>
-        <updated>2022-02-23T15:12:06.622Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tBPM">새로고침</a>]]></content>
+        <title type="html"><![CDATA[기상 후 첫 1시간!]]></title>
+        <id>https://alook.so/posts/3wtBz1</id>
+        <link href="https://alook.so/posts/3wtBz1"/>
+        <updated>2022-02-23T16:14:59.149Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtBz1">기상 후 첫 1시간!</a>]]></content>
     </entry>
 </feed>
