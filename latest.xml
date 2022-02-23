@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-23T11:11:30.645Z</updated>
+    <updated>2022-02-23T12:21:33.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘하루도 다들 고생하셨습니다.]]></title>
-        <id>https://alook.so/posts/DjtYlr</id>
-        <link href="https://alook.so/posts/DjtYlr"/>
-        <updated>2022-02-23T11:09:42.636Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtYlr">오늘하루도 다들 고생하셨습니다.</a>]]></content>
+        <title type="html"><![CDATA[결혼은 신중하게 생각해야할 문제]]></title>
+        <id>https://alook.so/posts/8Wt569</id>
+        <link href="https://alook.so/posts/8Wt569"/>
+        <updated>2022-02-23T12:19:40.876Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt569">결혼은 신중하게 생각해야할 문제</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[날 욕한 사람과 그걸 전달해준 사람 중 누가 잘못인가]]></title>
-        <id>https://alook.so/posts/1RtqMX</id>
-        <link href="https://alook.so/posts/1RtqMX"/>
-        <updated>2022-02-23T11:09:42.651Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtqMX">날 욕한 사람과 그걸 전달해준 사람 중 누가 잘못인가</a>]]></content>
+        <title type="html"><![CDATA[20220223 부자아빠의 투자가이드 (로버트 기요사키 저)]]></title>
+        <id>https://alook.so/posts/G1te6L</id>
+        <link href="https://alook.so/posts/G1te6L"/>
+        <updated>2022-02-23T12:19:40.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1te6L">20220223 부자아빠의 투자가이드 (로버트 기요사키 저)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[청년희망적금 그게 머야??]]></title>
-        <id>https://alook.so/posts/70tpmG</id>
-        <link href="https://alook.so/posts/70tpmG"/>
-        <updated>2022-02-23T11:09:42.652Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tpmG">청년희망적금 그게 머야??</a>]]></content>
+        <title type="html"><![CDATA[개학 D-7]]></title>
+        <id>https://alook.so/posts/E7tn4K</id>
+        <link href="https://alook.so/posts/E7tn4K"/>
+        <updated>2022-02-23T12:19:40.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tn4K">개학 D-7</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장애인들의 입장에서 토스가 좋은 이유]]></title>
-        <id>https://alook.so/posts/rDtMw8</id>
-        <link href="https://alook.so/posts/rDtMw8"/>
-        <updated>2022-02-23T11:09:42.653Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtMw8">장애인들의 입장에서 토스가 좋은 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[저는 간큰 남자랑 삽니다.]]></title>
-        <id>https://alook.so/posts/latL1O</id>
-        <link href="https://alook.so/posts/latL1O"/>
-        <updated>2022-02-23T11:09:42.657Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latL1O">저는 간큰 남자랑 삽니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[30년지기 친구와 소원해졌어요]]></title>
-        <id>https://alook.so/posts/KmtokD</id>
-        <link href="https://alook.so/posts/KmtokD"/>
-        <updated>2022-02-23T11:09:42.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtokD">30년지기 친구와 소원해졌어요</a>]]></content>
+        <title type="html"><![CDATA[메타버스에 올라 타도 되는 것인가?]]></title>
+        <id>https://alook.so/posts/92tdK8</id>
+        <link href="https://alook.so/posts/92tdK8"/>
+        <updated>2022-02-23T12:19:40.877Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tdK8">메타버스에 올라 타도 되는 것인가?</a>]]></content>
     </entry>
 </feed>

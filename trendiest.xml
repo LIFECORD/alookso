@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-23T11:11:30.648Z</updated>
+    <updated>2022-02-23T12:21:33.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘 회식해서 맛있는거(?) 먹고 일찍 끝나서 기분이 좋네요 ~]]></title>
+        <id>https://alook.so/posts/WLtz7v</id>
+        <link href="https://alook.so/posts/WLtz7v"/>
+        <updated>2022-02-23T12:19:47.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtz7v">오늘 회식해서 맛있는거(?) 먹고 일찍 끝나서 기분이 좋네요 ~</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국의 달러는 기축통화다. 그래서 나라 빚 걱정 안해도 될까?]]></title>
+        <id>https://alook.so/posts/latL5O</id>
+        <link href="https://alook.so/posts/latL5O"/>
+        <updated>2022-02-23T12:19:47.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latL5O">미국의 달러는 기축통화다. 그래서 나라 빚 걱정 안해도 될까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[1K로 들어섰어요. 명예훈장같은 좋아요 1000 ~!!!]]></title>
         <id>https://alook.so/posts/DjtGea</id>
@@ -76,13 +90,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztLKJ">위험한 상황에 빠진 사람을 돕는 기지, 나도 발휘할 수 있을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진짜 필요한 초등학교 입학 준비 - 마음 편 -]]></title>
-        <id>https://alook.so/posts/bWtq15</id>
-        <link href="https://alook.so/posts/bWtq15"/>
-        <updated>2022-02-23T00:46:44.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtq15">진짜 필요한 초등학교 입학 준비 - 마음 편 -</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[자가진단 키트로 코피를 터뜨리다.]]></title>
         <id>https://alook.so/posts/1Rt1xj</id>
         <link href="https://alook.so/posts/1Rt1xj"/>
@@ -95,13 +102,6 @@
         <link href="https://alook.so/posts/mbtyMR"/>
         <updated>2022-02-22T22:11:43.215Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtyMR">층간 소음에 대해 어떻게 생각하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군대판 정신병원, '그린캠프'를 아시나요?]]></title>
-        <id>https://alook.so/posts/rDt67X</id>
-        <link href="https://alook.so/posts/rDt67X"/>
-        <updated>2022-02-22T16:16:18.284Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt67X">군대판 정신병원, '그린캠프'를 아시나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[발달지연이란 이름으로 8년째 케어중입니다.]]></title>
