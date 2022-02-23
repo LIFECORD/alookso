@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-23T09:13:19.435Z</updated>
+    <updated>2022-02-23T10:14:21.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[세번째 나기의 일기.]]></title>
-        <id>https://alook.so/posts/kZtz6q</id>
-        <link href="https://alook.so/posts/kZtz6q"/>
-        <updated>2022-02-23T09:11:18.618Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtz6q">세번째 나기의 일기.</a>]]></content>
+        <title type="html"><![CDATA[가까워진 미래사회]]></title>
+        <id>https://alook.so/posts/yEtl1v</id>
+        <link href="https://alook.so/posts/yEtl1v"/>
+        <updated>2022-02-23T10:12:19.706Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtl1v">가까워진 미래사회</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈에 대해 진지하게 고민하다.]]></title>
-        <id>https://alook.so/posts/yEtlnE</id>
-        <link href="https://alook.so/posts/yEtlnE"/>
-        <updated>2022-02-23T09:11:18.624Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtlnE">돈에 대해 진지하게 고민하다.</a>]]></content>
+        <title type="html"><![CDATA[동네 공원풍경]]></title>
+        <id>https://alook.so/posts/LKtq7J</id>
+        <link href="https://alook.so/posts/LKtq7J"/>
+        <updated>2022-02-23T10:12:19.712Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtq7J">동네 공원풍경</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹거리에 장난은 강력한 제재를..]]></title>
-        <id>https://alook.so/posts/Bat2bb</id>
-        <link href="https://alook.so/posts/Bat2bb"/>
-        <updated>2022-02-23T09:11:18.625Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat2bb">먹거리에 장난은 강력한 제재를..</a>]]></content>
+        <title type="html"><![CDATA[갱년기 증상~]]></title>
+        <id>https://alook.so/posts/6Mtn61</id>
+        <link href="https://alook.so/posts/6Mtn61"/>
+        <updated>2022-02-23T10:12:19.714Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtn61">갱년기 증상~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 19 대비를 위한 운동]]></title>
-        <id>https://alook.so/posts/njt9lJ</id>
-        <link href="https://alook.so/posts/njt9lJ"/>
-        <updated>2022-02-23T09:11:18.631Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt9lJ">코로나 19 대비를 위한 운동</a>]]></content>
+        <title type="html"><![CDATA[‘20대 사장님’ 늘지만 폐업률 높아... 정부 지원 절실]]></title>
+        <id>https://alook.so/posts/8Wt5an</id>
+        <link href="https://alook.so/posts/8Wt5an"/>
+        <updated>2022-02-23T10:12:19.719Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt5an">‘20대 사장님’ 늘지만 폐업률 높아... 정부 지원 절실</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴근 하면서 이런 저런 생각들이 드네요.]]></title>
-        <id>https://alook.so/posts/6Mty4b</id>
-        <link href="https://alook.so/posts/6Mty4b"/>
-        <updated>2022-02-23T09:11:18.632Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mty4b">퇴근 하면서 이런 저런 생각들이 드네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라면 맛있게 끓이는 방법]]></title>
-        <id>https://alook.so/posts/3wtW1m</id>
-        <link href="https://alook.so/posts/3wtW1m"/>
-        <updated>2022-02-23T09:11:18.634Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtW1m">라면 맛있게 끓이는 방법</a>]]></content>
+        <title type="html"><![CDATA[좋아 선택했어! (빠밤!)]]></title>
+        <id>https://alook.so/posts/vKtP1W</id>
+        <link href="https://alook.so/posts/vKtP1W"/>
+        <updated>2022-02-23T10:12:19.720Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtP1W">좋아 선택했어! (빠밤!)</a>]]></content>
     </entry>
 </feed>
