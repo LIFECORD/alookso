@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-23T05:13:13.866Z</updated>
+    <updated>2022-02-23T06:15:58.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[원숭이 뇌에 구멍뚫어 칩 삽입...]]></title>
-        <id>https://alook.so/posts/VntM8j</id>
-        <link href="https://alook.so/posts/VntM8j"/>
-        <updated>2022-02-23T05:11:16.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntM8j">원숭이 뇌에 구멍뚫어 칩 삽입...</a>]]></content>
+        <title type="html"><![CDATA[너 결혼하더니 성격이 이상해!]]></title>
+        <id>https://alook.so/posts/M9tj6p</id>
+        <link href="https://alook.so/posts/M9tj6p"/>
+        <updated>2022-02-23T06:13:59.084Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tj6p">너 결혼하더니 성격이 이상해!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘은 소머리국밥 드시지요~]]></title>
-        <id>https://alook.so/posts/WLtrRn</id>
-        <link href="https://alook.so/posts/WLtrRn"/>
-        <updated>2022-02-23T05:11:16.751Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtrRn">오늘은 소머리국밥 드시지요~</a>]]></content>
+        <title type="html"><![CDATA[혹시 보셨나요? 친구 남김 음식 먹다가..손가락,다리 잃은 뉴스..]]></title>
+        <id>https://alook.so/posts/w9tjkR</id>
+        <link href="https://alook.so/posts/w9tjkR"/>
+        <updated>2022-02-23T06:13:59.085Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tjkR">혹시 보셨나요? 친구 남김 음식 먹다가..손가락,다리 잃은 뉴스..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[그냥그냥 하소연]]></title>
-        <id>https://alook.so/posts/M9tjrx</id>
-        <link href="https://alook.so/posts/M9tjrx"/>
-        <updated>2022-02-23T05:11:16.756Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tjrx">그냥그냥 하소연</a>]]></content>
+        <title type="html"><![CDATA[‘지금 우리 학교는’ 후기]]></title>
+        <id>https://alook.so/posts/xltbpB</id>
+        <link href="https://alook.so/posts/xltbpB"/>
+        <updated>2022-02-23T06:13:59.086Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltbpB">‘지금 우리 학교는’ 후기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회복지학은 엄마를 엄마가 되게한다]]></title>
-        <id>https://alook.so/posts/XBt87y</id>
-        <link href="https://alook.so/posts/XBt87y"/>
-        <updated>2022-02-23T05:11:16.757Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt87y">사회복지학은 엄마를 엄마가 되게한다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[봄이  오는  길]]></title>
-        <id>https://alook.so/posts/xltbOK</id>
-        <link href="https://alook.so/posts/xltbOK"/>
-        <updated>2022-02-23T05:11:16.757Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltbOK">봄이  오는  길</a>]]></content>
+        <title type="html"><![CDATA[따뜻한 마음]]></title>
+        <id>https://alook.so/posts/BatjPk</id>
+        <link href="https://alook.so/posts/BatjPk"/>
+        <updated>2022-02-23T06:13:59.088Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatjPk">따뜻한 마음</a>]]></content>
     </entry>
 </feed>
