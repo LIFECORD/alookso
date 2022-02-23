@@ -2,28 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-23T20:13:44.426Z</updated>
+    <updated>2022-02-23T21:13:34.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[잘먹고 잘사는 방법은 뭘까? part.3 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70tpO4</id>
-        <link href="https://alook.so/posts/70tpO4"/>
-        <updated>2022-02-23T20:11:38.718Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tpO4">잘먹고 잘사는 방법은 뭘까? part.3</a>]]></content>
+        <title type="html"><![CDATA[복잡한 우린 시간이 필요해요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wtBMr</id>
+        <link href="https://alook.so/posts/3wtBMr"/>
+        <updated>2022-02-23T21:11:33.433Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtBMr">복잡한 우린 시간이 필요해요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈을 번다는 게 쉬운 일일 수가 없나봐요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/rDtM3B</id>
-        <link href="https://alook.so/posts/rDtM3B"/>
-        <updated>2022-02-23T20:11:38.718Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtM3B">돈을 번다는 게 쉬운 일일 수가 없나봐요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새해 목표가 있으신가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/bWtPYx</id>
-        <link href="https://alook.so/posts/bWtPYx"/>
-        <updated>2022-02-23T20:11:38.721Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtPYx">새해 목표가 있으신가요?</a>]]></content>
+        <title type="html"><![CDATA[엄마를 토막내서 화분에 꽂아버린 패륜아 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/8Wt58z</id>
+        <link href="https://alook.so/posts/8Wt58z"/>
+        <updated>2022-02-23T21:11:33.434Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt58z">엄마를 토막내서 화분에 꽂아버린 패륜아</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거, 먹는 거로는 장난 치지 맙시다! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
