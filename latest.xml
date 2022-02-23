@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-23T13:19:12.244Z</updated>
+    <updated>2022-02-23T14:12:35.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[학교 폐쇄는 일어나서는 안되는 일]]></title>
-        <id>https://alook.so/posts/vKtPb0</id>
-        <link href="https://alook.so/posts/vKtPb0"/>
-        <updated>2022-02-23T13:17:09.429Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtPb0">학교 폐쇄는 일어나서는 안되는 일</a>]]></content>
+        <title type="html"><![CDATA[투자입문기 국내편]]></title>
+        <id>https://alook.so/posts/Vntr93</id>
+        <link href="https://alook.so/posts/Vntr93"/>
+        <updated>2022-02-23T14:10:35.229Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntr93">투자입문기 국내편</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[카카오뷰 수익이 기대가 되네요.]]></title>
-        <id>https://alook.so/posts/E7tnGx</id>
-        <link href="https://alook.so/posts/E7tnGx"/>
-        <updated>2022-02-23T13:17:09.430Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tnGx">카카오뷰 수익이 기대가 되네요.</a>]]></content>
+        <title type="html"><![CDATA[2022년 2월의 기록]]></title>
+        <id>https://alook.so/posts/zvtaez</id>
+        <link href="https://alook.so/posts/zvtaez"/>
+        <updated>2022-02-23T14:10:35.230Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtaez">2022년 2월의 기록</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인생의 큰 성공은 작은 성공에서 나오고]]></title>
-        <id>https://alook.so/posts/92tdmz</id>
-        <link href="https://alook.so/posts/92tdmz"/>
-        <updated>2022-02-23T13:17:09.431Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tdmz">인생의 큰 성공은 작은 성공에서 나오고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와... 아기공룡 둘리의 캐릭터네요.]]></title>
-        <id>https://alook.so/posts/Kmto7p</id>
-        <link href="https://alook.so/posts/Kmto7p"/>
-        <updated>2022-02-23T13:17:09.432Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmto7p">와... 아기공룡 둘리의 캐릭터네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여러분이 하고 있는 간단한 운동이나 스트레칭법 있나요?]]></title>
-        <id>https://alook.so/posts/54tjpY</id>
-        <link href="https://alook.so/posts/54tjpY"/>
-        <updated>2022-02-23T13:17:09.433Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tjpY">여러분이 하고 있는 간단한 운동이나 스트레칭법 있나요?</a>]]></content>
+        <title type="html"><![CDATA[에너지를 써야 에너지가 생겨]]></title>
+        <id>https://alook.so/posts/2xt4b6</id>
+        <link href="https://alook.so/posts/2xt4b6"/>
+        <updated>2022-02-23T14:10:35.231Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt4b6">에너지를 써야 에너지가 생겨 </a>]]></content>
     </entry>
 </feed>
