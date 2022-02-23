@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-23T04:15:44.643Z</updated>
+    <updated>2022-02-23T05:13:13.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘 하루의 기쁨]]></title>
-        <id>https://alook.so/posts/rDt6kj</id>
-        <link href="https://alook.so/posts/rDt6kj"/>
-        <updated>2022-02-23T04:13:45.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt6kj">오늘 하루의 기쁨</a>]]></content>
+        <title type="html"><![CDATA[원숭이 뇌에 구멍뚫어 칩 삽입...]]></title>
+        <id>https://alook.so/posts/VntM8j</id>
+        <link href="https://alook.so/posts/VntM8j"/>
+        <updated>2022-02-23T05:11:16.751Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntM8j">원숭이 뇌에 구멍뚫어 칩 삽입...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] Listen & Repeat: “경청傾聽과 질문質問”]]></title>
-        <id>https://alook.so/posts/E7tvo2</id>
-        <link href="https://alook.so/posts/E7tvo2"/>
-        <updated>2022-02-23T04:13:45.656Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tvo2">[늦은 아침 생각] Listen &amp; Repeat: “경청傾聽과 질문質問”</a>]]></content>
+        <title type="html"><![CDATA[오늘은 소머리국밥 드시지요~]]></title>
+        <id>https://alook.so/posts/WLtrRn</id>
+        <link href="https://alook.so/posts/WLtrRn"/>
+        <updated>2022-02-23T05:11:16.751Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtrRn">오늘은 소머리국밥 드시지요~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 무슨 동물로 변했을까? (쉬어 가는 타임^^!!)]]></title>
-        <id>https://alook.so/posts/q1t4q0</id>
-        <link href="https://alook.so/posts/q1t4q0"/>
-        <updated>2022-02-23T04:13:45.657Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t4q0">나는 무슨 동물로 변했을까? (쉬어 가는 타임^^!!)</a>]]></content>
+        <title type="html"><![CDATA[그냥그냥 하소연]]></title>
+        <id>https://alook.so/posts/M9tjrx</id>
+        <link href="https://alook.so/posts/M9tjrx"/>
+        <updated>2022-02-23T05:11:16.756Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tjrx">그냥그냥 하소연</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리집은 고양이 맛집?]]></title>
-        <id>https://alook.so/posts/DjtGdO</id>
-        <link href="https://alook.so/posts/DjtGdO"/>
-        <updated>2022-02-23T04:13:45.658Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtGdO">우리집은 고양이 맛집?</a>]]></content>
+        <title type="html"><![CDATA[사회복지학은 엄마를 엄마가 되게한다]]></title>
+        <id>https://alook.so/posts/XBt87y</id>
+        <link href="https://alook.so/posts/XBt87y"/>
+        <updated>2022-02-23T05:11:16.757Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt87y">사회복지학은 엄마를 엄마가 되게한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소상공인 방역지원금 오늘(23일)부터 지급]]></title>
-        <id>https://alook.so/posts/1Rt1Px</id>
-        <link href="https://alook.so/posts/1Rt1Px"/>
-        <updated>2022-02-23T04:13:45.659Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt1Px">소상공인 방역지원금 오늘(23일)부터 지급</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2. 방황]]></title>
-        <id>https://alook.so/posts/o7t2dm</id>
-        <link href="https://alook.so/posts/o7t2dm"/>
-        <updated>2022-02-23T04:13:45.661Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t2dm">2. 방황</a>]]></content>
+        <title type="html"><![CDATA[봄이  오는  길]]></title>
+        <id>https://alook.so/posts/xltbOK</id>
+        <link href="https://alook.so/posts/xltbOK"/>
+        <updated>2022-02-23T05:11:16.757Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltbOK">봄이  오는  길</a>]]></content>
     </entry>
 </feed>
