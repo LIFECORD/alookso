@@ -2,22 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-23T00:48:39.680Z</updated>
+    <updated>2022-02-23T02:06:21.336Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[희노애락]]></title>
-        <id>https://alook.so/posts/OEt77Y</id>
-        <link href="https://alook.so/posts/OEt77Y"/>
-        <updated>2022-02-23T00:46:44.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt77Y">희노애락</a>]]></content>
+        <title type="html"><![CDATA[저두 그런 생각을 합니다.]]></title>
+        <id>https://alook.so/posts/potaw2</id>
+        <link href="https://alook.so/posts/potaw2"/>
+        <updated>2022-02-23T02:04:34.243Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potaw2">저두 그런 생각을 합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 토론 하일라이트 "절레 절레"]]></title>
-        <id>https://alook.so/posts/0ktxvD</id>
-        <link href="https://alook.so/posts/0ktxvD"/>
-        <updated>2022-02-23T00:46:44.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktxvD">답글: 토론 하일라이트 "절레 절레"</a>]]></content>
+        <title type="html"><![CDATA[전학온 친구들에게 텃새 고만 부리시고 ..]]></title>
+        <id>https://alook.so/posts/Kmtnjw</id>
+        <link href="https://alook.so/posts/Kmtnjw"/>
+        <updated>2022-02-23T02:04:34.244Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtnjw">전학온 친구들에게 텃새 고만 부리시고 ..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘 역대급 유입이네요...]]></title>
+        <id>https://alook.so/posts/PvtVoL</id>
+        <link href="https://alook.so/posts/PvtVoL"/>
+        <updated>2022-02-23T02:04:34.245Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtVoL">오늘 역대급 유입이네요...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통계청 2020년 임금근로일자리 소득(보수) 결과 관련 기사]]></title>
+        <id>https://alook.so/posts/OEt7mj</id>
+        <link href="https://alook.so/posts/OEt7mj"/>
+        <updated>2022-02-23T02:04:34.253Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt7mj">통계청 2020년 임금근로일자리 소득(보수) 결과 관련 기사</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개인이 맞서기에는 너무 강한 알고리즘의 힘..]]></title>
+        <id>https://alook.so/posts/OEt7eq</id>
+        <link href="https://alook.so/posts/OEt7eq"/>
+        <updated>2022-02-23T02:04:34.253Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt7eq">개인이 맞서기에는 너무 강한 알고리즘의 힘..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부채의 지속가능성과 국제 통화의 역사에 대한 이의제기]]></title>
+        <id>https://alook.so/posts/ZktEbm</id>
+        <link href="https://alook.so/posts/ZktEbm"/>
+        <updated>2022-02-23T02:04:34.253Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktEbm">부채의 지속가능성과 국제 통화의 역사에 대한 이의제기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19, 경제적 양극화 뿐만이 아닌 민주주의 양극화도.]]></title>
+        <id>https://alook.so/posts/0ktydZ</id>
+        <link href="https://alook.so/posts/0ktydZ"/>
+        <updated>2022-02-23T02:04:34.253Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktydZ">코로나19, 경제적 양극화 뿐만이 아닌 민주주의 양극화도.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위험한 상황에 빠진 사람을 돕는 기지, 나도 발휘할 수 있을까?]]></title>
@@ -46,13 +81,6 @@
         <link href="https://alook.so/posts/8WtmqW"/>
         <updated>2022-02-22T23:12:07.185Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtmqW">이글이 읽혀질까요? ㅎㅎ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자가진단 키트로 코피를 터뜨리다.]]></title>
-        <id>https://alook.so/posts/1Rt1xj</id>
-        <link href="https://alook.so/posts/1Rt1xj"/>
-        <updated>2022-02-22T22:11:43.212Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt1xj">자가진단 키트로 코피를 터뜨리다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[층간 소음에 대해 어떻게 생각하시나요?]]></title>
@@ -102,20 +130,6 @@
         <link href="https://alook.so/posts/LKt8P2"/>
         <updated>2022-02-22T08:14:48.271Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt8P2">모두의 불편함과 심상정 최후의 1분</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대선 tip take talk 2] "기축통화"를 두고 '바보 팔씨름']]></title>
-        <id>https://alook.so/posts/bWtR9G</id>
-        <link href="https://alook.so/posts/bWtR9G"/>
-        <updated>2022-02-22T08:14:48.271Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtR9G">[대선 tip take talk 2] "기축통화"를 두고 '바보 팔씨름'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘디지털 데이터 경제’가 뭐라고요?]]></title>
-        <id>https://alook.so/posts/92tVEM</id>
-        <link href="https://alook.so/posts/92tVEM"/>
-        <updated>2022-02-22T07:17:15.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tVEM">‘디지털 데이터 경제’가 뭐라고요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나의 출근을 방해하는 장애인단체 시위]]></title>
