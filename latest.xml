@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-22T23:14:01.529Z</updated>
+    <updated>2022-02-23T00:48:39.680Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[남탓? 누구탓? 선택의 후회!]]></title>
-        <id>https://alook.so/posts/YytVYZ</id>
-        <link href="https://alook.so/posts/YytVYZ"/>
-        <updated>2022-02-22T23:11:58.335Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytVYZ">남탓? 누구탓? 선택의 후회!</a>]]></content>
+        <title type="html"><![CDATA["일본 도쿄 타나시구 아파트 붕괴 대참사"]]></title>
+        <id>https://alook.so/posts/WLtroX</id>
+        <link href="https://alook.so/posts/WLtroX"/>
+        <updated>2022-02-23T00:46:35.684Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtroX">"일본 도쿄 타나시구 아파트 붕괴 대참사"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 인생의 반을 지난 지금 잘 해내고 있을까?]]></title>
-        <id>https://alook.so/posts/bWtqrp</id>
-        <link href="https://alook.so/posts/bWtqrp"/>
-        <updated>2022-02-22T23:11:58.338Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtqrp">나는 인생의 반을 지난 지금 잘 해내고 있을까?</a>]]></content>
+        <title type="html"><![CDATA[신조어?세대 차이?]]></title>
+        <id>https://alook.so/posts/0ktyzp</id>
+        <link href="https://alook.so/posts/0ktyzp"/>
+        <updated>2022-02-23T00:46:35.689Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktyzp">신조어?세대 차이?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음을 적는 일기장 40년]]></title>
-        <id>https://alook.so/posts/a0tP6m</id>
-        <link href="https://alook.so/posts/a0tP6m"/>
-        <updated>2022-02-22T23:11:58.340Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tP6m">마음을 적는 일기장 40년</a>]]></content>
+        <title type="html"><![CDATA[나를 부른 고양이]]></title>
+        <id>https://alook.so/posts/4XtKnO</id>
+        <link href="https://alook.so/posts/4XtKnO"/>
+        <updated>2022-02-23T00:46:35.689Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtKnO">나를 부른 고양이</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좌우명]]></title>
-        <id>https://alook.so/posts/ZktEwO</id>
-        <link href="https://alook.so/posts/ZktEwO"/>
-        <updated>2022-02-22T23:11:58.341Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktEwO">좌우명</a>]]></content>
+        <title type="html"><![CDATA[아주작은습관의 힘(Atomic Habit)]]></title>
+        <id>https://alook.so/posts/XBt8ro</id>
+        <link href="https://alook.so/posts/XBt8ro"/>
+        <updated>2022-02-23T00:46:35.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt8ro">아주작은습관의 힘(Atomic Habit)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[청약당첨이 마냥 좋지만은 못한 지금 현실...]]></title>
-        <id>https://alook.so/posts/J5t1dO</id>
-        <link href="https://alook.so/posts/J5t1dO"/>
-        <updated>2022-02-22T23:11:58.344Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t1dO">청약당첨이 마냥 좋지만은 못한 지금 현실...</a>]]></content>
+        <title type="html"><![CDATA[생각의 자유]]></title>
+        <id>https://alook.so/posts/yEt6eP</id>
+        <link href="https://alook.so/posts/yEt6eP"/>
+        <updated>2022-02-23T00:46:35.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt6eP">생각의 자유</a>]]></content>
     </entry>
 </feed>
