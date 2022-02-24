@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-24T07:13:36.800Z</updated>
+    <updated>2022-02-24T08:16:41.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[걱정을 덜어내는방법]]></title>
-        <id>https://alook.so/posts/vKtPV5</id>
-        <link href="https://alook.so/posts/vKtPV5"/>
-        <updated>2022-02-24T07:11:35.426Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtPV5">걱정을 덜어내는방법</a>]]></content>
+        <title type="html"><![CDATA[내성적인 사람이라는 낙인]]></title>
+        <id>https://alook.so/posts/92tdl2</id>
+        <link href="https://alook.so/posts/92tdl2"/>
+        <updated>2022-02-24T08:14:50.541Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tdl2">내성적인 사람이라는 낙인</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[악필교정 해보셨나요?:)]]></title>
-        <id>https://alook.so/posts/E7tn1d</id>
-        <link href="https://alook.so/posts/E7tn1d"/>
-        <updated>2022-02-24T07:11:35.429Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tn1d">악필교정 해보셨나요?:)</a>]]></content>
+        <title type="html"><![CDATA[코로나 땜시../]]></title>
+        <id>https://alook.so/posts/54tj0m</id>
+        <link href="https://alook.so/posts/54tj0m"/>
+        <updated>2022-02-24T08:14:50.541Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tj0m">코로나 땜시../</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나라의미래]]></title>
-        <id>https://alook.so/posts/92tdGm</id>
-        <link href="https://alook.so/posts/92tdGm"/>
-        <updated>2022-02-24T07:11:35.430Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tdGm">나라의미래</a>]]></content>
+        <title type="html"><![CDATA[벌써 2월이 저물어가네요]]></title>
+        <id>https://alook.so/posts/q1tdKv</id>
+        <link href="https://alook.so/posts/q1tdKv"/>
+        <updated>2022-02-24T08:14:50.544Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tdKv">벌써 2월이 저물어가네요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[영상]러시아 우크라 침공 💥]]></title>
-        <id>https://alook.so/posts/q1tdBl</id>
-        <link href="https://alook.so/posts/q1tdBl"/>
-        <updated>2022-02-24T07:11:35.431Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tdBl">[영상]러시아 우크라 침공 💥 </a>]]></content>
+        <title type="html"><![CDATA[돈 버는부업 딱이네요.]]></title>
+        <id>https://alook.so/posts/DjtYy4</id>
+        <link href="https://alook.so/posts/DjtYy4"/>
+        <updated>2022-02-24T08:14:50.545Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtYy4">돈 버는부업 딱이네요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[꼭 먹어야할 "영양제"]]></title>
+        <id>https://alook.so/posts/70tpPL</id>
+        <link href="https://alook.so/posts/70tpPL"/>
+        <updated>2022-02-24T08:14:50.545Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tpPL">꼭 먹어야할 "영양제"</a>]]></content>
     </entry>
 </feed>
