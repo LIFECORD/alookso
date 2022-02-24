@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-24T09:14:01.329Z</updated>
+    <updated>2022-02-24T10:14:26.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[지금 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Bat2oa</id>
-        <link href="https://alook.so/posts/Bat2oa"/>
-        <updated>2022-02-24T09:11:55.809Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat2oa">지금</a>]]></content>
+        <title type="html"><![CDATA[남는시간활용하기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Yyt3dw</id>
+        <link href="https://alook.so/posts/Yyt3dw"/>
+        <updated>2022-02-24T10:12:10.901Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt3dw">남는시간활용하기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[input 대비 output이 없는 삶, 그로 인한 무기력증, 어떻게 극복해야 할까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/LKtqYb</id>
-        <link href="https://alook.so/posts/LKtqYb"/>
-        <updated>2022-02-24T09:11:55.813Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtqYb">input 대비 output이 없는 삶, 그로 인한 무기력증, 어떻게 극복해야 할까요?</a>]]></content>
+        <title type="html"><![CDATA[저 취직할 수 있을까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/92tdpE</id>
+        <link href="https://alook.so/posts/92tdpE"/>
+        <updated>2022-02-24T10:12:10.906Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tdpE">저 취직할 수 있을까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저녁노을 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/8Wt5xL</id>
-        <link href="https://alook.so/posts/8Wt5xL"/>
-        <updated>2022-02-24T09:11:55.815Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt5xL">저녁노을</a>]]></content>
+        <title type="html"><![CDATA[인생 최대 몸무게 0.1톤 달성! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/mbt3Jm</id>
+        <link href="https://alook.so/posts/mbt3Jm"/>
+        <updated>2022-02-24T10:12:10.907Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt3Jm">인생 최대 몸무게 0.1톤 달성!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: '중국'을 '한국'으로 바꾸면 4년 전과 같을 걸요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/rDtMLP</id>
+        <link href="https://alook.so/posts/rDtMLP"/>
+        <updated>2022-02-24T10:12:21.082Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtMLP">답글: '중국'을 '한국'으로 바꾸면 4년 전과 같을 걸요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아니요 아니요 절대 아니요! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/M9tBkK</id>
+        <link href="https://alook.so/posts/M9tBkK"/>
+        <updated>2022-02-24T10:12:21.086Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tBkK">아니요 아니요 절대 아니요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[음주운전은 강력하게 처벌해야 합니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -47,13 +61,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot8lj">음주운전 2진 아웃' 너무 가혹한가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[용적률 망국인가, 수요분산인가? (10년후 시나리오) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/70tppE</id>
-        <link href="https://alook.so/posts/70tppE"/>
-        <updated>2022-02-24T06:14:01.412Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tppE">용적률 망국인가, 수요분산인가? (10년후 시나리오)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[좋아요 400개, 저도 이제 ‘짬’좀 먹었습니다? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/q1td89</id>
         <link href="https://alook.so/posts/q1td89"/>
@@ -66,13 +73,6 @@
         <link href="https://alook.so/posts/WLtzra"/>
         <updated>2022-02-24T04:14:34.211Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtzra">시대가 나를 버린걸까? 돕는걸까? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금은 코로나 현장에 있는 사람들의 비명에 귀를 기울일 때 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Yyt3bB</id>
-        <link href="https://alook.so/posts/Yyt3bB"/>
-        <updated>2022-02-24T03:11:34.952Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt3bB">지금은 코로나 현장에 있는 사람들의 비명에 귀를 기울일 때</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증 치료 1년 반, 드디어 회복증세라는 답변을 받았습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -136,13 +136,6 @@
         <link href="https://alook.so/posts/bWtqWY"/>
         <updated>2022-02-23T04:13:54.024Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtqWY">현 우크라이나 사태에 대한 키에프 언론의 통렬한 기고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소의 알고리즘을 이해하고 싶다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/4XtK3b</id>
-        <link href="https://alook.so/posts/4XtK3b"/>
-        <updated>2022-02-24T09:12:04.932Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtK3b">얼룩소의 알고리즘을 이해하고 싶다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대선서베이] 정주행, 1~10편 몰아보기 (alookso ─ alookso)]]></title>
