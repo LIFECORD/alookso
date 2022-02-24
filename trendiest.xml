@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-24T16:17:41.970Z</updated>
+    <updated>2022-02-24T17:15:54.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[김진숙님의 37년이, 지금의 제가 더 나은 환경에서 근무 할 수 있게 해 주었습니다.]]></title>
+        <id>https://alook.so/posts/latb10</id>
+        <link href="https://alook.so/posts/latb10"/>
+        <updated>2022-02-24T17:13:53.573Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latb10">김진숙님의 37년이, 지금의 제가 더 나은 환경에서 근무 할 수 있게 해 주었습니다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저는 상위 1%의 사람입니다.]]></title>
         <id>https://alook.so/posts/w9tmb8</id>
@@ -130,12 +137,5 @@
         <link href="https://alook.so/posts/ZktEV3"/>
         <updated>2022-02-24T16:15:47.062Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktEV3">정부는 기업이 아니잖아요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현 우크라이나 사태에 대한 키에프 언론의 통렬한 기고]]></title>
-        <id>https://alook.so/posts/bWtqWY</id>
-        <link href="https://alook.so/posts/bWtqWY"/>
-        <updated>2022-02-24T16:15:47.063Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtqWY">현 우크라이나 사태에 대한 키에프 언론의 통렬한 기고</a>]]></content>
     </entry>
 </feed>

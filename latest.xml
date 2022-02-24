@@ -2,35 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-24T16:17:41.971Z</updated>
+    <updated>2022-02-24T17:15:54.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[디지털 노동의 추가사항]]></title>
-        <id>https://alook.so/posts/RGtY0V</id>
-        <link href="https://alook.so/posts/RGtY0V"/>
-        <updated>2022-02-24T16:15:37.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtY0V">디지털 노동의 추가사항</a>]]></content>
+        <title type="html"><![CDATA[사랑하는 재능]]></title>
+        <id>https://alook.so/posts/xltD7Z</id>
+        <link href="https://alook.so/posts/xltD7Z"/>
+        <updated>2022-02-24T17:13:44.180Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltD7Z">사랑하는 재능</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 어디를 향해 가고 있나]]></title>
-        <id>https://alook.so/posts/yEtDMa</id>
-        <link href="https://alook.so/posts/yEtDMa"/>
-        <updated>2022-02-24T16:15:37.747Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtDMa">나는 어디를 향해 가고 있나</a>]]></content>
+        <title type="html"><![CDATA[일기를 쓰고 싶었다]]></title>
+        <id>https://alook.so/posts/RGtYRV</id>
+        <link href="https://alook.so/posts/RGtYRV"/>
+        <updated>2022-02-24T17:13:44.186Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtYRV">일기를 쓰고 싶었다 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나가 참 남일 같지 않네요]]></title>
-        <id>https://alook.so/posts/BatzGq</id>
-        <link href="https://alook.so/posts/BatzGq"/>
-        <updated>2022-02-24T16:15:37.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatzGq">우크라이나가 참 남일 같지 않네요</a>]]></content>
+        <title type="html"><![CDATA[몸과마음]]></title>
+        <id>https://alook.so/posts/yEtDma</id>
+        <link href="https://alook.so/posts/yEtDma"/>
+        <updated>2022-02-24T17:13:44.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtDma">몸과마음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시차]]></title>
-        <id>https://alook.so/posts/6MtXWY</id>
-        <link href="https://alook.so/posts/6MtXWY"/>
-        <updated>2022-02-24T16:15:37.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtXWY">시차</a>]]></content>
+        <title type="html"><![CDATA[걷기운동의 효과]]></title>
+        <id>https://alook.so/posts/Batzvq</id>
+        <link href="https://alook.so/posts/Batzvq"/>
+        <updated>2022-02-24T17:13:44.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batzvq">걷기운동의 효과</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: 뉴스타파의 집요한 취재에 감탄하다 [.brf]]]></title>
+        <id>https://alook.so/posts/njtDG1</id>
+        <link href="https://alook.so/posts/njtDG1"/>
+        <updated>2022-02-24T17:13:44.189Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtDG1">답글: 뉴스타파의 집요한 취재에 감탄하다 [.brf]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마스크가 독이 되어 돌아온다!!!]]></title>
+        <id>https://alook.so/posts/6MtXJY</id>
+        <link href="https://alook.so/posts/6MtXJY"/>
+        <updated>2022-02-24T17:13:44.191Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtXJY">마스크가 독이 되어 돌아온다!!!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[걱정 돼서 잠이 안 와요]]></title>
+        <id>https://alook.so/posts/G1tvVb</id>
+        <link href="https://alook.so/posts/G1tvVb"/>
+        <updated>2022-02-24T17:13:44.193Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tvVb">걱정 돼서 잠이 안 와요</a>]]></content>
     </entry>
 </feed>
