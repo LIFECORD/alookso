@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-25T04:16:05.629Z</updated>
+    <updated>2022-02-25T05:13:16.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[편안하게 마음의 건강을 이야기할 시대]]></title>
-        <id>https://alook.so/posts/E7trDX</id>
-        <link href="https://alook.so/posts/E7trDX"/>
-        <updated>2022-02-25T04:13:58.362Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7trDX">편안하게 마음의 건강을 이야기할 시대</a>]]></content>
+        <title type="html"><![CDATA[나이듦]]></title>
+        <id>https://alook.so/posts/2xtm4y</id>
+        <link href="https://alook.so/posts/2xtm4y"/>
+        <updated>2022-02-25T05:11:22.422Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtm4y">나이듦</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딩크족이라고 당당하게 말할 수 없어]]></title>
-        <id>https://alook.so/posts/92t0V4</id>
-        <link href="https://alook.so/posts/92t0V4"/>
-        <updated>2022-02-25T04:13:58.364Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t0V4">딩크족이라고 당당하게 말할 수 없어</a>]]></content>
+        <title type="html"><![CDATA[당신의 헬륨풍선은 여전히 잘 매달려있나요?]]></title>
+        <id>https://alook.so/posts/0ktPO6</id>
+        <link href="https://alook.so/posts/0ktPO6"/>
+        <updated>2022-02-25T05:11:22.424Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktPO6">당신의 헬륨풍선은 여전히 잘 매달려있나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나 – 전쟁을 반대한다, 평화를 원한다]]></title>
-        <id>https://alook.so/posts/q1tjLR</id>
-        <link href="https://alook.so/posts/q1tjLR"/>
-        <updated>2022-02-25T04:13:58.365Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tjLR">우크라이나 – 전쟁을 반대한다, 평화를 원한다 </a>]]></content>
+        <title type="html"><![CDATA[아~! 퇴사 하고 싶다!]]></title>
+        <id>https://alook.so/posts/M9tkB4</id>
+        <link href="https://alook.so/posts/M9tkB4"/>
+        <updated>2022-02-25T05:11:22.425Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tkB4">아~! 퇴사 하고 싶다!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우크라이나 사태 이유 요약..]]></title>
-        <id>https://alook.so/posts/DjtwWk</id>
-        <link href="https://alook.so/posts/DjtwWk"/>
-        <updated>2022-02-25T04:13:58.366Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtwWk">우크라이나 사태 이유 요약..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[할머니를 위해 해줄 수 있는 게 뭐가 있을까요?]]></title>
-        <id>https://alook.so/posts/1RtkKB</id>
-        <link href="https://alook.so/posts/1RtkKB"/>
-        <updated>2022-02-25T04:13:58.367Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtkKB">할머니를 위해 해줄 수 있는 게 뭐가 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[고양이 자는 모습]]></title>
+        <id>https://alook.so/posts/kZtERM</id>
+        <link href="https://alook.so/posts/kZtERM"/>
+        <updated>2022-02-25T05:11:22.426Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtERM">고양이 자는 모습</a>]]></content>
     </entry>
 </feed>
