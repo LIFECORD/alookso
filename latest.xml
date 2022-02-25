@@ -2,56 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-25T08:17:23.674Z</updated>
+    <updated>2022-02-25T09:13:57.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[집이 있는데 집에 못들어가요]]></title>
-        <id>https://alook.so/posts/eVtq7b</id>
-        <link href="https://alook.so/posts/eVtq7b"/>
-        <updated>2022-02-25T08:15:21.325Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtq7b">집이 있는데 집에 못들어가요</a>]]></content>
+        <title type="html"><![CDATA[이직 후 2주, 초보가 된 3살둥이 아빠의 외침!]]></title>
+        <id>https://alook.so/posts/bWtr27</id>
+        <link href="https://alook.so/posts/bWtr27"/>
+        <updated>2022-02-25T09:11:51.013Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtr27">이직 후 2주, 초보가 된 3살둥이 아빠의 외침!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국의 러시아 수출 제재, 한국 기업도 영향 불가피]]></title>
-        <id>https://alook.so/posts/PvtL96</id>
-        <link href="https://alook.so/posts/PvtL96"/>
-        <updated>2022-02-25T08:15:21.328Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtL96">미국의 러시아 수출 제재, 한국 기업도 영향 불가피</a>]]></content>
+        <title type="html"><![CDATA[SNS를 얼마나 사용하시나요?]]></title>
+        <id>https://alook.so/posts/ZktwK7</id>
+        <link href="https://alook.so/posts/ZktwK7"/>
+        <updated>2022-02-25T09:11:51.016Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktwK7">SNS를 얼마나 사용하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다들 집에 돌아갈때 무슨 생각하시나요?]]></title>
-        <id>https://alook.so/posts/Vnt7oX</id>
-        <link href="https://alook.so/posts/Vnt7oX"/>
-        <updated>2022-02-25T08:15:21.328Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt7oX">다들 집에 돌아갈때 무슨 생각하시나요?</a>]]></content>
+        <title type="html"><![CDATA[2020년 12월에 자가격리 한 이야기]]></title>
+        <id>https://alook.so/posts/dzt9qv</id>
+        <link href="https://alook.so/posts/dzt9qv"/>
+        <updated>2022-02-25T09:11:51.019Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt9qv">2020년 12월에 자가격리 한 이야기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[영화 'Her'처럼 인공지능과 사랑에 빠지는 것이 가능하다고 생각하십니까?]]></title>
-        <id>https://alook.so/posts/zvt8on</id>
-        <link href="https://alook.so/posts/zvt8on"/>
-        <updated>2022-02-25T08:15:21.330Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt8on">영화 'Her'처럼 인공지능과 사랑에 빠지는 것이 가능하다고 생각하십니까?  </a>]]></content>
+        <title type="html"><![CDATA[허경영 후보, 대선 후보자 4자 토론금지 가처분 이의제기]]></title>
+        <id>https://alook.so/posts/J5tdwa</id>
+        <link href="https://alook.so/posts/J5tdwa"/>
+        <updated>2022-02-25T09:11:51.023Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tdwa">허경영 후보, 대선 후보자 4자 토론금지 가처분 이의제기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[멘탈이 너무 힘들 때 어떻게 하시나요...]]></title>
-        <id>https://alook.so/posts/2xtmGo</id>
-        <link href="https://alook.so/posts/2xtmGo"/>
-        <updated>2022-02-25T08:15:21.333Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtmGo">멘탈이 너무 힘들 때 어떻게 하시나요...</a>]]></content>
+        <title type="html"><![CDATA[전황: 25일 오후 6시. 키에프 시내에서 교전 중]]></title>
+        <id>https://alook.so/posts/eVtq8r</id>
+        <link href="https://alook.so/posts/eVtq8r"/>
+        <updated>2022-02-25T09:11:51.024Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtq8r">전황: 25일 오후 6시. 키에프 시내에서 교전 중</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫글 써봅니다.]]></title>
-        <id>https://alook.so/posts/0ktPo7</id>
-        <link href="https://alook.so/posts/0ktPo7"/>
-        <updated>2022-02-25T08:15:21.334Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktPo7">첫글 써봅니다.</a>]]></content>
+        <title type="html"><![CDATA[2월 28일 월요일 주식 일정 모아데이타 공모청약]]></title>
+        <id>https://alook.so/posts/zvt8nD</id>
+        <link href="https://alook.so/posts/zvt8nD"/>
+        <updated>2022-02-25T09:11:51.024Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt8nD">2월 28일 월요일 주식 일정 모아데이타 공모청약</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국은 왜 파병하지 않았는가?]]></title>
-        <id>https://alook.so/posts/M9tkyz</id>
-        <link href="https://alook.so/posts/M9tkyz"/>
-        <updated>2022-02-25T08:15:21.334Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tkyz">미국은 왜 파병하지 않았는가?</a>]]></content>
+        <title type="html"><![CDATA[이시간만되면..,]]></title>
+        <id>https://alook.so/posts/2xtm65</id>
+        <link href="https://alook.so/posts/2xtm65"/>
+        <updated>2022-02-25T09:11:51.025Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtm65">이시간만되면..,</a>]]></content>
     </entry>
 </feed>
