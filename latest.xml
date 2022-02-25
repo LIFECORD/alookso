@@ -2,35 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-25T11:11:28.998Z</updated>
+    <updated>2022-02-25T12:20:25.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[말 한마디의 중요성]]></title>
-        <id>https://alook.so/posts/kZtEpL</id>
-        <link href="https://alook.so/posts/kZtEpL"/>
-        <updated>2022-02-25T11:09:32.675Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtEpL">말 한마디의 중요성</a>]]></content>
+        <title type="html"><![CDATA[나는 돈에 충실하다]]></title>
+        <id>https://alook.so/posts/Vnt7Jd</id>
+        <link href="https://alook.so/posts/Vnt7Jd"/>
+        <updated>2022-02-25T12:18:20.817Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt7Jd">나는 돈에 충실하다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나양성]]></title>
-        <id>https://alook.so/posts/yEtDoV</id>
-        <link href="https://alook.so/posts/yEtDoV"/>
-        <updated>2022-02-25T11:09:32.677Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtDoV">코로나양성</a>]]></content>
+        <title type="html"><![CDATA[연연하지 않아도 돼. 괜찮아.]]></title>
+        <id>https://alook.so/posts/zvt8yM</id>
+        <link href="https://alook.so/posts/zvt8yM"/>
+        <updated>2022-02-25T12:18:20.817Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt8yM">연연하지 않아도 돼. 괜찮아.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바리스타들의 일자리를 빼앗는 로봇 바리스타]]></title>
-        <id>https://alook.so/posts/LKtopm</id>
-        <link href="https://alook.so/posts/LKtopm"/>
-        <updated>2022-02-25T11:09:32.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtopm">바리스타들의 일자리를 빼앗는 로봇 바리스타</a>]]></content>
+        <title type="html"><![CDATA[심상정 후보님의 국가안보에 대한 생각에 대한 비판.]]></title>
+        <id>https://alook.so/posts/2xtmzm</id>
+        <link href="https://alook.so/posts/2xtmzm"/>
+        <updated>2022-02-25T12:18:20.819Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtmzm">심상정 후보님의 국가안보에 대한 생각에 대한 비판.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무식하면 정말 용감할까? (주말 심드렁)]]></title>
-        <id>https://alook.so/posts/3wt8e2</id>
-        <link href="https://alook.so/posts/3wt8e2"/>
-        <updated>2022-02-25T11:09:32.680Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt8e2">무식하면 정말 용감할까? (주말 심드렁)</a>]]></content>
+        <title type="html"><![CDATA[지우고싶다]]></title>
+        <id>https://alook.so/posts/WLt3lz</id>
+        <link href="https://alook.so/posts/WLt3lz"/>
+        <updated>2022-02-25T12:18:20.820Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt3lz">지우고싶다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안보 정책에서 공격받는 윤석열 후보]]></title>
+        <id>https://alook.so/posts/0ktPXy</id>
+        <link href="https://alook.so/posts/0ktPXy"/>
+        <updated>2022-02-25T12:18:20.822Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktPXy">안보 정책에서 공격받는 윤석열 후보</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[함께 나아가는 우리]]></title>
+        <id>https://alook.so/posts/M9tkWJ</id>
+        <link href="https://alook.so/posts/M9tkWJ"/>
+        <updated>2022-02-25T12:18:20.823Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tkWJ">함께 나아가는 우리</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 좋아하는 일을 찾는다는건,,,]]></title>
+        <id>https://alook.so/posts/4Xt3YD</id>
+        <link href="https://alook.so/posts/4Xt3YD"/>
+        <updated>2022-02-25T12:18:20.824Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt3YD">내가 좋아하는 일을 찾는다는건,,,</a>]]></content>
     </entry>
 </feed>
