@@ -2,56 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-25T10:14:32.971Z</updated>
+    <updated>2022-02-25T11:11:28.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[[뉴스 issue] 서울시의 "미스터리 쇼퍼"- 갈등 조정인가 조장인가]]></title>
-        <id>https://alook.so/posts/q1tjmJ</id>
-        <link href="https://alook.so/posts/q1tjmJ"/>
-        <updated>2022-02-25T10:12:37.212Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tjmJ">[뉴스 issue] 서울시의 "미스터리 쇼퍼"- 갈등 조정인가 조장인가</a>]]></content>
+        <title type="html"><![CDATA[말 한마디의 중요성]]></title>
+        <id>https://alook.so/posts/kZtEpL</id>
+        <link href="https://alook.so/posts/kZtEpL"/>
+        <updated>2022-02-25T11:09:32.675Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtEpL">말 한마디의 중요성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시험 후유증<7>]]></title>
-        <id>https://alook.so/posts/1RtkVD</id>
-        <link href="https://alook.so/posts/1RtkVD"/>
-        <updated>2022-02-25T10:12:37.213Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtkVD">시험 후유증&lt;7&gt;</a>]]></content>
+        <title type="html"><![CDATA[코로나양성]]></title>
+        <id>https://alook.so/posts/yEtDoV</id>
+        <link href="https://alook.so/posts/yEtDoV"/>
+        <updated>2022-02-25T11:09:32.677Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtDoV">코로나양성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[엇. 이벤트 끝났구나.]]></title>
-        <id>https://alook.so/posts/o7t4p3</id>
-        <link href="https://alook.so/posts/o7t4p3"/>
-        <updated>2022-02-25T10:12:37.219Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t4p3">엇. 이벤트 끝났구나.</a>]]></content>
+        <title type="html"><![CDATA[바리스타들의 일자리를 빼앗는 로봇 바리스타]]></title>
+        <id>https://alook.so/posts/LKtopm</id>
+        <link href="https://alook.so/posts/LKtopm"/>
+        <updated>2022-02-25T11:09:32.678Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtopm">바리스타들의 일자리를 빼앗는 로봇 바리스타</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[달달한 음식을 먹을때 이가 시리다면]]></title>
-        <id>https://alook.so/posts/70tqj0</id>
-        <link href="https://alook.so/posts/70tqj0"/>
-        <updated>2022-02-25T10:12:37.220Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tqj0">달달한 음식을 먹을때 이가 시리다면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시험 후유증<6>]]></title>
-        <id>https://alook.so/posts/YytYMY</id>
-        <link href="https://alook.so/posts/YytYMY"/>
-        <updated>2022-02-25T10:12:37.220Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytYMY">시험 후유증&lt;6&gt;</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시험 후유증<5>]]></title>
-        <id>https://alook.so/posts/E7trMv</id>
-        <link href="https://alook.so/posts/E7trMv"/>
-        <updated>2022-02-25T10:12:37.220Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7trMv">시험 후유증&lt;5&gt;</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루10분 필사-27일차]]></title>
-        <id>https://alook.so/posts/latba4</id>
-        <link href="https://alook.so/posts/latba4"/>
-        <updated>2022-02-25T10:12:37.220Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latba4">하루10분 필사-27일차</a>]]></content>
+        <title type="html"><![CDATA[무식하면 정말 용감할까? (주말 심드렁)]]></title>
+        <id>https://alook.so/posts/3wt8e2</id>
+        <link href="https://alook.so/posts/3wt8e2"/>
+        <updated>2022-02-25T11:09:32.680Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt8e2">무식하면 정말 용감할까? (주말 심드렁)</a>]]></content>
     </entry>
 </feed>
