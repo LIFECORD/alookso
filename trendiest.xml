@@ -2,29 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-25T14:13:08.150Z</updated>
+    <updated>2022-02-25T15:13:51.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[윤석열 후보의 대답에 "그게 아니고요"]]></title>
+        <id>https://alook.so/posts/J5tdzO</id>
+        <link href="https://alook.so/posts/J5tdzO"/>
+        <updated>2022-02-25T15:11:50.277Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tdzO">윤석열 후보의 대답에 "그게 아니고요"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[속보] "정치보복, 이제 그만" 3번째 합의 이끌어낸 안철수]]></title>
+        <id>https://alook.so/posts/dzt9p7</id>
+        <link href="https://alook.so/posts/dzt9p7"/>
+        <updated>2022-02-25T15:11:50.277Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt9p7">[속보] "정치보복, 이제 그만" 3번째 합의 이끌어낸 안철수</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열정이 밥 먹여줄 때가 있으셨나요?]]></title>
+        <id>https://alook.so/posts/xltDRo</id>
+        <link href="https://alook.so/posts/xltDRo"/>
+        <updated>2022-02-25T15:11:50.277Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltDRo">열정이 밥 먹여줄 때가 있으셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[권력욕이 만드는 유명무실한 원칙]]></title>
+        <id>https://alook.so/posts/WLt3DX</id>
+        <link href="https://alook.so/posts/WLt3DX"/>
+        <updated>2022-02-25T15:11:50.279Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt3DX">권력욕이 만드는 유명무실한 원칙</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 후보는 '탄핵의 강'을 건넌 걸까요?]]></title>
+        <id>https://alook.so/posts/xltDqw</id>
+        <link href="https://alook.so/posts/xltDqw"/>
+        <updated>2022-02-25T15:11:50.279Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltDqw">윤석열 후보는 '탄핵의 강'을 건넌 걸까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[각 후보가 주장하는 통합 정부의 차이는 무엇일까요?]]></title>
         <id>https://alook.so/posts/o7t4eB</id>
         <link href="https://alook.so/posts/o7t4eB"/>
         <updated>2022-02-25T14:11:18.071Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t4eB">각 후보가 주장하는 통합 정부의 차이는 무엇일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제..제가요?? 감사합니다..]]></title>
-        <id>https://alook.so/posts/rDt12M</id>
-        <link href="https://alook.so/posts/rDt12M"/>
-        <updated>2022-02-25T14:11:18.075Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt12M">제..제가요?? 감사합니다..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금요일의 마무리 치킨!]]></title>
-        <id>https://alook.so/posts/bWtrxa</id>
-        <link href="https://alook.so/posts/bWtrxa"/>
-        <updated>2022-02-25T14:11:18.075Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtrxa">금요일의 마무리 치킨!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안철수 후보 마지막 발언, 왜... 지금껏 바보 소리 들으며 정치판에 계셨는지.. 이제 조금 알겠습니다.]]></title>
@@ -39,41 +60,6 @@
         <link href="https://alook.so/posts/kZtEwb"/>
         <updated>2022-02-25T14:11:18.076Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtEwb">제가 질문 드린 것은 그런 뜻이 아닙니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정.치.보.복.대.국.민.선.언.]]></title>
-        <id>https://alook.so/posts/yEtDjG</id>
-        <link href="https://alook.so/posts/yEtDjG"/>
-        <updated>2022-02-25T13:15:37.814Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtDjG">정.치.보.복.대.국.민.선.언.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이재명 후보는 '조국의 강'을 건넌걸까요?]]></title>
-        <id>https://alook.so/posts/njtDqy</id>
-        <link href="https://alook.so/posts/njtDqy"/>
-        <updated>2022-02-25T14:11:18.081Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtDqy">이재명 후보는 '조국의 강'을 건넌걸까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[팩트체크] 위성정당, 누가 먼저 만들었나?]]></title>
-        <id>https://alook.so/posts/Kmtm9B</id>
-        <link href="https://alook.so/posts/Kmtm9B"/>
-        <updated>2022-02-25T14:11:18.088Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtm9B">[팩트체크] 위성정당, 누가 먼저 만들었나?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아프고 아픈 인생]]></title>
-        <id>https://alook.so/posts/E7tr54</id>
-        <link href="https://alook.so/posts/E7tr54"/>
-        <updated>2022-02-25T13:15:37.815Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tr54">아프고 아픈 인생</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[좋아요!]]></title>
-        <id>https://alook.so/posts/1RtkPD</id>
-        <link href="https://alook.so/posts/1RtkPD"/>
-        <updated>2022-02-25T12:18:28.946Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtkPD">좋아요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[기술에 종속되는 사람들을 위해 디지털 리터러시의 확산이 필요해요...]]></title>
