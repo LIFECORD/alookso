@@ -2,14 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-25T13:17:24.001Z</updated>
+    <updated>2022-02-25T14:13:08.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[2.25일 카카오뷰 일기]]></title>
-        <id>https://alook.so/posts/rDt1Kr</id>
-        <link href="https://alook.so/posts/rDt1Kr"/>
-        <updated>2022-02-25T13:15:29.800Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt1Kr">2.25일 카카오뷰 일기</a>]]></content>
+        <title type="html"><![CDATA[고3 딸내미 대입 진로 고민?]]></title>
+        <id>https://alook.so/posts/0ktPWp</id>
+        <link href="https://alook.so/posts/0ktPWp"/>
+        <updated>2022-02-25T14:11:09.734Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktPWp">고3 딸내미 대입 진로 고민?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난 일주일을 돌아보며]]></title>
+        <id>https://alook.so/posts/M9tkL0</id>
+        <link href="https://alook.so/posts/M9tkL0"/>
+        <updated>2022-02-25T14:11:09.738Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tkL0">지난 일주일을 돌아보며</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루를 마무리하는 노래 추천 - 3]]></title>
+        <id>https://alook.so/posts/4Xt3MO</id>
+        <link href="https://alook.so/posts/4Xt3MO"/>
+        <updated>2022-02-25T14:11:09.738Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt3MO">하루를 마무리하는 노래 추천 - 3</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[열정이 밥 먹여줄 때가 있으셨나요?]]></title>
+        <id>https://alook.so/posts/xltDRo</id>
+        <link href="https://alook.so/posts/xltDRo"/>
+        <updated>2022-02-25T14:11:09.738Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltDRo">열정이 밥 먹여줄 때가 있으셨나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 남자들의 뼈아픈 상황]]></title>
+        <id>https://alook.so/posts/kZtEKZ</id>
+        <link href="https://alook.so/posts/kZtEKZ"/>
+        <updated>2022-02-25T14:11:09.740Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtEKZ">우크라이나 남자들의 뼈아픈 상황</a>]]></content>
     </entry>
 </feed>
