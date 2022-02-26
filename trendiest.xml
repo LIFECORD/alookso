@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-26T08:15:23.527Z</updated>
+    <updated>2022-02-26T09:13:07.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정치개혁이라는 관점에서 평가]]></title>
+        <id>https://alook.so/posts/Djt8qv</id>
+        <link href="https://alook.so/posts/Djt8qv"/>
+        <updated>2022-02-26T09:11:12.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt8qv">정치개혁이라는 관점에서 평가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그래서 몇 년간 얼마가 필요한가요? - 기승전 국가지원은 이제 그만]]></title>
+        <id>https://alook.so/posts/w9tV7v</id>
+        <link href="https://alook.so/posts/w9tV7v"/>
+        <updated>2022-02-26T09:11:12.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tV7v">그래서 몇 년간 얼마가 필요한가요? - 기승전 국가지원은 이제 그만</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어쩌다 커피를 마시기 시작했을까?]]></title>
         <id>https://alook.so/posts/4XtjoE</id>
@@ -55,13 +69,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt8dm">속기록 작성이라는 시도, 답글 달때 좋았습니다!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속보] "정치보복, 이제 그만" 3번째 합의 이끌어낸 안철수]]></title>
-        <id>https://alook.so/posts/dzt9p7</id>
-        <link href="https://alook.so/posts/dzt9p7"/>
-        <updated>2022-02-26T08:13:32.555Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt9p7">[속보] "정치보복, 이제 그만" 3번째 합의 이끌어낸 안철수</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[권력욕이 만드는 유명무실한 원칙]]></title>
         <id>https://alook.so/posts/WLt3DX</id>
         <link href="https://alook.so/posts/WLt3DX"/>
@@ -81,13 +88,6 @@
         <link href="https://alook.so/posts/kZtEwb"/>
         <updated>2022-02-25T14:11:18.076Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtEwb">제가 질문 드린 것은 그런 뜻이 아닙니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[평창올림픽 때 귀화한 선수들 지금 어디에 있을까?]]></title>
-        <id>https://alook.so/posts/RGtY98</id>
-        <link href="https://alook.so/posts/RGtY98"/>
-        <updated>2022-02-26T07:10:46.538Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtY98">평창올림픽 때 귀화한 선수들 지금 어디에 있을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에서 가장 걱정되는 부분.]]></title>
