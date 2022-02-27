@@ -2,56 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-27T09:12:54.644Z</updated>
+    <updated>2022-02-27T10:14:12.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[방금 1700만원짜리 나쵸를 먹은 걸지도요]]></title>
-        <id>https://alook.so/posts/LKt1wb</id>
-        <link href="https://alook.so/posts/LKt1wb"/>
-        <updated>2022-02-27T09:10:57.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt1wb">방금 1700만원짜리 나쵸를 먹은 걸지도요</a>]]></content>
+        <title type="html"><![CDATA[게임 좋아하시나요 ??]]></title>
+        <id>https://alook.so/posts/latJw1</id>
+        <link href="https://alook.so/posts/latJw1"/>
+        <updated>2022-02-27T10:12:01.711Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latJw1">게임 좋아하시나요 ??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[방금 1700만원짜리 나쵸를 먹은 걸지도요]]></title>
-        <id>https://alook.so/posts/njtnWl</id>
-        <link href="https://alook.so/posts/njtnWl"/>
-        <updated>2022-02-27T09:10:57.935Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtnWl">방금 1700만원짜리 나쵸를 먹은 걸지도요</a>]]></content>
+        <title type="html"><![CDATA[미국의 침공??]]></title>
+        <id>https://alook.so/posts/54tO8W</id>
+        <link href="https://alook.so/posts/54tO8W"/>
+        <updated>2022-02-27T10:12:01.714Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tO8W">미국의 침공??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나기의 오늘의 일기]]></title>
-        <id>https://alook.so/posts/6MtPVl</id>
-        <link href="https://alook.so/posts/6MtPVl"/>
-        <updated>2022-02-27T09:10:57.939Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtPVl">나기의 오늘의 일기</a>]]></content>
+        <title type="html"><![CDATA[중대재해 처벌법]]></title>
+        <id>https://alook.so/posts/q1tDoX</id>
+        <link href="https://alook.so/posts/q1tDoX"/>
+        <updated>2022-02-27T10:12:01.717Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tDoX">중대재해 처벌법</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[꾸준함. 미국의 수영선수 펠프스를 아시나요? 금메달만 23개.]]></title>
-        <id>https://alook.so/posts/3wtZGl</id>
-        <link href="https://alook.so/posts/3wtZGl"/>
-        <updated>2022-02-27T09:10:57.939Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtZGl">꾸준함. 미국의 수영선수 펠프스를 아시나요? 금메달만 23개.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사후세계에 대해 어떻게 생각하시나요?]]></title>
-        <id>https://alook.so/posts/G1tZnJ</id>
-        <link href="https://alook.so/posts/G1tZnJ"/>
-        <updated>2022-02-27T09:10:57.939Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tZnJ">사후세계에 대해 어떻게 생각하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글의 가치]]></title>
-        <id>https://alook.so/posts/E7tPwe</id>
-        <link href="https://alook.so/posts/E7tPwe"/>
-        <updated>2022-02-27T09:10:57.940Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tPwe">글의 가치</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI]]></title>
-        <id>https://alook.so/posts/latJY9</id>
-        <link href="https://alook.so/posts/latJY9"/>
-        <updated>2022-02-27T09:10:57.941Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latJY9">AI</a>]]></content>
+        <title type="html"><![CDATA[기계설비 책임자]]></title>
+        <id>https://alook.so/posts/1RtbX7</id>
+        <link href="https://alook.so/posts/1RtbX7"/>
+        <updated>2022-02-27T10:12:01.719Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtbX7">기계설비 책임자</a>]]></content>
     </entry>
 </feed>

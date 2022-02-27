@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-27T09:12:54.729Z</updated>
+    <updated>2022-02-27T10:14:12.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -83,6 +83,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tB5M">펠로폰네소스 전쟁은 왜 일어났을까?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[책 한 권을 다 읽으려면,]]></title>
+        <id>https://alook.so/posts/potwpd</id>
+        <link href="https://alook.so/posts/potwpd"/>
+        <updated>2022-02-27T10:12:11.357Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potwpd">책 한 권을 다 읽으려면,</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[글쓰기는 즐거움이다 (長文주의보)]]></title>
         <id>https://alook.so/posts/J5tkKB</id>
         <link href="https://alook.so/posts/J5tkKB"/>
@@ -109,13 +116,6 @@
         <link href="https://alook.so/posts/w9tV7v"/>
         <updated>2022-02-26T09:11:12.083Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tV7v">그래서 몇 년간 얼마가 필요한가요? - 기승전 국가지원은 이제 그만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[속기 복기] 조국의 강 vs. 탄핵의 강]]></title>
-        <id>https://alook.so/posts/vKtwyZ</id>
-        <link href="https://alook.so/posts/vKtwyZ"/>
-        <updated>2022-02-26T04:13:42.841Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtwyZ">[속기 복기] 조국의 강 vs. 탄핵의 강</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[절이 싫다고 해서 중이 떠나야 되나]]></title>
