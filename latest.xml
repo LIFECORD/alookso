@@ -2,63 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-27T12:19:00.011Z</updated>
+    <updated>2022-02-27T13:16:17.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[칼에 발이 달렸나아~~]]></title>
-        <id>https://alook.so/posts/3wtZnw</id>
-        <link href="https://alook.so/posts/3wtZnw"/>
-        <updated>2022-02-27T12:16:53.351Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtZnw">칼에 발이 달렸나아~~</a>]]></content>
+        <title type="html"><![CDATA[작은 실천에 대한 믿음,]]></title>
+        <id>https://alook.so/posts/E7tPXq</id>
+        <link href="https://alook.so/posts/E7tPXq"/>
+        <updated>2022-02-27T13:14:13.632Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tPXq"> 작은 실천에 대한 믿음,</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 이런 곳이군요...]]></title>
-        <id>https://alook.so/posts/8Wtd24</id>
-        <link href="https://alook.so/posts/8Wtd24"/>
-        <updated>2022-02-27T12:16:53.355Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wtd24">얼룩소 이런 곳이군요...</a>]]></content>
+        <title type="html"><![CDATA[어제 퇴사했습니다]]></title>
+        <id>https://alook.so/posts/latJor</id>
+        <link href="https://alook.so/posts/latJor"/>
+        <updated>2022-02-27T13:14:13.635Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latJor">어제 퇴사했습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[하루를 마무리하며]]></title>
-        <id>https://alook.so/posts/G1tZam</id>
-        <link href="https://alook.so/posts/G1tZam"/>
-        <updated>2022-02-27T12:16:53.358Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tZam">하루를 마무리하며</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에 담긴 이야기들도 데이터.]]></title>
-        <id>https://alook.so/posts/OEtr3d</id>
-        <link href="https://alook.so/posts/OEtr3d"/>
-        <updated>2022-02-27T12:16:53.360Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtr3d">얼룩소에 담긴 이야기들도 데이터.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전쟁과공존]]></title>
-        <id>https://alook.so/posts/E7tP2q</id>
-        <link href="https://alook.so/posts/E7tP2q"/>
-        <updated>2022-02-27T12:16:53.361Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tP2q">전쟁과공존</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에]]></title>
-        <id>https://alook.so/posts/latJPr</id>
-        <link href="https://alook.so/posts/latJPr"/>
-        <updated>2022-02-27T12:16:53.365Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latJPr">얼룩소에</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진짜 힘내시길 바랍니다.]]></title>
-        <id>https://alook.so/posts/92t84O</id>
-        <link href="https://alook.so/posts/92t84O"/>
-        <updated>2022-02-27T12:16:53.366Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t84O">진짜 힘내시길 바랍니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도시의 미래란]]></title>
-        <id>https://alook.so/posts/KmtReR</id>
-        <link href="https://alook.so/posts/KmtReR"/>
-        <updated>2022-02-27T12:16:53.367Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtReR">도시의 미래란</a>]]></content>
+        <title type="html"><![CDATA[영어로 컴플레인하기 in Thailand episode 1]]></title>
+        <id>https://alook.so/posts/92t8kO</id>
+        <link href="https://alook.so/posts/92t8kO"/>
+        <updated>2022-02-27T13:14:13.639Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t8kO">영어로 컴플레인하기 in Thailand episode 1</a>]]></content>
     </entry>
 </feed>
