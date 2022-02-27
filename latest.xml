@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-27T16:16:33.038Z</updated>
+    <updated>2022-02-27T17:12:54.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA['모르는 사람은 문 열어 주지 마' 의 함정]]></title>
-        <id>https://alook.so/posts/w9tMXo</id>
-        <link href="https://alook.so/posts/w9tMXo"/>
-        <updated>2022-02-27T16:14:32.107Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tMXo">'모르는 사람은 문 열어 주지 마' 의 함정</a>]]></content>
+        <title type="html"><![CDATA[암에 대한 생각3]]></title>
+        <id>https://alook.so/posts/70tXx2</id>
+        <link href="https://alook.so/posts/70tXx2"/>
+        <updated>2022-02-27T17:10:45.364Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tXx2">암에 대한 생각3</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[요새 출근 하기 너무 싫어요~]]></title>
-        <id>https://alook.so/posts/xltm3q</id>
-        <link href="https://alook.so/posts/xltm3q"/>
-        <updated>2022-02-27T16:14:32.111Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltm3q">요새 출근 하기 너무 싫어요~</a>]]></content>
+        <title type="html"><![CDATA[귀천은 없다 다 같은 사람일뿐..]]></title>
+        <id>https://alook.so/posts/rDto6y</id>
+        <link href="https://alook.so/posts/rDto6y"/>
+        <updated>2022-02-27T17:10:45.364Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDto6y">귀천은 없다 다 같은 사람일뿐..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2월 27일 길냥이와 캣맘 이야기]]></title>
-        <id>https://alook.so/posts/kZt2Xl</id>
-        <link href="https://alook.so/posts/kZt2Xl"/>
-        <updated>2022-02-27T16:14:32.111Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt2Xl">2월 27일 길냥이와 캣맘 이야기</a>]]></content>
+        <title type="html"><![CDATA[저는 학생들 의견이 가장 중요하다고 생각합니다.]]></title>
+        <id>https://alook.so/posts/bWtWqP</id>
+        <link href="https://alook.so/posts/bWtWqP"/>
+        <updated>2022-02-27T17:10:45.366Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtWqP">저는 학생들 의견이 가장 중요하다고 생각합니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⚽ 손흥민 또 하나의 대 기록!]]></title>
+        <id>https://alook.so/posts/dztyLZ</id>
+        <link href="https://alook.so/posts/dztyLZ"/>
+        <updated>2022-02-27T17:10:45.368Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztyLZ">⚽ 손흥민 또 하나의 대 기록!</a>]]></content>
     </entry>
 </feed>
