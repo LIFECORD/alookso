@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-27T22:13:18.984Z</updated>
+    <updated>2022-02-27T23:13:24.544Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩집에서 본 보석]]></title>
-        <id>https://alook.so/posts/latJvY</id>
-        <link href="https://alook.so/posts/latJvY"/>
-        <updated>2022-02-27T22:11:05.025Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latJvY">얼룩집에서 본 보석</a>]]></content>
+        <title type="html"><![CDATA[아파트 경매에 대하여 질문있습니다]]></title>
+        <id>https://alook.so/posts/mbtnnB</id>
+        <link href="https://alook.so/posts/mbtnnB"/>
+        <updated>2022-02-27T23:11:14.114Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtnnB">아파트 경매에 대하여 질문있습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고양이영상보다 생각나서 적는글]]></title>
-        <id>https://alook.so/posts/mbtnWB</id>
-        <link href="https://alook.so/posts/mbtnWB"/>
-        <updated>2022-02-27T22:11:05.028Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtnWB">고양이영상보다 생각나서 적는글</a>]]></content>
+        <title type="html"><![CDATA[재테크의 가장 중요한 1단계 절약]]></title>
+        <id>https://alook.so/posts/q1tDDn</id>
+        <link href="https://alook.so/posts/q1tDDn"/>
+        <updated>2022-02-27T23:11:14.114Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tDDn">재테크의 가장 중요한 1단계 절약</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더닝 크루거 효과]]></title>
-        <id>https://alook.so/posts/q1tDzn</id>
-        <link href="https://alook.so/posts/q1tDzn"/>
-        <updated>2022-02-27T22:11:05.029Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tDzn">더닝 크루거 효과 </a>]]></content>
+        <title type="html"><![CDATA[말하는데로 이루어진다⭐️]]></title>
+        <id>https://alook.so/posts/70tX0a</id>
+        <link href="https://alook.so/posts/70tX0a"/>
+        <updated>2022-02-27T23:11:14.115Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tX0a">말하는데로 이루어진다⭐️</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[러시아 우크라이나의 침공에대한 차후 미래]]></title>
-        <id>https://alook.so/posts/1Rtbp2</id>
-        <link href="https://alook.so/posts/1Rtbp2"/>
-        <updated>2022-02-27T22:11:05.033Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtbp2">러시아 우크라이나의 침공에대한 차후 미래</a>]]></content>
+        <title type="html"><![CDATA[짧은 달 2월]]></title>
+        <id>https://alook.so/posts/YytzJo</id>
+        <link href="https://alook.so/posts/YytzJo"/>
+        <updated>2022-02-27T23:11:14.119Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytzJo">짧은 달 2월</a>]]></content>
     </entry>
 </feed>
