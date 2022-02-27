@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-27T10:14:12.145Z</updated>
+    <updated>2022-02-27T11:12:10.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[게임 좋아하시나요 ??]]></title>
-        <id>https://alook.so/posts/latJw1</id>
-        <link href="https://alook.so/posts/latJw1"/>
-        <updated>2022-02-27T10:12:01.711Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latJw1">게임 좋아하시나요 ??</a>]]></content>
+        <title type="html"><![CDATA[31살이 되면]]></title>
+        <id>https://alook.so/posts/latJ8x</id>
+        <link href="https://alook.so/posts/latJ8x"/>
+        <updated>2022-02-27T11:10:15.690Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latJ8x">31살이 되면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국의 침공??]]></title>
-        <id>https://alook.so/posts/54tO8W</id>
-        <link href="https://alook.so/posts/54tO8W"/>
-        <updated>2022-02-27T10:12:01.714Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tO8W">미국의 침공??</a>]]></content>
+        <title type="html"><![CDATA[기숙사 도착..]]></title>
+        <id>https://alook.so/posts/92t8qk</id>
+        <link href="https://alook.so/posts/92t8qk"/>
+        <updated>2022-02-27T11:10:15.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t8qk">기숙사 도착..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[중대재해 처벌법]]></title>
-        <id>https://alook.so/posts/q1tDoX</id>
-        <link href="https://alook.so/posts/q1tDoX"/>
-        <updated>2022-02-27T10:12:01.717Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tDoX">중대재해 처벌법</a>]]></content>
+        <title type="html"><![CDATA[내 안의 에너지를 밖으로 풀어내면 생기는 일]]></title>
+        <id>https://alook.so/posts/1Rtb85</id>
+        <link href="https://alook.so/posts/1Rtb85"/>
+        <updated>2022-02-27T11:10:15.693Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtb85">내 안의 에너지를 밖으로 풀어내면 생기는 일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기계설비 책임자]]></title>
-        <id>https://alook.so/posts/1RtbX7</id>
-        <link href="https://alook.so/posts/1RtbX7"/>
-        <updated>2022-02-27T10:12:01.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtbX7">기계설비 책임자</a>]]></content>
+        <title type="html"><![CDATA[TV 드라마 식상해]]></title>
+        <id>https://alook.so/posts/70tXJ5</id>
+        <link href="https://alook.so/posts/70tXJ5"/>
+        <updated>2022-02-27T11:10:15.695Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tXJ5">TV 드라마 식상해</a>]]></content>
     </entry>
 </feed>
