@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-28T11:12:27.608Z</updated>
+    <updated>2022-02-28T12:20:08.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[힘든 마음을 먼저 안아주세요.]]></title>
-        <id>https://alook.so/posts/G1tPX8</id>
-        <link href="https://alook.so/posts/G1tPX8"/>
-        <updated>2022-02-28T11:10:26.158Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tPX8">힘든 마음을 먼저 안아주세요.</a>]]></content>
+        <title type="html"><![CDATA[내가 사랑하는 책 한권이 있다면]]></title>
+        <id>https://alook.so/posts/XBtRpo</id>
+        <link href="https://alook.so/posts/XBtRpo"/>
+        <updated>2022-02-28T12:18:10.835Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtRpo">내가 사랑하는 책 한권이 있다면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 얼룩소에 놀러오는 이유.]]></title>
-        <id>https://alook.so/posts/vKtLEK</id>
-        <link href="https://alook.so/posts/vKtLEK"/>
-        <updated>2022-02-28T11:10:26.159Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtLEK">내가 얼룩소에 놀러오는 이유.</a>]]></content>
+        <title type="html"><![CDATA[화실 분위기]]></title>
+        <id>https://alook.so/posts/xltr2o</id>
+        <link href="https://alook.so/posts/xltr2o"/>
+        <updated>2022-02-28T12:18:10.836Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltr2o">화실 분위기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[희망을 잃지 마세요.]]></title>
-        <id>https://alook.so/posts/E7t6Gj</id>
-        <link href="https://alook.so/posts/E7t6Gj"/>
-        <updated>2022-02-28T11:10:26.161Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t6Gj">희망을 잃지 마세요.</a>]]></content>
+        <title type="html"><![CDATA[마음에드는 한 구절]]></title>
+        <id>https://alook.so/posts/RGtX0L</id>
+        <link href="https://alook.so/posts/RGtX0L"/>
+        <updated>2022-02-28T12:18:10.840Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtX0L">마음에드는 한 구절</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[관점, 견해가 다르다는 건]]></title>
-        <id>https://alook.so/posts/Kmtw7W</id>
-        <link href="https://alook.so/posts/Kmtw7W"/>
-        <updated>2022-02-28T11:10:26.162Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtw7W">관점, 견해가 다르다는 건</a>]]></content>
+        <title type="html"><![CDATA[첫 로그인!!]]></title>
+        <id>https://alook.so/posts/kZtdyZ</id>
+        <link href="https://alook.so/posts/kZtdyZ"/>
+        <updated>2022-02-28T12:18:10.841Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtdyZ">첫 로그인!!</a>]]></content>
     </entry>
 </feed>
