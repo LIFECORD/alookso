@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-28T13:19:48.054Z</updated>
+    <updated>2022-02-28T14:12:44.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[‘얼룩덜룩’ 다양한 생각이 오가는 미디어 생태계]]></title>
+        <title type="html"><![CDATA[불편한 글들이 가끔 보인다.]]></title>
+        <id>https://alook.so/posts/WLtKe0</id>
+        <link href="https://alook.so/posts/WLtKe0"/>
+        <updated>2022-02-28T14:10:44.476Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtKe0">불편한 글들이 가끔 보인다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘alookso’가 뭔지 아는 게 먼저!]]></title>
+        <id>https://alook.so/posts/2xtYOW</id>
+        <link href="https://alook.so/posts/2xtYOW"/>
+        <updated>2022-02-28T14:10:44.482Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtYOW">‘alookso’가 뭔지 아는 게 먼저!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘얼룩덜룩’ 다양한 생각이 오가는 미디어 생태계다.]]></title>
         <id>https://alook.so/posts/Djt5BY</id>
         <link href="https://alook.so/posts/Djt5BY"/>
         <updated>2022-02-28T13:17:54.353Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt5BY">‘얼룩덜룩’ 다양한 생각이 오가는 미디어 생태계</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[29살 백수 취업 준비]]></title>
-        <id>https://alook.so/posts/E7t6wj</id>
-        <link href="https://alook.so/posts/E7t6wj"/>
-        <updated>2022-02-28T13:17:54.372Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t6wj">29살 백수 취업 준비</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt5BY">‘얼룩덜룩’ 다양한 생각이 오가는 미디어 생태계다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[핸드폰,컴퓨터로 벌 수 있는 돈의 양]]></title>
@@ -116,13 +123,6 @@
         <link href="https://alook.so/posts/DjtXL7"/>
         <updated>2022-02-28T04:14:16.281Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtXL7">한국시간 27일 22시, 우크라이나 전쟁 전황</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 세상이 불편해졌으면 좋겠다-진짜요? 정말요?]]></title>
-        <id>https://alook.so/posts/pot18X</id>
-        <link href="https://alook.so/posts/pot18X"/>
-        <updated>2022-02-28T02:03:26.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot18X">답글: 세상이 불편해졌으면 좋겠다-진짜요? 정말요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세상이 불편해졌으면 좋겠다]]></title>
