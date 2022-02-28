@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-02-28T09:14:29.949Z</updated>
+    <updated>2022-02-28T10:15:06.601Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[80년대 문방구~]]></title>
-        <id>https://alook.so/posts/Vnt1ek</id>
-        <link href="https://alook.so/posts/Vnt1ek"/>
-        <updated>2022-02-28T09:12:24.114Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt1ek">80년대 문방구~ </a>]]></content>
+        <title type="html"><![CDATA[혹시 넷플릭스 드라마 "소년심판" 보셨나요]]></title>
+        <id>https://alook.so/posts/YytqkK</id>
+        <link href="https://alook.so/posts/YytqkK"/>
+        <updated>2022-02-28T10:12:49.217Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytqkK">혹시 넷플릭스 드라마 "소년심판" 보셨나요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저도 첫 포인트를 받았습니다]]></title>
-        <id>https://alook.so/posts/0kt7mj</id>
-        <link href="https://alook.so/posts/0kt7mj"/>
-        <updated>2022-02-28T09:12:24.116Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt7mj">저도 첫 포인트를 받았습니다</a>]]></content>
+        <title type="html"><![CDATA[코로나증상으로 착각한 부비동염]]></title>
+        <id>https://alook.so/posts/a0tkE4</id>
+        <link href="https://alook.so/posts/a0tkE4"/>
+        <updated>2022-02-28T10:12:49.219Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tkE4">코로나증상으로 착각한 부비동염</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[독일 축구판에서 읽는 대한민국 정치]]></title>
-        <id>https://alook.so/posts/4XtpOl</id>
-        <link href="https://alook.so/posts/4XtpOl"/>
-        <updated>2022-02-28T09:12:24.120Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtpOl">독일 축구판에서 읽는 대한민국 정치</a>]]></content>
+        <title type="html"><![CDATA[지금 잠들면 새벽에 깨서 얼룩소하기]]></title>
+        <id>https://alook.so/posts/dztdoB</id>
+        <link href="https://alook.so/posts/dztdoB"/>
+        <updated>2022-02-28T10:12:49.219Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztdoB">지금 잠들면 새벽에 깨서 얼룩소하기 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자존감 높이는 방법]]></title>
+        <id>https://alook.so/posts/J5tlaw</id>
+        <link href="https://alook.so/posts/J5tlaw"/>
+        <updated>2022-02-28T10:12:49.222Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tlaw">자존감 높이는 방법</a>]]></content>
     </entry>
 </feed>
