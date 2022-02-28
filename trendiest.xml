@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-02-28T03:14:43.666Z</updated>
+    <updated>2022-02-28T04:16:15.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국시간 27일 22시, 우크라이나 전쟁 전황]]></title>
+        <id>https://alook.so/posts/DjtXL7</id>
+        <link href="https://alook.so/posts/DjtXL7"/>
+        <updated>2022-02-28T04:14:16.281Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtXL7">한국시간 27일 22시, 우크라이나 전쟁 전황</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일할 곳이 필요합니다]]></title>
+        <id>https://alook.so/posts/8WtdM5</id>
+        <link href="https://alook.so/posts/8WtdM5"/>
+        <updated>2022-02-28T04:14:16.285Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtdM5">일할 곳이 필요합니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 세상이 불편해졌으면 좋겠다-진짜요? 정말요?]]></title>
         <id>https://alook.so/posts/pot18X</id>
         <link href="https://alook.so/posts/pot18X"/>
         <updated>2022-02-28T02:03:26.359Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot18X">답글: 세상이 불편해졌으면 좋겠다-진짜요? 정말요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 알고리즘, 알고리듬...]]></title>
-        <id>https://alook.so/posts/YytzqR</id>
-        <link href="https://alook.so/posts/YytzqR"/>
-        <updated>2022-02-28T02:03:26.361Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytzqR">답글: 알고리즘, 알고리듬...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 매우 어려운 조언]]></title>
@@ -27,6 +34,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtoxv">답글: 매우 어려운 조언</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글: 알고리즘, 알고리듬...]]></title>
+        <id>https://alook.so/posts/YytzqR</id>
+        <link href="https://alook.so/posts/YytzqR"/>
+        <updated>2022-02-28T02:03:26.361Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytzqR">답글: 알고리즘, 알고리듬...</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[「스웨덴의 저녁은 오후 4시에 시작된다」]]></title>
         <id>https://alook.so/posts/92t8J2</id>
         <link href="https://alook.so/posts/92t8J2"/>
@@ -34,18 +48,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92t8J2">「스웨덴의 저녁은 오후 4시에 시작된다」</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[군금해] 추가 수당도 받는 요즘 군대 병사들의 월급]]></title>
-        <id>https://alook.so/posts/PvtkWd</id>
-        <link href="https://alook.so/posts/PvtkWd"/>
-        <updated>2022-02-27T23:11:23.349Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtkWd">[군금해] 추가 수당도 받는 요즘 군대 병사들의 월급</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[싸우고 난 후 사람의 심리]]></title>
         <id>https://alook.so/posts/OEtror</id>
         <link href="https://alook.so/posts/OEtror"/>
         <updated>2022-02-27T23:11:23.339Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtror">싸우고 난 후 사람의 심리</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[군금해] 추가 수당도 받는 요즘 군대 병사들의 월급]]></title>
+        <id>https://alook.so/posts/PvtkWd</id>
+        <link href="https://alook.so/posts/PvtkWd"/>
+        <updated>2022-02-27T23:11:23.349Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtkWd">[군금해] 추가 수당도 받는 요즘 군대 병사들의 월급</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[군더더기없이 모든 게 '간편화'된 사회가 너무 섬뜩하다]]></title>
@@ -67,6 +81,20 @@
         <link href="https://alook.so/posts/bWtWeM"/>
         <updated>2022-02-27T16:14:39.921Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtWeM">인생을 버텨낸다는 것의 의미</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: '잘' 했어요]]></title>
+        <id>https://alook.so/posts/yEt7d4</id>
+        <link href="https://alook.so/posts/yEt7d4"/>
+        <updated>2022-02-28T04:14:16.296Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt7d4">답글: '잘' 했어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이어령 선생님의 별세소식에 부쳐]]></title>
+        <id>https://alook.so/posts/70tX8q</id>
+        <link href="https://alook.so/posts/70tX8q"/>
+        <updated>2022-02-28T04:14:16.297Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tX8q">이어령 선생님의 별세소식에 부쳐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[‘사교육 조장’이라는 공허한 비판, 역할을 못 찾는 공교육]]></title>
