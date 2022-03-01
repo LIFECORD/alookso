@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-01T06:16:13.639Z</updated>
+    <updated>2022-03-01T07:13:11.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[드디어 수익금 입금]]></title>
-        <id>https://alook.so/posts/Djt5PP</id>
-        <link href="https://alook.so/posts/Djt5PP"/>
-        <updated>2022-03-01T06:14:16.390Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt5PP">드디어 수익금 입금</a>]]></content>
+        <title type="html"><![CDATA[오징어게임장 바깥에서 가장 기억에 남는 배역]]></title>
+        <id>https://alook.so/posts/o7tY8E</id>
+        <link href="https://alook.so/posts/o7tY8E"/>
+        <updated>2022-03-01T07:11:17.410Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tY8E">오징어게임장 바깥에서 가장 기억에 남는 배역</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["꿈"]]></title>
-        <id>https://alook.so/posts/o7tYed</id>
-        <link href="https://alook.so/posts/o7tYed"/>
-        <updated>2022-03-01T06:14:16.391Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tYed">"꿈"</a>]]></content>
+        <title type="html"><![CDATA[아르헨티나에 있는 한국땅 .]]></title>
+        <id>https://alook.so/posts/70t23M</id>
+        <link href="https://alook.so/posts/70t23M"/>
+        <updated>2022-03-01T07:11:17.411Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t23M">아르헨티나에 있는 한국땅 .</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[보상]]></title>
-        <id>https://alook.so/posts/70t2Ej</id>
-        <link href="https://alook.so/posts/70t2Ej"/>
-        <updated>2022-03-01T06:14:16.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t2Ej">보상</a>]]></content>
+        <title type="html"><![CDATA[나에겐 용기가 있을까]]></title>
+        <id>https://alook.so/posts/rDtPBz</id>
+        <link href="https://alook.so/posts/rDtPBz"/>
+        <updated>2022-03-01T07:11:17.411Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtPBz">나에겐 용기가 있을까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어쩌다보니]]></title>
-        <id>https://alook.so/posts/rDtPdq</id>
-        <link href="https://alook.so/posts/rDtPdq"/>
-        <updated>2022-03-01T06:14:16.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtPdq">어쩌다보니</a>]]></content>
+        <title type="html"><![CDATA[인생은 00이다 라고 정의하는 사람들]]></title>
+        <id>https://alook.so/posts/E7t6Zm</id>
+        <link href="https://alook.so/posts/E7t6Zm"/>
+        <updated>2022-03-01T07:11:17.412Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t6Zm">인생은 00이다 라고 정의하는 사람들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사랑이란것은 무엇일까요?]]></title>
-        <id>https://alook.so/posts/jdto7B</id>
-        <link href="https://alook.so/posts/jdto7B"/>
-        <updated>2022-03-01T06:14:16.395Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdto7B">사랑이란것은 무엇일까요?</a>]]></content>
+        <title type="html"><![CDATA[죽음 보다는 추한 삶을 더 두려워 해야 한다]]></title>
+        <id>https://alook.so/posts/KmtwVP</id>
+        <link href="https://alook.so/posts/KmtwVP"/>
+        <updated>2022-03-01T07:11:17.413Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtwVP">죽음 보다는 추한 삶을 더 두려워 해야 한다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3.1절인 오늘의 일상]]></title>
+        <id>https://alook.so/posts/q1t9V3</id>
+        <link href="https://alook.so/posts/q1t9V3"/>
+        <updated>2022-03-01T07:11:17.414Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t9V3">3.1절인 오늘의 일상</a>]]></content>
     </entry>
 </feed>
