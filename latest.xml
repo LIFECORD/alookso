@@ -2,70 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-01T12:21:57.969Z</updated>
+    <updated>2022-03-01T13:19:33.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[아... 마음이 너무 아파요.]]></title>
-        <id>https://alook.so/posts/0ktoJ0</id>
-        <link href="https://alook.so/posts/0ktoJ0"/>
-        <updated>2022-03-01T12:19:59.196Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktoJ0">아... 마음이 너무 아파요.</a>]]></content>
+        <title type="html"><![CDATA[넥슨 창업주 김정주 님의 비보를 듣고]]></title>
+        <id>https://alook.so/posts/dztPm3</id>
+        <link href="https://alook.so/posts/dztPm3"/>
+        <updated>2022-03-01T13:17:34.792Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztPm3">넥슨 창업주 김정주 님의 비보를 듣고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정리정돈]]></title>
-        <id>https://alook.so/posts/M9ty9K</id>
-        <link href="https://alook.so/posts/M9ty9K"/>
-        <updated>2022-03-01T12:19:59.206Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9ty9K">정리정돈</a>]]></content>
+        <title type="html"><![CDATA[중산층이 없고, 상류층과 하류층만 존재해요.]]></title>
+        <id>https://alook.so/posts/potpBq</id>
+        <link href="https://alook.so/posts/potpBq"/>
+        <updated>2022-03-01T13:17:34.793Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potpBq">중산층이 없고, 상류층과 하류층만 존재해요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 하루를 보내며]]></title>
-        <id>https://alook.so/posts/4XtZkr</id>
-        <link href="https://alook.so/posts/4XtZkr"/>
-        <updated>2022-03-01T12:19:59.208Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtZkr">오늘 하루를 보내며</a>]]></content>
+        <title type="html"><![CDATA[직장생활의 고민]]></title>
+        <id>https://alook.so/posts/eVt7pB</id>
+        <link href="https://alook.so/posts/eVt7pB"/>
+        <updated>2022-03-01T13:17:34.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt7pB">직장생활의 고민</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[예상했던데로…]]></title>
-        <id>https://alook.so/posts/XBtvK4</id>
-        <link href="https://alook.so/posts/XBtvK4"/>
-        <updated>2022-03-01T12:19:59.209Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtvK4">예상했던데로…</a>]]></content>
+        <title type="html"><![CDATA[220228 감사]]></title>
+        <id>https://alook.so/posts/VntoVJ</id>
+        <link href="https://alook.so/posts/VntoVJ"/>
+        <updated>2022-03-01T13:17:34.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntoVJ">220228 감사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스트레스는 만병의 근원]]></title>
-        <id>https://alook.so/posts/w9t5xE</id>
-        <link href="https://alook.so/posts/w9t5xE"/>
-        <updated>2022-03-01T12:19:59.210Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t5xE">스트레스는 만병의 근원</a>]]></content>
+        <title type="html"><![CDATA[인간이란 존재는?]]></title>
+        <id>https://alook.so/posts/WLt2jd</id>
+        <link href="https://alook.so/posts/WLt2jd"/>
+        <updated>2022-03-01T13:17:34.796Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt2jd">인간이란 존재는?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감사일기 쓰기 좋은 날 :)]]></title>
-        <id>https://alook.so/posts/xlt4XW</id>
-        <link href="https://alook.so/posts/xlt4XW"/>
-        <updated>2022-03-01T12:19:59.211Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt4XW">감사일기 쓰기 좋은 날 :)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈의 맛]]></title>
-        <id>https://alook.so/posts/RGtpVE</id>
-        <link href="https://alook.so/posts/RGtpVE"/>
-        <updated>2022-03-01T12:19:59.212Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtpVE">돈의 맛</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취미] 취미활동 그 첫번째 이야기-3]]></title>
-        <id>https://alook.so/posts/kZtb1r</id>
-        <link href="https://alook.so/posts/kZtb1r"/>
-        <updated>2022-03-01T12:19:59.213Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtb1r">[취미] 취미활동 그 첫번째 이야기-3</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주 4일 근무]]></title>
-        <id>https://alook.so/posts/yEt8Jm</id>
-        <link href="https://alook.so/posts/yEt8Jm"/>
-        <updated>2022-03-01T12:19:59.214Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt8Jm">주 4일 근무</a>]]></content>
+        <title type="html"><![CDATA[처음 글 써봅니다.]]></title>
+        <id>https://alook.so/posts/0ktoLY</id>
+        <link href="https://alook.so/posts/0ktoLY"/>
+        <updated>2022-03-01T13:17:34.797Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktoLY">처음 글 써봅니다.</a>]]></content>
     </entry>
 </feed>
