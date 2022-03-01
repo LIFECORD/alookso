@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-01T14:13:39.894Z</updated>
+    <updated>2022-03-01T15:15:57.073Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[점점 사라지는 이웃간의 정]]></title>
-        <id>https://alook.so/posts/OEtpEp</id>
-        <link href="https://alook.so/posts/OEtpEp"/>
-        <updated>2022-03-01T14:11:45.132Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtpEp">점점 사라지는 이웃간의 정</a>]]></content>
+        <title type="html"><![CDATA[가장 돈벌기 좋은 시대가 아니라]]></title>
+        <id>https://alook.so/posts/4XtZx6</id>
+        <link href="https://alook.so/posts/4XtZx6"/>
+        <updated>2022-03-01T15:13:56.097Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtZx6">가장 돈벌기 좋은 시대가 아니라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋아요 1000개 달성 축하드립니다.]]></title>
-        <id>https://alook.so/posts/vKtGOL</id>
-        <link href="https://alook.so/posts/vKtGOL"/>
-        <updated>2022-03-01T14:11:45.136Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtGOL">좋아요 1000개 달성 축하드립니다.</a>]]></content>
+        <title type="html"><![CDATA[부캐 만들기 프로젝트]]></title>
+        <id>https://alook.so/posts/XBtvWk</id>
+        <link href="https://alook.so/posts/XBtvWk"/>
+        <updated>2022-03-01T15:13:56.098Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtvWk">부캐 만들기 프로젝트 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[계약직 업무를 지속적으로 할 수 있을까요?]]></title>
-        <id>https://alook.so/posts/E7tKmP</id>
-        <link href="https://alook.so/posts/E7tKmP"/>
-        <updated>2022-03-01T14:11:45.140Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tKmP">계약직 업무를 지속적으로 할 수 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[청춘]]></title>
+        <id>https://alook.so/posts/kZtbGa</id>
+        <link href="https://alook.so/posts/kZtbGa"/>
+        <updated>2022-03-01T15:13:56.098Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtbGa">청춘</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한 걸음이란?(1)]]></title>
-        <id>https://alook.so/posts/latr8v</id>
-        <link href="https://alook.so/posts/latr8v"/>
-        <updated>2022-03-01T14:11:45.141Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latr8v">한 걸음이란?(1)</a>]]></content>
+        <title type="html"><![CDATA[남들보다 게으르게 사는것 같아 불안한 나]]></title>
+        <id>https://alook.so/posts/yEt8rJ</id>
+        <link href="https://alook.so/posts/yEt8rJ"/>
+        <updated>2022-03-01T15:13:56.099Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt8rJ">남들보다 게으르게 사는것 같아 불안한 나</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[김정주 사장의 사망 소식을 접하고]]></title>
-        <id>https://alook.so/posts/92tjq0</id>
-        <link href="https://alook.so/posts/92tjq0"/>
-        <updated>2022-03-01T14:11:45.142Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tjq0">김정주 사장의 사망 소식을 접하고</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[달러투자, 해보셨나요?]]></title>
-        <id>https://alook.so/posts/Kmtzqo</id>
-        <link href="https://alook.so/posts/Kmtzqo"/>
-        <updated>2022-03-01T14:11:45.144Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtzqo">달러투자, 해보셨나요? </a>]]></content>
+        <title type="html"><![CDATA[2022.3.1 오늘 뭐 먹었니?]]></title>
+        <id>https://alook.so/posts/Bat4Zl</id>
+        <link href="https://alook.so/posts/Bat4Zl"/>
+        <updated>2022-03-01T15:13:56.100Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat4Zl">2022.3.1 오늘 뭐 먹었니?</a>]]></content>
     </entry>
 </feed>
