@@ -2,63 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T16:18:36.664Z</updated>
+    <updated>2022-03-02T17:14:30.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[스트레스 푸는 방법은?]]></title>
-        <id>https://alook.so/posts/1Rt9nR</id>
-        <link href="https://alook.so/posts/1Rt9nR"/>
-        <updated>2022-03-02T16:16:13.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt9nR">스트레스 푸는 방법은?</a>]]></content>
+        <title type="html"><![CDATA[우울하네요]]></title>
+        <id>https://alook.so/posts/2xtoO5</id>
+        <link href="https://alook.so/posts/2xtoO5"/>
+        <updated>2022-03-02T17:12:34.633Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtoO5">우울하네요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나로 지친 육아]]></title>
-        <id>https://alook.so/posts/70t7Le</id>
-        <link href="https://alook.so/posts/70t7Le"/>
-        <updated>2022-03-02T16:16:13.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t7Le">코로나로 지친 육아</a>]]></content>
+        <title type="html"><![CDATA[마지막 대선 토론을 보며, 네 명의 대선 후보에 대한 생각]]></title>
+        <id>https://alook.so/posts/WLtbWk</id>
+        <link href="https://alook.so/posts/WLtbWk"/>
+        <updated>2022-03-02T17:12:34.634Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtbWk">마지막 대선 토론을 보며, 네 명의 대선 후보에 대한 생각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[남푠과 둥이들과 생(?)이별로 내 마음이 아프다.]]></title>
-        <id>https://alook.so/posts/Yytp1l</id>
-        <link href="https://alook.so/posts/Yytp1l"/>
-        <updated>2022-03-02T16:16:13.572Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytp1l">남푠과 둥이들과 생(?)이별로 내 마음이 아프다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[때론 혼자여도 좋다]]></title>
-        <id>https://alook.so/posts/jdtDP8</id>
-        <link href="https://alook.so/posts/jdtDP8"/>
-        <updated>2022-03-02T16:16:13.573Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtDP8">때론 혼자여도 좋다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[때론 혼자여도 좋다]]></title>
-        <id>https://alook.so/posts/bWtnMw</id>
-        <link href="https://alook.so/posts/bWtnMw"/>
-        <updated>2022-03-02T16:16:13.574Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtnMw">때론 혼자여도 좋다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이건.. 뭐.. 중고차 시장이 생각나네요.]]></title>
-        <id>https://alook.so/posts/a0tnr2</id>
-        <link href="https://alook.so/posts/a0tnr2"/>
-        <updated>2022-03-02T16:16:13.575Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tnr2">이건.. 뭐.. 중고차 시장이 생각나네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그냥 내가 너에게 하는 나의 이야기]]></title>
-        <id>https://alook.so/posts/ZktVWd</id>
-        <link href="https://alook.so/posts/ZktVWd"/>
-        <updated>2022-03-02T16:16:13.576Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktVWd">그냥 내가 너에게 하는 나의 이야기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 확진자의 격리 일기]]></title>
-        <id>https://alook.so/posts/dztbDe</id>
-        <link href="https://alook.so/posts/dztbDe"/>
-        <updated>2022-03-02T16:16:13.577Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztbDe">코로나 확진자의 격리 일기</a>]]></content>
+        <title type="html"><![CDATA[우리 주변 메타버스를 찾아보자]]></title>
+        <id>https://alook.so/posts/w9t2ak</id>
+        <link href="https://alook.so/posts/w9t2ak"/>
+        <updated>2022-03-02T17:12:34.635Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t2ak">우리 주변 메타버스를 찾아보자</a>]]></content>
     </entry>
 </feed>
