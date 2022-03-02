@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T17:14:30.089Z</updated>
+    <updated>2022-03-02T18:16:04.486Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[우울하네요]]></title>
-        <id>https://alook.so/posts/2xtoO5</id>
-        <link href="https://alook.so/posts/2xtoO5"/>
-        <updated>2022-03-02T17:12:34.633Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtoO5">우울하네요</a>]]></content>
+        <title type="html"><![CDATA[2022년 03월 02일 수요일]]></title>
+        <id>https://alook.so/posts/BatrLn</id>
+        <link href="https://alook.so/posts/BatrLn"/>
+        <updated>2022-03-02T18:13:56.298Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatrLn">2022년 03월 02일 수요일</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마지막 대선 토론을 보며, 네 명의 대선 후보에 대한 생각]]></title>
-        <id>https://alook.so/posts/WLtbWk</id>
-        <link href="https://alook.so/posts/WLtbWk"/>
-        <updated>2022-03-02T17:12:34.634Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtbWk">마지막 대선 토론을 보며, 네 명의 대선 후보에 대한 생각</a>]]></content>
+        <title type="html"><![CDATA[취직 못하면 설거지나 하지]]></title>
+        <id>https://alook.so/posts/6MtvqD</id>
+        <link href="https://alook.so/posts/6MtvqD"/>
+        <updated>2022-03-02T18:13:56.298Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtvqD">취직 못하면 설거지나 하지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리 주변 메타버스를 찾아보자]]></title>
-        <id>https://alook.so/posts/w9t2ak</id>
-        <link href="https://alook.so/posts/w9t2ak"/>
-        <updated>2022-03-02T17:12:34.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t2ak">우리 주변 메타버스를 찾아보자</a>]]></content>
+        <title type="html"><![CDATA[피해자 또는 가해자 심석희]]></title>
+        <id>https://alook.so/posts/3wtKnJ</id>
+        <link href="https://alook.so/posts/3wtKnJ"/>
+        <updated>2022-03-02T18:13:56.305Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtKnJ">피해자 또는 가해자 심석희</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메이플스토리]]></title>
+        <id>https://alook.so/posts/8WtG2d</id>
+        <link href="https://alook.so/posts/8WtG2d"/>
+        <updated>2022-03-02T18:13:56.306Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtG2d">메이플스토리</a>]]></content>
     </entry>
 </feed>
