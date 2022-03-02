@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T00:48:40.879Z</updated>
+    <updated>2022-03-02T02:11:10.674Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[커피와 함께 아침을 시작했습니다]]></title>
-        <id>https://alook.so/posts/1RtWK7</id>
-        <link href="https://alook.so/posts/1RtWK7"/>
-        <updated>2022-03-02T00:46:35.464Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtWK7">커피와 함께 아침을 시작했습니다</a>]]></content>
+        <title type="html"><![CDATA[32살에 고민]]></title>
+        <id>https://alook.so/posts/Zkt8x6</id>
+        <link href="https://alook.so/posts/Zkt8x6"/>
+        <updated>2022-03-02T02:09:10.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt8x6">32살에 고민</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[막내의 스무살 생일을 까먹다]]></title>
-        <id>https://alook.so/posts/YytOnw</id>
-        <link href="https://alook.so/posts/YytOnw"/>
-        <updated>2022-03-02T00:46:35.468Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytOnw">막내의 스무살 생일을 까먹다</a>]]></content>
+        <title type="html"><![CDATA[처음으로 글쓰기...]]></title>
+        <id>https://alook.so/posts/potpOz</id>
+        <link href="https://alook.so/posts/potpOz"/>
+        <updated>2022-03-02T02:09:10.591Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potpOz">처음으로 글쓰기...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 격리 2일차]]></title>
-        <id>https://alook.so/posts/rDtWGe</id>
-        <link href="https://alook.so/posts/rDtWGe"/>
-        <updated>2022-03-02T00:46:35.470Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtWGe">코로나 격리 2일차</a>]]></content>
+        <title type="html"><![CDATA[일론머스크]]></title>
+        <id>https://alook.so/posts/eVt7qz</id>
+        <link href="https://alook.so/posts/eVt7qz"/>
+        <updated>2022-03-02T02:09:10.592Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt7qz">일론머스크 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바프 및 SNS등에서 보여지는 몸만들기에 대한 생각]]></title>
-        <id>https://alook.so/posts/bWtGR9</id>
-        <link href="https://alook.so/posts/bWtGR9"/>
-        <updated>2022-03-02T00:46:35.472Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtGR9">바프 및 SNS등에서 보여지는 몸만들기에 대한 생각</a>]]></content>
+        <title type="html"><![CDATA["정규직 전환 검토" 사실일까]]></title>
+        <id>https://alook.so/posts/Vnto7v</id>
+        <link href="https://alook.so/posts/Vnto7v"/>
+        <updated>2022-03-02T02:09:10.593Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnto7v">"정규직 전환 검토" 사실일까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바프 및 SNS등에서 보여지는 몸만들기에 대한 생각]]></title>
-        <id>https://alook.so/posts/a0tRWp</id>
-        <link href="https://alook.so/posts/a0tRWp"/>
-        <updated>2022-03-02T00:46:35.477Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tRWp">바프 및 SNS등에서 보여지는 몸만들기에 대한 생각</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카우레터] 대한민국 기업 남방한계]]></title>
-        <id>https://alook.so/posts/dztPVq</id>
-        <link href="https://alook.so/posts/dztPVq"/>
-        <updated>2022-03-02T00:46:35.495Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztPVq">[카우레터] 대한민국 기업 남방한계</a>]]></content>
+        <title type="html"><![CDATA[첫 얼룩소가 치우소가 되길바라며]]></title>
+        <id>https://alook.so/posts/WLt23l</id>
+        <link href="https://alook.so/posts/WLt23l"/>
+        <updated>2022-03-02T02:09:10.595Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt23l">첫 얼룩소가 치우소가 되길바라며</a>]]></content>
     </entry>
 </feed>
