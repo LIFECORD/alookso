@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-02T07:13:36.969Z</updated>
+    <updated>2022-03-02T08:16:03.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[수능이 학종보다 공정하다는 착각, 민주당의 제자리를 찾아서]]></title>
+        <id>https://alook.so/posts/o7tve7</id>
+        <link href="https://alook.so/posts/o7tve7"/>
+        <updated>2022-03-02T08:14:17.562Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tve7">수능이 학종보다 공정하다는 착각, 민주당의 제자리를 찾아서</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글(혹은 2절): ‘사교육 조장’이라는 공허한 비판, 역할을 못 찾는 공교육]]></title>
         <id>https://alook.so/posts/njtBVm</id>
@@ -123,13 +130,6 @@
         <link href="https://alook.so/posts/xlt4ny"/>
         <updated>2022-03-01T12:20:07.575Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt4ny">우울증으로 퇴사하는 나 자신이 너무 나약한 것 같아요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 유튜브 운영을 안하는 이유]]></title>
-        <id>https://alook.so/posts/1RtDPl</id>
-        <link href="https://alook.so/posts/1RtDPl"/>
-        <updated>2022-03-02T07:11:35.868Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtDPl">내가 유튜브 운영을 안하는 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 2]]></title>
