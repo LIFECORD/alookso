@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T14:15:18.353Z</updated>
+    <updated>2022-03-02T15:14:43.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[자다가 봉변 맞은 날]]></title>
-        <id>https://alook.so/posts/DjtRoJ</id>
-        <link href="https://alook.so/posts/DjtRoJ"/>
-        <updated>2022-03-02T14:13:00.930Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtRoJ">자다가 봉변 맞은 날</a>]]></content>
+        <title type="html"><![CDATA[같이있지만]]></title>
+        <id>https://alook.so/posts/OEtbPj</id>
+        <link href="https://alook.so/posts/OEtbPj"/>
+        <updated>2022-03-02T15:12:30.938Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtbPj">같이있지만</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리의 도시 미래는 어떻게 될까요?]]></title>
-        <id>https://alook.so/posts/o7tJap</id>
-        <link href="https://alook.so/posts/o7tJap"/>
-        <updated>2022-03-02T14:13:00.930Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tJap">우리의 도시 미래는 어떻게 될까요?</a>]]></content>
+        <title type="html"><![CDATA[선거때마다 속았습니다.]]></title>
+        <id>https://alook.so/posts/vKtM5O</id>
+        <link href="https://alook.so/posts/vKtM5O"/>
+        <updated>2022-03-02T15:12:30.941Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtM5O">선거때마다 속았습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[늙어 간다는 것]]></title>
-        <id>https://alook.so/posts/70t75y</id>
-        <link href="https://alook.so/posts/70t75y"/>
-        <updated>2022-03-02T14:13:00.930Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t75y">늙어 간다는 것</a>]]></content>
+        <title type="html"><![CDATA[아침 저녁으로 자동차 배터리가 나갔다.]]></title>
+        <id>https://alook.so/posts/E7tqkk</id>
+        <link href="https://alook.so/posts/E7tqkk"/>
+        <updated>2022-03-02T15:12:30.941Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tqkk">아침 저녁으로 자동차 배터리가 나갔다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[습관의 힘의 무서움]]></title>
-        <id>https://alook.so/posts/YytpZp</id>
-        <link href="https://alook.so/posts/YytpZp"/>
-        <updated>2022-03-02T14:13:00.932Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytpZp">습관의 힘의 무서움</a>]]></content>
+        <title type="html"><![CDATA[극내향이 세상을 살아가는 법]]></title>
+        <id>https://alook.so/posts/DjtRBl</id>
+        <link href="https://alook.so/posts/DjtRBl"/>
+        <updated>2022-03-02T15:12:30.943Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtRBl">극내향이 세상을 살아가는 법</a>]]></content>
     </entry>
 </feed>
