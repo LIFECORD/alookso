@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-02T11:11:44.566Z</updated>
+    <updated>2022-03-02T12:20:30.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[안철수 후보가 민간기업의 지역 유치를 이야기하네요.]]></title>
+        <id>https://alook.so/posts/70t7kP</id>
+        <link href="https://alook.so/posts/70t7kP"/>
+        <updated>2022-03-02T12:18:30.346Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t7kP">안철수 후보가 민간기업의 지역 유치를 이야기하네요. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과거 尹 발언, "페미니즘이 남녀 교제 막아"]]></title>
+        <id>https://alook.so/posts/WLtbnE</id>
+        <link href="https://alook.so/posts/WLtbnE"/>
+        <updated>2022-03-02T12:18:30.350Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtbnE">과거 尹 발언, "페미니즘이 남녀 교제 막아"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안철수 후보가 평등과 형평에 관한 유명한 그림을 들고 나왔네요.]]></title>
+        <id>https://alook.so/posts/XBtLXG</id>
+        <link href="https://alook.so/posts/XBtLXG"/>
+        <updated>2022-03-02T12:18:30.350Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtLXG">안철수 후보가 평등과 형평에 관한 유명한 그림을 들고 나왔네요. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새 시리즈를 시작했습니다.]]></title>
         <id>https://alook.so/posts/54tD0n</id>
@@ -76,13 +97,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntonM">얼룩커에 도전하는 택배기사</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사람이 먼ㅈ...아니 사람이 '문제'다.]]></title>
-        <id>https://alook.so/posts/3wtJl1</id>
-        <link href="https://alook.so/posts/3wtJl1"/>
-        <updated>2022-03-01T16:17:04.067Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtJl1">사람이 먼ㅈ...아니 사람이 '문제'다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제가 생각하는 포인트, 그리고 제가 생각하는 얼룩소]]></title>
         <id>https://alook.so/posts/1RtWnV</id>
         <link href="https://alook.so/posts/1RtWnV"/>
@@ -104,13 +118,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tKG9">덜 시끄러운 선거유세는 불가능한걸까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Active Aging]오후 1시에 지하철을 타본 적 있으세요?]]></title>
-        <id>https://alook.so/posts/2xtGR7</id>
-        <link href="https://alook.so/posts/2xtGR7"/>
-        <updated>2022-03-01T15:14:04.239Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtGR7">[Active Aging]오후 1시에 지하철을 타본 적 있으세요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[넥슨 창업주 김정주 님의 비보를 듣고]]></title>
         <id>https://alook.so/posts/dztPm3</id>
         <link href="https://alook.so/posts/dztPm3"/>
@@ -123,13 +130,6 @@
         <link href="https://alook.so/posts/54tD4O"/>
         <updated>2022-03-01T14:11:53.111Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tD4O">포인트가 궁금해?! ... 소야 소야 얼룩소야</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 글이 좋았던 이유]]></title>
-        <id>https://alook.so/posts/6MtDO8</id>
-        <link href="https://alook.so/posts/6MtDO8"/>
-        <updated>2022-03-01T12:20:07.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtDO8">내가 글이 좋았던 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증으로 퇴사하는 나 자신이 너무 나약한 것 같아요.]]></title>

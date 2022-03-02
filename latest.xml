@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T11:11:44.560Z</updated>
+    <updated>2022-03-02T12:20:30.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[30대란 무엇일까]]></title>
-        <id>https://alook.so/posts/8WtGEx</id>
-        <link href="https://alook.so/posts/8WtGEx"/>
-        <updated>2022-03-02T11:09:47.234Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtGEx">30대란 무엇일까</a>]]></content>
+        <title type="html"><![CDATA[봄]]></title>
+        <id>https://alook.so/posts/4Xtvod</id>
+        <link href="https://alook.so/posts/4Xtvod"/>
+        <updated>2022-03-02T12:18:20.811Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtvod">봄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[23살]]></title>
-        <id>https://alook.so/posts/OEtblq</id>
-        <link href="https://alook.so/posts/OEtblq"/>
-        <updated>2022-03-02T11:09:47.236Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtblq">23살</a>]]></content>
+        <title type="html"><![CDATA[담임선생님]]></title>
+        <id>https://alook.so/posts/XBtLo1</id>
+        <link href="https://alook.so/posts/XBtLo1"/>
+        <updated>2022-03-02T12:18:20.821Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtLo1">담임선생님</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최소 임금 기준이 필요한 이유가 뭘까요?]]></title>
-        <id>https://alook.so/posts/E7tqpo</id>
-        <link href="https://alook.so/posts/E7tqpo"/>
-        <updated>2022-03-02T11:09:47.239Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tqpo">최소 임금 기준이 필요한 이유가 뭘까요? </a>]]></content>
+        <title type="html"><![CDATA[잠]]></title>
+        <id>https://alook.so/posts/w9t2nB</id>
+        <link href="https://alook.so/posts/w9t2nB"/>
+        <updated>2022-03-02T12:18:20.827Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t2nB">잠</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴은 멈춰라!!]]></title>
-        <id>https://alook.so/posts/latEpa</id>
-        <link href="https://alook.so/posts/latEpa"/>
-        <updated>2022-03-02T11:09:47.240Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latEpa">푸틴은 멈춰라!!</a>]]></content>
+        <title type="html"><![CDATA[안 후보님의 표정이 오늘도 킬링포인트]]></title>
+        <id>https://alook.so/posts/xltjv1</id>
+        <link href="https://alook.so/posts/xltjv1"/>
+        <updated>2022-03-02T12:18:20.827Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltjv1">안 후보님의 표정이 오늘도 킬링포인트 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 첫출근을 했습니다.]]></title>
-        <id>https://alook.so/posts/KmtEKE</id>
-        <link href="https://alook.so/posts/KmtEKE"/>
-        <updated>2022-03-02T11:09:47.241Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtEKE">오늘 첫출근을 했습니다.</a>]]></content>
+        <title type="html"><![CDATA[매일 우울하다고 말하는 너에게]]></title>
+        <id>https://alook.so/posts/RGtW1B</id>
+        <link href="https://alook.so/posts/RGtW1B"/>
+        <updated>2022-03-02T12:18:20.827Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtW1B">매일 우울하다고 말하는 너에게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[야간 도로의 무법자 스텔스차량 경찰이 단속을 강화 해야합니다.]]></title>
-        <id>https://alook.so/posts/mbt14a</id>
-        <link href="https://alook.so/posts/mbt14a"/>
-        <updated>2022-03-02T11:09:47.242Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt14a">야간 도로의 무법자 스텔스차량 경찰이 단속을 강화 해야합니다. </a>]]></content>
+        <title type="html"><![CDATA[안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.]]></title>
+        <id>https://alook.so/posts/yEt0V3</id>
+        <link href="https://alook.so/posts/yEt0V3"/>
+        <updated>2022-03-02T12:18:20.831Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt0V3">안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.</a>]]></content>
     </entry>
 </feed>
