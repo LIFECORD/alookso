@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T03:14:17.472Z</updated>
+    <updated>2022-03-02T04:17:14.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[휴일 마지막 날엔 잠이 오지 않는다..]]></title>
-        <id>https://alook.so/posts/q1t59d</id>
-        <link href="https://alook.so/posts/q1t59d"/>
-        <updated>2022-03-02T03:12:10.440Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1t59d">휴일 마지막 날엔 잠이 오지 않는다..</a>]]></content>
+        <title type="html"><![CDATA[코로나 자가격리 2일차]]></title>
+        <id>https://alook.so/posts/kZtbjn</id>
+        <link href="https://alook.so/posts/kZtbjn"/>
+        <updated>2022-03-02T04:15:09.268Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtbjn">코로나 자가격리 2일차</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스마트폰없이 살 수 있을까요?]]></title>
-        <id>https://alook.so/posts/1RtWDK</id>
-        <link href="https://alook.so/posts/1RtWDK"/>
-        <updated>2022-03-02T03:12:10.445Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtWDK"> 스마트폰없이 살 수 있을까요?</a>]]></content>
+        <title type="html"><![CDATA[우리나라 태양광 산업에 대해서 어떻게 생각하세요?]]></title>
+        <id>https://alook.so/posts/yEt809</id>
+        <link href="https://alook.so/posts/yEt809"/>
+        <updated>2022-03-02T04:15:09.272Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt809">우리나라 태양광 산업에 대해서 어떻게 생각하세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[3월부터 바뀌는게 이렇게 많아?!??!]]></title>
-        <id>https://alook.so/posts/YytOq8</id>
-        <link href="https://alook.so/posts/YytOq8"/>
-        <updated>2022-03-02T03:12:10.445Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytOq8">3월부터 바뀌는게 이렇게 많아?!??!</a>]]></content>
+        <title type="html"><![CDATA[가족이라는 이름으로....]]></title>
+        <id>https://alook.so/posts/6MtDv7</id>
+        <link href="https://alook.so/posts/6MtDv7"/>
+        <updated>2022-03-02T04:15:09.273Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtDv7">가족이라는 이름으로....</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로운출발]]></title>
-        <id>https://alook.so/posts/rDtWPn</id>
-        <link href="https://alook.so/posts/rDtWPn"/>
-        <updated>2022-03-02T03:12:10.445Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtWPn">새로운출발</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능 시대에 대한 조그마한 끄적임]]></title>
-        <id>https://alook.so/posts/a0tRk0</id>
-        <link href="https://alook.so/posts/a0tRk0"/>
-        <updated>2022-03-02T03:12:10.446Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tRk0">인공지능 시대에 대한 조그마한 끄적임</a>]]></content>
+        <title type="html"><![CDATA[참 믿음이란?]]></title>
+        <id>https://alook.so/posts/G1t4rw</id>
+        <link href="https://alook.so/posts/G1t4rw"/>
+        <updated>2022-03-02T04:15:09.276Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t4rw">참 믿음이란?</a>]]></content>
     </entry>
 </feed>
