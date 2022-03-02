@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T04:17:14.702Z</updated>
+    <updated>2022-03-02T05:12:32.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[코로나 자가격리 2일차]]></title>
-        <id>https://alook.so/posts/kZtbjn</id>
-        <link href="https://alook.so/posts/kZtbjn"/>
-        <updated>2022-03-02T04:15:09.268Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtbjn">코로나 자가격리 2일차</a>]]></content>
+        <title type="html"><![CDATA[저 사람은 대체 무슨 생각을 하는걸까?]]></title>
+        <id>https://alook.so/posts/VntoKE</id>
+        <link href="https://alook.so/posts/VntoKE"/>
+        <updated>2022-03-02T05:10:37.834Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntoKE">저 사람은 대체 무슨 생각을 하는걸까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리나라 태양광 산업에 대해서 어떻게 생각하세요?]]></title>
-        <id>https://alook.so/posts/yEt809</id>
-        <link href="https://alook.so/posts/yEt809"/>
-        <updated>2022-03-02T04:15:09.272Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt809">우리나라 태양광 산업에 대해서 어떻게 생각하세요?</a>]]></content>
+        <title type="html"><![CDATA[이상민 빚 16억에 월세 200만원.파주 비하 의혹까지 나온 '빚쟁이' 콘셉 언제까지?]]></title>
+        <id>https://alook.so/posts/2xtG6L</id>
+        <link href="https://alook.so/posts/2xtG6L"/>
+        <updated>2022-03-02T05:10:37.835Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtG6L">이상민 빚 16억에 월세 200만원.파주 비하 의혹까지 나온 '빚쟁이' 콘셉 언제까지?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[가족이라는 이름으로....]]></title>
-        <id>https://alook.so/posts/6MtDv7</id>
-        <link href="https://alook.so/posts/6MtDv7"/>
-        <updated>2022-03-02T04:15:09.273Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtDv7">가족이라는 이름으로....</a>]]></content>
+        <title type="html"><![CDATA[나는 30대 일을 그만두었다..]]></title>
+        <id>https://alook.so/posts/M9tymy</id>
+        <link href="https://alook.so/posts/M9tymy"/>
+        <updated>2022-03-02T05:10:37.836Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tymy">나는 30대 일을 그만두었다..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[참 믿음이란?]]></title>
-        <id>https://alook.so/posts/G1t4rw</id>
-        <link href="https://alook.so/posts/G1t4rw"/>
-        <updated>2022-03-02T04:15:09.276Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t4rw">참 믿음이란?</a>]]></content>
+        <title type="html"><![CDATA[이탈리아 친구 VS 칠레 친구]]></title>
+        <id>https://alook.so/posts/4XtZ2p</id>
+        <link href="https://alook.so/posts/4XtZ2p"/>
+        <updated>2022-03-02T05:10:37.836Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtZ2p">이탈리아 친구 VS 칠레 친구 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 재택 근무]]></title>
+        <id>https://alook.so/posts/XBtvxr</id>
+        <link href="https://alook.so/posts/XBtvxr"/>
+        <updated>2022-03-02T05:10:37.837Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtvxr">코로나 재택 근무</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: '기술이 문제가 아니라, 기술을 잘 못 쓰는 사람이 문제'다.]]></title>
+        <id>https://alook.so/posts/w9t5LV</id>
+        <link href="https://alook.so/posts/w9t5LV"/>
+        <updated>2022-03-02T05:10:37.839Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t5LV">답글: '기술이 문제가 아니라, 기술을 잘 못 쓰는 사람이 문제'다.</a>]]></content>
     </entry>
 </feed>
