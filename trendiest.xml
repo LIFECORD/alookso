@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-02T22:15:40.441Z</updated>
+    <updated>2022-03-02T23:14:54.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -27,18 +27,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t7m1">윤석열 후보가 오늘 토론회에서 많이 배워가는 것 같네요</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[안 후보님의 표정이 오늘도 킬링포인트]]></title>
+        <id>https://alook.so/posts/xltjv1</id>
+        <link href="https://alook.so/posts/xltjv1"/>
+        <updated>2022-03-02T23:12:35.772Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltjv1">안 후보님의 표정이 오늘도 킬링포인트 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.]]></title>
         <id>https://alook.so/posts/yEt0V3</id>
         <link href="https://alook.so/posts/yEt0V3"/>
         <updated>2022-03-02T13:17:22.216Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt0V3">안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘도 등장하신 안선생님, 탄소편]]></title>
-        <id>https://alook.so/posts/6Mtvej</id>
-        <link href="https://alook.so/posts/6Mtvej"/>
-        <updated>2022-03-02T13:17:22.218Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtvej">오늘도 등장하신 안선생님, 탄소편</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안철수 후보가 민간기업의 지역 유치를 이야기하네요.]]></title>
@@ -62,11 +62,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tv5e">윤석열 후보의 나날이 발전하는 회피 실력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국민연금은 보험료가 올라가면 강력한 소득재분배 제도가 됩니다.]]></title>
-        <id>https://alook.so/posts/3wtKXY</id>
-        <link href="https://alook.so/posts/3wtKXY"/>
-        <updated>2022-03-02T20:11:56.020Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtKXY">국민연금은 보험료가 올라가면 강력한 소득재분배 제도가 됩니다.</a>]]></content>
+        <title type="html"><![CDATA[노동자, 근로자]]></title>
+        <id>https://alook.so/posts/jdtDeW</id>
+        <link href="https://alook.so/posts/jdtDeW"/>
+        <updated>2022-03-02T23:12:35.792Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtDeW">노동자, 근로자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안철수 후보가 평등과 형평에 관한 유명한 그림을 들고 나왔네요.]]></title>

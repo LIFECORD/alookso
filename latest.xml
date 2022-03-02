@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T22:15:40.437Z</updated>
+    <updated>2022-03-02T23:14:54.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[다 잘 될겁니다.]]></title>
-        <id>https://alook.so/posts/mbt1jR</id>
-        <link href="https://alook.so/posts/mbt1jR"/>
-        <updated>2022-03-02T22:13:42.240Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt1jR">다 잘 될겁니다.</a>]]></content>
+        <title type="html"><![CDATA[박탈감, 다시 시작된 정치혐오]]></title>
+        <id>https://alook.so/posts/KmtErd</id>
+        <link href="https://alook.so/posts/KmtErd"/>
+        <updated>2022-03-02T23:12:23.475Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtErd">박탈감, 다시 시작된 정치혐오</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개강했네요]]></title>
-        <id>https://alook.so/posts/1Rt9zD</id>
-        <link href="https://alook.so/posts/1Rt9zD"/>
-        <updated>2022-03-02T22:13:42.241Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt9zD">개강했네요</a>]]></content>
+        <title type="html"><![CDATA[너무 괜찮은 [유튜브 채널] "추천!!"]]></title>
+        <id>https://alook.so/posts/mbt1zR</id>
+        <link href="https://alook.so/posts/mbt1zR"/>
+        <updated>2022-03-02T23:12:23.476Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt1zR">너무 괜찮은 [유튜브 채널] "추천!!"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잊으세요.]]></title>
-        <id>https://alook.so/posts/o7tJE3</id>
-        <link href="https://alook.so/posts/o7tJE3"/>
-        <updated>2022-03-02T22:13:42.241Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tJE3">잊으세요.</a>]]></content>
+        <title type="html"><![CDATA[[Active Aging]여자나이, 그리고 연령주의에 대해 말하다]]></title>
+        <id>https://alook.so/posts/54tRl1</id>
+        <link href="https://alook.so/posts/54tRl1"/>
+        <updated>2022-03-02T23:12:23.477Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tRl1">[Active Aging]여자나이, 그리고 연령주의에 대해 말하다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[개미 인생]]></title>
-        <id>https://alook.so/posts/70t7Y0</id>
-        <link href="https://alook.so/posts/70t7Y0"/>
-        <updated>2022-03-02T22:13:42.242Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t7Y0">개미 인생</a>]]></content>
+        <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
+        <id>https://alook.so/posts/q1tJvJ</id>
+        <link href="https://alook.so/posts/q1tJvJ"/>
+        <updated>2022-03-02T23:12:23.480Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJvJ">요즘 회사 상황이 최악이에요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 처음 해봐요 .]]></title>
-        <id>https://alook.so/posts/rDtq0M</id>
-        <link href="https://alook.so/posts/rDtq0M"/>
-        <updated>2022-03-02T22:13:42.243Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtq0M">오늘 처음 해봐요 .</a>]]></content>
+        <title type="html"><![CDATA[버는 사람, 잃는 사람]]></title>
+        <id>https://alook.so/posts/1Rt93D</id>
+        <link href="https://alook.so/posts/1Rt93D"/>
+        <updated>2022-03-02T23:12:23.482Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt93D">버는 사람, 잃는 사람</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[드라마 작가 간단하게 되는 10]]></title>
+        <id>https://alook.so/posts/o7tJ73</id>
+        <link href="https://alook.so/posts/o7tJ73"/>
+        <updated>2022-03-02T23:12:23.483Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tJ73">드라마 작가 간단하게 되는 10</a>]]></content>
     </entry>
 </feed>
