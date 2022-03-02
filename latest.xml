@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T12:20:30.220Z</updated>
+    <updated>2022-03-02T13:20:09.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[봄]]></title>
-        <id>https://alook.so/posts/4Xtvod</id>
-        <link href="https://alook.so/posts/4Xtvod"/>
-        <updated>2022-03-02T12:18:20.811Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtvod">봄</a>]]></content>
+        <title type="html"><![CDATA[개학]]></title>
+        <id>https://alook.so/posts/rDtq5X</id>
+        <link href="https://alook.so/posts/rDtq5X"/>
+        <updated>2022-03-02T13:17:13.465Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtq5X">개학</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[담임선생님]]></title>
-        <id>https://alook.so/posts/XBtLo1</id>
-        <link href="https://alook.so/posts/XBtLo1"/>
-        <updated>2022-03-02T12:18:20.821Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtLo1">담임선생님</a>]]></content>
+        <title type="html"><![CDATA[4년동안 6300만원의 소득]]></title>
+        <id>https://alook.so/posts/E7tq4X</id>
+        <link href="https://alook.so/posts/E7tq4X"/>
+        <updated>2022-03-02T13:17:13.467Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tq4X">4년동안 6300만원의 소득</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잠]]></title>
-        <id>https://alook.so/posts/w9t2nB</id>
-        <link href="https://alook.so/posts/w9t2nB"/>
-        <updated>2022-03-02T12:18:20.827Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9t2nB">잠</a>]]></content>
+        <title type="html"><![CDATA[이럴수도있으니 ..잘보세요(마트편3)]]></title>
+        <id>https://alook.so/posts/KmtE2a</id>
+        <link href="https://alook.so/posts/KmtE2a"/>
+        <updated>2022-03-02T13:17:13.469Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtE2a">이럴수도있으니 ..잘보세요(마트편3)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안 후보님의 표정이 오늘도 킬링포인트]]></title>
-        <id>https://alook.so/posts/xltjv1</id>
-        <link href="https://alook.so/posts/xltjv1"/>
-        <updated>2022-03-02T12:18:20.827Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltjv1">안 후보님의 표정이 오늘도 킬링포인트 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매일 우울하다고 말하는 너에게]]></title>
-        <id>https://alook.so/posts/RGtW1B</id>
-        <link href="https://alook.so/posts/RGtW1B"/>
-        <updated>2022-03-02T12:18:20.827Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtW1B">매일 우울하다고 말하는 너에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.]]></title>
-        <id>https://alook.so/posts/yEt0V3</id>
-        <link href="https://alook.so/posts/yEt0V3"/>
-        <updated>2022-03-02T12:18:20.831Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt0V3">안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.</a>]]></content>
+        <title type="html"><![CDATA[이 장면에서 토론회장에 불이라도 붙는 줄 알았네요.]]></title>
+        <id>https://alook.so/posts/DjtR7k</id>
+        <link href="https://alook.so/posts/DjtR7k"/>
+        <updated>2022-03-02T13:17:13.470Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtR7k">이 장면에서 토론회장에 불이라도 붙는 줄 알았네요. </a>]]></content>
     </entry>
 </feed>
