@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T12:22:30.405Z</updated>
+    <updated>2022-03-03T13:19:44.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 투표 기능에 '기타'선택지를 추가해 주시면 안될까요?]]></title>
+        <id>https://alook.so/posts/zvt5dB</id>
+        <link href="https://alook.so/posts/zvt5dB"/>
+        <updated>2022-03-03T13:17:43.067Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvt5dB">답글: 투표 기능에 '기타'선택지를 추가해 주시면 안될까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[존경할만한 사람을 대통령으로 뽑고 싶다]]></title>
         <id>https://alook.so/posts/yEt02k</id>
