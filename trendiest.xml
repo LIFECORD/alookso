@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T09:13:24.202Z</updated>
+    <updated>2022-03-03T10:16:32.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[결선투표제가 시행돼야.]]></title>
+        <id>https://alook.so/posts/M9teW5</id>
+        <link href="https://alook.so/posts/M9teW5"/>
+        <updated>2022-03-03T10:14:23.501Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9teW5">결선투표제가 시행돼야. </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[저출생의 원인, 정부가 집중해야 하는 것은? - '지역 균형'에 대한 생각]]></title>
         <id>https://alook.so/posts/mbt101</id>
@@ -88,13 +95,6 @@
         <link href="https://alook.so/posts/yEt0V3"/>
         <updated>2022-03-02T13:17:22.216Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt0V3">안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 시리즈를 시작했습니다.]]></title>
-        <id>https://alook.so/posts/54tD0n</id>
-        <link href="https://alook.so/posts/54tD0n"/>
-        <updated>2022-03-03T09:11:31.370Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tD0n">새 시리즈를 시작했습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수능이 학종보다 공정하다는 착각, 민주당의 제자리를 찾아서]]></title>
