@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T02:15:38.187Z</updated>
+    <updated>2022-03-03T03:16:47.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[땅굴 디깅] 2017년 국민의힘은 정리해서 무엇을 까고 싶었을까]]></title>
+        <id>https://alook.so/posts/E7tqVv</id>
+        <link href="https://alook.so/posts/E7tqVv"/>
+        <updated>2022-03-03T03:14:49.389Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tqVv">[땅굴 디깅] 2017년 국민의힘은 정리해서 무엇을 까고 싶었을까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오늘은 제 생일입니다 🎂]]></title>
+        <id>https://alook.so/posts/njtrvy</id>
+        <link href="https://alook.so/posts/njtrvy"/>
+        <updated>2022-03-03T03:14:49.389Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtrvy">오늘은 제 생일입니다 🎂 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결국 이혼..]]></title>
+        <id>https://alook.so/posts/latE4E</id>
+        <link href="https://alook.so/posts/latE4E"/>
+        <updated>2022-03-03T03:14:49.389Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latE4E">결국 이혼..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에 글쓰는 방법 알기]]></title>
+        <id>https://alook.so/posts/RGtW54</id>
+        <link href="https://alook.so/posts/RGtW54"/>
+        <updated>2022-03-03T03:14:49.389Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtW54">얼룩소에 글쓰는 방법 알기</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
         <id>https://alook.so/posts/q1tJvJ</id>
@@ -25,20 +53,6 @@
         <link href="https://alook.so/posts/J5tn4w"/>
         <updated>2022-03-03T00:55:28.991Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tn4w">아침 출근길에 접한 단일화 소식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안 후보님의 표정이 오늘도 킬링포인트]]></title>
-        <id>https://alook.so/posts/xltjv1</id>
-        <link href="https://alook.so/posts/xltjv1"/>
-        <updated>2022-03-02T23:12:35.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltjv1">안 후보님의 표정이 오늘도 킬링포인트 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 후보가 오늘 토론회에서 많이 배워가는 것 같네요]]></title>
-        <id>https://alook.so/posts/70t7m1</id>
-        <link href="https://alook.so/posts/70t7m1"/>
-        <updated>2022-03-02T13:17:22.214Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t7m1">윤석열 후보가 오늘 토론회에서 많이 배워가는 것 같네요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.]]></title>
@@ -90,13 +104,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tZZ9">나는 왜 얼룩소의 보상을 키우는데 집착하는가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[노노노: 지방재정투자_01] 지방정부의 대규모 사업은 최근 어떻게 굴러갔나?]]></title>
-        <id>https://alook.so/posts/xlt4mV</id>
-        <link href="https://alook.so/posts/xlt4mV"/>
-        <updated>2022-03-03T02:13:38.955Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt4mV">[노노노: 지방재정투자_01] 지방정부의 대규모 사업은 최근 어떻게 굴러갔나?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 3]]></title>
         <id>https://alook.so/posts/6MtDEd</id>
         <link href="https://alook.so/posts/6MtDEd"/>
@@ -116,13 +123,6 @@
         <link href="https://alook.so/posts/VntonM"/>
         <updated>2022-03-02T00:46:43.552Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntonM">얼룩커에 도전하는 택배기사</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실망입니다. 얼룩소..3.1절에 대해서 아무도 언급을 안하네요.]]></title>
-        <id>https://alook.so/posts/o7tvkL</id>
-        <link href="https://alook.so/posts/o7tvkL"/>
-        <updated>2022-03-01T16:17:04.067Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tvkL">실망입니다. 얼룩소..3.1절에 대해서 아무도 언급을 안하네요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증으로 퇴사하는 나 자신이 너무 나약한 것 같아요.]]></title>
