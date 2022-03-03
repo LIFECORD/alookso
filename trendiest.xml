@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T13:19:44.889Z</updated>
+    <updated>2022-03-03T14:14:48.018Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[주4일제+임금 감소 시, 삶의 질이 향상될까?]]></title>
+        <id>https://alook.so/posts/RGtokZ</id>
+        <link href="https://alook.so/posts/RGtokZ"/>
+        <updated>2022-03-03T14:12:57.189Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtokZ">주4일제+임금 감소 시, 삶의 질이 향상될까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아에 가장 많이 물려 있는 나라는 어디일까?]]></title>
+        <id>https://alook.so/posts/54tRZD</id>
+        <link href="https://alook.so/posts/54tRZD"/>
+        <updated>2022-03-03T14:12:57.197Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tRZD">러시아에 가장 많이 물려 있는 나라는 어디일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[얼룩얼]얼룩소를 통해 보는, 안철수-윤석열 단일화. 과연 윤석열에게 호재일까?]]></title>
+        <id>https://alook.so/posts/njtE1Z</id>
+        <link href="https://alook.so/posts/njtE1Z"/>
+        <updated>2022-03-03T14:12:57.198Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtE1Z">[얼룩얼]얼룩소를 통해 보는, 안철수-윤석열 단일화. 과연 윤석열에게 호재일까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 투표 기능에 '기타'선택지를 추가해 주시면 안될까요?]]></title>
         <id>https://alook.so/posts/zvt5dB</id>
@@ -109,19 +130,5 @@
         <link href="https://alook.so/posts/J5tn4w"/>
         <updated>2022-03-03T00:55:28.991Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tn4w">아침 출근길에 접한 단일화 소식</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.]]></title>
-        <id>https://alook.so/posts/yEt0V3</id>
-        <link href="https://alook.so/posts/yEt0V3"/>
-        <updated>2022-03-02T13:17:22.216Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt0V3">안철수 후보가 기후변화에 대한 매우 중요한 이야기를 했습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소 때문에 넷플릭스 해약]]></title>
-        <id>https://alook.so/posts/LKtr5b</id>
-        <link href="https://alook.so/posts/LKtr5b"/>
-        <updated>2022-03-02T02:09:19.808Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtr5b">얼룩소 때문에 넷플릭스 해약</a>]]></content>
     </entry>
 </feed>
