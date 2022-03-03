@@ -2,49 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-02T23:14:54.581Z</updated>
+    <updated>2022-03-03T00:57:22.163Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[박탈감, 다시 시작된 정치혐오]]></title>
-        <id>https://alook.so/posts/KmtErd</id>
-        <link href="https://alook.so/posts/KmtErd"/>
-        <updated>2022-03-02T23:12:23.475Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtErd">박탈감, 다시 시작된 정치혐오</a>]]></content>
+        <title type="html"><![CDATA[윤석열-안철수 대통령 후보 단일화 선언!]]></title>
+        <id>https://alook.so/posts/njtr3D</id>
+        <link href="https://alook.so/posts/njtr3D"/>
+        <updated>2022-03-03T00:55:19.700Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtr3D">윤석열-안철수 대통령 후보 단일화 선언!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너무 괜찮은 [유튜브 채널] "추천!!"]]></title>
-        <id>https://alook.so/posts/mbt1zR</id>
-        <link href="https://alook.so/posts/mbt1zR"/>
-        <updated>2022-03-02T23:12:23.476Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt1zR">너무 괜찮은 [유튜브 채널] "추천!!"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Active Aging]여자나이, 그리고 연령주의에 대해 말하다]]></title>
-        <id>https://alook.so/posts/54tRl1</id>
-        <link href="https://alook.so/posts/54tRl1"/>
-        <updated>2022-03-02T23:12:23.477Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tRl1">[Active Aging]여자나이, 그리고 연령주의에 대해 말하다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
-        <id>https://alook.so/posts/q1tJvJ</id>
-        <link href="https://alook.so/posts/q1tJvJ"/>
-        <updated>2022-03-02T23:12:23.480Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJvJ">요즘 회사 상황이 최악이에요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버는 사람, 잃는 사람]]></title>
-        <id>https://alook.so/posts/1Rt93D</id>
-        <link href="https://alook.so/posts/1Rt93D"/>
-        <updated>2022-03-02T23:12:23.482Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt93D">버는 사람, 잃는 사람</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드라마 작가 간단하게 되는 10]]></title>
-        <id>https://alook.so/posts/o7tJ73</id>
-        <link href="https://alook.so/posts/o7tJ73"/>
-        <updated>2022-03-02T23:12:23.483Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tJ73">드라마 작가 간단하게 되는 10</a>]]></content>
+        <title type="html"><![CDATA[너 언제까지 철없는 애처럼 살래 ?]]></title>
+        <id>https://alook.so/posts/G1trG8</id>
+        <link href="https://alook.so/posts/G1trG8"/>
+        <updated>2022-03-03T00:55:19.701Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1trG8">너 언제까지 철없는 애처럼 살래 ?</a>]]></content>
     </entry>
 </feed>
