@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-03T00:57:22.163Z</updated>
+    <updated>2022-03-03T02:15:38.167Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[윤석열-안철수 대통령 후보 단일화 선언!]]></title>
-        <id>https://alook.so/posts/njtr3D</id>
-        <link href="https://alook.so/posts/njtr3D"/>
-        <updated>2022-03-03T00:55:19.700Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtr3D">윤석열-안철수 대통령 후보 단일화 선언!</a>]]></content>
+        <title type="html"><![CDATA[수능 > 국어 > 45문제 70분 안에 풀 수 있는 방법 > 3등급 목표인 경우]]></title>
+        <id>https://alook.so/posts/mbt1yn</id>
+        <link href="https://alook.so/posts/mbt1yn"/>
+        <updated>2022-03-03T02:13:30.046Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt1yn">수능 &gt; 국어 &gt; 45문제 70분 안에 풀 수 있는 방법 &gt; 3등급 목표인 경우</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너 언제까지 철없는 애처럼 살래 ?]]></title>
-        <id>https://alook.so/posts/G1trG8</id>
-        <link href="https://alook.so/posts/G1trG8"/>
-        <updated>2022-03-03T00:55:19.701Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1trG8">너 언제까지 철없는 애처럼 살래 ?</a>]]></content>
+        <title type="html"><![CDATA[고양이와 산다는것..]]></title>
+        <id>https://alook.so/posts/54tR5x</id>
+        <link href="https://alook.so/posts/54tR5x"/>
+        <updated>2022-03-03T02:13:30.055Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tR5x">고양이와 산다는것..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[병이 있는 사람들이  가져야 할 마음 가짐]]></title>
+        <id>https://alook.so/posts/q1tJ4j</id>
+        <link href="https://alook.so/posts/q1tJ4j"/>
+        <updated>2022-03-03T02:13:30.067Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJ4j">병이 있는 사람들이  가져야 할 마음 가짐 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[으음...]]></title>
+        <id>https://alook.so/posts/o7tJ26</id>
+        <link href="https://alook.so/posts/o7tJ26"/>
+        <updated>2022-03-03T02:13:30.071Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tJ26">으음...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는건강하다]]></title>
+        <id>https://alook.so/posts/YytpVx</id>
+        <link href="https://alook.so/posts/YytpVx"/>
+        <updated>2022-03-03T02:13:30.075Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytpVx">나는건강하다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[20대 대통령이 바꿀 대한민국(?)]]></title>
+        <id>https://alook.so/posts/jdtD4x</id>
+        <link href="https://alook.so/posts/jdtD4x"/>
+        <updated>2022-03-03T02:13:30.075Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtD4x">20대 대통령이 바꿀 대한민국(?)</a>]]></content>
     </entry>
 </feed>
