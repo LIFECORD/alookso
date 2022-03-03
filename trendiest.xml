@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-03T06:16:44.743Z</updated>
+    <updated>2022-03-03T07:13:54.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[‘안’일화에 실패한 안철수의 ‘철수 사(史)’]]></title>
+        <id>https://alook.so/posts/DjtRRv</id>
+        <link href="https://alook.so/posts/DjtRRv"/>
+        <updated>2022-03-03T07:11:46.163Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtRRv">‘안’일화에 실패한 안철수의 ‘철수 사(史)’</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어제 토론때 안철수 후보의 넥타이 색은 복선이었나..]]></title>
         <id>https://alook.so/posts/XBtLvy</id>
@@ -116,13 +123,6 @@
         <link href="https://alook.so/posts/LKtr5b"/>
         <updated>2022-03-02T02:09:19.808Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtr5b">얼룩소 때문에 넷플릭스 해약</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩커에 도전하는 택배기사]]></title>
-        <id>https://alook.so/posts/VntonM</id>
-        <link href="https://alook.so/posts/VntonM"/>
-        <updated>2022-03-02T00:46:43.552Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntonM">얼룩커에 도전하는 택배기사</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우울증으로 퇴사하는 나 자신이 너무 나약한 것 같아요.]]></title>
