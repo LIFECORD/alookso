@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/users/x4WtnB</id>
     <title>alookso ─ alookso</title>
-    <updated>2022-03-03T10:16:32.706Z</updated>
+    <updated>2022-03-03T11:11:51.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://alook.so/posts/KmtEVZ"/>
         <updated>2022-03-03T10:14:33.363Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtEVZ">간밤의 토론이 어렵다면? 대선토론회 복기 [키워드 10개]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[후보님! 그 이름, 애타게 불러봅니다 [토론 티키타카]]]></title>
+        <id>https://alook.so/posts/RGtWO1</id>
+        <link href="https://alook.so/posts/RGtWO1"/>
+        <updated>2022-03-03T11:10:04.457Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtWO1">후보님! 그 이름, 애타게 불러봅니다 [토론 티키타카]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주 4일제의 조건은? [정check 보고 투표]]]></title>
@@ -67,12 +74,5 @@
         <link href="https://alook.so/posts/6MtDzo"/>
         <updated>2022-03-02T07:11:44.814Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtDzo">푸틴에게 나토와 동성애가 똑같은 이유 [푸틴은 합리적인가?]</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📢 3월 2일 저녁 8시, 토론소 앞에 착석!]]></title>
-        <id>https://alook.so/posts/2xtd0o</id>
-        <link href="https://alook.so/posts/2xtd0o"/>
-        <updated>2022-02-28T07:12:17.699Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtd0o">📢 3월 2일 저녁 8시, 토론소 앞에 착석!</a>]]></content>
     </entry>
 </feed>
