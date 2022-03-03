@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-03T04:16:48.216Z</updated>
+    <updated>2022-03-03T05:12:46.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[서울 강남은 옛 경기도 광주다?]]></title>
-        <id>https://alook.so/posts/J5tnDL</id>
-        <link href="https://alook.so/posts/J5tnDL"/>
-        <updated>2022-03-03T04:14:49.386Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tnDL">서울 강남은 옛 경기도 광주다?</a>]]></content>
+        <title type="html"><![CDATA[아이학원문제]]></title>
+        <id>https://alook.so/posts/KmtEEn</id>
+        <link href="https://alook.so/posts/KmtEEn"/>
+        <updated>2022-03-03T05:10:41.114Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtEEn">아이학원문제</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 30대 일을 그만두었다.. 그리고3주가 지났다]]></title>
-        <id>https://alook.so/posts/0kt9zq</id>
-        <link href="https://alook.so/posts/0kt9zq"/>
-        <updated>2022-03-03T04:14:49.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt9zq">나는 30대 일을 그만두었다.. 그리고3주가 지났다</a>]]></content>
+        <title type="html"><![CDATA[사고란 트라우마를 남기는 지독한 기억이네요...]]></title>
+        <id>https://alook.so/posts/mbt11X</id>
+        <link href="https://alook.so/posts/mbt11X"/>
+        <updated>2022-03-03T05:10:41.117Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt11X">사고란 트라우마를 남기는 지독한 기억이네요...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공습경보 속 들린 선율…‘우크라 소년 피아노맨’ 세계 울렸다]]></title>
+        <id>https://alook.so/posts/54tRRJ</id>
+        <link href="https://alook.so/posts/54tRRJ"/>
+        <updated>2022-03-03T05:10:41.118Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tRRJ">공습경보 속 들린 선율…‘우크라 소년 피아노맨’ 세계 울렸다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[📻문재인 정부의 음성사서함, 해결하지 못한 메시지]]></title>
+        <id>https://alook.so/posts/o7tJJG</id>
+        <link href="https://alook.so/posts/o7tJJG"/>
+        <updated>2022-03-03T05:10:41.120Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tJJG">📻문재인 정부의 음성사서함, 해결하지 못한 메시지</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결혼의 필요성은 무엇인가요.]]></title>
+        <id>https://alook.so/posts/70t77V</id>
+        <link href="https://alook.so/posts/70t77V"/>
+        <updated>2022-03-03T05:10:41.121Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t77V">결혼의 필요성은 무엇인가요.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주짓수 해보셨나요?]]></title>
+        <id>https://alook.so/posts/YytppL</id>
+        <link href="https://alook.so/posts/YytppL"/>
+        <updated>2022-03-03T05:10:41.123Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytppL">주짓수 해보셨나요?</a>]]></content>
     </entry>
 </feed>
