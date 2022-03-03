@@ -2,28 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-03T08:16:23.477Z</updated>
+    <updated>2022-03-03T09:13:24.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[민족이라는 녹 슨 올가미]]></title>
-        <id>https://alook.so/posts/q1tJOW</id>
-        <link href="https://alook.so/posts/q1tJOW"/>
-        <updated>2022-03-03T08:14:13.038Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJOW">민족이라는 녹 슨 올가미</a>]]></content>
+        <title type="html"><![CDATA[나만의 공간]]></title>
+        <id>https://alook.so/posts/2xtorb</id>
+        <link href="https://alook.so/posts/2xtorb"/>
+        <updated>2022-03-03T09:11:22.583Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtorb">나만의 공간</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동업해 보신분 있나요? 정말 이렇나요? @_@;;]]></title>
-        <id>https://alook.so/posts/1Rt96r</id>
-        <link href="https://alook.so/posts/1Rt96r"/>
-        <updated>2022-03-03T08:14:13.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt96r">동업해 보신분 있나요? 정말 이렇나요? @_@;;</a>]]></content>
+        <title type="html"><![CDATA[아이의 입학식]]></title>
+        <id>https://alook.so/posts/WLtb8x</id>
+        <link href="https://alook.so/posts/WLtb8x"/>
+        <updated>2022-03-03T09:11:22.584Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtb8x">아이의 입학식</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[푸틴 : 그래서 어쩌라고?]]></title>
-        <id>https://alook.so/posts/rDtq4Y</id>
-        <link href="https://alook.so/posts/rDtq4Y"/>
-        <updated>2022-03-03T08:14:13.044Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtq4Y">푸틴 : 그래서 어쩌라고?</a>]]></content>
+        <title type="html"><![CDATA[아버지에서 아빠로....]]></title>
+        <id>https://alook.so/posts/0kt9aL</id>
+        <link href="https://alook.so/posts/0kt9aL"/>
+        <updated>2022-03-03T09:11:22.586Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt9aL">아버지에서 아빠로....</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소에 있었으면 하는 기능들.]]></title>
+        <id>https://alook.so/posts/M9teZ7</id>
+        <link href="https://alook.so/posts/M9teZ7"/>
+        <updated>2022-03-03T09:11:22.587Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9teZ7">얼룩소에 있었으면 하는 기능들.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 확진자의 기록이랄까4, <격리 시작>⭐]]></title>
+        <id>https://alook.so/posts/xltjKJ</id>
+        <link href="https://alook.so/posts/xltjKJ"/>
+        <updated>2022-03-03T09:11:22.588Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltjKJ">코로나 확진자의 기록이랄까4, &lt;격리 시작&gt;⭐</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이허브 할인코드 받고 건강 챙기세요:) 추천인코드 있음]]></title>
+        <id>https://alook.so/posts/RGtWw1</id>
+        <link href="https://alook.so/posts/RGtWw1"/>
+        <updated>2022-03-03T09:11:22.590Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtWw1">아이허브 할인코드 받고 건강 챙기세요:) 추천인코드 있음</a>]]></content>
     </entry>
 </feed>
