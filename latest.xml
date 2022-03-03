@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-03T16:17:50.170Z</updated>
+    <updated>2022-03-03T17:16:17.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[글을 남기는 이유]]></title>
-        <id>https://alook.so/posts/3wt6x1</id>
-        <link href="https://alook.so/posts/3wt6x1"/>
-        <updated>2022-03-03T16:15:49.343Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt6x1">글을 남기는 이유</a>]]></content>
+        <title type="html"><![CDATA[감성에 빠지는 짧은 글귀]]></title>
+        <id>https://alook.so/posts/54t19a</id>
+        <link href="https://alook.so/posts/54t19a"/>
+        <updated>2022-03-03T17:13:59.618Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t19a">감성에 빠지는 짧은 글귀</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 놀러 왔어요]]></title>
-        <id>https://alook.so/posts/8WtKzZ</id>
-        <link href="https://alook.so/posts/8WtKzZ"/>
-        <updated>2022-03-03T16:15:49.345Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtKzZ">얼룩소 놀러 왔어요</a>]]></content>
+        <title type="html"><![CDATA[[어느 노동자의 이러쿵 저러쿵 #1] 재입사, 정말 맞는 선택이었을까?]]></title>
+        <id>https://alook.so/posts/q1te7e</id>
+        <link href="https://alook.so/posts/q1te7e"/>
+        <updated>2022-03-03T17:13:59.620Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1te7e">[어느 노동자의 이러쿵 저러쿵 #1] 재입사, 정말 맞는 선택이었을까? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[체대생의 방황했던 일기1]]></title>
-        <id>https://alook.so/posts/G1tzV7</id>
-        <link href="https://alook.so/posts/G1tzV7"/>
-        <updated>2022-03-03T16:15:49.346Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tzV7">체대생의 방황했던 일기1</a>]]></content>
+        <title type="html"><![CDATA[어떤 사주선생님이]]></title>
+        <id>https://alook.so/posts/o7tORY</id>
+        <link href="https://alook.so/posts/o7tORY"/>
+        <updated>2022-03-03T17:13:59.622Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tORY">어떤 사주선생님이</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[피곤한데 자고싶지않아요]]></title>
-        <id>https://alook.so/posts/vKt85e</id>
-        <link href="https://alook.so/posts/vKt85e"/>
-        <updated>2022-03-03T16:15:49.346Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt85e">피곤한데 자고싶지않아요</a>]]></content>
+        <title type="html"><![CDATA[좋은 습관 길들이기]]></title>
+        <id>https://alook.so/posts/jdtkPJ</id>
+        <link href="https://alook.so/posts/jdtkPJ"/>
+        <updated>2022-03-03T17:13:59.623Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtkPJ">좋은 습관 길들이기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[24시간 똑같은나날들...]]></title>
-        <id>https://alook.so/posts/E7tLkJ</id>
-        <link href="https://alook.so/posts/E7tLkJ"/>
-        <updated>2022-03-03T16:15:49.348Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tLkJ">24시간 똑같은나날들...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전쟁그만]]></title>
-        <id>https://alook.so/posts/KmtZxv</id>
-        <link href="https://alook.so/posts/KmtZxv"/>
-        <updated>2022-03-03T16:15:49.349Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtZxv">전쟁그만</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안 선생님이 조재중을 조금만 따뜻하게 대해 줬다면...]]></title>
-        <id>https://alook.so/posts/mbtmYx</id>
-        <link href="https://alook.so/posts/mbtmYx"/>
-        <updated>2022-03-03T16:15:49.351Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtmYx">안 선생님이 조재중을 조금만 따뜻하게 대해 줬다면...</a>]]></content>
+        <title type="html"><![CDATA[산부인과는 아니지..]]></title>
+        <id>https://alook.so/posts/bWt2Mq</id>
+        <link href="https://alook.so/posts/bWt2Mq"/>
+        <updated>2022-03-03T17:13:59.625Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt2Mq">산부인과는 아니지..</a>]]></content>
     </entry>
 </feed>
