@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-04T11:12:12.478Z</updated>
+    <updated>2022-03-04T12:20:35.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA['사랑한다는 말']]></title>
-        <id>https://alook.so/posts/92tD6k</id>
-        <link href="https://alook.so/posts/92tD6k"/>
-        <updated>2022-03-04T11:10:10.247Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tD6k">'사랑한다는 말'</a>]]></content>
+        <title type="html"><![CDATA[코로나 종식은 언제 할까요??]]></title>
+        <id>https://alook.so/posts/LKtR9Y</id>
+        <link href="https://alook.so/posts/LKtR9Y"/>
+        <updated>2022-03-04T12:18:32.793Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtR9Y">코로나 종식은 언제 할까요??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미국이민생활 3년차, 이민에 대한 솔직한 생각을 공유합니다. 장단점 비교]]></title>
-        <id>https://alook.so/posts/54t16q</id>
-        <link href="https://alook.so/posts/54t16q"/>
-        <updated>2022-03-04T11:10:10.249Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t16q">미국이민생활 3년차, 이민에 대한 솔직한 생각을 공유합니다. 장단점 비교</a>]]></content>
+        <title type="html"><![CDATA[심리학적 트릭 10가지를 알고 계신가요?]]></title>
+        <id>https://alook.so/posts/3wt6lw</id>
+        <link href="https://alook.so/posts/3wt6lw"/>
+        <updated>2022-03-04T12:18:32.796Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt6lw">심리학적 트릭 10가지를 알고 계신가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나를]]></title>
-        <id>https://alook.so/posts/q1teV7</id>
-        <link href="https://alook.so/posts/q1teV7"/>
-        <updated>2022-03-04T11:10:10.250Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1teV7">나를</a>]]></content>
+        <title type="html"><![CDATA[주식에 대한 개인적인 생각]]></title>
+        <id>https://alook.so/posts/OEt0kd</id>
+        <link href="https://alook.so/posts/OEt0kd"/>
+        <updated>2022-03-04T12:18:32.797Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt0kd">주식에 대한 개인적인 생각</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아토피, 생활 관리가 중요]]></title>
-        <id>https://alook.so/posts/1Rt4j5</id>
-        <link href="https://alook.so/posts/1Rt4j5"/>
-        <updated>2022-03-04T11:10:10.251Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt4j5"> 아토피, 생활 관리가 중요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상했던 사전투표]]></title>
-        <id>https://alook.so/posts/o7tO8W</id>
-        <link href="https://alook.so/posts/o7tO8W"/>
-        <updated>2022-03-04T11:10:10.252Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tO8W">이상했던 사전투표</a>]]></content>
+        <title type="html"><![CDATA[내가 60대가 되면 어떻게 될까?]]></title>
+        <id>https://alook.so/posts/E7tLRq</id>
+        <link href="https://alook.so/posts/E7tLRq"/>
+        <updated>2022-03-04T12:18:32.799Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tLRq">내가 60대가 되면 어떻게 될까?</a>]]></content>
     </entry>
 </feed>
