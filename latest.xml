@@ -2,35 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-04T12:20:35.518Z</updated>
+    <updated>2022-03-04T13:19:49.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[코로나 종식은 언제 할까요??]]></title>
-        <id>https://alook.so/posts/LKtR9Y</id>
-        <link href="https://alook.so/posts/LKtR9Y"/>
-        <updated>2022-03-04T12:18:32.793Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtR9Y">코로나 종식은 언제 할까요??</a>]]></content>
+        <title type="html"><![CDATA[Tommy의 사람 사는 이야기 (ep1)]]></title>
+        <id>https://alook.so/posts/DjtvEy</id>
+        <link href="https://alook.so/posts/DjtvEy"/>
+        <updated>2022-03-04T13:17:42.257Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtvEy">Tommy의 사람 사는 이야기 (ep1)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[심리학적 트릭 10가지를 알고 계신가요?]]></title>
-        <id>https://alook.so/posts/3wt6lw</id>
-        <link href="https://alook.so/posts/3wt6lw"/>
-        <updated>2022-03-04T12:18:32.796Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt6lw">심리학적 트릭 10가지를 알고 계신가요?</a>]]></content>
+        <title type="html"><![CDATA[재산기준???]]></title>
+        <id>https://alook.so/posts/70tjn9</id>
+        <link href="https://alook.so/posts/70tjn9"/>
+        <updated>2022-03-04T13:17:42.257Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjn9">재산기준???</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주식에 대한 개인적인 생각]]></title>
-        <id>https://alook.so/posts/OEt0kd</id>
-        <link href="https://alook.so/posts/OEt0kd"/>
-        <updated>2022-03-04T12:18:32.797Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEt0kd">주식에 대한 개인적인 생각</a>]]></content>
+        <title type="html"><![CDATA[나는 왜 세계최고의 테너를 꿈꾸는가?]]></title>
+        <id>https://alook.so/posts/YytMlM</id>
+        <link href="https://alook.so/posts/YytMlM"/>
+        <updated>2022-03-04T13:17:42.257Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytMlM">나는 왜 세계최고의 테너를 꿈꾸는가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내가 60대가 되면 어떻게 될까?]]></title>
-        <id>https://alook.so/posts/E7tLRq</id>
-        <link href="https://alook.so/posts/E7tLRq"/>
-        <updated>2022-03-04T12:18:32.799Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tLRq">내가 60대가 되면 어떻게 될까?</a>]]></content>
+        <title type="html"><![CDATA[내일 주변지인이 쌍수를 한다네요]]></title>
+        <id>https://alook.so/posts/rDtVJL</id>
+        <link href="https://alook.so/posts/rDtVJL"/>
+        <updated>2022-03-04T13:17:42.259Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtVJL">내일 주변지인이 쌍수를 한다네요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나 확진자 지원금 신청방법 신청기간 신청서류는?]]></title>
+        <id>https://alook.so/posts/Zkto92</id>
+        <link href="https://alook.so/posts/Zkto92"/>
+        <updated>2022-03-04T13:17:42.260Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkto92">코로나 확진자 지원금 신청방법 신청기간 신청서류는?</a>]]></content>
     </entry>
 </feed>
