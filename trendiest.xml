@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-04T06:16:02.772Z</updated>
+    <updated>2022-03-04T07:13:52.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[군 내 코로나 동선조사, 어디까지 이해해야 하는가? [요즘군대.brf]]]></title>
+        <id>https://alook.so/posts/LKtR0K</id>
+        <link href="https://alook.so/posts/LKtR0K"/>
+        <updated>2022-03-04T07:12:04.208Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtR0K">군 내 코로나 동선조사, 어디까지 이해해야 하는가? [요즘군대.brf]</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나이는 면죄부가 될 수 있는가?]]></title>
         <id>https://alook.so/posts/potVkV</id>
@@ -130,12 +137,5 @@
         <link href="https://alook.so/posts/q1tJvJ"/>
         <updated>2022-03-03T02:13:38.924Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJvJ">요즘 회사 상황이 최악이에요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[담임선생님]]></title>
-        <id>https://alook.so/posts/1Rt9yZ</id>
-        <link href="https://alook.so/posts/1Rt9yZ"/>
-        <updated>2022-03-03T02:13:38.924Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt9yZ">담임선생님</a>]]></content>
     </entry>
 </feed>
