@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-04T08:15:59.296Z</updated>
+    <updated>2022-03-04T09:13:31.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[투표 합시다] 사전 투표는 어떻게]]></title>
+        <id>https://alook.so/posts/E7tLO9</id>
+        <link href="https://alook.so/posts/E7tLO9"/>
+        <updated>2022-03-04T09:11:34.930Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tLO9">[투표 합시다] 사전 투표는 어떻게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노노노: 지방재정투자_02] 에이스는 본사로 보내야 할까? - 적재적소 vs 적소적재]]></title>
+        <id>https://alook.so/posts/1Rt4WE</id>
+        <link href="https://alook.so/posts/1Rt4WE"/>
+        <updated>2022-03-04T09:11:34.930Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt4WE">[노노노: 지방재정투자_02] 에이스는 본사로 보내야 할까? - 적재적소 vs 적소적재</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하수구에 아무거나 막 버리면 안된다는 생각을 처음 심어준 영화 '괴물']]></title>
+        <id>https://alook.so/posts/o7tO2b</id>
+        <link href="https://alook.so/posts/o7tO2b"/>
+        <updated>2022-03-04T09:11:34.936Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tO2b">하수구에 아무거나 막 버리면 안된다는 생각을 처음 심어준 영화 '괴물'</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[양치하면서 읽다 얼른 점심시간 끝나기 전 답글을!]]></title>
         <id>https://alook.so/posts/6MtonL</id>
@@ -69,20 +90,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tzOx">나는 왜 얼룩커가 되었나 4(부제:얼룩소중독증)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이야기 NEWS] '세로 본능'과 '자존감' (長文주의보)]]></title>
-        <id>https://alook.so/posts/DjtRJa</id>
-        <link href="https://alook.so/posts/DjtRJa"/>
-        <updated>2022-03-04T08:13:56.818Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtRJa">[이야기 NEWS] '세로 본능'과 '자존감' (長文주의보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[얼룩소] '개그우먼'이란 제목의 다큐멘터리]]></title>
-        <id>https://alook.so/posts/OEtbay</id>
-        <link href="https://alook.so/posts/OEtbay"/>
-        <updated>2022-03-04T02:15:18.546Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtbay">[얼룩소] '개그우먼'이란 제목의 다큐멘터리</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[외모지상주의]]></title>
         <id>https://alook.so/posts/o7tOkE</id>
         <link href="https://alook.so/posts/o7tOkE"/>
@@ -130,12 +137,5 @@
         <link href="https://alook.so/posts/1Rt9Dx"/>
         <updated>2022-03-03T08:14:23.651Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rt9Dx">우리 모두 소신투표 합시다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 회사 상황이 최악이에요.]]></title>
-        <id>https://alook.so/posts/q1tJvJ</id>
-        <link href="https://alook.so/posts/q1tJvJ"/>
-        <updated>2022-03-03T02:13:38.924Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tJvJ">요즘 회사 상황이 최악이에요.</a>]]></content>
     </entry>
 </feed>
