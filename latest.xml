@@ -2,42 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-04T14:14:16.129Z</updated>
+    <updated>2022-03-04T15:14:31.090Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[러시아 군인을 위로해주는 우크라이나 시민에 대해서]]></title>
-        <id>https://alook.so/posts/J5tG8z</id>
-        <link href="https://alook.so/posts/J5tG8z"/>
-        <updated>2022-03-04T14:12:21.323Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tG8z">러시아 군인을 위로해주는 우크라이나 시민에 대해서</a>]]></content>
+        <title type="html"><![CDATA[개미와 베짱이 우화 교훈]]></title>
+        <id>https://alook.so/posts/q1tmrm</id>
+        <link href="https://alook.so/posts/q1tmrm"/>
+        <updated>2022-03-04T15:12:21.507Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tmrm">개미와 베짱이 우화 교훈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘은 금요일]]></title>
-        <id>https://alook.so/posts/2xtLxL</id>
-        <link href="https://alook.so/posts/2xtLxL"/>
-        <updated>2022-03-04T14:12:21.324Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtLxL">오늘은 금요일</a>]]></content>
+        <title type="html"><![CDATA[좋은 신호]]></title>
+        <id>https://alook.so/posts/Djtvq0</id>
+        <link href="https://alook.so/posts/Djtvq0"/>
+        <updated>2022-03-04T15:12:21.513Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtvq0">좋은 신호</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직장 선배와 말다툼]]></title>
-        <id>https://alook.so/posts/WLt0n9</id>
-        <link href="https://alook.so/posts/WLt0n9"/>
-        <updated>2022-03-04T14:12:21.325Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt0n9">직장 선배와 말다툼</a>]]></content>
+        <title type="html"><![CDATA[일단은 부지런히 한번 해보시길 바래요.]]></title>
+        <id>https://alook.so/posts/1RtVO9</id>
+        <link href="https://alook.so/posts/1RtVO9"/>
+        <updated>2022-03-04T15:12:21.514Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtVO9">일단은 부지런히 한번 해보시길 바래요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현 시간 심각한 산불]]></title>
-        <id>https://alook.so/posts/0ktYn9</id>
-        <link href="https://alook.so/posts/0ktYn9"/>
-        <updated>2022-03-04T14:12:21.326Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktYn9">현 시간 심각한 산불</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 19]]></title>
-        <id>https://alook.so/posts/M9tP4y</id>
-        <link href="https://alook.so/posts/M9tP4y"/>
-        <updated>2022-03-04T14:12:21.327Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tP4y">코로나 19</a>]]></content>
+        <title type="html"><![CDATA[얼룩소의 중독성]]></title>
+        <id>https://alook.so/posts/YytM9z</id>
+        <link href="https://alook.so/posts/YytM9z"/>
+        <updated>2022-03-04T15:12:21.515Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytM9z">얼룩소의 중독성</a>]]></content>
     </entry>
 </feed>
