@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-04T18:17:28.877Z</updated>
+    <updated>2022-03-04T19:11:45.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[다들 자요?? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wtqyv</id>
+        <link href="https://alook.so/posts/3wtqyv"/>
+        <updated>2022-03-04T19:09:31.656Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtqyv">다들 자요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신호등 ver.1 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/8WtVlO</id>
+        <link href="https://alook.so/posts/8WtVlO"/>
+        <updated>2022-03-04T19:09:31.660Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtVlO">신호등 ver.1</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸이 아프니 마음도 싱숭생숭 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/G1tLpV</id>
+        <link href="https://alook.so/posts/G1tLpV"/>
+        <updated>2022-03-04T19:09:31.660Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tLpV">몸이 아프니 마음도 싱숭생숭</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[너 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/vKtlbb</id>
@@ -26,11 +47,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtRwB">불면증 ....</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[01.월급 통장만 잘 관리해도 10년 후가 다르다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54taKw</id>
-        <link href="https://alook.so/posts/54taKw"/>
-        <updated>2022-03-04T18:15:21.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54taKw">01.월급 통장만 잘 관리해도 10년 후가 다르다.</a>]]></content>
+        <title type="html"><![CDATA[아... 여기 산 증인의 간증 납시오. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/M9tP91</id>
+        <link href="https://alook.so/posts/M9tP91"/>
+        <updated>2022-03-04T19:09:40.697Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tP91">아... 여기 산 증인의 간증 납시오.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 5(글쓰기 편) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -80,13 +101,6 @@
         <link href="https://alook.so/posts/o7tO2b"/>
         <updated>2022-03-04T09:11:34.936Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tO2b">하수구에 아무거나 막 버리면 안된다는 생각을 처음 심어준 영화 '괴물'</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양치하면서 읽다 얼른 점심시간 끝나기 전 답글을! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/6MtonL</id>
-        <link href="https://alook.so/posts/6MtonL"/>
-        <updated>2022-03-04T18:15:29.821Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtonL">양치하면서 읽다 얼른 점심시간 끝나기 전 답글을!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 나는 왜 얼룩커가 되었나 4(부제:얼룩소중독증) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
