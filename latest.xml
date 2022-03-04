@@ -2,49 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-04T04:16:32.189Z</updated>
+    <updated>2022-03-04T05:13:43.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[행복이란]]></title>
-        <id>https://alook.so/posts/2xt6mM</id>
-        <link href="https://alook.so/posts/2xt6mM"/>
-        <updated>2022-03-04T04:14:21.545Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt6mM">행복이란</a>]]></content>
+        <title type="html"><![CDATA[3.3]]></title>
+        <id>https://alook.so/posts/92tDx6</id>
+        <link href="https://alook.so/posts/92tDx6"/>
+        <updated>2022-03-04T05:11:43.323Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tDx6">3.3</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[문장력을 키우는 10가지 방법]]></title>
-        <id>https://alook.so/posts/0ktqPn</id>
-        <link href="https://alook.so/posts/0ktqPn"/>
-        <updated>2022-03-04T04:14:21.547Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktqPn">문장력을 키우는 10가지 방법</a>]]></content>
+        <title type="html"><![CDATA[마음]]></title>
+        <id>https://alook.so/posts/mbtmWD</id>
+        <link href="https://alook.so/posts/mbtmWD"/>
+        <updated>2022-03-04T05:11:43.323Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtmWD">마음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[욕심없는 유권자입니다.]]></title>
-        <id>https://alook.so/posts/M9tmkE</id>
-        <link href="https://alook.so/posts/M9tmkE"/>
-        <updated>2022-03-04T04:14:21.549Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tmkE">욕심없는 유권자입니다.</a>]]></content>
+        <title type="html"><![CDATA[이번 만큼은 저희 대통령 신중히 잘 뽑아봅시다]]></title>
+        <id>https://alook.so/posts/54t1x2</id>
+        <link href="https://alook.so/posts/54t1x2"/>
+        <updated>2022-03-04T05:11:43.343Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t1x2">이번 만큼은 저희 대통령 신중히 잘 뽑아봅시다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[생각에도 없던 진로로 인해 심란합니다.]]></title>
-        <id>https://alook.so/posts/XBtx6m</id>
-        <link href="https://alook.so/posts/XBtx6m"/>
-        <updated>2022-03-04T04:14:21.550Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtx6m">생각에도 없던 진로로 인해 심란합니다.</a>]]></content>
+        <title type="html"><![CDATA[광통신용  광송수신기 용량별, 규격별 정리 내용]]></title>
+        <id>https://alook.so/posts/q1tezB</id>
+        <link href="https://alook.so/posts/q1tezB"/>
+        <updated>2022-03-04T05:11:43.346Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tezB">광통신용  광송수신기 용량별, 규격별 정리 내용</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[강아지 키우는데 드는 비용]]></title>
-        <id>https://alook.so/posts/xltw9Y</id>
-        <link href="https://alook.so/posts/xltw9Y"/>
-        <updated>2022-03-04T04:14:21.552Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltw9Y">강아지 키우는데 드는 비용</a>]]></content>
+        <title type="html"><![CDATA[최저임금 적용대상은 내국인만....]]></title>
+        <id>https://alook.so/posts/o7tOjO</id>
+        <link href="https://alook.so/posts/o7tOjO"/>
+        <updated>2022-03-04T05:11:43.347Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tOjO">최저임금 적용대상은 내국인만....</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 하루도 힘이 안납니다]]></title>
-        <id>https://alook.so/posts/RGto9w</id>
-        <link href="https://alook.so/posts/RGto9w"/>
-        <updated>2022-03-04T04:14:21.556Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGto9w">오늘 하루도 힘이 안납니다</a>]]></content>
+        <title type="html"><![CDATA[3.2]]></title>
+        <id>https://alook.so/posts/70ty07</id>
+        <link href="https://alook.so/posts/70ty07"/>
+        <updated>2022-03-04T05:11:43.349Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70ty07">3.2</a>]]></content>
     </entry>
 </feed>
