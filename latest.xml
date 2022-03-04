@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-04T02:17:02.643Z</updated>
+    <updated>2022-03-04T03:16:42.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[과학적이라는 단어의 의미에 대해서]]></title>
-        <id>https://alook.so/posts/q1tekP</id>
-        <link href="https://alook.so/posts/q1tekP"/>
-        <updated>2022-03-04T02:15:10.627Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tekP">과학적이라는 단어의 의미에 대해서</a>]]></content>
+        <title type="html"><![CDATA[취미를 찾아서!!]]></title>
+        <id>https://alook.so/posts/potVlq</id>
+        <link href="https://alook.so/posts/potVlq"/>
+        <updated>2022-03-04T03:14:31.932Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potVlq">취미를 찾아서!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘부터 사전투표일이네요]]></title>
-        <id>https://alook.so/posts/Djt0DV</id>
-        <link href="https://alook.so/posts/Djt0DV"/>
-        <updated>2022-03-04T02:15:10.628Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt0DV">오늘부터 사전투표일이네요</a>]]></content>
+        <title type="html"><![CDATA[링크라는 것을 아십니까?]]></title>
+        <id>https://alook.so/posts/eVt8wB</id>
+        <link href="https://alook.so/posts/eVt8wB"/>
+        <updated>2022-03-04T03:14:31.934Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt8wB">링크라는 것을 아십니까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어떻게 생각하세요?]]></title>
-        <id>https://alook.so/posts/o7tODP</id>
-        <link href="https://alook.so/posts/o7tODP"/>
-        <updated>2022-03-04T02:15:10.629Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tODP">어떻게 생각하세요?</a>]]></content>
+        <title type="html"><![CDATA[실현가능할까요.]]></title>
+        <id>https://alook.so/posts/VntKZJ</id>
+        <link href="https://alook.so/posts/VntKZJ"/>
+        <updated>2022-03-04T03:14:31.934Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntKZJ">실현가능할까요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[랜선 친구]]></title>
-        <id>https://alook.so/posts/70tyKE</id>
-        <link href="https://alook.so/posts/70tyKE"/>
-        <updated>2022-03-04T02:15:10.630Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tyKE">랜선 친구</a>]]></content>
+        <title type="html"><![CDATA[봉사활동(22년3월4일)]]></title>
+        <id>https://alook.so/posts/2xt6PD</id>
+        <link href="https://alook.so/posts/2xt6PD"/>
+        <updated>2022-03-04T03:14:31.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt6PD">봉사활동(22년3월4일)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내 첫 사랑 맥가이버]]></title>
+        <id>https://alook.so/posts/WLt9vd</id>
+        <link href="https://alook.so/posts/WLt9vd"/>
+        <updated>2022-03-04T03:14:31.935Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt9vd">내 첫 사랑 맥가이버</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공직자들의 마음가짐.]]></title>
+        <id>https://alook.so/posts/0ktqxY</id>
+        <link href="https://alook.so/posts/0ktqxY"/>
+        <updated>2022-03-04T03:14:31.936Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktqxY">공직자들의 마음가짐.</a>]]></content>
     </entry>
 </feed>
