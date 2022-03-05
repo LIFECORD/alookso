@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-05T07:13:20.913Z</updated>
+    <updated>2022-03-05T08:15:28.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[대선이 수능이라면] 영어편 -카니발(Carnival)]]></title>
+        <id>https://alook.so/posts/XBt0b1</id>
+        <link href="https://alook.so/posts/XBt0b1"/>
+        <updated>2022-03-05T08:13:40.521Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt0b1">[대선이 수능이라면] 영어편 -카니발(Carnival)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에서 글을 쓰면서]]></title>
         <id>https://alook.so/posts/rDtVnw</id>
@@ -130,13 +137,6 @@
         <link href="https://alook.so/posts/BatOPY"/>
         <updated>2022-03-04T12:18:41.675Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatOPY">첫 대통령 선거 투표, 권리를 행사하고 왔습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 왜 얼룩커가 되었나 4(얼룩소중독증 편)]]></title>
-        <id>https://alook.so/posts/G1tzOx</id>
-        <link href="https://alook.so/posts/G1tzOx"/>
-        <updated>2022-03-04T05:11:51.776Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tzOx">나는 왜 얼룩커가 되었나 4(얼룩소중독증 편)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[승진 이게 뭐라고.]]></title>
