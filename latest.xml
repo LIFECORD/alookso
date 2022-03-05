@@ -2,49 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T13:16:18.632Z</updated>
+    <updated>2022-03-05T14:13:05.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[무기력]]></title>
-        <id>https://alook.so/posts/xltPqd</id>
-        <link href="https://alook.so/posts/xltPqd"/>
-        <updated>2022-03-05T13:14:14.789Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltPqd">무기력</a>]]></content>
+        <title type="html"><![CDATA[여러분 3차 백신을 맞아야 하나요?]]></title>
+        <id>https://alook.so/posts/54ta7J</id>
+        <link href="https://alook.so/posts/54ta7J"/>
+        <updated>2022-03-05T14:11:04.816Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54ta7J">여러분 3차 백신을 맞아야 하나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[친구 관계에 대해...]]></title>
-        <id>https://alook.so/posts/RGtmOy</id>
-        <link href="https://alook.so/posts/RGtmOy"/>
-        <updated>2022-03-05T13:14:14.795Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtmOy">친구 관계에 대해...</a>]]></content>
+        <title type="html"><![CDATA[코로나.]]></title>
+        <id>https://alook.so/posts/Djtvpm</id>
+        <link href="https://alook.so/posts/Djtvpm"/>
+        <updated>2022-03-05T14:11:04.817Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtvpm">코로나. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사랑병]]></title>
-        <id>https://alook.so/posts/kZt9kV</id>
-        <link href="https://alook.so/posts/kZt9kV"/>
-        <updated>2022-03-05T13:14:14.800Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt9kV">사랑병</a>]]></content>
+        <title type="html"><![CDATA[시골 중학생의 연애 상담]]></title>
+        <id>https://alook.so/posts/1RtVLG</id>
+        <link href="https://alook.so/posts/1RtVLG"/>
+        <updated>2022-03-05T14:11:04.818Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtVLG">시골 중학생의 연애 상담 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 누구인가?]]></title>
-        <id>https://alook.so/posts/yEt2BM</id>
-        <link href="https://alook.so/posts/yEt2BM"/>
-        <updated>2022-03-05T13:14:14.801Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt2BM">나는 누구인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능이 대체하지 못하는 곳]]></title>
-        <id>https://alook.so/posts/BatnoE</id>
-        <link href="https://alook.so/posts/BatnoE"/>
-        <updated>2022-03-05T13:14:14.803Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatnoE">인공지능이 대체하지 못하는 곳</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[극강의 p의 인생담^^]]></title>
-        <id>https://alook.so/posts/njt6xe</id>
-        <link href="https://alook.so/posts/njt6xe"/>
-        <updated>2022-03-05T13:14:14.805Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt6xe">극강의 p의 인생담^^</a>]]></content>
+        <title type="html"><![CDATA[쇼스타코비치와 러시아를 생각하며...]]></title>
+        <id>https://alook.so/posts/70tjaV</id>
+        <link href="https://alook.so/posts/70tjaV"/>
+        <updated>2022-03-05T14:11:04.820Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjaV">쇼스타코비치와 러시아를 생각하며...</a>]]></content>
     </entry>
 </feed>
