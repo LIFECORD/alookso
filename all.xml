@@ -2,28 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-05T11:12:44.096Z</updated>
+    <updated>2022-03-05T12:18:47.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[유튜브 알고리즘 탓 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/q1tmm8</id>
-        <link href="https://alook.so/posts/q1tmm8"/>
-        <updated>2022-03-05T11:10:33.027Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tmm8">유튜브 알고리즘 탓</a>]]></content>
+        <title type="html"><![CDATA[짬밥 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/WLt0RX</id>
+        <link href="https://alook.so/posts/WLt0RX"/>
+        <updated>2022-03-05T12:16:41.719Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt0RX">짬밥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너가 가진 것에 만족하라. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/o7tpOB</id>
-        <link href="https://alook.so/posts/o7tpOB"/>
-        <updated>2022-03-05T11:10:33.029Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tpOB">너가 가진 것에 만족하라.</a>]]></content>
+        <title type="html"><![CDATA[사진은 기억을 담고 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/M9tPr0</id>
+        <link href="https://alook.so/posts/M9tPr0"/>
+        <updated>2022-03-05T12:16:41.721Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tPr0">사진은 기억을 담고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바리스타가 코로나 격리를 하면, (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70tjyo</id>
-        <link href="https://alook.so/posts/70tjyo"/>
-        <updated>2022-03-05T11:10:33.031Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjyo">바리스타가 코로나 격리를 하면,</a>]]></content>
+        <title type="html"><![CDATA[선거법 위반? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xltP0o</id>
+        <link href="https://alook.so/posts/xltP0o"/>
+        <updated>2022-03-05T12:16:41.722Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltP0o">선거법 위반?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[욕심을 버리고 모든 걸 내려놓은 뒤 쉬다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/kZt9pZ</id>
+        <link href="https://alook.so/posts/kZt9pZ"/>
+        <updated>2022-03-05T12:16:41.723Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt9pZ">욕심을 버리고 모든 걸 내려놓은 뒤 쉬다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[혼밥에 대해서 어떻게 생각하나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/2xtL9P</id>
+        <link href="https://alook.so/posts/2xtL9P"/>
+        <updated>2022-03-05T12:16:50.956Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtL9P">혼밥에 대해서 어떻게 생각하나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부자 되기의 시작 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -87,13 +101,6 @@
         <link href="https://alook.so/posts/54tamX"/>
         <updated>2022-03-05T05:10:45.706Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tamX">26살에 집을 짓기러했어요 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브루스(짐 캐리)가 하루정도는 YES라고 해도 괜찮았으면... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/lataxV</id>
-        <link href="https://alook.so/posts/lataxV"/>
-        <updated>2022-03-05T07:11:35.702Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lataxV">브루스(짐 캐리)가 하루정도는 YES라고 해도 괜찮았으면...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[좋아요 500명 되었네요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>

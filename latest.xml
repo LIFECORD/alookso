@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T11:12:44.089Z</updated>
+    <updated>2022-03-05T12:18:47.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[유튜브 알고리즘 탓]]></title>
-        <id>https://alook.so/posts/q1tmm8</id>
-        <link href="https://alook.so/posts/q1tmm8"/>
-        <updated>2022-03-05T11:10:33.027Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tmm8">유튜브 알고리즘 탓</a>]]></content>
+        <title type="html"><![CDATA[짬밥]]></title>
+        <id>https://alook.so/posts/WLt0RX</id>
+        <link href="https://alook.so/posts/WLt0RX"/>
+        <updated>2022-03-05T12:16:41.719Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt0RX">짬밥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[너가 가진 것에 만족하라.]]></title>
-        <id>https://alook.so/posts/o7tpOB</id>
-        <link href="https://alook.so/posts/o7tpOB"/>
-        <updated>2022-03-05T11:10:33.029Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tpOB">너가 가진 것에 만족하라.</a>]]></content>
+        <title type="html"><![CDATA[사진은 기억을 담고]]></title>
+        <id>https://alook.so/posts/M9tPr0</id>
+        <link href="https://alook.so/posts/M9tPr0"/>
+        <updated>2022-03-05T12:16:41.721Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tPr0">사진은 기억을 담고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[바리스타가 코로나 격리를 하면,]]></title>
-        <id>https://alook.so/posts/70tjyo</id>
-        <link href="https://alook.so/posts/70tjyo"/>
-        <updated>2022-03-05T11:10:33.031Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjyo">바리스타가 코로나 격리를 하면,</a>]]></content>
+        <title type="html"><![CDATA[선거법 위반?]]></title>
+        <id>https://alook.so/posts/xltP0o</id>
+        <link href="https://alook.so/posts/xltP0o"/>
+        <updated>2022-03-05T12:16:41.722Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltP0o">선거법 위반?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[욕심을 버리고 모든 걸 내려놓은 뒤 쉬다]]></title>
+        <id>https://alook.so/posts/kZt9pZ</id>
+        <link href="https://alook.so/posts/kZt9pZ"/>
+        <updated>2022-03-05T12:16:41.723Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZt9pZ">욕심을 버리고 모든 걸 내려놓은 뒤 쉬다</a>]]></content>
     </entry>
 </feed>
