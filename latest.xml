@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T00:48:41.167Z</updated>
+    <updated>2022-03-05T02:06:52.720Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[사전투표 하셨나요?]]></title>
-        <id>https://alook.so/posts/OEtdjq</id>
-        <link href="https://alook.so/posts/OEtdjq"/>
-        <updated>2022-03-05T00:46:42.746Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtdjq">사전투표 하셨나요?</a>]]></content>
+        <title type="html"><![CDATA[남은 음식 되실리는 방법]]></title>
+        <id>https://alook.so/posts/zvtzbL</id>
+        <link href="https://alook.so/posts/zvtzbL"/>
+        <updated>2022-03-05T02:04:57.391Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtzbL">남은 음식 되실리는 방법</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[싸이월드가 돌아온다고 합니다]]></title>
-        <id>https://alook.so/posts/vKtljV</id>
-        <link href="https://alook.so/posts/vKtljV"/>
-        <updated>2022-03-05T00:46:42.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtljV">싸이월드가 돌아온다고 합니다</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에 대해 처음 알게 된 날]]></title>
+        <id>https://alook.so/posts/2xtLBP</id>
+        <link href="https://alook.so/posts/2xtLBP"/>
+        <updated>2022-03-05T02:04:57.392Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtLBP">얼룩소에 대해 처음 알게 된 날</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미세먼지]]></title>
-        <id>https://alook.so/posts/mbtRpa</id>
-        <link href="https://alook.so/posts/mbtRpa"/>
-        <updated>2022-03-05T00:46:42.753Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtRpa">미세먼지</a>]]></content>
+        <title type="html"><![CDATA[수확도 하고, 와플도 만들고…국내 딸기 여행지 5곳]]></title>
+        <id>https://alook.so/posts/0ktYrE</id>
+        <link href="https://alook.so/posts/0ktYrE"/>
+        <updated>2022-03-05T02:04:57.393Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktYrE">수확도 하고, 와플도 만들고…국내 딸기 여행지 5곳</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[해열제 챙기세요]]></title>
-        <id>https://alook.so/posts/q1tmaD</id>
-        <link href="https://alook.so/posts/q1tmaD"/>
-        <updated>2022-03-05T00:46:42.754Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tmaD">해열제 챙기세요</a>]]></content>
+        <title type="html"><![CDATA[결혼 후 경제적 발전을 위한 투자]]></title>
+        <id>https://alook.so/posts/M9tP2d</id>
+        <link href="https://alook.so/posts/M9tP2d"/>
+        <updated>2022-03-05T02:04:57.394Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tP2d">결혼 후 경제적 발전을 위한 투자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소 홈페이지 후기]]></title>
-        <id>https://alook.so/posts/Djtvx8</id>
-        <link href="https://alook.so/posts/Djtvx8"/>
-        <updated>2022-03-05T00:46:42.755Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtvx8">얼룩소 홈페이지 후기</a>]]></content>
+        <title type="html"><![CDATA[[헬스토피아] 속옷이 여성건강 옥죈다?]]></title>
+        <id>https://alook.so/posts/XBt0W1</id>
+        <link href="https://alook.so/posts/XBt0W1"/>
+        <updated>2022-03-05T02:04:57.395Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt0W1">[헬스토피아] 속옷이 여성건강 옥죈다?</a>]]></content>
     </entry>
 </feed>
