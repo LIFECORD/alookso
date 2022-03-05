@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T03:14:19.867Z</updated>
+    <updated>2022-03-05T04:16:31.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[MZ세대에 맞는 새로운 재테크를 알고 있는가?]]></title>
-        <id>https://alook.so/posts/yEt2xD</id>
-        <link href="https://alook.so/posts/yEt2xD"/>
-        <updated>2022-03-05T03:12:07.526Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt2xD">MZ세대에 맞는 새로운 재테크를 알고 있는가?</a>]]></content>
+        <title type="html"><![CDATA[내가 왜 세계최고의 테너를 꿈꾸는가? 3탄]]></title>
+        <id>https://alook.so/posts/bWt8kB</id>
+        <link href="https://alook.so/posts/bWt8kB"/>
+        <updated>2022-03-05T04:14:23.175Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt8kB">내가 왜 세계최고의 테너를 꿈꾸는가? 3탄</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사전투표 열기가 뜨겁네요 ^^]]></title>
-        <id>https://alook.so/posts/LKtXe4</id>
-        <link href="https://alook.so/posts/LKtXe4"/>
-        <updated>2022-03-05T03:12:07.532Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtXe4">사전투표 열기가 뜨겁네요 ^^</a>]]></content>
+        <title type="html"><![CDATA[안녕하세요!]]></title>
+        <id>https://alook.so/posts/pote5D</id>
+        <link href="https://alook.so/posts/pote5D"/>
+        <updated>2022-03-05T04:14:23.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pote5D">안녕하세요!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[안정적인 직장을 버리고 안정적인 수입을 쫒아다녔다]]></title>
-        <id>https://alook.so/posts/6MtG2x</id>
-        <link href="https://alook.so/posts/6MtG2x"/>
-        <updated>2022-03-05T03:12:07.533Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtG2x">안정적인 직장을 버리고 안정적인 수입을 쫒아다녔다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포기하면 거기서 끝]]></title>
-        <id>https://alook.so/posts/G1tL1Y</id>
-        <link href="https://alook.so/posts/G1tL1Y"/>
-        <updated>2022-03-05T03:12:07.536Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tL1Y">포기하면 거기서 끝</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[작년에 근로장려금 대상자가 아니셨나요?올해 기준이 많이 상향되었어요 꼭 확인 해보시길 바래요😀]]></title>
-        <id>https://alook.so/posts/E7tM8X</id>
-        <link href="https://alook.so/posts/E7tM8X"/>
-        <updated>2022-03-05T03:12:07.536Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tM8X">작년에 근로장려금 대상자가 아니셨나요?올해 기준이 많이 상향되었어요 꼭 확인 해보시길 바래요😀</a>]]></content>
+        <title type="html"><![CDATA[직장 내 대인관계 편하게 하기. 3]]></title>
+        <id>https://alook.so/posts/2xtLVJ</id>
+        <link href="https://alook.so/posts/2xtLVJ"/>
+        <updated>2022-03-05T04:14:23.179Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtLVJ">직장 내 대인관계 편하게 하기. 3</a>]]></content>
     </entry>
 </feed>
