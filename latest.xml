@@ -2,35 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T14:13:05.500Z</updated>
+    <updated>2022-03-05T15:13:37.921Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[여러분 3차 백신을 맞아야 하나요?]]></title>
-        <id>https://alook.so/posts/54ta7J</id>
-        <link href="https://alook.so/posts/54ta7J"/>
-        <updated>2022-03-05T14:11:04.816Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54ta7J">여러분 3차 백신을 맞아야 하나요?</a>]]></content>
+        <title type="html"><![CDATA[자살.우울증에 대해 어떻게 생각하시나요..!!]]></title>
+        <id>https://alook.so/posts/70t9eZ</id>
+        <link href="https://alook.so/posts/70t9eZ"/>
+        <updated>2022-03-05T15:11:35.574Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t9eZ">자살.우울증에 대해 어떻게 생각하시나요..!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나.]]></title>
-        <id>https://alook.so/posts/Djtvpm</id>
-        <link href="https://alook.so/posts/Djtvpm"/>
-        <updated>2022-03-05T14:11:04.817Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtvpm">코로나. </a>]]></content>
+        <title type="html"><![CDATA[(사전투표) 확진자들의 투표 권리는 어디로?]]></title>
+        <id>https://alook.so/posts/bWt6yr</id>
+        <link href="https://alook.so/posts/bWt6yr"/>
+        <updated>2022-03-05T15:11:35.575Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt6yr">(사전투표) 확진자들의 투표 권리는 어디로?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시골 중학생의 연애 상담]]></title>
-        <id>https://alook.so/posts/1RtVLG</id>
-        <link href="https://alook.so/posts/1RtVLG"/>
-        <updated>2022-03-05T14:11:04.818Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtVLG">시골 중학생의 연애 상담 </a>]]></content>
+        <title type="html"><![CDATA[오늘도 지옥]]></title>
+        <id>https://alook.so/posts/ZktraE</id>
+        <link href="https://alook.so/posts/ZktraE"/>
+        <updated>2022-03-05T15:11:35.576Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktraE">오늘도 지옥</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[쇼스타코비치와 러시아를 생각하며...]]></title>
-        <id>https://alook.so/posts/70tjaV</id>
-        <link href="https://alook.so/posts/70tjaV"/>
-        <updated>2022-03-05T14:11:04.820Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjaV">쇼스타코비치와 러시아를 생각하며...</a>]]></content>
+        <title type="html"><![CDATA[첫차 언제가 좋을까요?]]></title>
+        <id>https://alook.so/posts/dztj2V</id>
+        <link href="https://alook.so/posts/dztj2V"/>
+        <updated>2022-03-05T15:11:35.577Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztj2V">첫차 언제가 좋을까요?</a>]]></content>
     </entry>
 </feed>
