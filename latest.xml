@@ -2,28 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T05:12:38.932Z</updated>
+    <updated>2022-03-05T06:15:41.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[씨젠, 500억원 규모 자사주 취득! 주당 400원 배당! 과연? 향방은]]></title>
-        <id>https://alook.so/posts/DjtvmZ</id>
-        <link href="https://alook.so/posts/DjtvmZ"/>
-        <updated>2022-03-05T05:10:36.565Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtvmZ">씨젠, 500억원 규모 자사주 취득! 주당 400원 배당! 과연? 향방은</a>]]></content>
+        <title type="html"><![CDATA[드디어 나만의 시간이 생기다]]></title>
+        <id>https://alook.so/posts/dztBZJ</id>
+        <link href="https://alook.so/posts/dztBZJ"/>
+        <updated>2022-03-05T06:13:36.112Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztBZJ">드디어 나만의 시간이 생기다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[식품은 점점 진화중.]]></title>
-        <id>https://alook.so/posts/o7tpZZ</id>
-        <link href="https://alook.so/posts/o7tpZZ"/>
-        <updated>2022-03-05T05:10:36.568Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tpZZ">식품은 점점 진화중.</a>]]></content>
+        <title type="html"><![CDATA[드디어 나만의 시간이 생기다]]></title>
+        <id>https://alook.so/posts/poteYl</id>
+        <link href="https://alook.so/posts/poteYl"/>
+        <updated>2022-03-05T06:13:36.113Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/poteYl">드디어 나만의 시간이 생기다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋아요 500개]]></title>
-        <id>https://alook.so/posts/70tjB6</id>
-        <link href="https://alook.so/posts/70tjB6"/>
-        <updated>2022-03-05T05:10:36.569Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjB6">좋아요 500개</a>]]></content>
+        <title type="html"><![CDATA[바람이 분다.]]></title>
+        <id>https://alook.so/posts/eVt9oo</id>
+        <link href="https://alook.so/posts/eVt9oo"/>
+        <updated>2022-03-05T06:13:36.114Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVt9oo">바람이 분다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아의 비인간적인 행동의 결과]]></title>
+        <id>https://alook.so/posts/VntXPY</id>
+        <link href="https://alook.so/posts/VntXPY"/>
+        <updated>2022-03-05T06:13:36.115Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntXPY">러시아의 비인간적인 행동의 결과</a>]]></content>
     </entry>
 </feed>
