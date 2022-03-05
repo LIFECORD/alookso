@@ -2,35 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-05T15:13:37.921Z</updated>
+    <updated>2022-03-05T16:16:01.220Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[자살.우울증에 대해 어떻게 생각하시나요..!!]]></title>
-        <id>https://alook.so/posts/70t9eZ</id>
-        <link href="https://alook.so/posts/70t9eZ"/>
-        <updated>2022-03-05T15:11:35.574Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t9eZ">자살.우울증에 대해 어떻게 생각하시나요..!!</a>]]></content>
+        <title type="html"><![CDATA[생각이 깊어지는 밤]]></title>
+        <id>https://alook.so/posts/jdtW30</id>
+        <link href="https://alook.so/posts/jdtW30"/>
+        <updated>2022-03-05T16:14:02.256Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtW30">생각이 깊어지는 밤</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(사전투표) 확진자들의 투표 권리는 어디로?]]></title>
-        <id>https://alook.so/posts/bWt6yr</id>
-        <link href="https://alook.so/posts/bWt6yr"/>
-        <updated>2022-03-05T15:11:35.575Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt6yr">(사전투표) 확진자들의 투표 권리는 어디로?</a>]]></content>
+        <title type="html"><![CDATA[예전엔 미처 몰랐었지.]]></title>
+        <id>https://alook.so/posts/a0tp9L</id>
+        <link href="https://alook.so/posts/a0tp9L"/>
+        <updated>2022-03-05T16:14:02.259Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tp9L">예전엔 미처 몰랐었지.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘도 지옥]]></title>
-        <id>https://alook.so/posts/ZktraE</id>
-        <link href="https://alook.so/posts/ZktraE"/>
-        <updated>2022-03-05T15:11:35.576Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktraE">오늘도 지옥</a>]]></content>
+        <title type="html"><![CDATA[코로나 양성 판정..]]></title>
+        <id>https://alook.so/posts/dztjXa</id>
+        <link href="https://alook.so/posts/dztjXa"/>
+        <updated>2022-03-05T16:14:02.261Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztjXa">코로나 양성 판정..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[첫차 언제가 좋을까요?]]></title>
-        <id>https://alook.so/posts/dztj2V</id>
-        <link href="https://alook.so/posts/dztj2V"/>
-        <updated>2022-03-05T15:11:35.577Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztj2V">첫차 언제가 좋을까요?</a>]]></content>
+        <title type="html"><![CDATA[가슴 뛸 일이 없으면 뛰게 하라]]></title>
+        <id>https://alook.so/posts/J5tqW0</id>
+        <link href="https://alook.so/posts/J5tqW0"/>
+        <updated>2022-03-05T16:14:02.263Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tqW0">가슴 뛸 일이 없으면 뛰게 하라</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로또 수동과 자동]]></title>
+        <id>https://alook.so/posts/potELE</id>
+        <link href="https://alook.so/posts/potELE"/>
+        <updated>2022-03-05T16:14:02.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potELE">로또 수동과 자동</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나의 주식 사]]></title>
+        <id>https://alook.so/posts/Pvt6BR</id>
+        <link href="https://alook.so/posts/Pvt6BR"/>
+        <updated>2022-03-05T16:14:02.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Pvt6BR">나의 주식 사</a>]]></content>
     </entry>
 </feed>
