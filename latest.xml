@@ -2,35 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-06T16:16:37.685Z</updated>
+    <updated>2022-03-06T17:12:37.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[상쾌하지만 불안한 마음]]></title>
-        <id>https://alook.so/posts/BatwlL</id>
-        <link href="https://alook.so/posts/BatwlL"/>
-        <updated>2022-03-06T16:14:22.453Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatwlL">상쾌하지만 불안한 마음</a>]]></content>
+        <title type="html"><![CDATA[자기 자신에게 하기 힘든 말]]></title>
+        <id>https://alook.so/posts/njtLW2</id>
+        <link href="https://alook.so/posts/njtLW2"/>
+        <updated>2022-03-06T17:10:33.728Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtLW2">자기 자신에게 하기 힘든 말</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[상처]]></title>
-        <id>https://alook.so/posts/njtLaG</id>
-        <link href="https://alook.so/posts/njtLaG"/>
-        <updated>2022-03-06T16:14:22.458Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtLaG">상처</a>]]></content>
+        <title type="html"><![CDATA[필리핀 개척교회에서  오늘도 기도했습니다.]]></title>
+        <id>https://alook.so/posts/OEtDJB</id>
+        <link href="https://alook.so/posts/OEtDJB"/>
+        <updated>2022-03-06T17:10:33.731Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtDJB">필리핀 개척교회에서  오늘도 기도했습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[옛날식 부정선거에 대해]]></title>
-        <id>https://alook.so/posts/8Wt46l</id>
-        <link href="https://alook.so/posts/8Wt46l"/>
-        <updated>2022-03-06T16:14:22.459Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt46l">옛날식 부정선거에 대해</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이번 확진자 사전투표...]]></title>
-        <id>https://alook.so/posts/vKtVyy</id>
-        <link href="https://alook.so/posts/vKtVyy"/>
-        <updated>2022-03-06T16:14:22.462Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtVyy">이번 확진자 사전투표...</a>]]></content>
+        <title type="html"><![CDATA[산쟁이]]></title>
+        <id>https://alook.so/posts/E7t1wb</id>
+        <link href="https://alook.so/posts/E7t1wb"/>
+        <updated>2022-03-06T17:10:33.732Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t1wb">산쟁이</a>]]></content>
     </entry>
 </feed>
