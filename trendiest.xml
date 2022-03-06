@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-06T00:46:47.908Z</updated>
+    <updated>2022-03-06T02:07:00.162Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[여기 계신분들은 로또 하시나요?]]></title>
-        <id>https://alook.so/posts/o7tp8e</id>
-        <link href="https://alook.so/posts/o7tp8e"/>
-        <updated>2022-03-05T15:11:43.601Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tp8e">여기 계신분들은 로또 하시나요?</a>]]></content>
+        <title type="html"><![CDATA[안 바뀔 것을 아는데도 왜 난 설득하려 드는가]]></title>
+        <id>https://alook.so/posts/2xtWR0</id>
+        <link href="https://alook.so/posts/2xtWR0"/>
+        <updated>2022-03-06T02:05:04.963Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtWR0">안 바뀔 것을 아는데도 왜 난 설득하려 드는가</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이벤트] 심심한데 책이나 볼까?]]></title>
+        <id>https://alook.so/posts/4Xt0EE</id>
+        <link href="https://alook.so/posts/4Xt0EE"/>
+        <updated>2022-03-06T02:05:04.964Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xt0EE">[이벤트] 심심한데 책이나 볼까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주말은 코로나와 함께..]]></title>
@@ -27,18 +34,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt0Kq">나는 30대 일을 그만두었다 그리고 시작한 프리랜서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[익숙한 것들에 대한 소중함]]></title>
-        <id>https://alook.so/posts/VntXdW</id>
-        <link href="https://alook.so/posts/VntXdW"/>
-        <updated>2022-03-05T10:11:44.525Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntXdW">익숙한 것들에 대한 소중함</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[혼밥에 대해서 어떻게 생각하나요?]]></title>
         <id>https://alook.so/posts/2xtL9P</id>
         <link href="https://alook.so/posts/2xtL9P"/>
         <updated>2022-03-05T12:16:50.956Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtL9P">혼밥에 대해서 어떻게 생각하나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[익숙한 것들에 대한 소중함]]></title>
+        <id>https://alook.so/posts/VntXdW</id>
+        <link href="https://alook.so/posts/VntXdW"/>
+        <updated>2022-03-05T10:11:44.525Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntXdW">익숙한 것들에 대한 소중함</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부자 되기의 시작]]></title>
@@ -53,13 +60,6 @@
         <link href="https://alook.so/posts/70tjX0"/>
         <updated>2022-03-05T10:11:44.525Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjX0">코로나로 인하여  격리</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휴일]]></title>
-        <id>https://alook.so/posts/o7tp3w</id>
-        <link href="https://alook.so/posts/o7tp3w"/>
-        <updated>2022-03-05T10:11:44.525Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tp3w">휴일</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대선이 수능이라면] 영어편 -카니발(Carnival)]]></title>
@@ -116,6 +116,13 @@
         <link href="https://alook.so/posts/RGtmEa"/>
         <updated>2022-03-05T02:05:05.555Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtmEa">100번째 글을 차축하며</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사람들이 아직 일어나지 않은 고요한 밤]]></title>
+        <id>https://alook.so/posts/Zktonj</id>
+        <link href="https://alook.so/posts/Zktonj"/>
+        <updated>2022-03-06T02:05:04.996Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zktonj">사람들이 아직 일어나지 않은 고요한 밤</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[장벽을 뜯어내는 것이 목적이 되는 사회]]></title>
