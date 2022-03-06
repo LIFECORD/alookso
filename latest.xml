@@ -2,56 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-06T13:16:20.870Z</updated>
+    <updated>2022-03-06T14:12:32.502Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[얼룩소 가입인사로 첫글입니다.]]></title>
-        <id>https://alook.so/posts/njtRMw</id>
-        <link href="https://alook.so/posts/njtRMw"/>
-        <updated>2022-03-06T13:14:19.028Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtRMw">얼룩소 가입인사로 첫글입니다. </a>]]></content>
+        <title type="html"><![CDATA[말의 능력]]></title>
+        <id>https://alook.so/posts/1RtlJa</id>
+        <link href="https://alook.so/posts/1RtlJa"/>
+        <updated>2022-03-06T14:10:27.650Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtlJa">말의 능력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출근]]></title>
-        <id>https://alook.so/posts/8Wt90w</id>
-        <link href="https://alook.so/posts/8Wt90w"/>
-        <updated>2022-03-06T13:14:19.028Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt90w">출근</a>]]></content>
+        <title type="html"><![CDATA[힘듦은 오로지 나의 몫]]></title>
+        <id>https://alook.so/posts/Yytm0G</id>
+        <link href="https://alook.so/posts/Yytm0G"/>
+        <updated>2022-03-06T14:10:27.650Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytm0G">힘듦은 오로지 나의 몫</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외계인은 진짜있을까요?]]></title>
-        <id>https://alook.so/posts/G1tm7M</id>
-        <link href="https://alook.so/posts/G1tm7M"/>
-        <updated>2022-03-06T13:14:19.034Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tm7M">외계인은 진짜있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우연히..]]></title>
-        <id>https://alook.so/posts/OEtvxn</id>
-        <link href="https://alook.so/posts/OEtvxn"/>
-        <updated>2022-03-06T13:14:19.034Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtvxn">우연히..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오랜퇸 TV]]></title>
-        <id>https://alook.so/posts/vKt432</id>
-        <link href="https://alook.so/posts/vKt432"/>
-        <updated>2022-03-06T13:14:19.034Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt432">오랜퇸 TV</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아악 월요일이다 근데난 ㅎㅎ]]></title>
-        <id>https://alook.so/posts/E7toyR</id>
-        <link href="https://alook.so/posts/E7toyR"/>
-        <updated>2022-03-06T13:14:19.041Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7toyR">아악 월요일이다 근데난 ㅎㅎ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머리속에 번개치는 구름 위에 빤짝이는 별과 행복 하트..]]></title>
-        <id>https://alook.so/posts/latj22</id>
-        <link href="https://alook.so/posts/latj22"/>
-        <updated>2022-03-06T13:14:19.042Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latj22">머리속에 번개치는 구름 위에 빤짝이는 별과 행복 하트..</a>]]></content>
+        <title type="html"><![CDATA[한국의 미래]]></title>
+        <id>https://alook.so/posts/rDt2v9</id>
+        <link href="https://alook.so/posts/rDt2v9"/>
+        <updated>2022-03-06T14:10:27.652Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt2v9">한국의 미래</a>]]></content>
     </entry>
 </feed>
