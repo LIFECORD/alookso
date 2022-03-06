@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-06T07:12:50.032Z</updated>
+    <updated>2022-03-06T08:16:05.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[태안 어느 한적한 해변 해질녘]]></title>
-        <id>https://alook.so/posts/Vnt3Ma</id>
-        <link href="https://alook.so/posts/Vnt3Ma"/>
-        <updated>2022-03-06T07:10:49.491Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt3Ma">태안 어느 한적한 해변 해질녘</a>]]></content>
+        <title type="html"><![CDATA[펑펑]]></title>
+        <id>https://alook.so/posts/Kmtdjk</id>
+        <link href="https://alook.so/posts/Kmtdjk"/>
+        <updated>2022-03-06T08:13:56.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtdjk">펑펑</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[제주도에서의 삶 어떤가요?]]></title>
-        <id>https://alook.so/posts/zvtOLb</id>
-        <link href="https://alook.so/posts/zvtOLb"/>
-        <updated>2022-03-06T07:10:49.498Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtOLb">제주도에서의 삶 어떤가요?</a>]]></content>
+        <title type="html"><![CDATA[마음에도 근육이 있다는 거 아세요?]]></title>
+        <id>https://alook.so/posts/mbtxWE</id>
+        <link href="https://alook.so/posts/mbtxWE"/>
+        <updated>2022-03-06T08:13:56.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtxWE">마음에도 근육이 있다는 거 아세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글을 쓰는 이유가 무엇인가요?]]></title>
-        <id>https://alook.so/posts/0ktGyl</id>
-        <link href="https://alook.so/posts/0ktGyl"/>
-        <updated>2022-03-06T07:10:49.499Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktGyl">글을 쓰는 이유가 무엇인가요?</a>]]></content>
+        <title type="html"><![CDATA[하소연#1]]></title>
+        <id>https://alook.so/posts/Djtd8E</id>
+        <link href="https://alook.so/posts/Djtd8E"/>
+        <updated>2022-03-06T08:13:56.187Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtd8E">하소연#1</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[휴일을 보내는법]]></title>
-        <id>https://alook.so/posts/M9tDjq</id>
-        <link href="https://alook.so/posts/M9tDjq"/>
-        <updated>2022-03-06T07:10:49.501Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tDjq">휴일을 보내는법</a>]]></content>
+        <title type="html"><![CDATA[오늘의 날씨는??]]></title>
+        <id>https://alook.so/posts/o7td4z</id>
+        <link href="https://alook.so/posts/o7td4z"/>
+        <updated>2022-03-06T08:13:56.188Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7td4z">오늘의 날씨는?? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오늘 얼룩소에 가입해 글을 처음 써봅니다..]]></title>
-        <id>https://alook.so/posts/4XtRK9</id>
-        <link href="https://alook.so/posts/4XtRK9"/>
-        <updated>2022-03-06T07:10:49.502Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtRK9">오늘 얼룩소에 가입해 글을 처음 써봅니다..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부부싸움]]></title>
-        <id>https://alook.so/posts/w9tDj0</id>
-        <link href="https://alook.so/posts/w9tDj0"/>
-        <updated>2022-03-06T07:10:49.503Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tDj0">부부싸움</a>]]></content>
+        <title type="html"><![CDATA[격리해제]]></title>
+        <id>https://alook.so/posts/rDtk1B</id>
+        <link href="https://alook.so/posts/rDtk1B"/>
+        <updated>2022-03-06T08:13:56.192Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtk1B">격리해제</a>]]></content>
     </entry>
 </feed>
