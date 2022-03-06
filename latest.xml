@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-06T11:11:22.273Z</updated>
+    <updated>2022-03-06T12:19:17.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[봄햇살 아래서]]></title>
-        <id>https://alook.so/posts/Bat33G</id>
-        <link href="https://alook.so/posts/Bat33G"/>
-        <updated>2022-03-06T11:09:25.011Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat33G">봄햇살 아래서</a>]]></content>
+        <title type="html"><![CDATA[코로나와 마스크]]></title>
+        <id>https://alook.so/posts/OEtvyp</id>
+        <link href="https://alook.so/posts/OEtvyp"/>
+        <updated>2022-03-06T12:17:12.904Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtvyp">코로나와 마스크</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[성공한 사람들이 부러운가요?]]></title>
-        <id>https://alook.so/posts/LKt22G</id>
-        <link href="https://alook.so/posts/LKt22G"/>
-        <updated>2022-03-06T11:09:25.012Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt22G">성공한 사람들이 부러운가요?</a>]]></content>
+        <title type="html"><![CDATA[꼭 결혼을 해야만 할까..?]]></title>
+        <id>https://alook.so/posts/E7to5P</id>
+        <link href="https://alook.so/posts/E7to5P"/>
+        <updated>2022-03-06T12:17:12.905Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7to5P">꼭 결혼을 해야만 할까..?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다이어트와 키크는데 가성비대비 효과 최고인 운동]]></title>
-        <id>https://alook.so/posts/njtRRK</id>
-        <link href="https://alook.so/posts/njtRRK"/>
-        <updated>2022-03-06T11:09:25.012Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtRRK">다이어트와 키크는데 가성비대비 효과 최고인 운동</a>]]></content>
+        <title type="html"><![CDATA[게임으로 돈벌기 어떻게 생각하시나요?]]></title>
+        <id>https://alook.so/posts/latjkv</id>
+        <link href="https://alook.so/posts/latjkv"/>
+        <updated>2022-03-06T12:17:12.906Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latjkv">게임으로 돈벌기 어떻게 생각하시나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전쟁을 보는 시선]]></title>
-        <id>https://alook.so/posts/3wteeG</id>
-        <link href="https://alook.so/posts/3wteeG"/>
-        <updated>2022-03-06T11:09:25.012Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wteeG">전쟁을 보는 시선</a>]]></content>
+        <title type="html"><![CDATA[코로나 격리]]></title>
+        <id>https://alook.so/posts/92tEl0</id>
+        <link href="https://alook.so/posts/92tEl0"/>
+        <updated>2022-03-06T12:17:12.909Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tEl0">코로나 격리 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한템포 쉼]]></title>
-        <id>https://alook.so/posts/8Wt996</id>
-        <link href="https://alook.so/posts/8Wt996"/>
-        <updated>2022-03-06T11:09:25.013Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt996">한템포 쉼</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방화좀 제발..]]></title>
-        <id>https://alook.so/posts/G1tmmy</id>
-        <link href="https://alook.so/posts/G1tmmy"/>
-        <updated>2022-03-06T11:09:25.015Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tmmy">방화좀 제발..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루쯤 실행가가 되어보실래요?]]></title>
-        <id>https://alook.so/posts/OEtvvO</id>
-        <link href="https://alook.so/posts/OEtvvO"/>
-        <updated>2022-03-06T11:09:25.016Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtvvO">하루쯤 실행가가 되어보실래요?</a>]]></content>
+        <title type="html"><![CDATA[오늘 딸기바나나주스 만들어 먹었습니다 (づ￣ ³￣)づ~♡]]></title>
+        <id>https://alook.so/posts/Kmtd5o</id>
+        <link href="https://alook.so/posts/Kmtd5o"/>
+        <updated>2022-03-06T12:17:12.910Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtd5o">오늘 딸기바나나주스 만들어 먹었습니다 (づ￣ ³￣)づ~♡</a>]]></content>
     </entry>
 </feed>
