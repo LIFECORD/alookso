@@ -2,14 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-06T05:12:36.766Z</updated>
+    <updated>2022-03-06T06:17:01.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[러시아나 미국이나]]></title>
-        <id>https://alook.so/posts/M9tDKv</id>
-        <link href="https://alook.so/posts/M9tDKv"/>
-        <updated>2022-03-06T05:10:38.453Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tDKv">러시아나 미국이나</a>]]></content>
+        <title type="html"><![CDATA[부모님의 마음]]></title>
+        <id>https://alook.so/posts/w9tDqW</id>
+        <link href="https://alook.so/posts/w9tDqW"/>
+        <updated>2022-03-06T06:14:58.809Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tDqW">부모님의 마음</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코인 채굴로 얼마나 벌 수 있을지 도전해보겠습니다.]]></title>
+        <id>https://alook.so/posts/xltLlp</id>
+        <link href="https://alook.so/posts/xltLlp"/>
+        <updated>2022-03-06T06:14:58.811Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltLlp">코인 채굴로 얼마나 벌 수 있을지 도전해보겠습니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈벌기는 너무 어렵다.]]></title>
+        <id>https://alook.so/posts/yEtzOo</id>
+        <link href="https://alook.so/posts/yEtzOo"/>
+        <updated>2022-03-06T06:14:58.812Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtzOo">돈벌기는 너무 어렵다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 사랑]]></title>
+        <id>https://alook.so/posts/Bat3x3</id>
+        <link href="https://alook.so/posts/Bat3x3"/>
+        <updated>2022-03-06T06:14:58.813Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat3x3">첫 사랑</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경북, 강원도 산불을 보고 든 생각?]]></title>
+        <id>https://alook.so/posts/LKt2kX</id>
+        <link href="https://alook.so/posts/LKt2kX"/>
+        <updated>2022-03-06T06:14:58.814Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt2kX">경북, 강원도 산불을 보고 든 생각?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 하나의 흐뭇]]></title>
+        <id>https://alook.so/posts/6MtLBv</id>
+        <link href="https://alook.so/posts/6MtLBv"/>
+        <updated>2022-03-06T06:14:58.814Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtLBv">또 하나의 흐뭇</a>]]></content>
     </entry>
 </feed>
