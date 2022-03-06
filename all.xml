@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-06T09:13:03.961Z</updated>
+    <updated>2022-03-06T10:14:24.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[얼룩소에 인사올립니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/LKt211</id>
-        <link href="https://alook.so/posts/LKt211"/>
-        <updated>2022-03-06T09:11:03.386Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt211">얼룩소에 인사올립니다</a>]]></content>
+        <title type="html"><![CDATA[주말에 할머니댁 가서 하기 좋은것들 추천요!! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/4XtRvm</id>
+        <link href="https://alook.so/posts/4XtRvm"/>
+        <updated>2022-03-06T10:12:05.305Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtRvm">주말에 할머니댁 가서 하기 좋은것들 추천요!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[다이어트를 위해 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/G1tmZO</id>
-        <link href="https://alook.so/posts/G1tmZO"/>
-        <updated>2022-03-06T09:11:03.387Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tmZO">다이어트를 위해</a>]]></content>
+        <title type="html"><![CDATA[코로나 시대의 영화 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/kZtYj6</id>
+        <link href="https://alook.so/posts/kZtYj6"/>
+        <updated>2022-03-06T10:12:05.306Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtYj6">코로나 시대의 영화 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[울컥하는 어느날 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/LKt2r9</id>
+        <link href="https://alook.so/posts/LKt2r9"/>
+        <updated>2022-03-06T10:12:05.310Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt2r9">울컥하는 어느날</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[배달 아르바이트를 하면서 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/M9tDkj</id>
+        <link href="https://alook.so/posts/M9tDkj"/>
+        <updated>2022-03-06T10:12:15.239Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tDkj">배달 아르바이트를 하면서</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아무것도 하고 싶지 않은 날 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -129,13 +143,6 @@
         <link href="https://alook.so/posts/rDtVnw"/>
         <updated>2022-03-06T05:10:47.544Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtVnw">얼룩소에서 글을 쓰면서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[걷기로 시작하는 하루 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/XBt01L</id>
-        <link href="https://alook.so/posts/XBt01L"/>
-        <updated>2022-03-06T05:10:47.547Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt01L">걷기로 시작하는 하루</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[26살에 집을 짓기러했어요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
