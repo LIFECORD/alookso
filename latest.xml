@@ -2,28 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-06T10:14:24.282Z</updated>
+    <updated>2022-03-06T11:11:22.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[주말에 할머니댁 가서 하기 좋은것들 추천요!!]]></title>
-        <id>https://alook.so/posts/4XtRvm</id>
-        <link href="https://alook.so/posts/4XtRvm"/>
-        <updated>2022-03-06T10:12:05.305Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtRvm">주말에 할머니댁 가서 하기 좋은것들 추천요!!</a>]]></content>
+        <title type="html"><![CDATA[봄햇살 아래서]]></title>
+        <id>https://alook.so/posts/Bat33G</id>
+        <link href="https://alook.so/posts/Bat33G"/>
+        <updated>2022-03-06T11:09:25.011Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat33G">봄햇살 아래서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 시대의 영화]]></title>
-        <id>https://alook.so/posts/kZtYj6</id>
-        <link href="https://alook.so/posts/kZtYj6"/>
-        <updated>2022-03-06T10:12:05.306Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtYj6">코로나 시대의 영화 </a>]]></content>
+        <title type="html"><![CDATA[성공한 사람들이 부러운가요?]]></title>
+        <id>https://alook.so/posts/LKt22G</id>
+        <link href="https://alook.so/posts/LKt22G"/>
+        <updated>2022-03-06T11:09:25.012Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt22G">성공한 사람들이 부러운가요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[울컥하는 어느날]]></title>
-        <id>https://alook.so/posts/LKt2r9</id>
-        <link href="https://alook.so/posts/LKt2r9"/>
-        <updated>2022-03-06T10:12:05.310Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt2r9">울컥하는 어느날</a>]]></content>
+        <title type="html"><![CDATA[다이어트와 키크는데 가성비대비 효과 최고인 운동]]></title>
+        <id>https://alook.so/posts/njtRRK</id>
+        <link href="https://alook.so/posts/njtRRK"/>
+        <updated>2022-03-06T11:09:25.012Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtRRK">다이어트와 키크는데 가성비대비 효과 최고인 운동</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전쟁을 보는 시선]]></title>
+        <id>https://alook.so/posts/3wteeG</id>
+        <link href="https://alook.so/posts/3wteeG"/>
+        <updated>2022-03-06T11:09:25.012Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wteeG">전쟁을 보는 시선</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한템포 쉼]]></title>
+        <id>https://alook.so/posts/8Wt996</id>
+        <link href="https://alook.so/posts/8Wt996"/>
+        <updated>2022-03-06T11:09:25.013Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8Wt996">한템포 쉼</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방화좀 제발..]]></title>
+        <id>https://alook.so/posts/G1tmmy</id>
+        <link href="https://alook.so/posts/G1tmmy"/>
+        <updated>2022-03-06T11:09:25.015Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tmmy">방화좀 제발..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루쯤 실행가가 되어보실래요?]]></title>
+        <id>https://alook.so/posts/OEtvvO</id>
+        <link href="https://alook.so/posts/OEtvvO"/>
+        <updated>2022-03-06T11:09:25.016Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtvvO">하루쯤 실행가가 되어보실래요?</a>]]></content>
     </entry>
 </feed>
