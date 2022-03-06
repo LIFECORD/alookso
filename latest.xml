@@ -2,42 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-06T08:16:05.439Z</updated>
+    <updated>2022-03-06T09:13:03.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[펑펑]]></title>
-        <id>https://alook.so/posts/Kmtdjk</id>
-        <link href="https://alook.so/posts/Kmtdjk"/>
-        <updated>2022-03-06T08:13:56.178Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmtdjk">펑펑</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에 인사올립니다]]></title>
+        <id>https://alook.so/posts/LKt211</id>
+        <link href="https://alook.so/posts/LKt211"/>
+        <updated>2022-03-06T09:11:03.386Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt211">얼룩소에 인사올립니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음에도 근육이 있다는 거 아세요?]]></title>
-        <id>https://alook.so/posts/mbtxWE</id>
-        <link href="https://alook.so/posts/mbtxWE"/>
-        <updated>2022-03-06T08:13:56.187Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtxWE">마음에도 근육이 있다는 거 아세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하소연#1]]></title>
-        <id>https://alook.so/posts/Djtd8E</id>
-        <link href="https://alook.so/posts/Djtd8E"/>
-        <updated>2022-03-06T08:13:56.187Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtd8E">하소연#1</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 날씨는??]]></title>
-        <id>https://alook.so/posts/o7td4z</id>
-        <link href="https://alook.so/posts/o7td4z"/>
-        <updated>2022-03-06T08:13:56.188Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7td4z">오늘의 날씨는?? </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[격리해제]]></title>
-        <id>https://alook.so/posts/rDtk1B</id>
-        <link href="https://alook.so/posts/rDtk1B"/>
-        <updated>2022-03-06T08:13:56.192Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtk1B">격리해제</a>]]></content>
+        <title type="html"><![CDATA[다이어트를 위해]]></title>
+        <id>https://alook.so/posts/G1tmZO</id>
+        <link href="https://alook.so/posts/G1tmZO"/>
+        <updated>2022-03-06T09:11:03.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tmZO">다이어트를 위해</a>]]></content>
     </entry>
 </feed>

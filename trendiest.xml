@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-06T08:16:05.436Z</updated>
+    <updated>2022-03-06T09:13:03.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아무것도 하고 싶지 않은 날]]></title>
+        <id>https://alook.so/posts/vKt4Kj</id>
+        <link href="https://alook.so/posts/vKt4Kj"/>
+        <updated>2022-03-06T09:11:12.009Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKt4Kj">아무것도 하고 싶지 않은 날</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제게 의미가 있던 도서관 2개. 가장 의미 있는 책 1권.]]></title>
+        <id>https://alook.so/posts/Bat3Wx</id>
+        <link href="https://alook.so/posts/Bat3Wx"/>
+        <updated>2022-03-06T09:11:12.013Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bat3Wx">제게 의미가 있던 도서관 2개. 가장 의미 있는 책 1권.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 산불을 끄는 분들은 소방관이 아니라고 합니다]]></title>
         <id>https://alook.so/posts/1RtP24</id>
@@ -95,20 +109,6 @@
         <link href="https://alook.so/posts/WLt0Kq"/>
         <updated>2022-03-06T05:10:47.534Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt0Kq">나는 30대 일을 그만두었다 그리고 시작한 프리랜서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자 되기의 시작]]></title>
-        <id>https://alook.so/posts/q1tmdr</id>
-        <link href="https://alook.so/posts/q1tmdr"/>
-        <updated>2022-03-06T05:10:47.539Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tmdr">부자 되기의 시작</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나로 인하여  격리]]></title>
-        <id>https://alook.so/posts/70tjX0</id>
-        <link href="https://alook.so/posts/70tjX0"/>
-        <updated>2022-03-06T05:10:47.540Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tjX0">코로나로 인하여  격리</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에서 글을 쓰면서]]></title>
