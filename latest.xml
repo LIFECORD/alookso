@@ -2,49 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-07T14:15:24.940Z</updated>
+    <updated>2022-03-07T15:13:58.542Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[#푸틴#우크라이나#침공]]></title>
-        <id>https://alook.so/posts/yEtYpM</id>
-        <link href="https://alook.so/posts/yEtYpM"/>
-        <updated>2022-03-07T14:13:12.630Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtYpM">#푸틴#우크라이나#침공</a>]]></content>
+        <title type="html"><![CDATA[내 답은 결국 인덱스 펀드였다.]]></title>
+        <id>https://alook.so/posts/4XtJWE</id>
+        <link href="https://alook.so/posts/4XtJWE"/>
+        <updated>2022-03-07T15:11:55.619Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtJWE">내 답은 결국 인덱스 펀드였다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음 다스리기]]></title>
-        <id>https://alook.so/posts/BatdDE</id>
-        <link href="https://alook.so/posts/BatdDE"/>
-        <updated>2022-03-07T14:13:12.633Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatdDE">마음 다스리기</a>]]></content>
+        <title type="html"><![CDATA[사랑하는 나의 언니]]></title>
+        <id>https://alook.so/posts/w9tv7Z</id>
+        <link href="https://alook.so/posts/w9tv7Z"/>
+        <updated>2022-03-07T15:11:55.620Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tv7Z">사랑하는 나의 언니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[갤럭시S22 GOS 기능문제! 삼성전자의 이미지만 손상되어버리다.]]></title>
-        <id>https://alook.so/posts/LKtnwM</id>
-        <link href="https://alook.so/posts/LKtnwM"/>
-        <updated>2022-03-07T14:13:12.635Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtnwM">갤럭시S22 GOS 기능문제! 삼성전자의 이미지만 손상되어버리다.</a>]]></content>
+        <title type="html"><![CDATA[코로나로 조금씩 지쳐가네요..]]></title>
+        <id>https://alook.so/posts/xlt02K</id>
+        <link href="https://alook.so/posts/xlt02K"/>
+        <updated>2022-03-07T15:11:55.621Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt02K">코로나로 조금씩 지쳐가네요..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나의 몸과 마음은 하난가?]]></title>
-        <id>https://alook.so/posts/njtqee</id>
-        <link href="https://alook.so/posts/njtqee"/>
-        <updated>2022-03-07T14:13:12.637Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtqee">나의 몸과 마음은 하난가?</a>]]></content>
+        <title type="html"><![CDATA[말과 말투가 가지는 위대함]]></title>
+        <id>https://alook.so/posts/BatdGd</id>
+        <link href="https://alook.so/posts/BatdGd"/>
+        <updated>2022-03-07T15:11:55.624Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatdGd">말과 말투가 가지는 위대함</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[월요병]]></title>
-        <id>https://alook.so/posts/3wtwYa</id>
-        <link href="https://alook.so/posts/3wtwYa"/>
-        <updated>2022-03-07T14:13:12.639Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtwYa">월요병</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포르투갈 외딴섬에서 살아보기]]></title>
-        <id>https://alook.so/posts/vKtJE1</id>
-        <link href="https://alook.so/posts/vKtJE1"/>
-        <updated>2022-03-07T14:13:12.642Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtJE1">포르투갈 외딴섬에서 살아보기</a>]]></content>
+        <title type="html"><![CDATA[나이가 들고 배우는 공부, 재테크]]></title>
+        <id>https://alook.so/posts/LKtnBp</id>
+        <link href="https://alook.so/posts/LKtnBp"/>
+        <updated>2022-03-07T15:11:55.625Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtnBp">나이가 들고 배우는 공부, 재테크</a>]]></content>
     </entry>
 </feed>
