@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-07T09:13:39.973Z</updated>
+    <updated>2022-03-07T10:14:50.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[평생토록 배워도 부족하다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[손톱은 왜이리 금방금방 자라는지 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xltOqG</id>
+        <link href="https://alook.so/posts/xltOqG"/>
+        <updated>2022-03-07T10:12:47.436Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltOqG">손톱은 왜이리 금방금방 자라는지</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대기업의 중고차 시장 진출선언 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/LKtpYR</id>
+        <link href="https://alook.so/posts/LKtpYR"/>
+        <updated>2022-03-07T10:12:47.439Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtpYR">대기업의 중고차 시장 진출선언</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[흡연하는 사람들 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wt07J</id>
+        <link href="https://alook.so/posts/3wt07J"/>
+        <updated>2022-03-07T10:12:47.442Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt07J">흡연하는 사람들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왕관을 쓰는 자, 그 무게를 견뎌라. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1tB6m</id>
+        <link href="https://alook.so/posts/q1tB6m"/>
+        <updated>2022-03-07T10:12:56.127Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tB6m">왕관을 쓰는 자, 그 무게를 견뎌라. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평생토록 배워도 부족하다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/1RtlmR</id>
         <link href="https://alook.so/posts/1RtlmR"/>
         <updated>2022-03-07T09:11:31.887Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtlmR">평생토록 배워도 부족하다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나도 술꾼대열에 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/o7t9Pr</id>
-        <link href="https://alook.so/posts/o7t9Pr"/>
-        <updated>2022-03-07T09:11:31.890Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t9Pr">나도 술꾼대열에</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나도 술꾼대열에 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70trPe</id>
-        <link href="https://alook.so/posts/70trPe"/>
-        <updated>2022-03-07T09:11:31.893Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70trPe">나도 술꾼대열에</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[24년만에 재출시 된 추억의 포켓몬빵!! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/lat97n</id>
-        <link href="https://alook.so/posts/lat97n"/>
-        <updated>2022-03-07T09:11:31.893Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat97n">24년만에 재출시 된 추억의 포켓몬빵!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식물은 죽을 때까진 죽지 않습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/92tGXp</id>
-        <link href="https://alook.so/posts/92tGXp"/>
-        <updated>2022-03-07T09:11:31.896Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tGXp">식물은 죽을 때까진 죽지 않습니다.</a>]]></content>
+        <title type="html"><![CDATA[흡연하시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/2xtDjq</id>
+        <link href="https://alook.so/posts/2xtDjq"/>
+        <updated>2022-03-07T10:12:56.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtDjq">흡연하시나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[우리 합리적인 사고를 거친 비판을 해볼까요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -54,13 +61,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtR37">나는 왜 얼룩커가 되었나 6(마지막 이야기)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 30대 일을 그만두었다 그리고 시작한 프리랜서 부업 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/KmtdRr</id>
-        <link href="https://alook.so/posts/KmtdRr"/>
-        <updated>2022-03-07T08:14:33.069Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtdRr">나는 30대 일을 그만두었다 그리고 시작한 프리랜서 부업 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[얼룩소에 다양하고 좋은 글들이 많이 올라오네요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/1Rtlnv</id>
         <link href="https://alook.so/posts/1Rtlnv"/>
@@ -75,18 +75,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tLMp">답글: 경제 제재 쉽게 이해하기 2편 : 경제 제재 정의와 단순 성공률</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[분포와 최대엔트로피 [물리 디깅] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/1RtlB5</id>
-        <link href="https://alook.so/posts/1RtlB5"/>
-        <updated>2022-03-07T02:08:13.702Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtlB5">분포와 최대엔트로피 [물리 디깅]</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[한 표의 소중함이 느껴지는 선거 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/KmtvxJ</id>
         <link href="https://alook.so/posts/KmtvxJ"/>
         <updated>2022-03-07T02:08:13.702Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtvxJ">한 표의 소중함이 느껴지는 선거</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[분포와 최대엔트로피 [물리 디깅] (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/1RtlB5</id>
+        <link href="https://alook.so/posts/1RtlB5"/>
+        <updated>2022-03-07T02:08:13.702Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtlB5">분포와 최대엔트로피 [물리 디깅]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진상손님을 대하는 자세 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
