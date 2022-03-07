@@ -2,70 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-06T23:15:31.997Z</updated>
+    <updated>2022-03-07T00:46:14.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[유권자의 정치색깔과 언론]]></title>
-        <id>https://alook.so/posts/54tLX6</id>
-        <link href="https://alook.so/posts/54tLX6"/>
-        <updated>2022-03-06T23:13:01.308Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tLX6">유권자의 정치색깔과 언론</a>]]></content>
+        <title type="html"><![CDATA[뜸을 뜨며 몸을 보호해요]]></title>
+        <id>https://alook.so/posts/o7t9x0</id>
+        <link href="https://alook.so/posts/o7t9x0"/>
+        <updated>2022-03-07T00:44:15.443Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t9x0">뜸을 뜨며 몸을 보호해요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[도마위에 오르는 주주 보호]]></title>
-        <id>https://alook.so/posts/q1tBEO</id>
-        <link href="https://alook.so/posts/q1tBEO"/>
-        <updated>2022-03-06T23:13:01.309Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tBEO">도마위에 오르는 주주 보호</a>]]></content>
+        <title type="html"><![CDATA[좋아요가 인색한 얼룩소]]></title>
+        <id>https://alook.so/posts/rDt2Ov</id>
+        <link href="https://alook.so/posts/rDt2Ov"/>
+        <updated>2022-03-07T00:44:15.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt2Ov">좋아요가 인색한 얼룩소 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[COVID 양성 반응]]></title>
-        <id>https://alook.so/posts/DjtJBy</id>
-        <link href="https://alook.so/posts/DjtJBy"/>
-        <updated>2022-03-06T23:13:01.310Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtJBy">COVID 양성 반응</a>]]></content>
+        <title type="html"><![CDATA[요즘 흠뻑 빠져있습니다]]></title>
+        <id>https://alook.so/posts/E7t12p</id>
+        <link href="https://alook.so/posts/E7t12p"/>
+        <updated>2022-03-07T00:44:15.446Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t12p">요즘 흠뻑 빠져있습니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[41세부터 64세는 복지가 너무 없다ㅜㅜ]]></title>
-        <id>https://alook.so/posts/1RtlZv</id>
-        <link href="https://alook.so/posts/1RtlZv"/>
-        <updated>2022-03-06T23:13:01.314Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtlZv">41세부터 64세는 복지가 너무 없다ㅜㅜ</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘도 행복한 하루]]></title>
-        <id>https://alook.so/posts/o7t9V9</id>
-        <link href="https://alook.so/posts/o7t9V9"/>
-        <updated>2022-03-06T23:13:01.319Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t9V9">오늘도 행복한 하루</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산불…]]></title>
-        <id>https://alook.so/posts/YytmPM</id>
-        <link href="https://alook.so/posts/YytmPM"/>
-        <updated>2022-03-06T23:13:01.320Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytmPM">산불…</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[결혼 후 계획....]]></title>
-        <id>https://alook.so/posts/rDt29L</id>
-        <link href="https://alook.so/posts/rDt29L"/>
-        <updated>2022-03-06T23:13:01.321Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt29L">결혼 후 계획....</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아침 출근길]]></title>
-        <id>https://alook.so/posts/E7t1kq</id>
-        <link href="https://alook.so/posts/E7t1kq"/>
-        <updated>2022-03-06T23:13:01.321Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t1kq">아침 출근길 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국과 중국 , 대만]]></title>
-        <id>https://alook.so/posts/lat9Gr</id>
-        <link href="https://alook.so/posts/lat9Gr"/>
-        <updated>2022-03-06T23:13:01.322Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat9Gr">미국과 중국 , 대만</a>]]></content>
+        <title type="html"><![CDATA[인생의 원칙]]></title>
+        <id>https://alook.so/posts/KmtvaJ</id>
+        <link href="https://alook.so/posts/KmtvaJ"/>
+        <updated>2022-03-07T00:44:15.447Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtvaJ">인생의 원칙</a>]]></content>
     </entry>
 </feed>
