@@ -2,42 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-07T16:18:14.011Z</updated>
+    <updated>2022-03-07T17:17:04.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
+        <title type="html"><![CDATA[나는 과연 내 아이에게 어떤 엄마일까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/q1tZWp</id>
+        <link href="https://alook.so/posts/q1tZWp"/>
+        <updated>2022-03-07T17:15:00.867Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tZWp">나는 과연 내 아이에게 어떤 엄마일까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공황장애를 극복하는 방법? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/1RtvzJ</id>
+        <link href="https://alook.so/posts/1RtvzJ"/>
+        <updated>2022-03-07T17:15:00.871Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtvzJ">공황장애를 극복하는 방법?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[주식이야기(feat.테슬라) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/q1tZbq</id>
-        <link href="https://alook.so/posts/q1tZbq"/>
-        <updated>2022-03-07T16:16:04.571Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tZbq">주식이야기(feat.테슬라)</a>]]></content>
+        <id>https://alook.so/posts/70tEMb</id>
+        <link href="https://alook.so/posts/70tEMb"/>
+        <updated>2022-03-07T17:15:00.872Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tEMb">주식이야기(feat.테슬라)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[주식시작하며 집안 쓸모없는 물건모두 당근에 ㅎ (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Yyt4Bq</id>
-        <link href="https://alook.so/posts/Yyt4Bq"/>
-        <updated>2022-03-07T16:16:04.572Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt4Bq">주식시작하며 집안 쓸모없는 물건모두 당근에 ㅎ</a>]]></content>
+        <title type="html"><![CDATA[주절주절 임고생 일기2 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Yyt4b2</id>
+        <link href="https://alook.so/posts/Yyt4b2"/>
+        <updated>2022-03-07T17:15:00.873Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt4b2">주절주절 임고생 일기2</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[축구의 PTA지역에 대해 아시나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/rDtdOo</id>
-        <link href="https://alook.so/posts/rDtdOo"/>
-        <updated>2022-03-07T16:16:04.574Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtdOo">축구의 PTA지역에 대해 아시나요?</a>]]></content>
+        <title type="html"><![CDATA[첫번째 성공이 가져온 변화 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7tezy</id>
+        <link href="https://alook.so/posts/E7tezy"/>
+        <updated>2022-03-07T17:15:00.875Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tezy">첫번째 성공이 가져온 변화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[두더지페인트 시작 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/jdt7Vv</id>
-        <link href="https://alook.so/posts/jdt7Vv"/>
-        <updated>2022-03-07T16:16:04.574Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdt7Vv">두더지페인트 시작</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3월 8일 길냥이와 캣맘이야기 "한강의 수다쟁이들" (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/bWta3r</id>
-        <link href="https://alook.so/posts/bWta3r"/>
-        <updated>2022-03-07T16:16:04.575Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWta3r">3월 8일 길냥이와 캣맘이야기 "한강의 수다쟁이들"</a>]]></content>
+        <title type="html"><![CDATA[내 월급 작고 귀여워 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/rDtdzj</id>
+        <link href="https://alook.so/posts/rDtdzj"/>
+        <updated>2022-03-07T17:15:09.852Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtdzj">내 월급 작고 귀여워 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[꿈의 놀이터. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -122,13 +129,6 @@
         <link href="https://alook.so/posts/1Rtlnv"/>
         <updated>2022-03-07T07:12:41.181Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtlnv">얼룩소에 다양하고 좋은 글들이 많이 올라오네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 경제 제재 쉽게 이해하기 2편 : 경제 제재 정의와 단순 성공률 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/54tLMp</id>
-        <link href="https://alook.so/posts/54tLMp"/>
-        <updated>2022-03-07T04:15:08.470Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tLMp">답글: 경제 제재 쉽게 이해하기 2편 : 경제 제재 정의와 단순 성공률</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한 표의 소중함이 느껴지는 선거 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
