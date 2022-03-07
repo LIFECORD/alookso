@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-07T15:13:58.512Z</updated>
+    <updated>2022-03-07T16:18:13.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[꿈의 놀이터.]]></title>
+        <id>https://alook.so/posts/OEtqE4</id>
+        <link href="https://alook.so/posts/OEtqE4"/>
+        <updated>2022-03-07T16:16:13.072Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtqE4">꿈의 놀이터.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[요즘 군대, 따듯한 미담 사례도 있어요 [요즘군대.brf]]]></title>
+        <id>https://alook.so/posts/o7tekm</id>
+        <link href="https://alook.so/posts/o7tekm"/>
+        <updated>2022-03-07T16:16:13.072Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tekm">요즘 군대, 따듯한 미담 사례도 있어요 [요즘군대.brf]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[봄은 왔는데]]></title>
+        <id>https://alook.so/posts/yEtoen</id>
+        <link href="https://alook.so/posts/yEtoen"/>
+        <updated>2022-03-07T16:16:13.073Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtoen">봄은 왔는데 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산업별 성별 임금격차.. 저는...컨닝을 했습니다..저를 용서(?)해주세요(일자리 격차 추가)]]></title>
         <id>https://alook.so/posts/w9tvx6</id>
