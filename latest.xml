@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-07T00:46:14.869Z</updated>
+    <updated>2022-03-07T02:10:18.928Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[뜸을 뜨며 몸을 보호해요]]></title>
-        <id>https://alook.so/posts/o7t9x0</id>
-        <link href="https://alook.so/posts/o7t9x0"/>
-        <updated>2022-03-07T00:44:15.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t9x0">뜸을 뜨며 몸을 보호해요</a>]]></content>
+        <title type="html"><![CDATA[제일 믿을 만한 알뜰 통신사 3곳]]></title>
+        <id>https://alook.so/posts/o7t977</id>
+        <link href="https://alook.so/posts/o7t977"/>
+        <updated>2022-03-07T02:08:03.807Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t977">제일 믿을 만한 알뜰 통신사 3곳</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[좋아요가 인색한 얼룩소]]></title>
-        <id>https://alook.so/posts/rDt2Ov</id>
-        <link href="https://alook.so/posts/rDt2Ov"/>
-        <updated>2022-03-07T00:44:15.445Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt2Ov">좋아요가 인색한 얼룩소 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[요즘 흠뻑 빠져있습니다]]></title>
-        <id>https://alook.so/posts/E7t12p</id>
-        <link href="https://alook.so/posts/E7t12p"/>
-        <updated>2022-03-07T00:44:15.446Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t12p">요즘 흠뻑 빠져있습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인생의 원칙]]></title>
-        <id>https://alook.so/posts/KmtvaJ</id>
-        <link href="https://alook.so/posts/KmtvaJ"/>
-        <updated>2022-03-07T00:44:15.447Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtvaJ">인생의 원칙</a>]]></content>
+        <title type="html"><![CDATA[많이 힘드시겠어요.]]></title>
+        <id>https://alook.so/posts/bWt9ZM</id>
+        <link href="https://alook.so/posts/bWt9ZM"/>
+        <updated>2022-03-07T02:08:03.809Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt9ZM">많이 힘드시겠어요.</a>]]></content>
     </entry>
 </feed>
