@@ -2,21 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-07T02:10:18.928Z</updated>
+    <updated>2022-03-07T03:14:37.393Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[제일 믿을 만한 알뜰 통신사 3곳]]></title>
-        <id>https://alook.so/posts/o7t977</id>
-        <link href="https://alook.so/posts/o7t977"/>
-        <updated>2022-03-07T02:08:03.807Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7t977">제일 믿을 만한 알뜰 통신사 3곳</a>]]></content>
+        <title type="html"><![CDATA[단 한대밖에 없었던 세계최대수송기 결국 러시아의 공격으로 파괴]]></title>
+        <id>https://alook.so/posts/2xtDlB</id>
+        <link href="https://alook.so/posts/2xtDlB"/>
+        <updated>2022-03-07T03:12:27.914Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtDlB">단 한대밖에 없었던 세계최대수송기 결국 러시아의 공격으로 파괴</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[많이 힘드시겠어요.]]></title>
-        <id>https://alook.so/posts/bWt9ZM</id>
-        <link href="https://alook.so/posts/bWt9ZM"/>
-        <updated>2022-03-07T02:08:03.809Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt9ZM">많이 힘드시겠어요.</a>]]></content>
+        <title type="html"><![CDATA[제5차 긴급고용안정지원금 오늘 부터 신청 합니다!!]]></title>
+        <id>https://alook.so/posts/0ktk0D</id>
+        <link href="https://alook.so/posts/0ktk0D"/>
+        <updated>2022-03-07T03:12:27.914Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktk0D">제5차 긴급고용안정지원금 오늘 부터 신청 합니다!!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사랑이란??]]></title>
+        <id>https://alook.so/posts/M9tod1</id>
+        <link href="https://alook.so/posts/M9tod1"/>
+        <updated>2022-03-07T03:12:27.918Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tod1">사랑이란??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠팡 지난해 역대 최대 매출 ,여전히 적자]]></title>
+        <id>https://alook.so/posts/XBt7PV</id>
+        <link href="https://alook.so/posts/XBt7PV"/>
+        <updated>2022-03-07T03:12:27.919Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt7PV">쿠팡 지난해 역대 최대 매출 ,여전히 적자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[토론을 통해 시야를 넓히며]]></title>
+        <id>https://alook.so/posts/w9tYwG</id>
+        <link href="https://alook.so/posts/w9tYwG"/>
+        <updated>2022-03-07T03:12:27.920Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tYwG">토론을 통해 시야를 넓히며</a>]]></content>
     </entry>
 </feed>
