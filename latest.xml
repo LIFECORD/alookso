@@ -2,14 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-07T11:12:16.861Z</updated>
+    <updated>2022-03-07T12:21:02.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[2022년 핫 키워드, NFT]]></title>
-        <id>https://alook.so/posts/OEtDkW</id>
-        <link href="https://alook.so/posts/OEtDkW"/>
-        <updated>2022-03-07T11:10:18.143Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtDkW">2022년 핫 키워드, NFT</a>]]></content>
+        <title type="html"><![CDATA[2022.3.7 오늘의 그림]]></title>
+        <id>https://alook.so/posts/potv7Z</id>
+        <link href="https://alook.so/posts/potv7Z"/>
+        <updated>2022-03-07T12:18:49.986Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potv7Z">2022.3.7 오늘의 그림</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022.3.7 오늘의 그림]]></title>
+        <id>https://alook.so/posts/eVtWM7</id>
+        <link href="https://alook.so/posts/eVtWM7"/>
+        <updated>2022-03-07T12:18:49.992Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtWM7">2022.3.7 오늘의 그림</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과장 진급하고 첫 출근날]]></title>
+        <id>https://alook.so/posts/Vnt8wd</id>
+        <link href="https://alook.so/posts/Vnt8wd"/>
+        <updated>2022-03-07T12:18:49.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt8wd">과장 진급하고 첫 출근날</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자산의 축적 어떻게 하고 계십니까?]]></title>
+        <id>https://alook.so/posts/2xtJ2m</id>
+        <link href="https://alook.so/posts/2xtJ2m"/>
+        <updated>2022-03-07T12:18:49.995Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtJ2m">자산의 축적 어떻게 하고 계십니까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새학기의 시작]]></title>
+        <id>https://alook.so/posts/WLtR5z</id>
+        <link href="https://alook.so/posts/WLtR5z"/>
+        <updated>2022-03-07T12:18:49.997Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtR5z">새학기의 시작</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저는 기타에 1표]]></title>
+        <id>https://alook.so/posts/0kt1My</id>
+        <link href="https://alook.so/posts/0kt1My"/>
+        <updated>2022-03-07T12:18:49.998Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt1My">저는 기타에 1표</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부정적인 감정과 싸우는 법]]></title>
+        <id>https://alook.so/posts/4XtJeD</id>
+        <link href="https://alook.so/posts/4XtJeD"/>
+        <updated>2022-03-07T12:18:49.999Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtJeD">부정적인 감정과 싸우는 법</a>]]></content>
     </entry>
 </feed>
