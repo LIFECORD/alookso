@@ -2,21 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-07T07:14:37.742Z</updated>
+    <updated>2022-03-07T08:16:32.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[서울의 미래]]></title>
-        <id>https://alook.so/posts/jdtOD3</id>
-        <link href="https://alook.so/posts/jdtOD3"/>
-        <updated>2022-03-07T07:12:33.659Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtOD3">서울의 미래</a>]]></content>
+        <title type="html"><![CDATA["꽃으로도 때리지 마라"]]></title>
+        <id>https://alook.so/posts/WLtPdJ</id>
+        <link href="https://alook.so/posts/WLtPdJ"/>
+        <updated>2022-03-07T08:14:24.274Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtPdJ">"꽃으로도 때리지 마라"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[직업에대한 고민 많으신분들 소통해요#]]></title>
-        <id>https://alook.so/posts/dztMPR</id>
-        <link href="https://alook.so/posts/dztMPR"/>
-        <updated>2022-03-07T07:12:33.661Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztMPR">직업에대한 고민 많으신분들 소통해요#</a>]]></content>
+        <title type="html"><![CDATA[진정한 영웅은?]]></title>
+        <id>https://alook.so/posts/0ktkG6</id>
+        <link href="https://alook.so/posts/0ktkG6"/>
+        <updated>2022-03-07T08:14:24.275Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktkG6">진정한 영웅은?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나는 결혼 할 수 있을까?]]></title>
+        <id>https://alook.so/posts/M9toD4</id>
+        <link href="https://alook.so/posts/M9toD4"/>
+        <updated>2022-03-07T08:14:24.281Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9toD4">나는 결혼 할 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나 아닌 다른 사람의 이야기를 들으니 너무 좋네요^_^]]></title>
+        <id>https://alook.so/posts/w9tYeJ</id>
+        <link href="https://alook.so/posts/w9tYeJ"/>
+        <updated>2022-03-07T08:14:24.281Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tYeJ">나 아닌 다른 사람의 이야기를 들으니 너무 좋네요^_^</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소년심판을 보면서...]]></title>
+        <id>https://alook.so/posts/kZtp9M</id>
+        <link href="https://alook.so/posts/kZtp9M"/>
+        <updated>2022-03-07T08:14:24.282Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtp9M">소년심판을 보면서...</a>]]></content>
     </entry>
 </feed>
