@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-07T22:13:54.693Z</updated>
+    <updated>2022-03-07T23:13:11.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[말투에 상처받는 내가 너무 싫다]]></title>
+        <id>https://alook.so/posts/potvnO</id>
+        <link href="https://alook.so/posts/potvnO"/>
+        <updated>2022-03-07T23:11:25.462Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potvnO">말투에 상처받는 내가 너무 싫다 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어리석은 사람]]></title>
+        <id>https://alook.so/posts/mbt9lP</id>
+        <link href="https://alook.so/posts/mbt9lP"/>
+        <updated>2022-03-07T23:11:25.462Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt9lP">어리석은 사람</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비대면 진료 극복과제 많지만 대면 진료의 보완재 역할은 가능하지 않을까?]]></title>
         <id>https://alook.so/posts/ZktjBR</id>
