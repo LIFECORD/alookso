@@ -2,56 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-07T12:21:02.678Z</updated>
+    <updated>2022-03-07T13:19:52.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[2022.3.7 오늘의 그림]]></title>
-        <id>https://alook.so/posts/potv7Z</id>
-        <link href="https://alook.so/posts/potv7Z"/>
-        <updated>2022-03-07T12:18:49.986Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potv7Z">2022.3.7 오늘의 그림</a>]]></content>
+        <title type="html"><![CDATA[퇴근길]]></title>
+        <id>https://alook.so/posts/Vnt8jL</id>
+        <link href="https://alook.so/posts/Vnt8jL"/>
+        <updated>2022-03-07T13:17:41.020Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt8jL">퇴근길</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2022.3.7 오늘의 그림]]></title>
-        <id>https://alook.so/posts/eVtWM7</id>
-        <link href="https://alook.so/posts/eVtWM7"/>
-        <updated>2022-03-07T12:18:49.992Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtWM7">2022.3.7 오늘의 그림</a>]]></content>
+        <title type="html"><![CDATA[일하면 쉬고싶고]]></title>
+        <id>https://alook.so/posts/zvtEYj</id>
+        <link href="https://alook.so/posts/zvtEYj"/>
+        <updated>2022-03-07T13:17:41.022Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtEYj">일하면 쉬고싶고</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[과장 진급하고 첫 출근날]]></title>
-        <id>https://alook.so/posts/Vnt8wd</id>
-        <link href="https://alook.so/posts/Vnt8wd"/>
-        <updated>2022-03-07T12:18:49.994Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vnt8wd">과장 진급하고 첫 출근날</a>]]></content>
+        <title type="html"><![CDATA[사과는 늦더라도 옳은 것일까요?]]></title>
+        <id>https://alook.so/posts/2xtJya</id>
+        <link href="https://alook.so/posts/2xtJya"/>
+        <updated>2022-03-07T13:17:41.026Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtJya">사과는 늦더라도 옳은 것일까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[자산의 축적 어떻게 하고 계십니까?]]></title>
-        <id>https://alook.so/posts/2xtJ2m</id>
-        <link href="https://alook.so/posts/2xtJ2m"/>
-        <updated>2022-03-07T12:18:49.995Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtJ2m">자산의 축적 어떻게 하고 계십니까?</a>]]></content>
+        <title type="html"><![CDATA[정말 늦은걸까]]></title>
+        <id>https://alook.so/posts/4XtJmO</id>
+        <link href="https://alook.so/posts/4XtJmO"/>
+        <updated>2022-03-07T13:17:41.028Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtJmO">정말 늦은걸까</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새학기의 시작]]></title>
-        <id>https://alook.so/posts/WLtR5z</id>
-        <link href="https://alook.so/posts/WLtR5z"/>
-        <updated>2022-03-07T12:18:49.997Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtR5z">새학기의 시작</a>]]></content>
+        <title type="html"><![CDATA[콘솔게임 이야기나 제 마음 이야기]]></title>
+        <id>https://alook.so/posts/w9tvbr</id>
+        <link href="https://alook.so/posts/w9tvbr"/>
+        <updated>2022-03-07T13:17:41.028Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tvbr"> 콘솔게임 이야기나 제 마음 이야기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 기타에 1표]]></title>
-        <id>https://alook.so/posts/0kt1My</id>
-        <link href="https://alook.so/posts/0kt1My"/>
-        <updated>2022-03-07T12:18:49.998Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt1My">저는 기타에 1표</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부정적인 감정과 싸우는 법]]></title>
-        <id>https://alook.so/posts/4XtJeD</id>
-        <link href="https://alook.so/posts/4XtJeD"/>
-        <updated>2022-03-07T12:18:49.999Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtJeD">부정적인 감정과 싸우는 법</a>]]></content>
+        <title type="html"><![CDATA[모바일 게임을 좋아하기는 하지만….]]></title>
+        <id>https://alook.so/posts/RGtKML</id>
+        <link href="https://alook.so/posts/RGtKML"/>
+        <updated>2022-03-07T13:17:41.030Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtKML">모바일 게임을 좋아하기는 하지만….</a>]]></content>
     </entry>
 </feed>
