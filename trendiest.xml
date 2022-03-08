@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-08T06:16:36.094Z</updated>
+    <updated>2022-03-08T07:14:01.837Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🤣🤣책이냐 음악이냐 택하라신다면?]]></title>
+        <id>https://alook.so/posts/54t2Ya</id>
+        <link href="https://alook.so/posts/54t2Ya"/>
+        <updated>2022-03-08T07:11:58.521Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t2Ya">🤣🤣책이냐 음악이냐 택하라신다면? </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글: 공정에서 존중으로, 집단을 바르게 이루어 살아가는 방법]]></title>
         <id>https://alook.so/posts/zvtEvw</id>
@@ -95,13 +102,6 @@
         <link href="https://alook.so/posts/1Rtlnv"/>
         <updated>2022-03-07T07:12:41.181Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtlnv">얼룩소에 다양하고 좋은 글들이 많이 올라오네요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 표의 소중함이 느껴지는 선거]]></title>
-        <id>https://alook.so/posts/KmtvxJ</id>
-        <link href="https://alook.so/posts/KmtvxJ"/>
-        <updated>2022-03-08T05:11:30.746Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtvxJ">한 표의 소중함이 느껴지는 선거</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진상손님을 대하는 자세]]></title>
