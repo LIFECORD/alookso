@@ -2,56 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-08T00:44:39.482Z</updated>
+    <updated>2022-03-08T02:09:01.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[아름답지 않아!]]></title>
-        <id>https://alook.so/posts/ZktjqK</id>
-        <link href="https://alook.so/posts/ZktjqK"/>
-        <updated>2022-03-08T00:42:42.739Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktjqK">아름답지 않아!</a>]]></content>
+        <title type="html"><![CDATA[비트코인 바이낸스 루블화 마켓 신고점 달성]]></title>
+        <id>https://alook.so/posts/Kmt9je</id>
+        <link href="https://alook.so/posts/Kmt9je"/>
+        <updated>2022-03-08T02:06:57.811Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt9je">비트코인 바이낸스 루블화 마켓 신고점 달성</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[건강기능 식품 알고 먹기]]></title>
-        <id>https://alook.so/posts/J5txK3</id>
-        <link href="https://alook.so/posts/J5txK3"/>
-        <updated>2022-03-08T00:42:42.741Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5txK3">건강기능 식품 알고 먹기</a>]]></content>
+        <title type="html"><![CDATA[학대 받은 아이의 어른흉내(1)]]></title>
+        <id>https://alook.so/posts/mbt9Wp</id>
+        <link href="https://alook.so/posts/mbt9Wp"/>
+        <updated>2022-03-08T02:06:57.811Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt9Wp">학대 받은 아이의 어른흉내(1)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부업]]></title>
-        <id>https://alook.so/posts/potvlr</id>
-        <link href="https://alook.so/posts/potvlr"/>
-        <updated>2022-03-08T00:42:42.741Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potvlr">부업</a>]]></content>
+        <title type="html"><![CDATA[첫번째]]></title>
+        <id>https://alook.so/posts/54t2x9</id>
+        <link href="https://alook.so/posts/54t2x9"/>
+        <updated>2022-03-08T02:06:57.813Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t2x9">첫번째</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대화]]></title>
-        <id>https://alook.so/posts/eVtWwP</id>
-        <link href="https://alook.so/posts/eVtWwP"/>
-        <updated>2022-03-08T00:42:42.743Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtWwP">대화</a>]]></content>
+        <title type="html"><![CDATA[인간관계에서 항상 배우는게 많은 것 같습니다.]]></title>
+        <id>https://alook.so/posts/q1tZzE</id>
+        <link href="https://alook.so/posts/q1tZzE"/>
+        <updated>2022-03-08T02:06:57.815Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tZzE">인간관계에서 항상 배우는게 많은 것 같습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아침 조깅]]></title>
-        <id>https://alook.so/posts/zvtExa</id>
-        <link href="https://alook.so/posts/zvtExa"/>
-        <updated>2022-03-08T00:42:42.743Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtExa">아침 조깅</a>]]></content>
+        <title type="html"><![CDATA[이번주 할일]]></title>
+        <id>https://alook.so/posts/DjtP8r</id>
+        <link href="https://alook.so/posts/DjtP8r"/>
+        <updated>2022-03-08T02:06:57.816Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtP8r">이번주 할일 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마음이란 녀석...]]></title>
-        <id>https://alook.so/posts/2xtJPj</id>
-        <link href="https://alook.so/posts/2xtJPj"/>
-        <updated>2022-03-08T00:42:42.744Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtJPj">마음이란 녀석...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자존감이 낮아질때-나를 향한 비난 멈추기]]></title>
-        <id>https://alook.so/posts/WLtRvv</id>
-        <link href="https://alook.so/posts/WLtRvv"/>
-        <updated>2022-03-08T00:42:42.745Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtRvv">자존감이 낮아질때-나를 향한 비난 멈추기</a>]]></content>
+        <title type="html"><![CDATA[주식테마주(석유관련기업)]]></title>
+        <id>https://alook.so/posts/70tE0G</id>
+        <link href="https://alook.so/posts/70tE0G"/>
+        <updated>2022-03-08T02:06:57.817Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tE0G">주식테마주(석유관련기업)</a>]]></content>
     </entry>
 </feed>
