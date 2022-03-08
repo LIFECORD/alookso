@@ -2,14 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-08T13:20:02.588Z</updated>
+    <updated>2022-03-08T14:13:18.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[악마도 사랑은한다?]]></title>
-        <id>https://alook.so/posts/6Mtr5l</id>
-        <link href="https://alook.so/posts/6Mtr5l"/>
-        <updated>2022-03-08T13:18:07.336Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtr5l">악마도 사랑은한다?</a>]]></content>
+        <title type="html"><![CDATA[인간 관계에서 스트레스 받지 않는 방법]]></title>
+        <id>https://alook.so/posts/rDtene</id>
+        <link href="https://alook.so/posts/rDtene"/>
+        <updated>2022-03-08T14:11:17.284Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtene">인간 관계에서 스트레스 받지 않는 방법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간 관계에서 스트레스 받지 않는 방법]]></title>
+        <id>https://alook.so/posts/jdtMx7</id>
+        <link href="https://alook.so/posts/jdtMx7"/>
+        <updated>2022-03-08T14:11:17.285Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtMx7">인간 관계에서 스트레스 받지 않는 방법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[상처]]></title>
+        <id>https://alook.so/posts/J5t72n</id>
+        <link href="https://alook.so/posts/J5t72n"/>
+        <updated>2022-03-08T14:11:17.287Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t72n">상처</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남자의 마음]]></title>
+        <id>https://alook.so/posts/potGdp</id>
+        <link href="https://alook.so/posts/potGdp"/>
+        <updated>2022-03-08T14:11:17.288Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potGdp">남자의 마음</a>]]></content>
     </entry>
 </feed>
