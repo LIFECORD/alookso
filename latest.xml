@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-08T05:13:22.237Z</updated>
+    <updated>2022-03-08T06:16:36.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[나에겐 오지 않을 줄 알았던 코로나 확진 기록]]></title>
-        <id>https://alook.so/posts/o7teeE</id>
-        <link href="https://alook.so/posts/o7teeE"/>
-        <updated>2022-03-08T05:11:22.070Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7teeE">나에겐 오지 않을 줄 알았던 코로나 확진 기록</a>]]></content>
+        <title type="html"><![CDATA[오늘부터 시작? 오늘부터 시작!]]></title>
+        <id>https://alook.so/posts/Kmt96v</id>
+        <link href="https://alook.so/posts/Kmt96v"/>
+        <updated>2022-03-08T06:14:37.361Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt96v">오늘부터 시작? 오늘부터 시작!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[공평 과 평등]]></title>
-        <id>https://alook.so/posts/Yyt44B</id>
-        <link href="https://alook.so/posts/Yyt44B"/>
-        <updated>2022-03-08T05:11:22.071Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt44B">공평 과 평등</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내가 좋아하는것.]]></title>
-        <id>https://alook.so/posts/rDtddz</id>
-        <link href="https://alook.so/posts/rDtddz"/>
-        <updated>2022-03-08T05:11:22.073Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtddz">내가 좋아하는것.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루빨리 평범한 일상으로 돌아갔으면..]]></title>
-        <id>https://alook.so/posts/bWtaal</id>
-        <link href="https://alook.so/posts/bWtaal"/>
-        <updated>2022-03-08T05:11:22.075Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtaal">하루빨리 평범한 일상으로 돌아갔으면..</a>]]></content>
+        <title type="html"><![CDATA[🤣🤣내 마음대로 써보는 책과 음악의 대결]]></title>
+        <id>https://alook.so/posts/54t2Ya</id>
+        <link href="https://alook.so/posts/54t2Ya"/>
+        <updated>2022-03-08T06:14:37.362Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t2Ya">🤣🤣내 마음대로 써보는 책과 음악의 대결 </a>]]></content>
     </entry>
 </feed>
