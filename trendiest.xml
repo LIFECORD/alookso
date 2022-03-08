@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-08T22:14:46.822Z</updated>
+    <updated>2022-03-08T23:14:38.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제페토 트렌드를 따라갈까요? 말까요?]]></title>
+        <id>https://alook.so/posts/rDteqO</id>
+        <link href="https://alook.so/posts/rDteqO"/>
+        <updated>2022-03-08T23:12:44.405Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDteqO">제페토 트렌드를 따라갈까요? 말까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 지금까지 해본 부업들]]></title>
+        <id>https://alook.so/posts/PvtPEZ</id>
+        <link href="https://alook.so/posts/PvtPEZ"/>
+        <updated>2022-03-08T23:12:44.405Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtPEZ">내가 지금까지 해본 부업들</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올만에 외식❤️]]></title>
+        <id>https://alook.so/posts/8WtPX4</id>
+        <link href="https://alook.so/posts/8WtPX4"/>
+        <updated>2022-03-08T23:12:44.405Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtPX4">올만에 외식❤️</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인생은 마음대로 흘러가지 않는다.]]></title>
+        <id>https://alook.so/posts/a0tVP0</id>
+        <link href="https://alook.so/posts/a0tVP0"/>
+        <updated>2022-03-08T17:13:49.884Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tVP0">인생은 마음대로 흘러가지 않는다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아직 안 주무시는 분들 있으세요?]]></title>
         <id>https://alook.so/posts/Zkt4q0</id>
@@ -13,11 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkt4q0">아직 안 주무시는 분들 있으세요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[인생은 마음대로 흘러가지 않는다.]]></title>
-        <id>https://alook.so/posts/a0tVP0</id>
-        <link href="https://alook.so/posts/a0tVP0"/>
-        <updated>2022-03-08T17:13:49.884Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tVP0">인생은 마음대로 흘러가지 않는다.</a>]]></content>
+        <title type="html"><![CDATA[평점 테러와 차별의 학습]]></title>
+        <id>https://alook.so/posts/RGt7Rv</id>
+        <link href="https://alook.so/posts/RGt7Rv"/>
+        <updated>2022-03-08T23:12:44.410Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt7Rv">평점 테러와 차별의 학습</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[투표합시다] 고백, 주의사항, 그리고 독려]]></title>
@@ -90,20 +118,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtnYv">생각하세요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어떤 것이 설악산 지게꾼을 위하는 일이었을까 생각해보게 되는..]]></title>
-        <id>https://alook.so/posts/lat7aG</id>
-        <link href="https://alook.so/posts/lat7aG"/>
-        <updated>2022-03-08T21:11:18.973Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat7aG">어떤 것이 설악산 지게꾼을 위하는 일이었을까 생각해보게 되는..</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🧭시대정신 없는 대선, 무엇이 문제였나]]></title>
-        <id>https://alook.so/posts/DjtP5P</id>
-        <link href="https://alook.so/posts/DjtP5P"/>
-        <updated>2022-03-08T21:11:18.975Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtP5P">🧭시대정신 없는 대선, 무엇이 문제였나 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[타다와 이어령]]></title>
         <id>https://alook.so/posts/LKtnr6</id>
         <link href="https://alook.so/posts/LKtnr6"/>
@@ -118,18 +132,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t2Ya">🤣🤣책이냐 음악이냐 택하라신다면? </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[속기록] 3월 5일 이재명 후보 용인 연설]]></title>
-        <id>https://alook.so/posts/E7temB</id>
-        <link href="https://alook.so/posts/E7temB"/>
-        <updated>2022-03-08T21:11:18.985Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7temB">[속기록] 3월 5일 이재명 후보 용인 연설</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 선거를 앞두고 벌어진 다양한 사건들]]></title>
-        <id>https://alook.so/posts/q1tZ7k</id>
-        <link href="https://alook.so/posts/q1tZ7k"/>
-        <updated>2022-03-08T21:11:18.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tZ7k">대통령 선거를 앞두고 벌어진 다양한 사건들</a>]]></content>
+        <title type="html"><![CDATA[음악없이 평생살기vs책 없이 평생살기]]></title>
+        <id>https://alook.so/posts/DjtPlY</id>
+        <link href="https://alook.so/posts/DjtPlY"/>
+        <updated>2022-03-08T23:12:44.428Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtPlY">음악없이 평생살기vs책 없이 평생살기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[(코로나 걸렸을 때 대처법)온 가족 코로나 확진]]></title>
@@ -137,12 +144,5 @@
         <link href="https://alook.so/posts/WLtPPM"/>
         <updated>2022-03-07T15:12:04.503Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtPPM">(코로나 걸렸을 때 대처법)온 가족 코로나 확진</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용기에 박수를 보낼까? 만용에 비판을 보낼까?]]></title>
-        <id>https://alook.so/posts/3wt0mJ</id>
-        <link href="https://alook.so/posts/3wt0mJ"/>
-        <updated>2022-03-08T21:11:18.996Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt0mJ">용기에 박수를 보낼까? 만용에 비판을 보낼까?</a>]]></content>
     </entry>
 </feed>
