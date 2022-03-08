@@ -2,42 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-08T08:16:40.672Z</updated>
+    <updated>2022-03-08T09:14:02.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[혼자]]></title>
-        <id>https://alook.so/posts/dztOxl</id>
-        <link href="https://alook.so/posts/dztOxl"/>
-        <updated>2022-03-08T08:14:40.362Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztOxl">혼자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삶과 꿈]]></title>
-        <id>https://alook.so/posts/VntJy9</id>
-        <link href="https://alook.so/posts/VntJy9"/>
-        <updated>2022-03-08T08:14:40.362Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntJy9">삶과 꿈</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상.]]></title>
-        <id>https://alook.so/posts/zvtyG4</id>
-        <link href="https://alook.so/posts/zvtyG4"/>
-        <updated>2022-03-08T08:14:40.365Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtyG4">일상.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경남 김해시 의용소방대원과 고등학생들의 멋진 활약을 칭찬합니다.]]></title>
-        <id>https://alook.so/posts/2xtz57</id>
-        <link href="https://alook.so/posts/2xtz57"/>
-        <updated>2022-03-08T08:14:40.366Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtz57">경남 김해시 의용소방대원과 고등학생들의 멋진 활약을 칭찬합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[뭐 부터 시작해야 하나? ㅠㅠ]]></title>
-        <id>https://alook.so/posts/0ktXBJ</id>
-        <link href="https://alook.so/posts/0ktXBJ"/>
-        <updated>2022-03-08T08:14:40.367Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktXBJ">뭐 부터 시작해야 하나? ㅠㅠ</a>]]></content>
+        <title type="html"><![CDATA[우리는 왜 가난을 벗어나질 못하는가]]></title>
+        <id>https://alook.so/posts/latkOq</id>
+        <link href="https://alook.so/posts/latkOq"/>
+        <updated>2022-03-08T09:12:00.518Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latkOq">우리는 왜 가난을 벗어나질 못하는가</a>]]></content>
     </entry>
 </feed>
