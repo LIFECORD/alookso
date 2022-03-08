@@ -2,56 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-08T07:14:01.831Z</updated>
+    <updated>2022-03-08T08:16:40.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[좋은취미를 가지고 계신가요?]]></title>
-        <id>https://alook.so/posts/4XtJPJ</id>
-        <link href="https://alook.so/posts/4XtJPJ"/>
-        <updated>2022-03-08T07:11:49.140Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtJPJ">좋은취미를 가지고 계신가요?</a>]]></content>
+        <title type="html"><![CDATA[혼자]]></title>
+        <id>https://alook.so/posts/dztOxl</id>
+        <link href="https://alook.so/posts/dztOxl"/>
+        <updated>2022-03-08T08:14:40.362Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztOxl">혼자</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[재테크 3번째 이야기]]></title>
-        <id>https://alook.so/posts/w9tvZD</id>
-        <link href="https://alook.so/posts/w9tvZD"/>
-        <updated>2022-03-08T07:11:49.141Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tvZD">재테크 3번째 이야기</a>]]></content>
+        <title type="html"><![CDATA[삶과 꿈]]></title>
+        <id>https://alook.so/posts/VntJy9</id>
+        <link href="https://alook.so/posts/VntJy9"/>
+        <updated>2022-03-08T08:14:40.362Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntJy9">삶과 꿈</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GDP 성장률은 무엇을 의미할까?]]></title>
-        <id>https://alook.so/posts/xlt0YP</id>
-        <link href="https://alook.so/posts/xlt0YP"/>
-        <updated>2022-03-08T07:11:49.148Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xlt0YP">GDP 성장률은 무엇을 의미할까?</a>]]></content>
+        <title type="html"><![CDATA[일상.]]></title>
+        <id>https://alook.so/posts/zvtyG4</id>
+        <link href="https://alook.so/posts/zvtyG4"/>
+        <updated>2022-03-08T08:14:40.365Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtyG4">일상.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미래의 인간의 존엄성은 어떻게 될까?]]></title>
-        <id>https://alook.so/posts/RGtK8o</id>
-        <link href="https://alook.so/posts/RGtK8o"/>
-        <updated>2022-03-08T07:11:49.148Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtK8o">미래의 인간의 존엄성은 어떻게 될까?</a>]]></content>
+        <title type="html"><![CDATA[경남 김해시 의용소방대원과 고등학생들의 멋진 활약을 칭찬합니다.]]></title>
+        <id>https://alook.so/posts/2xtz57</id>
+        <link href="https://alook.so/posts/2xtz57"/>
+        <updated>2022-03-08T08:14:40.366Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xtz57">경남 김해시 의용소방대원과 고등학생들의 멋진 활약을 칭찬합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[행복 하게 살기]]></title>
-        <id>https://alook.so/posts/yEtYy8</id>
-        <link href="https://alook.so/posts/yEtYy8"/>
-        <updated>2022-03-08T07:11:49.148Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtYy8">행복 하게 살기 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월요일 회식을 하며]]></title>
-        <id>https://alook.so/posts/Batdp8</id>
-        <link href="https://alook.so/posts/Batdp8"/>
-        <updated>2022-03-08T07:11:49.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Batdp8">월요일 회식을 하며</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 🤣🤣내 마음대로 써보는 책과 음악의 대결]]></title>
-        <id>https://alook.so/posts/LKtn91</id>
-        <link href="https://alook.so/posts/LKtn91"/>
-        <updated>2022-03-08T07:11:49.151Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtn91">답글: 🤣🤣내 마음대로 써보는 책과 음악의 대결 </a>]]></content>
+        <title type="html"><![CDATA[뭐 부터 시작해야 하나? ㅠㅠ]]></title>
+        <id>https://alook.so/posts/0ktXBJ</id>
+        <link href="https://alook.so/posts/0ktXBJ"/>
+        <updated>2022-03-08T08:14:40.367Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktXBJ">뭐 부터 시작해야 하나? ㅠㅠ</a>]]></content>
     </entry>
 </feed>
