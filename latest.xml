@@ -2,63 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T03:14:38.007Z</updated>
+    <updated>2022-03-09T04:17:04.957Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[사람의 매력은]]></title>
-        <id>https://alook.so/posts/Vntxyx</id>
-        <link href="https://alook.so/posts/Vntxyx"/>
-        <updated>2022-03-09T03:12:31.059Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntxyx">사람의 매력은</a>]]></content>
+        <title type="html"><![CDATA[모든것이 잘 될거에요]]></title>
+        <id>https://alook.so/posts/Yytw5p</id>
+        <link href="https://alook.so/posts/Yytw5p"/>
+        <updated>2022-03-09T04:14:59.885Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytw5p">모든것이 잘 될거에요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파이널티켓 사기 당하니 착잡하네요...]]></title>
-        <id>https://alook.so/posts/zvtBGy</id>
-        <link href="https://alook.so/posts/zvtBGy"/>
-        <updated>2022-03-09T03:12:31.068Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtBGy">파이널티켓 사기 당하니 착잡하네요...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이거 모르고 투표했었죠?]]></title>
-        <id>https://alook.so/posts/WLtmyP</id>
-        <link href="https://alook.so/posts/WLtmyP"/>
-        <updated>2022-03-09T03:12:31.069Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtmyP">이거 모르고 투표했었죠?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 글귀 2022-3-9]]></title>
-        <id>https://alook.so/posts/0kt3BG</id>
-        <link href="https://alook.so/posts/0kt3BG"/>
-        <updated>2022-03-09T03:12:31.069Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt3BG">오늘의 글귀 2022-3-9 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘이 지나면 새로운 대통령이 탄생하네요]]></title>
-        <id>https://alook.so/posts/4XtB82</id>
-        <link href="https://alook.so/posts/4XtB82"/>
-        <updated>2022-03-09T03:12:31.069Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtB82">오늘이 지나면 새로운 대통령이 탄생하네요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시각장애인을 위한]]></title>
-        <id>https://alook.so/posts/XBt9ZL</id>
-        <link href="https://alook.so/posts/XBt9ZL"/>
-        <updated>2022-03-09T03:12:31.070Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt9ZL">시각장애인을 위한  </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라면 좋아하시나요?]]></title>
-        <id>https://alook.so/posts/w9tkK5</id>
-        <link href="https://alook.so/posts/w9tkK5"/>
-        <updated>2022-03-09T03:12:31.071Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tkK5">라면 좋아하시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: [Live🛑] 대선 라이브 업데이트(1신 10:40)]]></title>
-        <id>https://alook.so/posts/RGtnLe</id>
-        <link href="https://alook.so/posts/RGtnLe"/>
-        <updated>2022-03-09T03:12:31.072Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtnLe">답글: [Live🛑] 대선 라이브 업데이트(1신 10:40)</a>]]></content>
+        <title type="html"><![CDATA[초등교사의 하루 일기]]></title>
+        <id>https://alook.so/posts/lat6OJ</id>
+        <link href="https://alook.so/posts/lat6OJ"/>
+        <updated>2022-03-09T04:14:59.886Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat6OJ">초등교사의 하루 일기</a>]]></content>
     </entry>
 </feed>
