@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-09T16:18:07.757Z</updated>
+    <updated>2022-03-09T17:16:14.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[최재형 전 감사원장의 국회 입성에 대해]]></title>
+        <id>https://alook.so/posts/Kmt68j</id>
+        <link href="https://alook.so/posts/Kmt68j"/>
+        <updated>2022-03-09T17:14:15.390Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt68j">최재형 전 감사원장의 국회 입성에 대해</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이제 키워드는 ‘이대녀’]]></title>
         <id>https://alook.so/posts/q1tOKy</id>
@@ -18,6 +25,13 @@
         <link href="https://alook.so/posts/LKtddq"/>
         <updated>2022-03-09T15:12:01.691Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtddq">엄청난 박빙... (3월 9일 오후 11:47분)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: [Live🛑] 대선 라이브 업데이트(14신 22:50)]]></title>
+        <id>https://alook.so/posts/Kmt69D</id>
+        <link href="https://alook.so/posts/Kmt69D"/>
+        <updated>2022-03-09T17:14:15.395Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt69D">답글: [Live🛑] 대선 라이브 업데이트(14신 22:50)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: [Live🛑] 대선 라이브 업데이트(14신 22:50)]]></title>
@@ -83,13 +97,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtdEP">타투 어떻게 생각하세요??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[출구조사는 왜 하는 걸까요?]]></title>
-        <id>https://alook.so/posts/70tRv6</id>
-        <link href="https://alook.so/posts/70tRv6"/>
-        <updated>2022-03-09T05:12:30.467Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tRv6">출구조사는 왜 하는 걸까요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[지구를 위한 선거를 할 수는 없을까]]></title>
         <id>https://alook.so/posts/xltGR1</id>
         <link href="https://alook.so/posts/xltGR1"/>
@@ -109,13 +116,6 @@
         <link href="https://alook.so/posts/jdtMRL"/>
         <updated>2022-03-09T04:15:08.918Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtMRL">대선 이후에도 공감과 연대를 잃지 않길 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[토론에서 보여준 비전(정책), 능력]]></title>
-        <id>https://alook.so/posts/VntJv6</id>
-        <link href="https://alook.so/posts/VntJv6"/>
-        <updated>2022-03-09T03:12:40.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntJv6">토론에서 보여준 비전(정책), 능력</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분은 하루의 시작을 어떻게 하시나요?]]></title>
