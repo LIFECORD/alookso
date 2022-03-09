@@ -2,42 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T14:12:43.527Z</updated>
+    <updated>2022-03-09T15:13:55.398Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[따가운 밤송이]]></title>
-        <id>https://alook.so/posts/54tYLo</id>
-        <link href="https://alook.so/posts/54tYLo"/>
-        <updated>2022-03-09T14:10:49.691Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tYLo">따가운 밤송이</a>]]></content>
+        <title type="html"><![CDATA[던전앤파이터 모바일 출시라니]]></title>
+        <id>https://alook.so/posts/6Mtk8M</id>
+        <link href="https://alook.so/posts/6Mtk8M"/>
+        <updated>2022-03-09T15:11:52.967Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mtk8M">던전앤파이터 모바일 출시라니</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[울진.삼척 진화율 80%]]></title>
-        <id>https://alook.so/posts/DjtjJe</id>
-        <link href="https://alook.so/posts/DjtjJe"/>
-        <updated>2022-03-09T14:10:49.691Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjtjJe">울진.삼척 진화율 80%</a>]]></content>
+        <title type="html"><![CDATA[저출산으로 인한 대한민국의 미래는 어디로...]]></title>
+        <id>https://alook.so/posts/G1tEJD</id>
+        <link href="https://alook.so/posts/G1tEJD"/>
+        <updated>2022-03-09T15:11:52.969Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tEJD">저출산으로 인한 대한민국의 미래는 어디로...</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파워뱅크 가성비 추천 3가지 및 설명.]]></title>
-        <id>https://alook.so/posts/o7tX98</id>
-        <link href="https://alook.so/posts/o7tX98"/>
-        <updated>2022-03-09T14:10:49.691Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tX98">파워뱅크 가성비 추천 3가지 및 설명.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지쳐있어요 ...]]></title>
-        <id>https://alook.so/posts/70tRrR</id>
-        <link href="https://alook.so/posts/70tRrR"/>
-        <updated>2022-03-09T14:10:49.698Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tRrR">지쳐있어요 ...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[현대자동차, 기아자동차 3월 출고시기래요!]]></title>
-        <id>https://alook.so/posts/rDt42d</id>
-        <link href="https://alook.so/posts/rDt42d"/>
-        <updated>2022-03-09T14:10:49.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt42d">현대자동차, 기아자동차 3월 출고시기래요!</a>]]></content>
+        <title type="html"><![CDATA[투표율 하위 5위중 '1위,]]></title>
+        <id>https://alook.so/posts/OEtaW2</id>
+        <link href="https://alook.so/posts/OEtaW2"/>
+        <updated>2022-03-09T15:11:52.970Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtaW2">투표율 하위 5위중 '1위,</a>]]></content>
     </entry>
 </feed>
