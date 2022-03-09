@@ -2,35 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-08T23:14:38.051Z</updated>
+    <updated>2022-03-09T02:13:28.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[나는 어떤 습관을 가진 사람인가?]]></title>
-        <id>https://alook.so/posts/M9tWm1</id>
-        <link href="https://alook.so/posts/M9tWm1"/>
-        <updated>2022-03-08T23:12:36.334Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tWm1">나는 어떤 습관을 가진 사람인가?</a>]]></content>
+        <title type="html"><![CDATA[<인생은 아름다워> 추천합니다^^]]></title>
+        <id>https://alook.so/posts/mbtDr2</id>
+        <link href="https://alook.so/posts/mbtDr2"/>
+        <updated>2022-03-09T02:11:32.886Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtDr2">&lt;인생은 아름다워&gt; 추천합니다^^</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[몸과 맘은 둘이 아니다.]]></title>
-        <id>https://alook.so/posts/RGt7oV</id>
-        <link href="https://alook.so/posts/RGt7oV"/>
-        <updated>2022-03-08T23:12:36.336Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt7oV">몸과 맘은 둘이 아니다.</a>]]></content>
+        <title type="html"><![CDATA[축구의 신은 누구인가?]]></title>
+        <id>https://alook.so/posts/54t0y7</id>
+        <link href="https://alook.so/posts/54t0y7"/>
+        <updated>2022-03-09T02:11:32.888Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t0y7">축구의 신은 누구인가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소???]]></title>
-        <id>https://alook.so/posts/kZtl4v</id>
-        <link href="https://alook.so/posts/kZtl4v"/>
-        <updated>2022-03-08T23:12:36.337Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtl4v">얼룩소???</a>]]></content>
+        <title type="html"><![CDATA[인간관계 속의 서로 다른 사람들]]></title>
+        <id>https://alook.so/posts/q1tKww</id>
+        <link href="https://alook.so/posts/q1tKww"/>
+        <updated>2022-03-09T02:11:32.889Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tKww">인간관계 속의 서로 다른 사람들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[VR AR 시장은 어떻게 될까요?]]></title>
-        <id>https://alook.so/posts/yEt5Xa</id>
-        <link href="https://alook.so/posts/yEt5Xa"/>
-        <updated>2022-03-08T23:12:36.339Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEt5Xa">VR AR 시장은 어떻게 될까요?</a>]]></content>
+        <title type="html"><![CDATA[<인생은 아름다워> 추천합니다^^]]></title>
+        <id>https://alook.so/posts/Djtyen</id>
+        <link href="https://alook.so/posts/Djtyen"/>
+        <updated>2022-03-09T02:11:32.889Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtyen">&lt;인생은 아름다워&gt; 추천합니다^^</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여러분들은 코로나가 종식되면 가장 하고 싶으신건 뭔가요?]]></title>
+        <id>https://alook.so/posts/1Rtm7j</id>
+        <link href="https://alook.so/posts/1Rtm7j"/>
+        <updated>2022-03-09T02:11:32.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1Rtm7j">여러분들은 코로나가 종식되면 가장 하고 싶으신건 뭔가요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 청소방법]]></title>
+        <id>https://alook.so/posts/70tP4P</id>
+        <link href="https://alook.so/posts/70tP4P"/>
+        <updated>2022-03-09T02:11:32.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tP4P">새로운 청소방법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[첫 선거하고 왔습니다!!!]]></title>
+        <id>https://alook.so/posts/rDteE2</id>
+        <link href="https://alook.so/posts/rDteE2"/>
+        <updated>2022-03-09T02:11:32.892Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDteE2">첫 선거하고 왔습니다!!!</a>]]></content>
     </entry>
 </feed>
