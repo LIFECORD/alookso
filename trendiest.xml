@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-09T15:13:55.406Z</updated>
+    <updated>2022-03-09T16:18:07.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이제 키워드는 ‘이대녀’]]></title>
+        <id>https://alook.so/posts/q1tOKy</id>
+        <link href="https://alook.so/posts/q1tOKy"/>
+        <updated>2022-03-09T16:16:17.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tOKy">이제 키워드는 ‘이대녀’</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엄청난 박빙... (3월 9일 오후 11:47분)]]></title>
         <id>https://alook.so/posts/LKtddq</id>
         <link href="https://alook.so/posts/LKtddq"/>
         <updated>2022-03-09T15:12:01.691Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtddq">엄청난 박빙... (3월 9일 오후 11:47분)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: [Live🛑] 대선 라이브 업데이트(14신 22:50)]]></title>
+        <id>https://alook.so/posts/mbt00p</id>
+        <link href="https://alook.so/posts/mbt00p"/>
+        <updated>2022-03-09T16:16:17.447Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt00p">답글: [Live🛑] 대선 라이브 업데이트(14신 22:50)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[1프로의 모든 것]]></title>
