@@ -2,49 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T10:15:05.918Z</updated>
+    <updated>2022-03-09T11:13:10.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[자가격리 중 6일째인 오늘]]></title>
-        <id>https://alook.so/posts/G1tE81</id>
-        <link href="https://alook.so/posts/G1tE81"/>
-        <updated>2022-03-09T10:13:06.401Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tE81">자가격리 중 6일째인 오늘</a>]]></content>
+        <title type="html"><![CDATA[미래에는 로봇이 지배하는 세상이 될 것이다?]]></title>
+        <id>https://alook.so/posts/Vntxrj</id>
+        <link href="https://alook.so/posts/Vntxrj"/>
+        <updated>2022-03-09T11:11:10.128Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Vntxrj">미래에는 로봇이 지배하는 세상이 될 것이다?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투표마감이 이제 얼마남지 않았네요 ~]]></title>
-        <id>https://alook.so/posts/vKtdDr</id>
-        <link href="https://alook.so/posts/vKtdDr"/>
-        <updated>2022-03-09T10:13:06.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtdDr">투표마감이 이제 얼마남지 않았네요 ~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대한민국의 기로]]></title>
-        <id>https://alook.so/posts/E7tJ02</id>
-        <link href="https://alook.so/posts/E7tJ02"/>
-        <updated>2022-03-09T10:13:06.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tJ02">대한민국의 기로</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학교때 기억]]></title>
-        <id>https://alook.so/posts/Kmt60x</id>
-        <link href="https://alook.so/posts/Kmt60x"/>
-        <updated>2022-03-09T10:13:06.406Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt60x">대학교때 기억</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아와 발렌시아가]]></title>
-        <id>https://alook.so/posts/mbt0eG</id>
-        <link href="https://alook.so/posts/mbt0eG"/>
-        <updated>2022-03-09T10:13:06.407Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbt0eG">러시아와 발렌시아가</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[군 복무중인 한 병사입니다.]]></title>
-        <id>https://alook.so/posts/54tYJK</id>
-        <link href="https://alook.so/posts/54tYJK"/>
-        <updated>2022-03-09T10:13:06.408Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tYJK">군 복무중인 한 병사입니다. </a>]]></content>
+        <title type="html"><![CDATA[용기는 어디서  오는걸까?]]></title>
+        <id>https://alook.so/posts/WLtmzn</id>
+        <link href="https://alook.so/posts/WLtmzn"/>
+        <updated>2022-03-09T11:11:10.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtmzn">용기는 어디서  오는걸까?</a>]]></content>
     </entry>
 </feed>
