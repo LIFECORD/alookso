@@ -2,56 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T06:17:10.622Z</updated>
+    <updated>2022-03-09T07:13:36.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘은 20대 대통령선거날입니다!!]]></title>
-        <id>https://alook.so/posts/E7tJWv</id>
-        <link href="https://alook.so/posts/E7tJWv"/>
-        <updated>2022-03-09T06:15:01.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tJWv">오늘은 20대 대통령선거날입니다!!</a>]]></content>
+        <title type="html"><![CDATA[필라테스는 남자가 해도 괜찮나요?]]></title>
+        <id>https://alook.so/posts/w9tk9x</id>
+        <link href="https://alook.so/posts/w9tk9x"/>
+        <updated>2022-03-09T07:11:30.994Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tk9x">필라테스는 남자가 해도 괜찮나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에 처음 글을 작성합니다.]]></title>
-        <id>https://alook.so/posts/lat6z4</id>
-        <link href="https://alook.so/posts/lat6z4"/>
-        <updated>2022-03-09T06:15:01.443Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat6z4">얼룩소에 처음 글을 작성합니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 대선]]></title>
-        <id>https://alook.so/posts/92tw9B</id>
-        <link href="https://alook.so/posts/92tw9B"/>
-        <updated>2022-03-09T06:15:01.444Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tw9B">2022 대선</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[몸과 마음은 하나????]]></title>
-        <id>https://alook.so/posts/54tYKV</id>
-        <link href="https://alook.so/posts/54tYKV"/>
-        <updated>2022-03-09T06:15:01.448Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tYKV">몸과 마음은 하나????</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중소기업 인력난에 시달리는 이유]]></title>
-        <id>https://alook.so/posts/q1tOox</id>
-        <link href="https://alook.so/posts/q1tOox"/>
-        <updated>2022-03-09T06:15:01.449Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tOox">중소기업 인력난에 시달리는 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이차와 하루시작]]></title>
-        <id>https://alook.so/posts/Djtjkz</id>
-        <link href="https://alook.so/posts/Djtjkz"/>
-        <updated>2022-03-09T06:15:01.450Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtjkz">보이차와 하루시작</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[건강하게 살기]]></title>
-        <id>https://alook.so/posts/o7tXWw</id>
-        <link href="https://alook.so/posts/o7tXWw"/>
-        <updated>2022-03-09T06:15:01.452Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tXWw">건강하게 살기</a>]]></content>
+        <title type="html"><![CDATA[남이 준 상처 스스로에게 준 상처 뭐가 더 아픈가요?]]></title>
+        <id>https://alook.so/posts/3wtLx2</id>
+        <link href="https://alook.so/posts/3wtLx2"/>
+        <updated>2022-03-09T07:11:30.995Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtLx2">남이 준 상처 스스로에게 준 상처 뭐가 더 아픈가요?</a>]]></content>
     </entry>
 </feed>
