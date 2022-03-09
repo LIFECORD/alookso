@@ -2,63 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T22:13:32.521Z</updated>
+    <updated>2022-03-09T23:13:41.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[더 나은 내가 되기 위해서 필요한 것]]></title>
-        <id>https://alook.so/posts/BatoBx</id>
-        <link href="https://alook.so/posts/BatoBx"/>
-        <updated>2022-03-09T22:11:31.385Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatoBx">더 나은 내가 되기 위해서 필요한 것</a>]]></content>
+        <title type="html"><![CDATA[잠이와요]]></title>
+        <id>https://alook.so/posts/q1tVp6</id>
+        <link href="https://alook.so/posts/q1tVp6"/>
+        <updated>2022-03-09T23:11:39.689Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tVp6">잠이와요</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[결정은 되었지만 ᆢ]]></title>
-        <id>https://alook.so/posts/LKtY7E</id>
-        <link href="https://alook.so/posts/LKtY7E"/>
-        <updated>2022-03-09T22:11:31.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtY7E">결정은 되었지만 ᆢ</a>]]></content>
+        <title type="html"><![CDATA[미세먼지]]></title>
+        <id>https://alook.so/posts/1RtjR3</id>
+        <link href="https://alook.so/posts/1RtjR3"/>
+        <updated>2022-03-09T23:11:39.689Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtjR3">미세먼지</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이디오 크러시]]></title>
-        <id>https://alook.so/posts/njtx1k</id>
-        <link href="https://alook.so/posts/njtx1k"/>
-        <updated>2022-03-09T22:11:31.389Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njtx1k">이디오 크러시</a>]]></content>
+        <title type="html"><![CDATA[조카가 태어나고 넘 기분 좋아서 아이패드를 사버렸습니다~!]]></title>
+        <id>https://alook.so/posts/70t3vM</id>
+        <link href="https://alook.so/posts/70t3vM"/>
+        <updated>2022-03-09T23:11:39.690Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t3vM">조카가 태어나고 넘 기분 좋아서 아이패드를 사버렸습니다~!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[20대 대선 결과가 나왔네요]]></title>
-        <id>https://alook.so/posts/6Mt86K</id>
-        <link href="https://alook.so/posts/6Mt86K"/>
-        <updated>2022-03-09T22:11:31.390Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6Mt86K">20대 대선 결과가 나왔네요</a>]]></content>
+        <title type="html"><![CDATA[20대 대통령 윤석열이 검사 출신이라니까 사형 집행이 부활?]]></title>
+        <id>https://alook.so/posts/YytK5B</id>
+        <link href="https://alook.so/posts/YytK5B"/>
+        <updated>2022-03-09T23:11:39.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytK5B">20대 대통령 윤석열이 검사 출신이라니까 사형 집행이 부활?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만약]]></title>
-        <id>https://alook.so/posts/3wt7X3</id>
-        <link href="https://alook.so/posts/3wt7X3"/>
-        <updated>2022-03-09T22:11:31.391Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wt7X3">만약</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인류와 물]]></title>
-        <id>https://alook.so/posts/8WtBaj</id>
-        <link href="https://alook.so/posts/8WtBaj"/>
-        <updated>2022-03-09T22:11:31.394Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtBaj">인류와 물</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[514챌린지 3월 10일차]]></title>
-        <id>https://alook.so/posts/G1tJol</id>
-        <link href="https://alook.so/posts/G1tJol"/>
-        <updated>2022-03-09T22:11:31.395Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tJol">514챌린지 3월 10일차</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘의 별자리 운세]]></title>
-        <id>https://alook.so/posts/vKte1j</id>
-        <link href="https://alook.so/posts/vKte1j"/>
-        <updated>2022-03-09T22:11:31.395Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKte1j">오늘의 별자리 운세</a>]]></content>
+        <title type="html"><![CDATA[대선 결과]]></title>
+        <id>https://alook.so/posts/latWOG</id>
+        <link href="https://alook.so/posts/latWOG"/>
+        <updated>2022-03-09T23:11:39.694Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latWOG">대선 결과</a>]]></content>
     </entry>
 </feed>
