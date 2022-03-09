@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-09T05:14:28.414Z</updated>
+    <updated>2022-03-09T06:17:10.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
@@ -13,18 +13,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tRv6">출구조사는 왜 하는 걸까요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선거 현수막 문제]]></title>
-        <id>https://alook.so/posts/E7t5Ea</id>
-        <link href="https://alook.so/posts/E7t5Ea"/>
-        <updated>2022-03-09T04:15:08.914Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t5Ea">선거 현수막 문제 </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[지구를 위한 선거를 할 수는 없을까]]></title>
         <id>https://alook.so/posts/xltGR1</id>
         <link href="https://alook.so/posts/xltGR1"/>
         <updated>2022-03-09T04:15:08.914Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltGR1">지구를 위한 선거를 할 수는 없을까</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선거 현수막 문제]]></title>
+        <id>https://alook.so/posts/E7t5Ea</id>
+        <link href="https://alook.so/posts/E7t5Ea"/>
+        <updated>2022-03-09T04:15:08.914Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t5Ea">선거 현수막 문제 </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대선 이후에도 공감과 연대를 잃지 않길]]></title>
@@ -139,10 +139,10 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tVvz">페미니즘 보도에 대한 알고리즘의 생각 들여다보기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[마을을 덮친 화마처럼 기후위기도 언제든 우리를 덮칠 수 있다.]]></title>
-        <id>https://alook.so/posts/mbtDBY</id>
-        <link href="https://alook.so/posts/mbtDBY"/>
-        <updated>2022-03-08T11:10:13.372Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtDBY">마을을 덮친 화마처럼 기후위기도 언제든 우리를 덮칠 수 있다. </a>]]></content>
+        <title type="html"><![CDATA[🤣🤣책이냐 음악이냐 택하라신다면?]]></title>
+        <id>https://alook.so/posts/54t2Ya</id>
+        <link href="https://alook.so/posts/54t2Ya"/>
+        <updated>2022-03-09T06:15:11.774Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t2Ya">🤣🤣책이냐 음악이냐 택하라신다면? </a>]]></content>
     </entry>
 </feed>

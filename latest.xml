@@ -2,28 +2,56 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T05:14:28.404Z</updated>
+    <updated>2022-03-09T06:17:10.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[휴일이 휴일이 되기를 바라는 맘]]></title>
-        <id>https://alook.so/posts/4XtBzj</id>
-        <link href="https://alook.so/posts/4XtBzj"/>
-        <updated>2022-03-09T05:12:21.336Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XtBzj">휴일이 휴일이 되기를 바라는 맘</a>]]></content>
+        <title type="html"><![CDATA[오늘은 20대 대통령선거날입니다!!]]></title>
+        <id>https://alook.so/posts/E7tJWv</id>
+        <link href="https://alook.so/posts/E7tJWv"/>
+        <updated>2022-03-09T06:15:01.443Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tJWv">오늘은 20대 대통령선거날입니다!!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[pcr 검사 기다리시는 분 계신가요??]]></title>
-        <id>https://alook.so/posts/BatPlm</id>
-        <link href="https://alook.so/posts/BatPlm"/>
-        <updated>2022-03-09T05:12:21.337Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BatPlm">pcr 검사 기다리시는 분 계신가요??</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에 처음 글을 작성합니다.]]></title>
+        <id>https://alook.so/posts/lat6z4</id>
+        <link href="https://alook.so/posts/lat6z4"/>
+        <updated>2022-03-09T06:15:01.443Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat6z4">얼룩소에 처음 글을 작성합니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[투표를 하였다!]]></title>
-        <id>https://alook.so/posts/LKtdxO</id>
-        <link href="https://alook.so/posts/LKtdxO"/>
-        <updated>2022-03-09T05:12:21.339Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtdxO">투표를 하였다!</a>]]></content>
+        <title type="html"><![CDATA[2022 대선]]></title>
+        <id>https://alook.so/posts/92tw9B</id>
+        <link href="https://alook.so/posts/92tw9B"/>
+        <updated>2022-03-09T06:15:01.444Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tw9B">2022 대선</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[몸과 마음은 하나????]]></title>
+        <id>https://alook.so/posts/54tYKV</id>
+        <link href="https://alook.so/posts/54tYKV"/>
+        <updated>2022-03-09T06:15:01.448Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54tYKV">몸과 마음은 하나????</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중소기업 인력난에 시달리는 이유]]></title>
+        <id>https://alook.so/posts/q1tOox</id>
+        <link href="https://alook.so/posts/q1tOox"/>
+        <updated>2022-03-09T06:15:01.449Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tOox">중소기업 인력난에 시달리는 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보이차와 하루시작]]></title>
+        <id>https://alook.so/posts/Djtjkz</id>
+        <link href="https://alook.so/posts/Djtjkz"/>
+        <updated>2022-03-09T06:15:01.450Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djtjkz">보이차와 하루시작</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건강하게 살기]]></title>
+        <id>https://alook.so/posts/o7tXWw</id>
+        <link href="https://alook.so/posts/o7tXWw"/>
+        <updated>2022-03-09T06:15:01.452Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tXWw">건강하게 살기</a>]]></content>
     </entry>
 </feed>
