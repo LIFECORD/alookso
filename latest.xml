@@ -2,42 +2,42 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-09T12:20:53.466Z</updated>
+    <updated>2022-03-09T13:20:08.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[오늘 하루의 이야기]]></title>
-        <id>https://alook.so/posts/WLtmoe</id>
-        <link href="https://alook.so/posts/WLtmoe"/>
-        <updated>2022-03-09T12:18:50.734Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtmoe">오늘 하루의 이야기</a>]]></content>
+        <title type="html"><![CDATA[피넛 플랫]]></title>
+        <id>https://alook.so/posts/rDt4LY</id>
+        <link href="https://alook.so/posts/rDt4LY"/>
+        <updated>2022-03-09T13:18:06.406Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDt4LY">피넛 플랫</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[선택 #01. 사줄까? 말까?]]></title>
-        <id>https://alook.so/posts/XBt9rp</id>
-        <link href="https://alook.so/posts/XBt9rp"/>
-        <updated>2022-03-09T12:18:50.735Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBt9rp">선택 #01. 사줄까? 말까?</a>]]></content>
+        <title type="html"><![CDATA[피넛 플랫]]></title>
+        <id>https://alook.so/posts/bWt42m</id>
+        <link href="https://alook.so/posts/bWt42m"/>
+        <updated>2022-03-09T13:18:06.407Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWt42m">피넛 플랫</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미세먼지에 대한 생각]]></title>
-        <id>https://alook.so/posts/xltpmB</id>
-        <link href="https://alook.so/posts/xltpmB"/>
-        <updated>2022-03-09T12:18:50.736Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltpmB">미세먼지에 대한 생각</a>]]></content>
+        <title type="html"><![CDATA[오늘의 핫 토픽은 역시나 대통령 선거 결과가 아닐까 싶습니다.]]></title>
+        <id>https://alook.so/posts/a0tLwv</id>
+        <link href="https://alook.so/posts/a0tLwv"/>
+        <updated>2022-03-09T13:18:06.408Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tLwv">오늘의 핫 토픽은 역시나 대통령 선거 결과가 아닐까 싶습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[정 하고 싶다고 난리 부르스를 추려 하신다면야]]></title>
-        <id>https://alook.so/posts/kZtw21</id>
-        <link href="https://alook.so/posts/kZtw21"/>
-        <updated>2022-03-09T12:18:50.737Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtw21">정 하고 싶다고 난리 부르스를 추려 하신다면야</a>]]></content>
+        <title type="html"><![CDATA[느림의 미학]]></title>
+        <id>https://alook.so/posts/J5t6wy</id>
+        <link href="https://alook.so/posts/J5t6wy"/>
+        <updated>2022-03-09T13:18:06.408Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5t6wy">느림의 미학</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[젠더 갈라치기의 결과? 비호감만 남았는데 결과는 무승부.]]></title>
-        <id>https://alook.so/posts/yEtj7k</id>
-        <link href="https://alook.so/posts/yEtj7k"/>
-        <updated>2022-03-09T12:18:50.738Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtj7k">젠더 갈라치기의 결과? 비호감만 남았는데 결과는 무승부.</a>]]></content>
+        <title type="html"><![CDATA[배움에 나이가 무슨 상관입니까?]]></title>
+        <id>https://alook.so/posts/pot0VL</id>
+        <link href="https://alook.so/posts/pot0VL"/>
+        <updated>2022-03-09T13:18:06.409Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot0VL">배움에 나이가 무슨 상관입니까?</a>]]></content>
     </entry>
 </feed>
