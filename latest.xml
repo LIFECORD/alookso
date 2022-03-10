@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-10T21:13:31.375Z</updated>
+    <updated>2022-03-10T22:13:55.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
-    <entry>
-        <title type="html"><![CDATA[소통없는 글 문제가 뭘까요?ㅠ ㅠ]]></title>
-        <id>https://alook.so/posts/lat2bl</id>
-        <link href="https://alook.so/posts/lat2bl"/>
-        <updated>2022-03-10T21:11:15.740Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/lat2bl">소통없는 글 문제가 뭘까요?ㅠ ㅠ</a>]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[23살 빚 8700만원]]></title>
         <id>https://alook.so/posts/o7tK23</id>
@@ -130,6 +123,13 @@
         <link href="https://alook.so/posts/Kmt68j"/>
         <updated>2022-03-10T08:13:56.955Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt68j">최재형 전 감사원장의 국회 입성에 대해</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[타투 어떻게 생각하세요??]]></title>
+        <id>https://alook.so/posts/vKtdEP</id>
+        <link href="https://alook.so/posts/vKtdEP"/>
+        <updated>2022-03-10T22:11:59.070Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtdEP">타투 어떻게 생각하세요??</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[여러분은 하루의 시작을 어떻게 하시나요?]]></title>
