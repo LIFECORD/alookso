@@ -2,22 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-10T09:14:42.072Z</updated>
+    <updated>2022-03-10T10:14:12.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[열심히 살 줄만 알던 나. 우울증이 찾아왔다.]]></title>
+        <id>https://alook.so/posts/0kt2a9</id>
+        <link href="https://alook.so/posts/0kt2a9"/>
+        <updated>2022-03-10T10:12:17.656Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt2a9">열심히 살 줄만 알던 나. 우울증이 찾아왔다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여긴 글이 너무 많아 읽혀지지 않는다.]]></title>
         <id>https://alook.so/posts/YytK48</id>
         <link href="https://alook.so/posts/YytK48"/>
         <updated>2022-03-10T09:12:39.975Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytK48">여긴 글이 너무 많아 읽혀지지 않는다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대학생 시절 꿈을 꿨다.]]></title>
-        <id>https://alook.so/posts/VntDB0</id>
-        <link href="https://alook.so/posts/VntDB0"/>
-        <updated>2022-03-10T09:12:39.975Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntDB0">대학생 시절 꿈을 꿨다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: [Live🛑] 대선 라이브 업데이트_확진자 투표]]></title>
