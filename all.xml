@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-11T05:13:26.812Z</updated>
+    <updated>2022-03-11T06:17:15.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[40대 중반의 엄마의 마음 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/0kt5DK</id>
+        <link href="https://alook.so/posts/0kt5DK"/>
+        <updated>2022-03-11T06:15:13.481Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt5DK">40대 중반의 엄마의 마음</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-트럼프?? 20대 대선에 대한 해외 언론들의 보도 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/xltKe3</id>
@@ -17,13 +24,6 @@
         <link href="https://alook.so/posts/E7tyEW"/>
         <updated>2022-03-11T05:11:24.980Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tyEW">최저임금 인상은 누굴위한 정책일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20대 대선, 지역 표심의 분포 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/RGt8R0</id>
-        <link href="https://alook.so/posts/RGt8R0"/>
-        <updated>2022-03-11T05:11:24.981Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt8R0">20대 대선, 지역 표심의 분포</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업이 세상은 어떻게 바꾸나요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -59,13 +59,6 @@
         <link href="https://alook.so/posts/70toPV"/>
         <updated>2022-03-11T04:14:39.114Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70toPV">[늦은 아침 생각] 덜 떨어진 놈, 그놈, 허영</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년심판(2022); 심판과 재판, 처분과 처벌 사이 (長文주의보) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/yEtBJZ</id>
-        <link href="https://alook.so/posts/yEtBJZ"/>
-        <updated>2022-03-11T04:14:39.114Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtBJZ">소년심판(2022); 심판과 재판, 처분과 처벌 사이 (長文주의보) </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[낚였나? 얼룩소에 아니 유투브에? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -124,38 +117,38 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtBKl">긱 워커(Gig worker)를 아시나요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[40대 중반의 엄마의 마음 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0kt5DK</id>
+        <link href="https://alook.so/posts/0kt5DK"/>
+        <updated>2022-03-11T06:15:21.919Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0kt5DK">40대 중반의 엄마의 마음</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[K-트럼프?? 20대 대선에 대한 해외 언론들의 보도 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/xltKe3</id>
         <link href="https://alook.so/posts/xltKe3"/>
-        <updated>2022-03-11T05:11:33.525Z</updated>
+        <updated>2022-03-11T05:11:24.972Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltKe3">K-트럼프?? 20대 대선에 대한 해외 언론들의 보도</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최저임금 인상은 누굴위한 정책일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/E7tyEW</id>
         <link href="https://alook.so/posts/E7tyEW"/>
-        <updated>2022-03-11T05:11:33.525Z</updated>
+        <updated>2022-03-11T05:11:24.980Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tyEW">최저임금 인상은 누굴위한 정책일까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20대 대선, 지역 표심의 분포 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/RGt8R0</id>
-        <link href="https://alook.so/posts/RGt8R0"/>
-        <updated>2022-03-11T05:11:33.525Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt8R0">20대 대선, 지역 표심의 분포</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스타트업이 세상은 어떻게 바꾸나요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/mbtr4P</id>
         <link href="https://alook.so/posts/mbtr4P"/>
-        <updated>2022-03-11T05:11:33.525Z</updated>
+        <updated>2022-03-11T05:11:24.981Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtr4P">스타트업이 세상은 어떻게 바꾸나요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 당선 - 왜 이런 망할 일이 벌어졌는가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/DjteEa</id>
         <link href="https://alook.so/posts/DjteEa"/>
-        <updated>2022-03-11T05:11:33.525Z</updated>
+        <updated>2022-03-11T05:11:24.988Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjteEa">윤석열 당선 - 왜 이런 망할 일이 벌어졌는가 </a>]]></content>
     </entry>
     <entry>
@@ -178,13 +171,6 @@
         <link href="https://alook.so/posts/70toPV"/>
         <updated>2022-03-11T04:14:39.114Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70toPV">[늦은 아침 생각] 덜 떨어진 놈, 그놈, 허영</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소년심판(2022); 심판과 재판, 처분과 처벌 사이 (長文주의보) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/yEtBJZ</id>
-        <link href="https://alook.so/posts/yEtBJZ"/>
-        <updated>2022-03-11T04:14:39.114Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtBJZ">소년심판(2022); 심판과 재판, 처분과 처벌 사이 (長文주의보) </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[낚였나? 얼룩소에 아니 유투브에? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -768,6 +754,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/potWbr">우리나라의 2030년까지의 온실가스감축목표를 논의하는 공개 토론회가 열립니다</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[멋진 시각화에 감탄했습니다! (alookso ─ 권승준)]]></title>
+        <id>https://alook.so/posts/rDtE3z</id>
+        <link href="https://alook.so/posts/rDtE3z"/>
+        <updated>2022-03-11T06:16:57.702Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtE3z">멋진 시각화에 감탄했습니다!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[내 한 표의 효용에 관한 고전적인 짤 하나 (alookso ─ 권승준)]]></title>
         <id>https://alook.so/posts/mbt0GM</id>
         <link href="https://alook.so/posts/mbt0GM"/>
@@ -829,13 +822,6 @@
         <link href="https://alook.so/posts/E7tqaa"/>
         <updated>2022-03-02T12:20:11.430Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tqaa">사회자 진행능력이 오늘이 가장 떨어지는 것 같네요. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안철수 후보가 민간기업의 지역 유치를 이야기하네요. (alookso ─ 권승준)]]></title>
-        <id>https://alook.so/posts/70t7kP</id>
-        <link href="https://alook.so/posts/70t7kP"/>
-        <updated>2022-03-02T12:18:30.346Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70t7kP">안철수 후보가 민간기업의 지역 유치를 이야기하네요. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 확산기에 예측 모형이란 (alookso ─ Nobody)]]></title>
