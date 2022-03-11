@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-11T16:18:47.138Z</updated>
+    <updated>2022-03-11T17:15:53.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[아픈 마음 호오~~ 해줄게 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -138,18 +138,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tpqe">탄소 배출 적은 수돗물, 친환경 음용수지만 마시는 국민은 3명 중 1명</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[헉~ 이게 무슨일인고? 내글이 왜? 뜨는글에? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/KmtJnr</id>
+        <link href="https://alook.so/posts/KmtJnr"/>
+        <updated>2022-03-11T17:14:05.348Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtJnr">헉~ 이게 무슨일인고? 내글이 왜? 뜨는글에?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[구독은 누르는데 왜 좋아요는 안 누를까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/G1tbab</id>
         <link href="https://alook.so/posts/G1tbab"/>
         <updated>2022-03-11T16:17:04.425Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tbab">구독은 누르는데 왜 좋아요는 안 누를까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 일종의 "백색 소음" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/YytoKG</id>
-        <link href="https://alook.so/posts/YytoKG"/>
-        <updated>2022-03-11T16:17:04.425Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/YytoKG">답글: 일종의 "백색 소음"</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 인생에 없는 것들 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -255,13 +255,6 @@
         <link href="https://alook.so/posts/70tojr"/>
         <updated>2022-03-11T02:12:33.678Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tojr">윤석열 당선인의 승리를 축하하며</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소가 또 변신했군요.ㅎㅎ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/WLtVRG</id>
-        <link href="https://alook.so/posts/WLtVRG"/>
-        <updated>2022-03-11T15:12:14.524Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLtVRG">얼룩소가 또 변신했군요.ㅎㅎ</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[승리 이후 [대선 에세이] (alookso ─ alookso)]]></title>
