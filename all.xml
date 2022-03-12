@@ -2,35 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-12T04:17:41.459Z</updated>
+    <updated>2022-03-12T05:12:21.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[시군구별 득표율 차이 보로노이 트리맵 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/pot4ev</id>
+        <link href="https://alook.so/posts/pot4ev"/>
+        <updated>2022-03-12T03:14:45.116Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot4ev">시군구별 득표율 차이 보로노이 트리맵</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나는 오늘도 얼룩소에서 활동하고 있다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/E7tEBX</id>
         <link href="https://alook.so/posts/E7tEBX"/>
         <updated>2022-03-12T04:15:42.695Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tEBX">나는 오늘도 얼룩소에서 활동하고 있다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법의 목적이 '처벌'인 적은 한 번도 없었다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/LKt3rx</id>
-        <link href="https://alook.so/posts/LKt3rx"/>
-        <updated>2022-03-12T02:33:49.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt3rx">법의 목적이 '처벌'인 적은 한 번도 없었다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['우범소년'이라고 아시나요?  (또 長文주의보) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/xltRmR</id>
-        <link href="https://alook.so/posts/xltRmR"/>
-        <updated>2022-03-12T02:33:49.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltRmR">'우범소년'이라고 아시나요?  (또 長文주의보) </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여가부 폐지, 그 이후 시나리오 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/o7tzmo</id>
-        <link href="https://alook.so/posts/o7tzmo"/>
-        <updated>2022-03-12T01:58:43.909Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tzmo">여가부 폐지, 그 이후 시나리오</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[예전에는 맞아도 지금은 아니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -40,11 +26,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tEna">예전에는 맞아도 지금은 아니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['성적수치심' 아닌 '성적빡치심'을 나타낼 수 있는 어휘는, '성적불쾌감'? '성적모욕감'! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/92tMyY</id>
-        <link href="https://alook.so/posts/92tMyY"/>
-        <updated>2022-03-11T18:13:46.899Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tMyY">'성적수치심' 아닌 '성적빡치심'을 나타낼 수 있는 어휘는, '성적불쾌감'? '성적모욕감'!</a>]]></content>
+        <title type="html"><![CDATA['우범소년'이라고 아시나요?  (또 長文주의보) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xltRmR</id>
+        <link href="https://alook.so/posts/xltRmR"/>
+        <updated>2022-03-12T02:33:49.988Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltRmR">'우범소년'이라고 아시나요?  (또 長文주의보) </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[법의 목적이 '처벌'인 적은 한 번도 없었다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/LKt3rx</id>
+        <link href="https://alook.so/posts/LKt3rx"/>
+        <updated>2022-03-12T02:33:49.988Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt3rx">법의 목적이 '처벌'인 적은 한 번도 없었다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[여가부 폐지, 그 이후 시나리오 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tzmo</id>
+        <link href="https://alook.so/posts/o7tzmo"/>
+        <updated>2022-03-12T01:58:43.909Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tzmo">여가부 폐지, 그 이후 시나리오</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[암컷 길냥이의 삶 그리고 여성의 삶 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -54,11 +54,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70ta6z">암컷 길냥이의 삶 그리고 여성의 삶</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[구독은 누르는데 왜 좋아요는 안 누를까 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/G1tbab</id>
-        <link href="https://alook.so/posts/G1tbab"/>
-        <updated>2022-03-11T16:17:04.425Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tbab">구독은 누르는데 왜 좋아요는 안 누를까</a>]]></content>
+        <title type="html"><![CDATA['성적수치심' 아닌 '성적빡치심'을 나타낼 수 있는 어휘는, '성적불쾌감'? '성적모욕감'! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/92tMyY</id>
+        <link href="https://alook.so/posts/92tMyY"/>
+        <updated>2022-03-11T18:13:46.899Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tMyY">'성적수치심' 아닌 '성적빡치심'을 나타낼 수 있는 어휘는, '성적불쾌감'? '성적모욕감'!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 인생에 없는 것들 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -68,18 +68,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktRM2">답글: 인생에 없는 것들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아픈 마음 호오~~ 해줄게 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7tRJd</id>
-        <link href="https://alook.so/posts/E7tRJd"/>
-        <updated>2022-03-12T04:15:42.710Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tRJd">아픈 마음 호오~~ 해줄게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행동 변화로 온실가스 줄이기: 수돗물은 안전하고 친환경적입니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/G1t7eB</id>
-        <link href="https://alook.so/posts/G1t7eB"/>
-        <updated>2022-03-11T12:19:10.890Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t7eB">행동 변화로 온실가스 줄이기: 수돗물은 안전하고 친환경적입니다</a>]]></content>
+        <title type="html"><![CDATA[구독은 누르는데 왜 좋아요는 안 누를까 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/G1tbab</id>
+        <link href="https://alook.so/posts/G1tbab"/>
+        <updated>2022-03-11T16:17:04.425Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tbab">구독은 누르는데 왜 좋아요는 안 누를까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오은영 박사의 방송 출연이 늘어난다는 것의 의미 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -87,6 +80,13 @@
         <link href="https://alook.so/posts/w9tZME"/>
         <updated>2022-03-11T10:13:32.036Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tZME">오은영 박사의 방송 출연이 늘어난다는 것의 의미</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[악순환을 끊자 - 심상정 후원금 12억을 생각하며 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/latnGM</id>
+        <link href="https://alook.so/posts/latnGM"/>
+        <updated>2022-03-12T05:10:16.508Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latnGM">악순환을 끊자 - 심상정 후원금 12억을 생각하며</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['너'가 아니라 '나'를 사랑하길. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -103,25 +103,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt8b5">가끔, 힘이 빠지는 답글이 달립니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[낚였나? 얼룩소에 아니 유투브에? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Yytda2</id>
-        <link href="https://alook.so/posts/Yytda2"/>
-        <updated>2022-03-11T04:14:39.114Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytda2">낚였나? 얼룩소에 아니 유투브에?</a>]]></content>
+        <title type="html"><![CDATA[20대 대선, 지역 표심의 분포 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/RGt8R0</id>
+        <link href="https://alook.so/posts/RGt8R0"/>
+        <updated>2022-03-12T05:10:16.512Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGt8R0">20대 대선, 지역 표심의 분포</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[최저임금 인상은 누굴위한 정책일까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7tyEW</id>
-        <link href="https://alook.so/posts/E7tyEW"/>
-        <updated>2022-03-11T05:11:24.980Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tyEW">최저임금 인상은 누굴위한 정책일까?</a>]]></content>
+        <title type="html"><![CDATA[K-트럼프?? 20대 대선에 대한 해외 언론들의 보도 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xltKe3</id>
+        <link href="https://alook.so/posts/xltKe3"/>
+        <updated>2022-03-12T05:10:16.513Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltKe3">K-트럼프?? 20대 대선에 대한 해외 언론들의 보도</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열 당선 - 왜 이런 망할 일이 벌어졌는가 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/DjteEa</id>
-        <link href="https://alook.so/posts/DjteEa"/>
-        <updated>2022-03-11T05:11:24.988Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/DjteEa">윤석열 당선 - 왜 이런 망할 일이 벌어졌는가 </a>]]></content>
+        <title type="html"><![CDATA[스타트업이 세상은 어떻게 바꾸나요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/mbtr4P</id>
+        <link href="https://alook.so/posts/mbtr4P"/>
+        <updated>2022-03-12T05:10:16.516Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtr4P">스타트업이 세상은 어떻게 바꾸나요</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[말하기를 좋아하던 아이 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -131,17 +131,31 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dztk2r">말하기를 좋아하던 아이 </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[30살  모은돈이 없습니다. 심지어 마이너스 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7tybE</id>
-        <link href="https://alook.so/posts/E7tybE"/>
-        <updated>2022-03-11T02:12:33.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tybE">30살  모은돈이 없습니다. 심지어 마이너스</a>]]></content>
+        <title type="html"><![CDATA[낚였나? 얼룩소에 아니 유투브에? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Yytda2</id>
+        <link href="https://alook.so/posts/Yytda2"/>
+        <updated>2022-03-11T04:14:39.114Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytda2">낚였나? 얼룩소에 아니 유투브에?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈이 도대체 뭘까요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/bWtbKa</id>
+        <link href="https://alook.so/posts/bWtbKa"/>
+        <updated>2022-03-12T05:10:25.688Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtbKa">돈이 도대체 뭘까요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시군구별 득표율 차이 보로노이 트리맵 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/pot4ev</id>
+        <link href="https://alook.so/posts/pot4ev"/>
+        <updated>2022-03-12T03:14:45.116Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot4ev">시군구별 득표율 차이 보로노이 트리맵</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[나는 오늘도 얼룩소에서 활동하고 있다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/E7tEBX</id>
         <link href="https://alook.so/posts/E7tEBX"/>
-        <updated>2022-03-12T04:15:50.671Z</updated>
+        <updated>2022-03-12T04:15:42.695Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tEBX">나는 오늘도 얼룩소에서 활동하고 있다</a>]]></content>
     </entry>
     <entry>
@@ -201,20 +215,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktRM2">답글: 인생에 없는 것들</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[아픈 마음 호오~~ 해줄게 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7tRJd</id>
-        <link href="https://alook.so/posts/E7tRJd"/>
-        <updated>2022-03-12T04:15:50.684Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tRJd">아픈 마음 호오~~ 해줄게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행동 변화로 온실가스 줄이기: 수돗물은 안전하고 친환경적입니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/G1t7eB</id>
-        <link href="https://alook.so/posts/G1t7eB"/>
-        <updated>2022-03-11T12:19:10.890Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1t7eB">행동 변화로 온실가스 줄이기: 수돗물은 안전하고 친환경적입니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오은영 박사의 방송 출연이 늘어난다는 것의 의미 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/w9tZME</id>
         <link href="https://alook.so/posts/w9tZME"/>
@@ -241,13 +241,6 @@
         <link href="https://alook.so/posts/Yytda2"/>
         <updated>2022-03-11T04:14:39.114Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yytda2">낚였나? 얼룩소에 아니 유투브에?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최저임금 인상은 누굴위한 정책일까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7tyEW</id>
-        <link href="https://alook.so/posts/E7tyEW"/>
-        <updated>2022-03-11T05:11:24.980Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7tyEW">최저임금 인상은 누굴위한 정책일까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 당선 - 왜 이런 망할 일이 벌어졌는가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
