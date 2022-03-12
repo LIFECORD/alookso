@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-12T11:12:36.295Z</updated>
+    <updated>2022-03-12T12:19:53.158Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사람간 이식보다 동물 장기이식이 이렇게나 좋군요~!!!]]></title>
+        <id>https://alook.so/posts/J5tRYy</id>
+        <link href="https://alook.so/posts/J5tRYy"/>
+        <updated>2022-03-12T12:18:02.820Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tRYy">사람간 이식보다 동물 장기이식이 이렇게나 좋군요~!!!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 폰으로 많이 하시나요 컴터로 하시나요]]></title>
         <id>https://alook.so/posts/Kmt4MZ</id>
@@ -88,13 +95,6 @@
         <link href="https://alook.so/posts/LKt3rx"/>
         <updated>2022-03-12T02:33:49.988Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKt3rx">법의 목적이 '처벌'인 적은 한 번도 없었다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여가부 폐지, 그 이후 시나리오]]></title>
-        <id>https://alook.so/posts/o7tzmo</id>
-        <link href="https://alook.so/posts/o7tzmo"/>
-        <updated>2022-03-12T01:58:51.725Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tzmo">여가부 폐지, 그 이후 시나리오</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[암컷 길냥이의 삶 그리고 여성의 삶]]></title>
