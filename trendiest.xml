@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-12T09:13:36.337Z</updated>
+    <updated>2022-03-12T10:14:40.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 폰으로 많이 하시나요 컴터로 하시나요]]></title>
+        <id>https://alook.so/posts/Kmt4MZ</id>
+        <link href="https://alook.so/posts/Kmt4MZ"/>
+        <updated>2022-03-12T10:12:48.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Kmt4MZ">얼룩소 폰으로 많이 하시나요 컴터로 하시나요 </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리 가족에게도 찾아온 코로나의 검은 그림자]]></title>
+        <id>https://alook.so/posts/Djt1x2</id>
+        <link href="https://alook.so/posts/Djt1x2"/>
+        <updated>2022-03-12T10:12:48.795Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt1x2">우리 가족에게도 찾아온 코로나의 검은 그림자 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나쁜 습관 버리기~]]></title>
         <id>https://alook.so/posts/vKtojp</id>
@@ -102,13 +116,6 @@
         <link href="https://alook.so/posts/G1tbab"/>
         <updated>2022-03-11T16:17:04.425Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tbab">구독은 누르는데 왜 좋아요는 안 누를까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 인생에 없는 것들]]></title>
-        <id>https://alook.so/posts/ZktRM2</id>
-        <link href="https://alook.so/posts/ZktRM2"/>
-        <updated>2022-03-11T16:17:04.425Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktRM2">답글: 인생에 없는 것들</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오은영 박사의 방송 출연이 늘어난다는 것의 의미]]></title>
