@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-14T00:49:09.714Z</updated>
+    <updated>2022-03-14T02:12:13.390Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[와우!~~ 가입한지 8일만에 포인트가 ^^'']]></title>
+        <id>https://alook.so/posts/KmtD1Mo</id>
+        <link href="https://alook.so/posts/KmtD1Mo"/>
+        <updated>2022-03-14T02:10:18.912Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtD1Mo">와우!~~ 가입한지 8일만에 포인트가 ^^''</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[평범한 직장인 아빠가 과연 가정을 부양할 수 있을까?]]></title>
+        <id>https://alook.so/posts/XBtXB4k</id>
+        <link href="https://alook.so/posts/XBtXB4k"/>
+        <updated>2022-03-14T02:10:18.912Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXB4k">평범한 직장인 아빠가 과연 가정을 부양할 수 있을까?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[😭아침부터 이러면 안되는거 아는데요]]></title>
+        <id>https://alook.so/posts/70tek8E</id>
+        <link href="https://alook.so/posts/70tek8E"/>
+        <updated>2022-03-14T02:10:18.913Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tek8E">😭아침부터 이러면 안되는거 아는데요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[seoul... soul. 사람, 사랑. :)]]></title>
+        <id>https://alook.so/posts/VntwWV9</id>
+        <link href="https://alook.so/posts/VntwWV9"/>
+        <updated>2022-03-14T02:10:18.917Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwWV9">seoul... soul. 사람, 사랑. :)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[망한 치킨장사]]></title>
         <id>https://alook.so/posts/LKtm7K1</id>
@@ -76,13 +104,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t77d4">고맙고도 고마운 비 온 뒤 봄날의 풍경</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에서는 ~린이라는 말을 삼가는 게 어떨까요.]]></title>
-        <id>https://alook.so/posts/Zkta9ql</id>
-        <link href="https://alook.so/posts/Zkta9ql"/>
-        <updated>2022-03-13T11:10:01.586Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkta9ql">얼룩소에서는 ~린이라는 말을 삼가는 게 어떨까요. </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나는 몸과 마음 페이지에 있는 사람들이 좋다]]></title>
         <id>https://alook.so/posts/pot724y</id>
         <link href="https://alook.so/posts/pot724y"/>
@@ -97,25 +118,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyyp7">식구가 그립다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[회복제 58을 마시기 전, 철저히 걷어내야 할 독버섯 3]]></title>
-        <id>https://alook.so/posts/92te1W5</id>
-        <link href="https://alook.so/posts/92te1W5"/>
-        <updated>2022-03-13T06:19:14.013Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92te1W5">회복제 58을 마시기 전, 철저히 걷어내야 할 독버섯 3</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[장학사님 오셨다~ 대청소해라~~~]]></title>
         <id>https://alook.so/posts/70tenxv</id>
         <link href="https://alook.so/posts/70tenxv"/>
         <updated>2022-03-13T06:19:14.013Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tenxv">장학사님 오셨다~ 대청소해라~~~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소셜 딜레마와 얼룩소 딜레마.]]></title>
-        <id>https://alook.so/posts/Zkta95l</id>
-        <link href="https://alook.so/posts/Zkta95l"/>
-        <updated>2022-03-13T04:15:06.865Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkta95l">소셜 딜레마와 얼룩소 딜레마.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고등학교 자퇴]]></title>
