@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-14T11:12:51.475Z</updated>
+    <updated>2022-03-14T12:21:00.156Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[수돗물을 마시며 산다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/q1tGpEZ</id>
+        <link href="https://alook.so/posts/q1tGpEZ"/>
+        <updated>2022-03-14T12:18:57.587Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGpEZ">수돗물을 마시며 산다 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[답글 위주 3일차 얼룩커 첫 포인트 2,449원 정산후 소감! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/G1tkwR8</id>
@@ -131,13 +138,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkk3b">요리와 글짓기에 대한 짧은 생각.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고맙고도 고마운 비 온 뒤 봄날의 풍경 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7t77d4</id>
-        <link href="https://alook.so/posts/E7t77d4"/>
-        <updated>2022-03-13T11:09:52.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t77d4">고맙고도 고마운 비 온 뒤 봄날의 풍경</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고등학교 자퇴 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/o7tny7o</id>
         <link href="https://alook.so/posts/o7tny7o"/>
@@ -145,17 +145,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tny7o">고등학교 자퇴</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[수돗물을 마시며 산다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1tGpEZ</id>
+        <link href="https://alook.so/posts/q1tGpEZ"/>
+        <updated>2022-03-14T12:19:06.561Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGpEZ">수돗물을 마시며 산다 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[답글 위주 3일차 얼룩커 첫 포인트 2,449원 정산후 소감! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/G1tkwR8</id>
         <link href="https://alook.so/posts/G1tkwR8"/>
-        <updated>2022-03-14T11:11:04.333Z</updated>
+        <updated>2022-03-14T11:10:56.296Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkwR8">답글 위주 3일차 얼룩커 첫 포인트 2,449원 정산후 소감!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오 저도 얼룩커가 되었네요 ㅎㅎㅎ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Yyt06nG</id>
         <link href="https://alook.so/posts/Yyt06nG"/>
-        <updated>2022-03-14T11:11:04.334Z</updated>
+        <updated>2022-03-14T11:10:56.296Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt06nG">오 저도 얼룩커가 되었네요 ㅎㅎㅎ </a>]]></content>
     </entry>
     <entry>
@@ -269,13 +276,6 @@
         <link href="https://alook.so/posts/RGtkk3b"/>
         <updated>2022-03-13T13:15:41.718Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkk3b">요리와 글짓기에 대한 짧은 생각.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고맙고도 고마운 비 온 뒤 봄날의 풍경 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7t77d4</id>
-        <link href="https://alook.so/posts/E7t77d4"/>
-        <updated>2022-03-13T11:09:52.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t77d4">고맙고도 고마운 비 온 뒤 봄날의 풍경</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고등학교 자퇴 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
