@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-14T10:15:27.007Z</updated>
+    <updated>2022-03-14T11:12:51.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[답글 위주 3일차 얼룩커 첫 포인트 2,449원 정산후 소감! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/G1tkwR8</id>
+        <link href="https://alook.so/posts/G1tkwR8"/>
+        <updated>2022-03-14T11:10:56.296Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkwR8">답글 위주 3일차 얼룩커 첫 포인트 2,449원 정산후 소감!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오 저도 얼룩커가 되었네요 ㅎㅎㅎ (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Yyt06nG</id>
+        <link href="https://alook.so/posts/Yyt06nG"/>
+        <updated>2022-03-14T11:10:56.296Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt06nG">오 저도 얼룩커가 되었네요 ㅎㅎㅎ </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다들 포인트 받으셨나용~? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/WLt57Ez</id>
@@ -110,13 +124,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt00mk">얼룩소 건의사항을 정리해볼까요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비어있는 공(空)감보다 함께하는 공(共)감이 필요한 공간 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/RGtkk2M</id>
-        <link href="https://alook.so/posts/RGtkk2M"/>
-        <updated>2022-03-13T16:15:53.199Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkk2M">비어있는 공(空)감보다 함께하는 공(共)감이 필요한 공간</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[요리와 글짓기에 대한 짧은 생각. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/RGtkk3b</id>
         <link href="https://alook.so/posts/RGtkk3b"/>
@@ -131,13 +138,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t77d4">고맙고도 고마운 비 온 뒤 봄날의 풍경</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나는 몸과 마음 페이지에 있는 사람들이 좋다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/pot724y</id>
-        <link href="https://alook.so/posts/pot724y"/>
-        <updated>2022-03-13T11:09:52.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot724y">나는 몸과 마음 페이지에 있는 사람들이 좋다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[고등학교 자퇴 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/o7tny7o</id>
         <link href="https://alook.so/posts/o7tny7o"/>
@@ -145,24 +145,38 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tny7o">고등학교 자퇴</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[답글 위주 3일차 얼룩커 첫 포인트 2,449원 정산후 소감! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/G1tkwR8</id>
+        <link href="https://alook.so/posts/G1tkwR8"/>
+        <updated>2022-03-14T11:11:04.333Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkwR8">답글 위주 3일차 얼룩커 첫 포인트 2,449원 정산후 소감!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오 저도 얼룩커가 되었네요 ㅎㅎㅎ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Yyt06nG</id>
+        <link href="https://alook.so/posts/Yyt06nG"/>
+        <updated>2022-03-14T11:11:04.334Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt06nG">오 저도 얼룩커가 되었네요 ㅎㅎㅎ </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[다들 포인트 받으셨나용~? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/WLt57Ez</id>
         <link href="https://alook.so/posts/WLt57Ez"/>
-        <updated>2022-03-14T10:13:29.316Z</updated>
+        <updated>2022-03-14T10:13:20.596Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt57Ez">다들 포인트 받으셨나용~?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[주위 사람이 잘되면 배가 아픈가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Yyt05xK</id>
         <link href="https://alook.so/posts/Yyt05xK"/>
-        <updated>2022-03-14T10:13:29.317Z</updated>
+        <updated>2022-03-14T10:13:20.597Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt05xK">주위 사람이 잘되면 배가 아픈가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가치관이 변하게 되는 시점 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/4Xteoql</id>
         <link href="https://alook.so/posts/4Xteoql"/>
-        <updated>2022-03-14T10:13:29.318Z</updated>
+        <updated>2022-03-14T10:13:20.597Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xteoql">가치관이 변하게 되는 시점 </a>]]></content>
     </entry>
     <entry>
@@ -250,13 +264,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt00mk">얼룩소 건의사항을 정리해볼까요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[비어있는 공(空)감보다 함께하는 공(共)감이 필요한 공간 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/RGtkk2M</id>
-        <link href="https://alook.so/posts/RGtkk2M"/>
-        <updated>2022-03-13T16:15:53.199Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkk2M">비어있는 공(空)감보다 함께하는 공(共)감이 필요한 공간</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[요리와 글짓기에 대한 짧은 생각. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/RGtkk3b</id>
         <link href="https://alook.so/posts/RGtkk3b"/>
@@ -269,13 +276,6 @@
         <link href="https://alook.so/posts/E7t77d4"/>
         <updated>2022-03-13T11:09:52.748Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t77d4">고맙고도 고마운 비 온 뒤 봄날의 풍경</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나는 몸과 마음 페이지에 있는 사람들이 좋다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/pot724y</id>
-        <link href="https://alook.so/posts/pot724y"/>
-        <updated>2022-03-13T11:09:52.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot724y">나는 몸과 마음 페이지에 있는 사람들이 좋다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고등학교 자퇴 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
