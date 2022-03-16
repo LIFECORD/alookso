@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-16T07:14:42.691Z</updated>
+    <updated>2022-03-16T08:19:18.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[답글: PTG(외상 후 성장), 그리고 회복 탄력성]]></title>
-        <id>https://alook.so/posts/rDtvrVw</id>
-        <link href="https://alook.so/posts/rDtvrVw"/>
-        <updated>2022-03-16T07:12:42.479Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvrVw">답글: PTG(외상 후 성장), 그리고 회복 탄력성</a>]]></content>
+        <title type="html"><![CDATA[늘 부지런한 악에 대해 생각해봅니다.]]></title>
+        <id>https://alook.so/posts/w9tpxrj</id>
+        <link href="https://alook.so/posts/w9tpxrj"/>
+        <updated>2022-03-16T08:17:25.362Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpxrj">늘 부지런한 악에 대해 생각해봅니다. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[마약 문제, 아이들을 위해 빠른 대처를 해야]]></title>
@@ -18,6 +18,13 @@
         <link href="https://alook.so/posts/4Xtekvd"/>
         <updated>2022-03-16T07:12:42.480Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtekvd">마약 문제, 아이들을 위해 빠른 대처를 해야</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[답글: PTG(외상 후 성장), 그리고 회복 탄력성]]></title>
+        <id>https://alook.so/posts/rDtvrVw</id>
+        <link href="https://alook.so/posts/rDtvrVw"/>
+        <updated>2022-03-16T07:12:42.479Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvrVw">답글: PTG(외상 후 성장), 그리고 회복 탄력성</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한국의 민주주의, 좀 더 심화해서 보면 좋을 글(은 제 옛날 글..)]]></title>
