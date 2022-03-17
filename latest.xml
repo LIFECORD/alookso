@@ -2,22 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-17T03:15:42.514Z</updated>
+    <updated>2022-03-17T04:17:35.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[늘 부지런한 악에 대해 생각해봅니다.]]></title>
-        <id>https://alook.so/posts/w9tpxrj</id>
-        <link href="https://alook.so/posts/w9tpxrj"/>
-        <updated>2022-03-17T03:13:40.997Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpxrj">늘 부지런한 악에 대해 생각해봅니다. </a>]]></content>
+        <title type="html"><![CDATA[비판과 자기 관점은 같지 않다]]></title>
+        <id>https://alook.so/posts/G1tkp1v</id>
+        <link href="https://alook.so/posts/G1tkp1v"/>
+        <updated>2022-03-17T04:15:36.845Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkp1v">비판과 자기 관점은 같지 않다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 집 마련, 그 방법 아닌 것 같아.]]></title>
-        <id>https://alook.so/posts/yEtEJWa</id>
-        <link href="https://alook.so/posts/yEtEJWa"/>
-        <updated>2022-03-17T03:13:40.997Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEJWa">내 집 마련, 그 방법 아닌 것 같아.</a>]]></content>
+        <title type="html"><![CDATA[아는 사람에게서 나 우울증에 걸렸어라는 말 들으시면 어떠세요??]]></title>
+        <id>https://alook.so/posts/eVtMpJG</id>
+        <link href="https://alook.so/posts/eVtMpJG"/>
+        <updated>2022-03-17T04:15:36.845Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMpJG">아는 사람에게서 나 우울증에 걸렸어라는 말 들으시면 어떠세요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일을 하고 싶다]]></title>
+        <id>https://alook.so/posts/70te53M</id>
+        <link href="https://alook.so/posts/70te53M"/>
+        <updated>2022-03-17T04:15:36.845Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70te53M">일을 하고 싶다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소 첫주차 소회]]></title>
+        <id>https://alook.so/posts/J5tOJon</id>
+        <link href="https://alook.so/posts/J5tOJon"/>
+        <updated>2022-03-17T04:15:36.846Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOJon">얼룩소 첫주차 소회</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글쓰기 껌이지(Come easy)1 - 짧게 써라]]></title>
@@ -32,13 +46,6 @@
         <link href="https://alook.so/posts/XBtXeRW"/>
         <updated>2022-03-17T03:13:41.005Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXeRW">동물 입양에 대해서 함부로 결정하고 말하지 말자</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스웨덴은 세계 최초의 "진짜" 탄소중립 국가가 될 수 있을까 [.brf]]]></title>
-        <id>https://alook.so/posts/Yyt0E5r</id>
-        <link href="https://alook.so/posts/Yyt0E5r"/>
-        <updated>2022-03-17T02:14:09.556Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0E5r">스웨덴은 세계 최초의 "진짜" 탄소중립 국가가 될 수 있을까 [.brf]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 글이 너무 어려운 분들께]]></title>
@@ -102,13 +109,6 @@
         <link href="https://alook.so/posts/4Xtekvd"/>
         <updated>2022-03-16T07:12:42.480Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4Xtekvd">마약 문제, 아이들을 위해 빠른 대처해야</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: PTG(외상 후 성장), 그리고 회복 탄력성]]></title>
-        <id>https://alook.so/posts/rDtvrVw</id>
-        <link href="https://alook.so/posts/rDtvrVw"/>
-        <updated>2022-03-17T00:47:46.616Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvrVw">답글: PTG(외상 후 성장), 그리고 회복 탄력성</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[길고 길었던 형사 소송... 그리고 결과]]></title>
