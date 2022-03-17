@@ -2,15 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-17T00:49:39.039Z</updated>
+    <updated>2022-03-17T02:16:03.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[지구는 누가 지킬까?]]></title>
+        <id>https://alook.so/posts/1RtJB5m</id>
+        <link href="https://alook.so/posts/1RtJB5m"/>
+        <updated>2022-03-17T02:14:09.553Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJB5m">지구는 누가 지킬까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대한민국 우울증 지수 1위]]></title>
         <id>https://alook.so/posts/Bata0lG</id>
         <link href="https://alook.so/posts/Bata0lG"/>
         <updated>2022-03-17T00:47:46.608Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bata0lG">대한민국 우울증 지수 1위</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스웨덴은 세계 최초의 "진짜" 탄소중립 국가가 될 수 있을까 [.brf]]]></title>
+        <id>https://alook.so/posts/Yyt0E5r</id>
+        <link href="https://alook.so/posts/Yyt0E5r"/>
+        <updated>2022-03-17T02:14:09.556Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0E5r">스웨덴은 세계 최초의 "진짜" 탄소중립 국가가 될 수 있을까 [.brf]</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 글이 너무 어려운 분들께]]></title>
@@ -27,32 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmwOe">얼룩소의 독특함과 잠재력</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[오랜만에 먹어보는 우짜]]></title>
-        <id>https://alook.so/posts/q1tG09E</id>
-        <link href="https://alook.so/posts/q1tG09E"/>
-        <updated>2022-03-16T15:12:53.022Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tG09E">오랜만에 먹어보는 우짜 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아빠의 선물,뭐가 좋을까요??]]></title>
-        <id>https://alook.so/posts/rDtvb2J</id>
-        <link href="https://alook.so/posts/rDtvb2J"/>
-        <updated>2022-03-16T15:12:53.022Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvb2J">아빠의 선물,뭐가 좋을까요??</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[늦은 나이라도 시작해야겠죠?]]></title>
         <id>https://alook.so/posts/vKtBEyK</id>
         <link href="https://alook.so/posts/vKtBEyK"/>
         <updated>2022-03-16T15:12:53.023Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtBEyK">늦은 나이라도 시작해야겠죠?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밥 먹을때 쩝쩝대고 먹는 것]]></title>
-        <id>https://alook.so/posts/VntwnE3</id>
-        <link href="https://alook.so/posts/VntwnE3"/>
-        <updated>2022-03-16T15:12:53.024Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwnE3">밥 먹을때 쩝쩝대고 먹는 것</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[거리가 필요해]]></title>
@@ -62,11 +55,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwnGB">거리가 필요해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[먹방 유튜브 채널을 자주 보시나요❓]]></title>
-        <id>https://alook.so/posts/zvtD1em</id>
-        <link href="https://alook.so/posts/zvtD1em"/>
-        <updated>2022-03-16T11:09:53.326Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtD1em">먹방 유튜브 채널을 자주 보시나요❓</a>]]></content>
+        <title type="html"><![CDATA[현 에너지 위기가 친환경 시대를 견인하기 어려운 이유]]></title>
+        <id>https://alook.so/posts/Yyt0Xm9</id>
+        <link href="https://alook.so/posts/Yyt0Xm9"/>
+        <updated>2022-03-17T02:14:09.572Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0Xm9">현 에너지 위기가 친환경 시대를 견인하기 어려운 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민의를 제대로 대변하는 선거 제도 같은 건 없다 : 애로우의 '불가능성 정리']]></title>
