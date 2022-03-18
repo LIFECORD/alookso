@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T11:21:51.699Z</updated>
+    <updated>2022-03-18T12:37:02.433Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[가정 밖에도 청소년은 존재한다 : 영화 『거인』 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/OEtLE9j</id>
+        <link href="https://alook.so/posts/OEtLE9j"/>
+        <updated>2022-03-18T12:35:02.587Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtLE9j">가정 밖에도 청소년은 존재한다 : 영화 『거인』</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결선투표제는 과연 정치를 바꿀 것인가 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/70teJde</id>
+        <link href="https://alook.so/posts/70teJde"/>
+        <updated>2022-03-18T12:35:02.587Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teJde">결선투표제는 과연 정치를 바꿀 것인가</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비오는날 신문배달 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/XBtXkwD</id>
@@ -24,13 +38,6 @@
         <link href="https://alook.so/posts/njt0Ybj"/>
         <updated>2022-03-18T10:48:20.434Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt0Ybj">"네가 하는 말, 어느 나라 언어야?"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어디서 하느냐보다 어떻게 하느냐가 더 중요한 시점 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/dzt2644</id>
-        <link href="https://alook.so/posts/dzt2644"/>
-        <updated>2022-03-18T10:48:20.434Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2644">어디서 하느냐보다 어떻게 하느냐가 더 중요한 시점</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대표적 3D업종으로 분류되는 스웨덴 국회의원 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -82,13 +89,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3BGd">[늦은 아침 생각] 시간을 대하는 두 가지 자세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[미쳐야 미친다(不狂不及) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/vKtB5DL</id>
-        <link href="https://alook.so/posts/vKtB5DL"/>
-        <updated>2022-03-18T02:26:25.382Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtB5DL">미쳐야 미친다(不狂不及)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[덕후(오타쿠)가 세상을 지배한다! 무언갈 미치도록 좋아하는, 좋아해본 당신에게 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/jdtdlYp</id>
         <link href="https://alook.so/posts/jdtdlYp"/>
@@ -131,6 +131,20 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXeRW">동물 입양에 대해서 함부로 결정하고 말하지 말자</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[가정 밖에도 청소년은 존재한다 : 영화 『거인』 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/OEtLE9j</id>
+        <link href="https://alook.so/posts/OEtLE9j"/>
+        <updated>2022-03-18T12:35:11.551Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtLE9j">가정 밖에도 청소년은 존재한다 : 영화 『거인』</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[결선투표제는 과연 정치를 바꿀 것인가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/70teJde</id>
+        <link href="https://alook.so/posts/70teJde"/>
+        <updated>2022-03-18T12:35:11.557Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teJde">결선투표제는 과연 정치를 바꿀 것인가</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[비오는날 신문배달 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/XBtXkwD</id>
         <link href="https://alook.so/posts/XBtXkwD"/>
@@ -145,25 +159,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latq8dw"> 독일브리핑) 유가 하락에도 떨어지지 않는 기름값</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 나은 사회는 시민의 ‘역량’을 높이려 한다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/WLt5q4J</id>
-        <link href="https://alook.so/posts/WLt5q4J"/>
-        <updated>2022-03-18T11:19:56.797Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5q4J">더 나은 사회는 시민의 ‘역량’을 높이려 한다.</a>]]></content>
+        <title type="html"><![CDATA["네가 하는 말, 어느 나라 언어야?" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/njt0Ybj</id>
+        <link href="https://alook.so/posts/njt0Ybj"/>
+        <updated>2022-03-18T10:48:20.434Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt0Ybj">"네가 하는 말, 어느 나라 언어야?"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[장애인에 관한 미담이 싫다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/92teq3l</id>
-        <link href="https://alook.so/posts/92teq3l"/>
-        <updated>2022-03-18T11:19:56.797Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92teq3l">장애인에 관한 미담이 싫다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 당선인께 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/KmtDqB9</id>
-        <link href="https://alook.so/posts/KmtDqB9"/>
-        <updated>2022-03-18T11:19:56.801Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDqB9">윤석열 당선인께</a>]]></content>
+        <title type="html"><![CDATA[대표적 3D업종으로 분류되는 스웨덴 국회의원 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/4XteWdr</id>
+        <link href="https://alook.so/posts/4XteWdr"/>
+        <updated>2022-03-18T06:19:23.292Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteWdr">대표적 3D업종으로 분류되는 스웨덴 국회의원</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[23세 대학 그만두고 농업 결정했습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -180,18 +187,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDeM5">지방이 성장하려면...</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[소수 진보정당 국회의원의 온라인 폭력 방지 분투기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0ktMjqV</id>
+        <link href="https://alook.so/posts/0ktMjqV"/>
+        <updated>2022-03-18T02:26:25.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMjqV">소수 진보정당 국회의원의 온라인 폭력 방지 분투기</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우크라이나 대통령 젤렌스키의 영상을 첨부합니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/w9tp75l</id>
         <link href="https://alook.so/posts/w9tp75l"/>
         <updated>2022-03-18T03:21:15.181Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tp75l">우크라이나 대통령 젤렌스키의 영상을 첨부합니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 시간을 대하는 두 가지 자세 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt3BGd</id>
-        <link href="https://alook.so/posts/Djt3BGd"/>
-        <updated>2022-03-18T02:26:25.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3BGd">[늦은 아침 생각] 시간을 대하는 두 가지 자세</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전쟁은 미친 짓이다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -201,18 +208,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7knR">전쟁은 미친 짓이다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소수 진보정당 국회의원의 온라인 폭력 방지 분투기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/0ktMjqV</id>
-        <link href="https://alook.so/posts/0ktMjqV"/>
+        <title type="html"><![CDATA[[늦은 아침 생각] 시간을 대하는 두 가지 자세 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djt3BGd</id>
+        <link href="https://alook.so/posts/Djt3BGd"/>
         <updated>2022-03-18T02:26:25.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMjqV">소수 진보정당 국회의원의 온라인 폭력 방지 분투기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대표적 3D업종으로 분류되는 스웨덴 국회의원 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/4XteWdr</id>
-        <link href="https://alook.so/posts/4XteWdr"/>
-        <updated>2022-03-18T06:19:23.292Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteWdr">대표적 3D업종으로 분류되는 스웨덴 국회의원</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3BGd">[늦은 아침 생각] 시간을 대하는 두 가지 자세</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[덕후(오타쿠)가 세상을 지배한다! 무언갈 미치도록 좋아하는, 좋아해본 당신에게 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
