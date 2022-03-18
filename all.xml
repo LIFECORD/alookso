@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T05:16:21.170Z</updated>
+    <updated>2022-03-18T06:21:31.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[대표적 3D업종으로 분류되는 스웨덴 국회의원 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/4XteWdr</id>
+        <link href="https://alook.so/posts/4XteWdr"/>
+        <updated>2022-03-18T06:19:23.292Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteWdr">대표적 3D업종으로 분류되는 스웨덴 국회의원</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이와 수학문제만 풀면 화를 내는 엄마 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/kZtBnJn</id>
+        <link href="https://alook.so/posts/kZtBnJn"/>
+        <updated>2022-03-18T06:19:23.292Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBnJn">아이와 수학문제만 풀면 화를 내는 엄마</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[23세 대학 그만두고 농업 결정했습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/eVtMGza</id>
@@ -103,20 +117,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5x7P">모두를 위한 화장실, 누구든 사용하세요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[딱 두 가지, 글쓰기 꿀팁을 더 얹고 갑니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/mbtqwrz</id>
-        <link href="https://alook.so/posts/mbtqwrz"/>
-        <updated>2022-03-17T06:14:57.822Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqwrz">딱 두 가지, 글쓰기 꿀팁을 더 얹고 갑니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이야기가 많은 사람이 되는 것 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/bWtyoqd</id>
-        <link href="https://alook.so/posts/bWtyoqd"/>
-        <updated>2022-03-17T06:14:57.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyoqd">이야기가 많은 사람이 되는 것</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 글이 메인에 게시되다니!!! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/VntwVE4</id>
         <link href="https://alook.so/posts/VntwVE4"/>
@@ -138,10 +138,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXeRW">동물 입양에 대해서 함부로 결정하고 말하지 말자</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[대표적 3D업종으로 분류되는 스웨덴 국회의원 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/4XteWdr</id>
+        <link href="https://alook.so/posts/4XteWdr"/>
+        <updated>2022-03-18T06:19:32.225Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteWdr">대표적 3D업종으로 분류되는 스웨덴 국회의원</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아이와 수학문제만 풀면 화를 내는 엄마 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/kZtBnJn</id>
+        <link href="https://alook.so/posts/kZtBnJn"/>
+        <updated>2022-03-18T06:19:32.225Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBnJn">아이와 수학문제만 풀면 화를 내는 엄마</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[23세 대학 그만두고 농업 결정했습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/eVtMGza</id>
         <link href="https://alook.so/posts/eVtMGza"/>
-        <updated>2022-03-18T05:14:24.161Z</updated>
+        <updated>2022-03-18T05:14:14.852Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMGza">23세 대학 그만두고 농업 결정했습니다.</a>]]></content>
     </entry>
     <entry>
@@ -152,25 +166,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDeM5">지방이 성장하려면...</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[소수 진보정당 국회의원의 온라인 폭력 방지 분투기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0ktMjqV</id>
+        <link href="https://alook.so/posts/0ktMjqV"/>
+        <updated>2022-03-18T02:26:25.381Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMjqV">소수 진보정당 국회의원의 온라인 폭력 방지 분투기</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우크라이나 대통령 젤렌스키의 영상을 첨부합니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/w9tp75l</id>
         <link href="https://alook.so/posts/w9tp75l"/>
         <updated>2022-03-18T03:21:15.181Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tp75l">우크라이나 대통령 젤렌스키의 영상을 첨부합니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미쳐야 미친다(不狂不及) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/vKtB5DL</id>
-        <link href="https://alook.so/posts/vKtB5DL"/>
-        <updated>2022-03-18T02:26:25.382Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtB5DL">미쳐야 미친다(不狂不及)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 시간을 대하는 두 가지 자세 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt3BGd</id>
-        <link href="https://alook.so/posts/Djt3BGd"/>
-        <updated>2022-03-18T02:26:25.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3BGd">[늦은 아침 생각] 시간을 대하는 두 가지 자세</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전쟁은 미친 짓이다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -180,25 +187,32 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7knR">전쟁은 미친 짓이다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[소수 진보정당 국회의원의 온라인 폭력 방지 분투기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/0ktMjqV</id>
-        <link href="https://alook.so/posts/0ktMjqV"/>
+        <title type="html"><![CDATA[[늦은 아침 생각] 시간을 대하는 두 가지 자세 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djt3BGd</id>
+        <link href="https://alook.so/posts/Djt3BGd"/>
         <updated>2022-03-18T02:26:25.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMjqV">소수 진보정당 국회의원의 온라인 폭력 방지 분투기</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3BGd">[늦은 아침 생각] 시간을 대하는 두 가지 자세</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[단단하게 마음 먹고 연대의 힘으로 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtMK99</id>
-        <link href="https://alook.so/posts/eVtMK99"/>
-        <updated>2022-03-18T01:24:31.061Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMK99">단단하게 마음 먹고 연대의 힘으로</a>]]></content>
+        <title type="html"><![CDATA[미쳐야 미친다(不狂不及) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/vKtB5DL</id>
+        <link href="https://alook.so/posts/vKtB5DL"/>
+        <updated>2022-03-18T02:26:25.382Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtB5DL">미쳐야 미친다(不狂不及)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[무연고 사망자도 장례식이 가능하다. 서울 사람이어야. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/yEtE9qG</id>
-        <link href="https://alook.so/posts/yEtE9qG"/>
-        <updated>2022-03-18T05:14:24.171Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtE9qG">무연고 사망자도 장례식이 가능하다. 서울 사람이어야.</a>]]></content>
+        <title type="html"><![CDATA[서울교통공사, 장애인 단체와 갈등 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtEDWa</id>
+        <link href="https://alook.so/posts/3wtEDWa"/>
+        <updated>2022-03-18T01:24:31.059Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEDWa">서울교통공사, 장애인 단체와 갈등</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[이야기NEWS] 단건 배달 1.5Km 반경의 비밀 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/jdtdloV</id>
+        <link href="https://alook.so/posts/jdtdloV"/>
+        <updated>2022-03-18T01:24:31.059Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdloV">[이야기NEWS] 단건 배달 1.5Km 반경의 비밀</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[덕후(오타쿠)가 세상을 지배한다! 무언갈 미치도록 좋아하는, 좋아해본 당신에게 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -206,6 +220,13 @@
         <link href="https://alook.so/posts/jdtdlYp"/>
         <updated>2022-03-17T16:16:15.094Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdlYp">덕후(오타쿠)가 세상을 지배한다! 무언갈 미치도록 좋아하는, 좋아해본 당신에게</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[단단하게 마음 먹고 연대의 힘으로 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/eVtMK99</id>
+        <link href="https://alook.so/posts/eVtMK99"/>
+        <updated>2022-03-18T01:24:31.061Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMK99">단단하게 마음 먹고 연대의 힘으로</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글쓰기 껌이지(Come easy)2 - 실제 글쓰기 팁 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -222,32 +243,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtY1MV">누구나 작은 집과 텃밭이 있다면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[여기서는 마음을 단단히 먹어야 한다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtMKRl</id>
-        <link href="https://alook.so/posts/eVtMKRl"/>
-        <updated>2022-03-18T03:21:15.205Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMKRl">여기서는 마음을 단단히 먹어야 한다 </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 집무실 이전, 핵심은 과정이다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/mbtqGw8</id>
-        <link href="https://alook.so/posts/mbtqGw8"/>
-        <updated>2022-03-17T08:14:34.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqGw8">대통령 집무실 이전, 핵심은 과정이다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[모두를 위한 화장실, 누구든 사용하세요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/WLt5x7P</id>
         <link href="https://alook.so/posts/WLt5x7P"/>
         <updated>2022-03-17T08:14:34.376Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5x7P">모두를 위한 화장실, 누구든 사용하세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딱 두 가지, 글쓰기 꿀팁을 더 얹고 갑니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/mbtqwrz</id>
-        <link href="https://alook.so/posts/mbtqwrz"/>
-        <updated>2022-03-17T06:14:57.822Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqwrz">딱 두 가지, 글쓰기 꿀팁을 더 얹고 갑니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 글이 메인에 게시되다니!!! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
