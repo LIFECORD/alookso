@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-18T06:21:31.465Z</updated>
+    <updated>2022-03-18T07:13:52.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[운동은 스스로 해야]]></title>
+        <id>https://alook.so/posts/vKtBOED</id>
+        <link href="https://alook.so/posts/vKtBOED"/>
+        <updated>2022-03-18T07:11:51.486Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtBOED">운동은 스스로 해야</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대표적 3D업종으로 분류되는 스웨덴 국회의원]]></title>
         <id>https://alook.so/posts/4XteWdr</id>
@@ -109,13 +116,6 @@
         <link href="https://alook.so/posts/6MtY1MV"/>
         <updated>2022-03-17T10:13:19.092Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtY1MV">누구나 작은 집과 텃밭이 있다면</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두를 위한 화장실, 누구든 사용하세요.]]></title>
-        <id>https://alook.so/posts/WLt5x7P</id>
-        <link href="https://alook.so/posts/WLt5x7P"/>
-        <updated>2022-03-17T08:14:34.376Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5x7P">모두를 위한 화장실, 누구든 사용하세요.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 글이 메인에 게시되다니!!!]]></title>
