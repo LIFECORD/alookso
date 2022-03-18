@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-18T19:12:33.773Z</updated>
+    <updated>2022-03-18T20:19:59.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[만취다....... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/KmtDaPD</id>
+        <link href="https://alook.so/posts/KmtDaPD"/>
+        <updated>2022-03-18T20:18:03.047Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDaPD">만취다.......</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대학간판]에 대한 집착을 극복하기까지 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/o7tnR43</id>
@@ -129,6 +136,13 @@
         <link href="https://alook.so/posts/XBtXeRW"/>
         <updated>2022-03-17T03:13:41.005Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXeRW">동물 입양에 대해서 함부로 결정하고 말하지 말자</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[만취다....... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/KmtDaPD</id>
+        <link href="https://alook.so/posts/KmtDaPD"/>
+        <updated>2022-03-18T20:18:10.833Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDaPD">만취다.......</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대학간판]에 대한 집착을 극복하기까지 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
