@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-18T02:28:24.768Z</updated>
+    <updated>2022-03-18T03:23:07.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[소수 진보정당 국회의원의 온라인 폭력 방지 분투기 (1)]]></title>
-        <id>https://alook.so/posts/0ktMjqV</id>
-        <link href="https://alook.so/posts/0ktMjqV"/>
-        <updated>2022-03-18T02:26:25.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMjqV">소수 진보정당 국회의원의 온라인 폭력 방지 분투기 (1)</a>]]></content>
+        <title type="html"><![CDATA[우크라이나 대통령 젤렌스키의 영상을 첨부합니다.]]></title>
+        <id>https://alook.so/posts/w9tp75l</id>
+        <link href="https://alook.so/posts/w9tp75l"/>
+        <updated>2022-03-18T03:21:15.181Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tp75l">우크라이나 대통령 젤렌스키의 영상을 첨부합니다. </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[날벼락 갑자기 없던 빚이 생겼다]]></title>
+        <id>https://alook.so/posts/Yyt0Pv3</id>
+        <link href="https://alook.so/posts/Yyt0Pv3"/>
+        <updated>2022-03-18T03:21:15.182Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0Pv3">날벼락 갑자기 없던 빚이 생겼다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[전쟁은 미친 짓이다]]></title>
@@ -34,13 +41,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtB5DL">미쳐야 미친다(不狂不及)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[퇴사하게 되었습니다. 뭘해야 될까요?]]></title>
-        <id>https://alook.so/posts/vKtBmYr</id>
-        <link href="https://alook.so/posts/vKtBmYr"/>
-        <updated>2022-03-18T01:24:31.058Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtBmYr">퇴사하게 되었습니다. 뭘해야 될까요?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[서울교통공사, 장애인 단체와 갈등]]></title>
         <id>https://alook.so/posts/3wtEDWa</id>
         <link href="https://alook.so/posts/3wtEDWa"/>
@@ -53,13 +53,6 @@
         <link href="https://alook.so/posts/jdtdloV"/>
         <updated>2022-03-18T01:24:31.059Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdloV">[이야기NEWS] 단건 배달 1.5Km 반경의 비밀</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무연고 사망자도 장례식이 가능하다. 서울 사람이어야.]]></title>
-        <id>https://alook.so/posts/yEtE9qG</id>
-        <link href="https://alook.so/posts/yEtE9qG"/>
-        <updated>2022-03-17T18:50:13.600Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtE9qG">무연고 사망자도 장례식이 가능하다. 서울 사람이어야.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[덕후(오타쿠)가 세상을 지배한다! 무언갈 미치도록 좋아하는, 좋아해본 당신에게]]></title>
@@ -97,18 +90,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMKw5">모두를 위한 화장실, Sex와 Gender가 일치하지 않는 사람들에 대한 배려.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[여기서는 마음을 단단히 먹어야 한다]]></title>
+        <id>https://alook.so/posts/eVtMKRl</id>
+        <link href="https://alook.so/posts/eVtMKRl"/>
+        <updated>2022-03-18T03:21:15.205Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMKRl">여기서는 마음을 단단히 먹어야 한다 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[모두를 위한 화장실, 누구든 사용하세요.]]></title>
         <id>https://alook.so/posts/WLt5x7P</id>
         <link href="https://alook.so/posts/WLt5x7P"/>
         <updated>2022-03-17T08:14:34.376Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5x7P">모두를 위한 화장실, 누구든 사용하세요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령 집무실 이전, 핵심은 과정이다]]></title>
-        <id>https://alook.so/posts/mbtqGw8</id>
-        <link href="https://alook.so/posts/mbtqGw8"/>
-        <updated>2022-03-17T08:14:34.359Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqGw8">대통령 집무실 이전, 핵심은 과정이다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[딱 두 가지, 글쓰기 꿀팁을 더 얹고 갑니다.]]></title>
@@ -123,6 +116,13 @@
         <link href="https://alook.so/posts/bWtyoqd"/>
         <updated>2022-03-17T06:14:57.823Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyoqd">이야기가 많은 사람이 되는 것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[음식물처리의 실태]]></title>
+        <id>https://alook.so/posts/XBtXePK</id>
+        <link href="https://alook.so/posts/XBtXePK"/>
+        <updated>2022-03-18T03:21:15.208Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXePK">음식물처리의 실태</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내 글이 메인에 게시되다니!!!]]></title>
