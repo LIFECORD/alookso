@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-19T00:46:05.113Z</updated>
+    <updated>2022-03-19T02:10:10.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[돈을 벌수있는 방법은 단군이래 가장 많다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/bWtyXlO</id>
-        <link href="https://alook.so/posts/bWtyXlO"/>
-        <updated>2022-03-19T00:43:59.678Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyXlO">돈을 벌수있는 방법은 단군이래 가장 많다</a>]]></content>
+        <title type="html"><![CDATA[몸글말고, 답글에 달린 소소한 논란(?)에 대한 반대의견 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/54t390Z</id>
+        <link href="https://alook.so/posts/54t390Z"/>
+        <updated>2022-03-19T02:08:13.177Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t390Z">몸글말고, 답글에 달린 소소한 논란(?)에 대한 반대의견</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만취다....... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/KmtDaPD</id>
-        <link href="https://alook.so/posts/KmtDaPD"/>
-        <updated>2022-03-18T20:18:03.047Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDaPD">만취다.......</a>]]></content>
+        <title type="html"><![CDATA[[늦은 아침 생각] 닮다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/PvtG7Xe</id>
+        <link href="https://alook.so/posts/PvtG7Xe"/>
+        <updated>2022-03-19T02:08:13.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtG7Xe">[늦은 아침 생각] 닮다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴스앵커가 실제 속보를 처리하는 법 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/54t3qw4</id>
+        <link href="https://alook.so/posts/54t3qw4"/>
+        <updated>2022-03-19T02:08:13.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3qw4">뉴스앵커가 실제 속보를 처리하는 법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자살....한번쯤 생각해 보셨나요?? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Yyt01y0</id>
+        <link href="https://alook.so/posts/Yyt01y0"/>
+        <updated>2022-03-19T02:08:13.178Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt01y0">자살....한번쯤 생각해 보셨나요??</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글쓰기 껌이지(Come easy)3 - 멋부리지 마라 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/PvtG7qY</id>
+        <link href="https://alook.so/posts/PvtG7qY"/>
+        <updated>2022-03-19T02:08:13.193Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtG7qY">글쓰기 껌이지(Come easy)3 - 멋부리지 마라</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국민청원 올라왔어요. (feat.외교부) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tn5a8</id>
+        <link href="https://alook.so/posts/o7tn5a8"/>
+        <updated>2022-03-19T02:08:13.194Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tn5a8">국민청원 올라왔어요. (feat.외교부)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대학간판]에 대한 집착을 극복하기까지 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -110,46 +138,46 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdlYp">덕후(오타쿠)가 세상을 지배한다! 무언갈 미치도록 좋아하는, 좋아해본 당신에게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글쓰기 껌이지(Come easy)2 - 실제 글쓰기 팁 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/eVtMGMK</id>
-        <link href="https://alook.so/posts/eVtMGMK"/>
-        <updated>2022-03-18T14:20:52.585Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMGMK">글쓰기 껌이지(Come easy)2 - 실제 글쓰기 팁</a>]]></content>
+        <title type="html"><![CDATA[몸글말고, 답글에 달린 소소한 논란(?)에 대한 반대의견 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/54t390Z</id>
+        <link href="https://alook.so/posts/54t390Z"/>
+        <updated>2022-03-19T02:08:22.691Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t390Z">몸글말고, 답글에 달린 소소한 논란(?)에 대한 반대의견</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[내 글이 메인에 게시되다니!!! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/VntwVE4</id>
-        <link href="https://alook.so/posts/VntwVE4"/>
-        <updated>2022-03-17T06:14:57.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwVE4">내 글이 메인에 게시되다니!!!</a>]]></content>
+        <title type="html"><![CDATA[[늦은 아침 생각] 닮다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/PvtG7Xe</id>
+        <link href="https://alook.so/posts/PvtG7Xe"/>
+        <updated>2022-03-19T02:08:22.691Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtG7Xe">[늦은 아침 생각] 닮다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글쓰기 껌이지(Come easy)1 - 짧게 써라 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/bWtyo9P</id>
-        <link href="https://alook.so/posts/bWtyo9P"/>
-        <updated>2022-03-17T03:13:41.000Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyo9P">글쓰기 껌이지(Come easy)1 - 짧게 써라</a>]]></content>
+        <title type="html"><![CDATA[뉴스앵커가 실제 속보를 처리하는 법 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/54t3qw4</id>
+        <link href="https://alook.so/posts/54t3qw4"/>
+        <updated>2022-03-19T02:08:22.692Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3qw4">뉴스앵커가 실제 속보를 처리하는 법</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[동물 입양에 대해서 함부로 결정하고 말하지 말자 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/XBtXeRW</id>
-        <link href="https://alook.so/posts/XBtXeRW"/>
-        <updated>2022-03-17T03:13:41.005Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXeRW">동물 입양에 대해서 함부로 결정하고 말하지 말자</a>]]></content>
+        <title type="html"><![CDATA[자살....한번쯤 생각해 보셨나요?? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Yyt01y0</id>
+        <link href="https://alook.so/posts/Yyt01y0"/>
+        <updated>2022-03-19T02:08:22.699Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt01y0">자살....한번쯤 생각해 보셨나요??</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[돈을 벌수있는 방법은 단군이래 가장 많다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtyXlO</id>
-        <link href="https://alook.so/posts/bWtyXlO"/>
-        <updated>2022-03-19T00:44:08.404Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyXlO">돈을 벌수있는 방법은 단군이래 가장 많다</a>]]></content>
+        <title type="html"><![CDATA[글쓰기 껌이지(Come easy)3 - 멋부리지 마라 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/PvtG7qY</id>
+        <link href="https://alook.so/posts/PvtG7qY"/>
+        <updated>2022-03-19T02:08:22.699Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtG7qY">글쓰기 껌이지(Come easy)3 - 멋부리지 마라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[만취다....... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/KmtDaPD</id>
-        <link href="https://alook.so/posts/KmtDaPD"/>
-        <updated>2022-03-18T20:18:03.047Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDaPD">만취다.......</a>]]></content>
+        <title type="html"><![CDATA[국민청원 올라왔어요. (feat.외교부) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/o7tn5a8</id>
+        <link href="https://alook.so/posts/o7tn5a8"/>
+        <updated>2022-03-19T02:08:22.705Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tn5a8">국민청원 올라왔어요. (feat.외교부)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[대학간판]에 대한 집착을 극복하기까지 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -241,34 +269,6 @@
         <link href="https://alook.so/posts/jdtdlYp"/>
         <updated>2022-03-17T16:16:15.094Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdlYp">덕후(오타쿠)가 세상을 지배한다! 무언갈 미치도록 좋아하는, 좋아해본 당신에게</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글쓰기 껌이지(Come easy)2 - 실제 글쓰기 팁 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtMGMK</id>
-        <link href="https://alook.so/posts/eVtMGMK"/>
-        <updated>2022-03-18T14:20:52.585Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMGMK">글쓰기 껌이지(Come easy)2 - 실제 글쓰기 팁</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내 글이 메인에 게시되다니!!! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/VntwVE4</id>
-        <link href="https://alook.so/posts/VntwVE4"/>
-        <updated>2022-03-17T06:14:57.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwVE4">내 글이 메인에 게시되다니!!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글쓰기 껌이지(Come easy)1 - 짧게 써라 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/bWtyo9P</id>
-        <link href="https://alook.so/posts/bWtyo9P"/>
-        <updated>2022-03-17T03:13:41.000Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyo9P">글쓰기 껌이지(Come easy)1 - 짧게 써라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동물 입양에 대해서 함부로 결정하고 말하지 말자 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/XBtXeRW</id>
-        <link href="https://alook.so/posts/XBtXeRW"/>
-        <updated>2022-03-17T03:13:41.005Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXeRW">동물 입양에 대해서 함부로 결정하고 말하지 말자</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심상치 않은 확산, 코로나19 오미크론 BA.2 “백신 추가접종 필수” (alookso ─ alookso)]]></title>
