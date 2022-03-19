@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-19T14:13:44.308Z</updated>
+    <updated>2022-03-19T15:14:38.521Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA['싫어요' 버튼이 없어서 천만다행 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -26,13 +26,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tn59b">'정말 외람되오나'라는 말이 무서웠던 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['박현안' 이라 쓰고 '에너자이저' 라고 읽는다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Djt3xPD</id>
-        <link href="https://alook.so/posts/Djt3xPD"/>
-        <updated>2022-03-19T12:19:01.727Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3xPD">'박현안' 이라 쓰고 '에너자이저' 라고 읽는다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[수돗물 수질검사 내가 받아봤다! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/njt0bWO</id>
         <link href="https://alook.so/posts/njt0bWO"/>
@@ -52,6 +45,13 @@
         <link href="https://alook.so/posts/0ktM46x"/>
         <updated>2022-03-19T12:19:01.729Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM46x">저도 영웅서사가 싫어요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재태크 잘 하고계시나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/54t3Mzq</id>
+        <link href="https://alook.so/posts/54t3Mzq"/>
+        <updated>2022-03-19T15:12:43.029Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3Mzq">재태크 잘 하고계시나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글쓰기 껌이지(Come easy)4 - 나도 전문가 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -134,7 +134,7 @@
         <title type="html"><![CDATA['싫어요' 버튼이 없어서 천만다행 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/pot7jlW</id>
         <link href="https://alook.so/posts/pot7jlW"/>
-        <updated>2022-03-19T14:11:57.877Z</updated>
+        <updated>2022-03-19T14:11:49.819Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7jlW">'싫어요' 버튼이 없어서 천만다행</a>]]></content>
     </entry>
     <entry>
@@ -150,13 +150,6 @@
         <link href="https://alook.so/posts/o7tn59b"/>
         <updated>2022-03-19T12:19:01.727Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tn59b">'정말 외람되오나'라는 말이 무서웠던 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['박현안' 이라 쓰고 '에너자이저' 라고 읽는다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt3xPD</id>
-        <link href="https://alook.so/posts/Djt3xPD"/>
-        <updated>2022-03-19T12:19:01.727Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3xPD">'박현안' 이라 쓰고 '에너자이저' 라고 읽는다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[수돗물 수질검사 내가 받아봤다! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -180,6 +173,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM46x">저도 영웅서사가 싫어요!</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[재태크 잘 하고계시나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/54t3Mzq</id>
+        <link href="https://alook.so/posts/54t3Mzq"/>
+        <updated>2022-03-19T15:12:51.735Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3Mzq">재태크 잘 하고계시나요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[글쓰기 껌이지(Come easy)4 - 나도 전문가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/92te4nO</id>
         <link href="https://alook.so/posts/92te4nO"/>
@@ -190,7 +190,7 @@
         <title type="html"><![CDATA[답글: '소통'과 '불통'의 차이는, 결국 "일머리" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/rDtvzqk</id>
         <link href="https://alook.so/posts/rDtvzqk"/>
-        <updated>2022-03-19T14:11:57.889Z</updated>
+        <updated>2022-03-19T14:11:49.829Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvzqk">답글: '소통'과 '불통'의 차이는, 결국 "일머리"</a>]]></content>
     </entry>
     <entry>
