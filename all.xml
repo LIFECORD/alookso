@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-19T08:15:30.113Z</updated>
+    <updated>2022-03-19T09:14:07.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[명상이 성공의 비결?! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -138,31 +138,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMGza">23세 대학 그만두고 농업 결정했습니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[전쟁은 미친 짓이다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7t7knR</id>
-        <link href="https://alook.so/posts/E7t7knR"/>
-        <updated>2022-03-18T02:26:25.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7knR">전쟁은 미친 짓이다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[명상이 성공의 비결?! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/3wtEnkD</id>
         <link href="https://alook.so/posts/3wtEnkD"/>
-        <updated>2022-03-19T08:13:35.870Z</updated>
+        <updated>2022-03-19T08:13:27.889Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEnkD">명상이 성공의 비결?!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코로나 확진이 되었네요.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/54t3qxd</id>
         <link href="https://alook.so/posts/54t3qxd"/>
-        <updated>2022-03-19T08:13:35.871Z</updated>
+        <updated>2022-03-19T08:13:27.898Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3qxd">코로나 확진이 되었네요..</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[고슴도치가 될 수밖에.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/mbtqbqm</id>
         <link href="https://alook.so/posts/mbtqbqm"/>
-        <updated>2022-03-19T08:13:35.871Z</updated>
+        <updated>2022-03-19T08:13:27.912Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqbqm">고슴도치가 될 수밖에..</a>]]></content>
     </entry>
     <entry>
@@ -276,13 +269,6 @@
         <link href="https://alook.so/posts/eVtMGza"/>
         <updated>2022-03-18T05:14:14.852Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMGza">23세 대학 그만두고 농업 결정했습니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전쟁은 미친 짓이다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7t7knR</id>
-        <link href="https://alook.so/posts/E7t7knR"/>
-        <updated>2022-03-18T02:26:25.381Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7knR">전쟁은 미친 짓이다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[심상치 않은 확산, 코로나19 오미크론 BA.2 “백신 추가접종 필수” (alookso ─ alookso)]]></title>
