@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-20T19:11:37.652Z</updated>
+    <updated>2022-03-20T20:16:57.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[이야기News] '선별'은 '차별'의 핑계일수도 (長文주의보) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -75,13 +75,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7zn8">읽히지 않는 글을 쓰는 사람의 마음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대리모의 나라, 아기 공장 우크라이나 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/latqVRZ</id>
-        <link href="https://alook.so/posts/latqVRZ"/>
-        <updated>2022-03-20T19:09:38.410Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqVRZ">대리모의 나라, 아기 공장 우크라이나</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[무비 무브 25] 스타 이즈 본 (2018, A Star Is Born); 익숙함, 오래됨과 새로움의 그 어디 즈음 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDtvjzE</id>
         <link href="https://alook.so/posts/rDtvjzE"/>
@@ -122,6 +115,13 @@
         <link href="https://alook.so/posts/Yyt0b6Z"/>
         <updated>2022-03-20T02:11:13.893Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0b6Z">더 나은 사회는 "행복한 사회"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬픈 결혼식 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Djt3KPl</id>
+        <link href="https://alook.so/posts/Djt3KPl"/>
+        <updated>2022-03-20T20:15:01.498Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3KPl">슬픈 결혼식</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['싫어요' 버튼이 없어서 천만다행 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -201,13 +201,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7zn8">읽히지 않는 글을 쓰는 사람의 마음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대리모의 나라, 아기 공장 우크라이나 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/latqVRZ</id>
-        <link href="https://alook.so/posts/latqVRZ"/>
-        <updated>2022-03-20T19:09:47.068Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqVRZ">대리모의 나라, 아기 공장 우크라이나</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[무비 무브 25] 스타 이즈 본 (2018, A Star Is Born); 익숙함, 오래됨과 새로움의 그 어디 즈음 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/rDtvjzE</id>
         <link href="https://alook.so/posts/rDtvjzE"/>
@@ -248,6 +241,13 @@
         <link href="https://alook.so/posts/Yyt0b6Z"/>
         <updated>2022-03-20T02:11:13.893Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0b6Z">더 나은 사회는 "행복한 사회"</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슬픈 결혼식 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djt3KPl</id>
+        <link href="https://alook.so/posts/Djt3KPl"/>
+        <updated>2022-03-20T20:15:09.971Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3KPl">슬픈 결혼식</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['싫어요' 버튼이 없어서 천만다행 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
