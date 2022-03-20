@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-20T21:15:40.608Z</updated>
+    <updated>2022-03-20T22:14:40.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[-따뜻한 물 4잔의 기적- (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/zvtDqye</id>
+        <link href="https://alook.so/posts/zvtDqye"/>
+        <updated>2022-03-20T22:12:46.531Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDqye">-따뜻한 물 4잔의 기적-</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이야기News] '선별'은 '차별'의 핑계일수도 (長文주의보) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/dzt2llq</id>
@@ -117,13 +124,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0b6Z">더 나은 사회는 "행복한 사회"</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[슬픈 결혼식 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Djt3KPl</id>
-        <link href="https://alook.so/posts/Djt3KPl"/>
-        <updated>2022-03-20T20:15:01.498Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3KPl">슬픈 결혼식</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['싫어요' 버튼이 없어서 천만다행 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/pot7jlW</id>
         <link href="https://alook.so/posts/pot7jlW"/>
@@ -222,6 +222,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnwD8">공개된 글을 쓰는 일에 대해</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[요리와 글짓기에 대한 짧은 생각(2) - 내 집에 생강이 없어도 괜찮아! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/PvtG55R</id>
+        <link href="https://alook.so/posts/PvtG55R"/>
+        <updated>2022-03-20T22:12:54.408Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtG55R">요리와 글짓기에 대한 짧은 생각(2) - 내 집에 생강이 없어도 괜찮아!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[나누기NEWS] 이구동성(異口同聲), 혹은 소리 없는 아우성; 대통령 집무실, 불통 예감 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/bWtyLLj</id>
         <link href="https://alook.so/posts/bWtyLLj"/>
@@ -241,13 +248,6 @@
         <link href="https://alook.so/posts/Yyt0b6Z"/>
         <updated>2022-03-20T02:11:13.893Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0b6Z">더 나은 사회는 "행복한 사회"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[슬픈 결혼식 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt3KPl</id>
-        <link href="https://alook.so/posts/Djt3KPl"/>
-        <updated>2022-03-20T20:15:01.498Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3KPl">슬픈 결혼식</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA['싫어요' 버튼이 없어서 천만다행 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
