@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-21T12:21:19.211Z</updated>
+    <updated>2022-03-21T13:24:47.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[정말 중요한건 겉모습이 아니다]]></title>
+        <id>https://alook.so/posts/w9tp33z</id>
+        <link href="https://alook.so/posts/w9tp33z"/>
+        <updated>2022-03-21T13:23:01.292Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tp33z">정말 중요한건 겉모습이 아니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈이 돈을 벌게하는 법]]></title>
+        <id>https://alook.so/posts/eVtM0Gy</id>
+        <link href="https://alook.so/posts/eVtM0Gy"/>
+        <updated>2022-03-21T13:23:01.294Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtM0Gy">돈이 돈을 벌게하는 법</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[말뚝에 묶인 어린 코끼리 이야기 아시나요?]]></title>
         <id>https://alook.so/posts/92teomJ</id>
@@ -97,13 +111,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkJR4">글쓰기 껌이지(Come easy)5 - 마지막 편</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[늦은 아침 생각] 춘분(春分)]]></title>
-        <id>https://alook.so/posts/q1tGv8L</id>
-        <link href="https://alook.so/posts/q1tGv8L"/>
-        <updated>2022-03-21T03:20:59.025Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGv8L">[늦은 아침 생각] 춘분(春分)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최대한 신중하게 하나씩]]></title>
         <id>https://alook.so/posts/njt0mWr</id>
         <link href="https://alook.so/posts/njt0mWr"/>
@@ -116,12 +123,5 @@
         <link href="https://alook.so/posts/kZtBm2l"/>
         <updated>2022-03-21T00:45:51.740Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBm2l">곧 엄마가 됩니다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공개된 글을 쓰는 일에 대해]]></title>
-        <id>https://alook.so/posts/o7tnwD8</id>
-        <link href="https://alook.so/posts/o7tnwD8"/>
-        <updated>2022-03-20T06:13:46.829Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnwD8">공개된 글을 쓰는 일에 대해</a>]]></content>
     </entry>
 </feed>
