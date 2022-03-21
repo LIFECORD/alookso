@@ -2,15 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-21T00:47:47.263Z</updated>
+    <updated>2022-03-21T02:27:21.303Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[아침공기가 틀린 제주도공기]]></title>
-        <id>https://alook.so/posts/0ktMe5G</id>
-        <link href="https://alook.so/posts/0ktMe5G"/>
-        <updated>2022-03-21T00:45:59.779Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMe5G">아침공기가 틀린 제주도공기</a>]]></content>
+        <title type="html"><![CDATA[왜 대통령실 용산 이전비용은 496억원일까? - 예타절차 회피를 위한 인수위의 꼼수]]></title>
+        <id>https://alook.so/posts/3wtE3be</id>
+        <link href="https://alook.so/posts/3wtE3be"/>
+        <updated>2022-03-21T02:25:34.778Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE3be">왜 대통령실 용산 이전비용은 496억원일까? - 예타절차 회피를 위한 인수위의 꼼수</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[최대한 신중하게 하나씩]]></title>
+        <id>https://alook.so/posts/njt0mWr</id>
+        <link href="https://alook.so/posts/njt0mWr"/>
+        <updated>2022-03-21T02:25:34.803Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt0mWr">최대한 신중하게 하나씩</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재테크 하나도 안 하시는 분 계시나요?]]></title>
+        <id>https://alook.so/posts/PvtGmr1</id>
+        <link href="https://alook.so/posts/PvtGmr1"/>
+        <updated>2022-03-21T02:25:34.803Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/PvtGmr1">재테크 하나도 안 하시는 분 계시나요? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋아요를 본격적으로 누른 지 이제 일주일]]></title>
+        <id>https://alook.so/posts/1RtJ3MR</id>
+        <link href="https://alook.so/posts/1RtJ3MR"/>
+        <updated>2022-03-21T02:25:34.803Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJ3MR">좋아요를 본격적으로 누른 지 이제 일주일</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[곧 엄마가 됩니다.]]></title>
@@ -20,39 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBm2l">곧 엄마가 됩니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코털 왁싱.]]></title>
-        <id>https://alook.so/posts/q1tGW9m</id>
-        <link href="https://alook.so/posts/q1tGW9m"/>
-        <updated>2022-03-21T00:45:59.790Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGW9m">코털 왁싱.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음 찢어질 듯한 이별]]></title>
-        <id>https://alook.so/posts/70teYqv</id>
-        <link href="https://alook.so/posts/70teYqv"/>
-        <updated>2022-03-21T00:45:59.791Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teYqv">마음 찢어질 듯한 이별</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[-따뜻한 물 4잔의 기적-]]></title>
-        <id>https://alook.so/posts/zvtDqye</id>
-        <link href="https://alook.so/posts/zvtDqye"/>
-        <updated>2022-03-20T23:12:01.624Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDqye">-따뜻한 물 4잔의 기적-</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[이야기News] '선별'은 '차별'의 핑계일수도 (長文주의보)]]></title>
         <id>https://alook.so/posts/dzt2llq</id>
         <link href="https://alook.so/posts/dzt2llq"/>
         <updated>2022-03-20T16:15:15.651Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2llq">[이야기News] '선별'은 '차별'의 핑계일수도 (長文주의보)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[첫인상에 목소리 중요한가요?]]></title>
-        <id>https://alook.so/posts/92tekBO</id>
-        <link href="https://alook.so/posts/92tekBO"/>
-        <updated>2022-03-20T16:15:15.652Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tekBO">첫인상에 목소리 중요한가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[결혼에 대해서 어떻게 생각하시나요?]]></title>
@@ -74,6 +67,13 @@
         <link href="https://alook.so/posts/WLt5eK4"/>
         <updated>2022-03-20T14:11:18.499Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5eK4">격리 해제, 이제 세상속으로~!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코로나19 대처에서 정부의 공은 얼마나 되는가]]></title>
+        <id>https://alook.so/posts/mbtqkW6</id>
+        <link href="https://alook.so/posts/mbtqkW6"/>
+        <updated>2022-03-21T02:25:34.808Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqkW6">코로나19 대처에서 정부의 공은 얼마나 되는가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이준석 대표 말대로, 제왕적 대통령제는 집무실 문제인가?]]></title>
