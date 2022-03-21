@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-21T18:17:48.439Z</updated>
+    <updated>2022-03-21T19:12:17.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[중장년 1인 가구의 쓸쓸한 죽음 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -19,18 +19,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tp34O">한 번 해봤습니다 ^^ 자기소개 10문 10답</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[복권 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/kZtB07r</id>
-        <link href="https://alook.so/posts/kZtB07r"/>
-        <updated>2022-03-21T15:15:56.908Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtB07r">복권</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[저는 무직...입니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/yEtEq62</id>
         <link href="https://alook.so/posts/yEtEq62"/>
         <updated>2022-03-21T15:15:56.911Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEq62">저는 무직...입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복권 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/kZtB07r</id>
+        <link href="https://alook.so/posts/kZtB07r"/>
+        <updated>2022-03-21T15:15:56.908Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtB07r">복권</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공짜 대중교통은 기후위기를 늦출 수 있을까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -145,18 +145,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tp34O">한 번 해봤습니다 ^^ 자기소개 10문 10답</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[복권 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/kZtB07r</id>
-        <link href="https://alook.so/posts/kZtB07r"/>
-        <updated>2022-03-21T15:15:56.908Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtB07r">복권</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[저는 무직...입니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/yEtEq62</id>
         <link href="https://alook.so/posts/yEtEq62"/>
         <updated>2022-03-21T15:15:56.911Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEq62">저는 무직...입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복권 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/kZtB07r</id>
+        <link href="https://alook.so/posts/kZtB07r"/>
+        <updated>2022-03-21T15:15:56.908Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtB07r">복권</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공짜 대중교통은 기후위기를 늦출 수 있을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
