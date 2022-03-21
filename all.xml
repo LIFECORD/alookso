@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-21T03:23:02.238Z</updated>
+    <updated>2022-03-21T04:17:49.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[딱, 이 녀석만큼만 부지런 떨자! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wtE3rx</id>
+        <link href="https://alook.so/posts/3wtE3rx"/>
+        <updated>2022-03-21T04:15:53.387Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE3rx">딱, 이 녀석만큼만 부지런 떨자!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[디어마이프렌즈 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/bWtyZ7R</id>
@@ -47,13 +54,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBm2l">곧 엄마가 됩니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이야기News] '선별'은 '차별'의 핑계일수도 (長文주의보) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/dzt2llq</id>
-        <link href="https://alook.so/posts/dzt2llq"/>
-        <updated>2022-03-20T16:15:07.670Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2llq">[이야기News] '선별'은 '차별'의 핑계일수도 (長文주의보)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[배당주 모으겠습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/0ktMroo</id>
         <link href="https://alook.so/posts/0ktMroo"/>
@@ -66,13 +66,6 @@
         <link href="https://alook.so/posts/WLt5eK4"/>
         <updated>2022-03-20T14:11:09.536Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5eK4">격리 해제, 이제 세상속으로~!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 대처에서 정부의 공은 얼마나 되는가 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/mbtqkW6</id>
-        <link href="https://alook.so/posts/mbtqkW6"/>
-        <updated>2022-03-20T12:17:29.412Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqkW6">코로나19 대처에서 정부의 공은 얼마나 되는가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이준석 대표 말대로, 제왕적 대통령제는 집무실 문제인가? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -117,24 +110,31 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7jlW">'싫어요' 버튼이 없어서 천만다행</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[딱, 이 녀석만큼만 부지런 떨자! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtE3rx</id>
+        <link href="https://alook.so/posts/3wtE3rx"/>
+        <updated>2022-03-21T04:16:01.031Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE3rx">딱, 이 녀석만큼만 부지런 떨자!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[디어마이프렌즈 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/bWtyZ7R</id>
         <link href="https://alook.so/posts/bWtyZ7R"/>
-        <updated>2022-03-21T03:21:06.966Z</updated>
+        <updated>2022-03-21T03:20:59.025Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyZ7R">디어마이프렌즈</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 춘분(春分) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/q1tGv8L</id>
         <link href="https://alook.so/posts/q1tGv8L"/>
-        <updated>2022-03-21T03:21:06.980Z</updated>
+        <updated>2022-03-21T03:20:59.025Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGv8L">[늦은 아침 생각] 춘분(春分)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[답글: 멋진 '멋준 오빠'께 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/M9tEw42</id>
         <link href="https://alook.so/posts/M9tEw42"/>
-        <updated>2022-03-21T03:21:06.986Z</updated>
+        <updated>2022-03-21T03:20:59.026Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tEw42">답글: 멋진 '멋준 오빠'께</a>]]></content>
     </entry>
     <entry>
@@ -159,13 +159,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBm2l">곧 엄마가 됩니다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[이야기News] '선별'은 '차별'의 핑계일수도 (長文주의보) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/dzt2llq</id>
-        <link href="https://alook.so/posts/dzt2llq"/>
-        <updated>2022-03-20T16:15:07.670Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2llq">[이야기News] '선별'은 '차별'의 핑계일수도 (長文주의보)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[배당주 모으겠습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/0ktMroo</id>
         <link href="https://alook.so/posts/0ktMroo"/>
@@ -178,13 +171,6 @@
         <link href="https://alook.so/posts/WLt5eK4"/>
         <updated>2022-03-20T14:11:09.536Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5eK4">격리 해제, 이제 세상속으로~!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 대처에서 정부의 공은 얼마나 되는가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/mbtqkW6</id>
-        <link href="https://alook.so/posts/mbtqkW6"/>
-        <updated>2022-03-20T12:17:29.412Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtqkW6">코로나19 대처에서 정부의 공은 얼마나 되는가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이준석 대표 말대로, 제왕적 대통령제는 집무실 문제인가? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
