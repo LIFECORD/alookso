@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-21T07:16:21.179Z</updated>
+    <updated>2022-03-21T08:19:05.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[우리마을 이장 선거가 있었습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/q1tGve9</id>
+        <link href="https://alook.so/posts/q1tGve9"/>
+        <updated>2022-03-21T08:17:06.759Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGve9">우리마을 이장 선거가 있었습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주식장 끝났길래 계좌를 열어보았다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/XBtX4r8</id>
+        <link href="https://alook.so/posts/XBtX4r8"/>
+        <updated>2022-03-21T08:17:06.770Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtX4r8">주식장 끝났길래 계좌를 열어보았다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[alookso에서 한 달 반, 변화를 실감하며 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/Djt34R0</id>
@@ -96,13 +110,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tYMLq">남들이 읽고 싶어하는 글을 써라</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[읽히지 않는 글을 쓰는 사람의 마음 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7t7zn8</id>
-        <link href="https://alook.so/posts/E7t7zn8"/>
-        <updated>2022-03-20T08:14:02.601Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7zn8">읽히지 않는 글을 쓰는 사람의 마음</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[공개된 글을 쓰는 일에 대해 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/o7tnwD8</id>
         <link href="https://alook.so/posts/o7tnwD8"/>
@@ -110,10 +117,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnwD8">공개된 글을 쓰는 일에 대해</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우리마을 이장 선거가 있었습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/q1tGve9</id>
+        <link href="https://alook.so/posts/q1tGve9"/>
+        <updated>2022-03-21T08:17:14.861Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGve9">우리마을 이장 선거가 있었습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주식장 끝났길래 계좌를 열어보았다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/XBtX4r8</id>
+        <link href="https://alook.so/posts/XBtX4r8"/>
+        <updated>2022-03-21T08:17:14.863Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtX4r8">주식장 끝났길래 계좌를 열어보았다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[alookso에서 한 달 반, 변화를 실감하며 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Djt34R0</id>
         <link href="https://alook.so/posts/Djt34R0"/>
-        <updated>2022-03-21T07:14:32.462Z</updated>
+        <updated>2022-03-21T07:14:24.850Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt34R0">alookso에서 한 달 반, 변화를 실감하며</a>]]></content>
     </entry>
     <entry>
@@ -199,13 +220,6 @@
         <link href="https://alook.so/posts/a0tYMLq"/>
         <updated>2022-03-20T11:13:11.466Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tYMLq">남들이 읽고 싶어하는 글을 써라</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[읽히지 않는 글을 쓰는 사람의 마음 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7t7zn8</id>
-        <link href="https://alook.so/posts/E7t7zn8"/>
-        <updated>2022-03-20T08:14:02.601Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7zn8">읽히지 않는 글을 쓰는 사람의 마음</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[공개된 글을 쓰는 일에 대해 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
