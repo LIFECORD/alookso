@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-21T11:15:32.689Z</updated>
+    <updated>2022-03-21T12:21:19.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[말뚝에 묶인 어린 코끼리 이야기 아시나요?]]></title>
+        <id>https://alook.so/posts/92teomJ</id>
+        <link href="https://alook.so/posts/92teomJ"/>
+        <updated>2022-03-21T12:19:21.969Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92teomJ">말뚝에 묶인 어린 코끼리 이야기 아시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부동산 공화국이 재난을 추모하는 방식]]></title>
+        <id>https://alook.so/posts/RGtkJ7X</id>
+        <link href="https://alook.so/posts/RGtkJ7X"/>
+        <updated>2022-03-21T12:19:21.975Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkJ7X">부동산 공화국이 재난을 추모하는 방식</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[걷는 거 좋아하세요??]]></title>
         <id>https://alook.so/posts/Zkta1EZ</id>
@@ -88,13 +102,6 @@
         <link href="https://alook.so/posts/q1tGv8L"/>
         <updated>2022-03-21T03:20:59.025Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGv8L">[늦은 아침 생각] 춘분(春分)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 멋진 '멋준 오빠'께]]></title>
-        <id>https://alook.so/posts/M9tEw42</id>
-        <link href="https://alook.so/posts/M9tEw42"/>
-        <updated>2022-03-21T03:20:59.026Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tEw42">답글: 멋진 '멋준 오빠'께</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[최대한 신중하게 하나씩]]></title>
