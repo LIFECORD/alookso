@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-22T02:27:10.075Z</updated>
+    <updated>2022-03-22T03:25:32.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[따라하는 자기소개 10문 10답 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tnbR1</id>
+        <link href="https://alook.so/posts/o7tnbR1"/>
+        <updated>2022-03-22T02:25:15.581Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnbR1">따라하는 자기소개 10문 10답</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외여행 후 자가격리 해제, 해외vs국내? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/yEtEd9D</id>
@@ -19,25 +26,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMdGl">가게 운영을 하면 잘할 수 있을까?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[따라하는 자기소개 10문 10답 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/o7tnbR1</id>
-        <link href="https://alook.so/posts/o7tnbR1"/>
-        <updated>2022-03-22T02:25:15.581Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnbR1">따라하는 자기소개 10문 10답</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[bookmaniac의 자기소개 10문 10답 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/KmtDYDX</id>
         <link href="https://alook.so/posts/KmtDYDX"/>
         <updated>2022-03-22T02:25:15.581Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDYDX">bookmaniac의 자기소개 10문 10답</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[면접 응원 한 번만 해주세요! (기운 받아가고 싶어요) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/BataWky</id>
-        <link href="https://alook.so/posts/BataWky"/>
-        <updated>2022-03-22T00:51:03.110Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BataWky">면접 응원 한 번만 해주세요! (기운 받아가고 싶어요)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드라마 그냥 사랑하는 사이 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -59,13 +52,6 @@
         <link href="https://alook.so/posts/w9tp34O"/>
         <updated>2022-03-21T15:15:56.893Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tp34O">한 번 해봤습니다 ^^ 자기소개 10문 10답</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나와 정부 대응은 전쟁을 몰고 오네요. 몇 가지 답글을 보고 짧게 남깁니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/rDtv3n0</id>
-        <link href="https://alook.so/posts/rDtv3n0"/>
-        <updated>2022-03-21T15:15:56.911Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtv3n0">코로나와 정부 대응은 전쟁을 몰고 오네요. 몇 가지 답글을 보고 짧게 남깁니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저는 사진을 좋아합니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -103,6 +89,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGve9">우리마을 이장 선거가 있었습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[반려견 입양이 두렵습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/XBtX41b</id>
+        <link href="https://alook.so/posts/XBtX41b"/>
+        <updated>2022-03-21T05:13:37.286Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtX41b">반려견 입양이 두렵습니다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[청와대 집무실 이전 확정에 대하여 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/Yyt0jRK</id>
         <link href="https://alook.so/posts/Yyt0jRK"/>
@@ -117,18 +110,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmevP">청년1인가구와 노년1인가구는 다르다.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[반려견 입양이 두렵습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/XBtX41b</id>
-        <link href="https://alook.so/posts/XBtX41b"/>
-        <updated>2022-03-21T05:13:37.286Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtX41b">반려견 입양이 두렵습니다.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[최대한 신중하게 하나씩 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/njt0mWr</id>
         <link href="https://alook.so/posts/njt0mWr"/>
         <updated>2022-03-21T02:25:26.991Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt0mWr">최대한 신중하게 하나씩</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[왜 대통령실 용산 이전비용은 496억원일까? - 예타절차(면제) 회피를 위한 인수위의 꼼수 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wtE3be</id>
+        <link href="https://alook.so/posts/3wtE3be"/>
+        <updated>2022-03-22T03:23:33.364Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE3be">왜 대통령실 용산 이전비용은 496억원일까? - 예타절차(면제) 회피를 위한 인수위의 꼼수</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[곧 엄마가 됩니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -138,39 +131,46 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBm2l">곧 엄마가 됩니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[0과 1 그리고 10과 11 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0ktMwK7</id>
+        <link href="https://alook.so/posts/0ktMwK7"/>
+        <updated>2022-03-22T03:23:41.607Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMwK7">0과 1 그리고 10과 11</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[절약과 저축을 위한 마음가짐 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/54t3VJ1</id>
+        <link href="https://alook.so/posts/54t3VJ1"/>
+        <updated>2022-03-22T03:23:41.607Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3VJ1">절약과 저축을 위한 마음가짐 </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[해외여행 후 자가격리 해제, 해외vs국내? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/yEtEd9D</id>
         <link href="https://alook.so/posts/yEtEd9D"/>
-        <updated>2022-03-22T02:25:23.562Z</updated>
+        <updated>2022-03-22T02:25:15.559Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEd9D">해외여행 후 자가격리 해제, 해외vs국내?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[가게 운영을 하면 잘할 수 있을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/eVtMdGl</id>
         <link href="https://alook.so/posts/eVtMdGl"/>
-        <updated>2022-03-22T02:25:23.569Z</updated>
+        <updated>2022-03-22T02:25:15.570Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMdGl">가게 운영을 하면 잘할 수 있을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[따라하는 자기소개 10문 10답 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/o7tnbR1</id>
         <link href="https://alook.so/posts/o7tnbR1"/>
-        <updated>2022-03-22T02:25:23.569Z</updated>
+        <updated>2022-03-22T02:25:15.581Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnbR1">따라하는 자기소개 10문 10답</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[bookmaniac의 자기소개 10문 10답 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/KmtDYDX</id>
         <link href="https://alook.so/posts/KmtDYDX"/>
-        <updated>2022-03-22T02:25:23.570Z</updated>
+        <updated>2022-03-22T02:25:15.581Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDYDX">bookmaniac의 자기소개 10문 10답</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[면접 응원 한 번만 해주세요! (기운 받아가고 싶어요) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/BataWky</id>
-        <link href="https://alook.so/posts/BataWky"/>
-        <updated>2022-03-22T00:51:03.110Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/BataWky">면접 응원 한 번만 해주세요! (기운 받아가고 싶어요)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드라마 그냥 사랑하는 사이 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -215,13 +215,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tp33z">정말 중요한건 겉모습이 아니다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[부동산 공화국이 재난을 추모하는 방식 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/RGtkJ7X</id>
-        <link href="https://alook.so/posts/RGtkJ7X"/>
-        <updated>2022-03-21T12:19:21.975Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkJ7X">부동산 공화국이 재난을 추모하는 방식</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[드디어 저의 무죄를 입증받았습니다🍾 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/rDtvXVd</id>
         <link href="https://alook.so/posts/rDtvXVd"/>
@@ -241,13 +234,6 @@
         <link href="https://alook.so/posts/Yyt0jRK"/>
         <updated>2022-03-21T06:16:18.968Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0jRK">청와대 집무실 이전 확정에 대하여</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년1인가구와 노년1인가구는 다르다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/LKtmevP</id>
-        <link href="https://alook.so/posts/LKtmevP"/>
-        <updated>2022-03-21T05:13:37.281Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmevP">청년1인가구와 노년1인가구는 다르다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[반려견 입양이 두렵습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
