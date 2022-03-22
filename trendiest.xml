@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-22T08:18:44.808Z</updated>
+    <updated>2022-03-22T09:16:29.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[뜻대로 일이 안 풀리니 울고 싶네요]]></title>
+        <id>https://alook.so/posts/0ktM0mR</id>
+        <link href="https://alook.so/posts/0ktM0mR"/>
+        <updated>2022-03-22T09:14:45.547Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM0mR"> 뜻대로 일이 안 풀리니 울고 싶네요 </a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일상에서 얻는 행복은 무엇인가요?]]></title>
         <id>https://alook.so/posts/1RtJyJp</id>
@@ -88,13 +95,6 @@
         <link href="https://alook.so/posts/eVtMdGl"/>
         <updated>2022-03-22T02:25:23.569Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMdGl">가게 운영을 하면 잘할 수 있을까?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[따라하는 자기소개 10문 10답]]></title>
-        <id>https://alook.so/posts/o7tnbR1</id>
-        <link href="https://alook.so/posts/o7tnbR1"/>
-        <updated>2022-03-22T02:25:23.569Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnbR1">따라하는 자기소개 10문 10답</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[중장년 1인 가구의 쓸쓸한 죽음]]></title>
