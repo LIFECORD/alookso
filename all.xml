@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-23T21:12:13.405Z</updated>
+    <updated>2022-03-23T22:16:55.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[일기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -31,13 +31,6 @@
         <link href="https://alook.so/posts/WLt5EEO"/>
         <updated>2022-03-23T15:14:03.619Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5EEO">한 아이를 키우려면 온 마을이 필요하다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독일브리핑) 슈퍼마켓 가격이 오르고 있다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/zvtDmqa</id>
-        <link href="https://alook.so/posts/zvtDmqa"/>
-        <updated>2022-03-23T15:14:03.619Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDmqa">독일브리핑) 슈퍼마켓 가격이 오르고 있다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세대포위론을 역설계하기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -117,6 +110,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEOO3">학교에서 갤럭시 휴대폰 쓰면 왕따를 당한다?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[요즘…재테크에 다들 관심 있으시죠? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/pot7XXV</id>
+        <link href="https://alook.so/posts/pot7XXV"/>
+        <updated>2022-03-23T22:15:02.265Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7XXV">요즘…재테크에 다들 관심 있으시죠? </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나이와 조급함에 대하여 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDtvn2R</id>
         <link href="https://alook.so/posts/rDtvn2R"/>
@@ -150,13 +150,6 @@
         <link href="https://alook.so/posts/WLt5EEO"/>
         <updated>2022-03-23T15:14:03.619Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5EEO">한 아이를 키우려면 온 마을이 필요하다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[독일브리핑) 슈퍼마켓 가격이 오르고 있다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/zvtDmqa</id>
-        <link href="https://alook.so/posts/zvtDmqa"/>
-        <updated>2022-03-23T15:14:03.619Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDmqa">독일브리핑) 슈퍼마켓 가격이 오르고 있다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[세대포위론을 역설계하기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -236,10 +229,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEOO3">학교에서 갤럭시 휴대폰 쓰면 왕따를 당한다?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[요즘…재테크에 다들 관심 있으시죠? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/pot7XXV</id>
+        <link href="https://alook.so/posts/pot7XXV"/>
+        <updated>2022-03-23T22:15:09.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7XXV">요즘…재테크에 다들 관심 있으시죠? </a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[나이와 조급함에 대하여 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/rDtvn2R</id>
         <link href="https://alook.so/posts/rDtvn2R"/>
-        <updated>2022-03-23T21:10:13.116Z</updated>
+        <updated>2022-03-23T21:10:03.475Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvn2R">나이와 조급함에 대하여</a>]]></content>
     </entry>
     <entry>
