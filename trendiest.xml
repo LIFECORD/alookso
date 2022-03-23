@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-23T02:30:50.829Z</updated>
+    <updated>2022-03-23T03:29:18.666Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[여러분은 평상시에 감사함을 느끼시나요?]]></title>
+        <id>https://alook.so/posts/Bataxnn</id>
+        <link href="https://alook.so/posts/Bataxnn"/>
+        <updated>2022-03-23T03:27:23.746Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bataxnn">여러분은 평상시에 감사함을 느끼시나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대화 주제]]></title>
+        <id>https://alook.so/posts/o7tnD4Z</id>
+        <link href="https://alook.so/posts/o7tnD4Z"/>
+        <updated>2022-03-23T03:27:23.746Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnD4Z">대화 주제</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현금 없는 버스]와 [현금 사용 선택권]]]></title>
+        <id>https://alook.so/posts/3wtE4Xw</id>
+        <link href="https://alook.so/posts/3wtE4Xw"/>
+        <updated>2022-03-23T03:27:23.747Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE4Xw">[현금 없는 버스]와 [현금 사용 선택권]</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지인과의 전화통화^^..이런 경우도 있네요^^'']]></title>
+        <id>https://alook.so/posts/92te2rB</id>
+        <link href="https://alook.so/posts/92te2rB"/>
+        <updated>2022-03-23T03:27:23.747Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92te2rB">지인과의 전화통화^^..이런 경우도 있네요^^''</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열과 김여정 사이: 북한 방사포 발사 논란을 보고 느낀 점]]></title>
         <id>https://alook.so/posts/rDtvD0l</id>
@@ -13,32 +41,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvD0l">윤석열과 김여정 사이: 북한 방사포 발사 논란을 보고 느낀 점</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[투표] 국민연금은 내게 손해일까요, 이득일까요?]]></title>
-        <id>https://alook.so/posts/Djt3DDn</id>
-        <link href="https://alook.so/posts/Djt3DDn"/>
-        <updated>2022-03-23T02:29:02.816Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3DDn">[투표] 국민연금은 내게 손해일까요, 이득일까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 아내와 잘 지내야 퇴직후에도 잘 지낼수있습니다]]></title>
-        <id>https://alook.so/posts/E7t7lBE</id>
-        <link href="https://alook.so/posts/E7t7lBE"/>
-        <updated>2022-03-23T02:29:02.816Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7lBE">지금 아내와 잘 지내야 퇴직후에도 잘 지낼수있습니다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[답글: 절박해도 웃어봐유~~^^]]></title>
-        <id>https://alook.so/posts/w9tpqP5</id>
-        <link href="https://alook.so/posts/w9tpqP5"/>
-        <updated>2022-03-23T02:29:02.816Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpqP5">답글: 절박해도 웃어봐유~~^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오미크론 후유증]]></title>
-        <id>https://alook.so/posts/70teKx1</id>
-        <link href="https://alook.so/posts/70teKx1"/>
-        <updated>2022-03-23T02:29:02.819Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teKx1">오미크론 후유증</a>]]></content>
+        <title type="html"><![CDATA[나보다 너무 잘난 여자친구를 만나며 든 생각]]></title>
+        <id>https://alook.so/posts/jdtdLJ3</id>
+        <link href="https://alook.so/posts/jdtdLJ3"/>
+        <updated>2022-03-23T03:27:23.747Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdLJ3">나보다 너무 잘난 여자친구를 만나며 든 생각</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 승모근 (僧帽筋)]]></title>
@@ -76,25 +83,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtLowd">글을 쓰거나 그림을 그리면 마음이 편해지면서 따뜻해지지 않나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[국제정치의 새로운 도전자 : 기술 권력]]></title>
-        <id>https://alook.so/posts/rDtvx31</id>
-        <link href="https://alook.so/posts/rDtvx31"/>
-        <updated>2022-03-22T15:14:51.594Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvx31">국제정치의 새로운 도전자 : 기술 권력</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[제주도 섭지코지 여행]]></title>
         <id>https://alook.so/posts/kZtB880</id>
         <link href="https://alook.so/posts/kZtB880"/>
         <updated>2022-03-22T15:14:51.594Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtB880">제주도 섭지코지 여행</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아니오, 우리들의 한 표는 언제든지 조롱당해야만 합니다.]]></title>
-        <id>https://alook.so/posts/XBtXP83</id>
-        <link href="https://alook.so/posts/XBtXP83"/>
-        <updated>2022-03-22T11:21:30.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXP83">아니오, 우리들의 한 표는 언제든지 조롱당해야만 합니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[안락사는 끝까지 불법이어야만 하는가]]></title>
