@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-22T23:15:56.304Z</updated>
+    <updated>2022-03-23T00:55:42.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘…재테크에 다들 관심 있으시죠?]]></title>
+        <id>https://alook.so/posts/pot7XXV</id>
+        <link href="https://alook.so/posts/pot7XXV"/>
+        <updated>2022-03-23T00:53:53.100Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7XXV">요즘…재테크에 다들 관심 있으시죠? </a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[긍정적인 생각으로 아침의 시작]]></title>
+        <id>https://alook.so/posts/92te2oL</id>
+        <link href="https://alook.so/posts/92te2oL"/>
+        <updated>2022-03-23T00:53:53.100Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92te2oL">긍정적인 생각으로 아침의 시작</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인생! 절박함이 더해지다.]]></title>
         <id>https://alook.so/posts/J5tOEle</id>
@@ -76,18 +90,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJG4m">안락사는 끝까지 불법이어야만 하는가</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[우리도 될 수 있다 '사람을 살리는 사람']]></title>
-        <id>https://alook.so/posts/70teBGB</id>
-        <link href="https://alook.so/posts/70teBGB"/>
-        <updated>2022-03-22T11:21:22.130Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teBGB">우리도 될 수 있다 '사람을 살리는 사람' </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[나는 세잎 클로버가 참 좋다]]></title>
         <id>https://alook.so/posts/WLt5px4</id>
         <link href="https://alook.so/posts/WLt5px4"/>
         <updated>2022-03-22T11:21:22.134Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5px4">나는 세잎 클로버가 참 좋다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리도 될 수 있다 '사람을 살리는 사람']]></title>
+        <id>https://alook.so/posts/70teBGB</id>
+        <link href="https://alook.so/posts/70teBGB"/>
+        <updated>2022-03-22T11:21:22.130Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teBGB">우리도 될 수 있다 '사람을 살리는 사람' </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[H&M 스웨덴 매장에서 중고 의류 판매 : Pre-Loved]]></title>
@@ -116,12 +130,5 @@
         <link href="https://alook.so/posts/0ktMwK7"/>
         <updated>2022-03-22T04:15:33.183Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMwK7">0과 1 그리고 10과 11</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 저의 무죄를 입증받았습니다🍾]]></title>
-        <id>https://alook.so/posts/rDtvXVd</id>
-        <link href="https://alook.so/posts/rDtvXVd"/>
-        <updated>2022-03-21T09:15:44.775Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvXVd">드디어 저의 무죄를 입증받았습니다🍾</a>]]></content>
     </entry>
 </feed>
