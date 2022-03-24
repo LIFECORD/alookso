@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-24T13:24:47.455Z</updated>
+    <updated>2022-03-24T14:20:01.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[우리 집은 누가 고치는 것이 맞을까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/92teYLw</id>
+        <link href="https://alook.so/posts/92teYLw"/>
+        <updated>2022-03-24T14:18:06.032Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92teYLw">우리 집은 누가 고치는 것이 맞을까?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다이어트는 왜 항상해도 어려울까요ㅠㅠ (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/KmtDnJ0</id>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkGZj">노래 한 곡 듣고 가시죠</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[게임이 예술이야? 미술관에 왜 전시 해? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/VntwZ8x</id>
-        <link href="https://alook.so/posts/VntwZ8x"/>
-        <updated>2022-03-24T04:17:38.147Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwZ8x">게임이 예술이야? 미술관에 왜 전시 해?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[살림...꼭 여성의 몫일까요?? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/XBtXa6V</id>
         <link href="https://alook.so/posts/XBtXa6V"/>
@@ -138,17 +138,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtL5P7">34살이 되어서야 대학학위를 받았습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[우리 집은 누가 고치는 것이 맞을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/92teYLw</id>
+        <link href="https://alook.so/posts/92teYLw"/>
+        <updated>2022-03-24T14:18:14.189Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92teYLw">우리 집은 누가 고치는 것이 맞을까?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[다이어트는 왜 항상해도 어려울까요ㅠㅠ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/KmtDnJ0</id>
         <link href="https://alook.so/posts/KmtDnJ0"/>
-        <updated>2022-03-24T13:22:57.097Z</updated>
+        <updated>2022-03-24T13:22:49.261Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDnJ0">다이어트는 왜 항상해도 어려울까요ㅠㅠ</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[출근길, 날 바라보는 공효진, 부끄부끄 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/54t35Zr</id>
         <link href="https://alook.so/posts/54t35Zr"/>
-        <updated>2022-03-24T13:22:57.099Z</updated>
+        <updated>2022-03-24T13:22:49.262Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t35Zr">출근길, 날 바라보는 공효진, 부끄부끄</a>]]></content>
     </entry>
     <entry>
@@ -234,13 +241,6 @@
         <link href="https://alook.so/posts/RGtkGZj"/>
         <updated>2022-03-24T05:12:07.292Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkGZj">노래 한 곡 듣고 가시죠</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임이 예술이야? 미술관에 왜 전시 해? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/VntwZ8x</id>
-        <link href="https://alook.so/posts/VntwZ8x"/>
-        <updated>2022-03-24T04:17:38.147Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwZ8x">게임이 예술이야? 미술관에 왜 전시 해?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[살림...꼭 여성의 몫일까요?? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
