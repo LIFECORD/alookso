@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-24T23:16:47.014Z</updated>
+    <updated>2022-03-25T00:49:40.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[낮말은... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wtEBep</id>
+        <link href="https://alook.so/posts/3wtEBep"/>
+        <updated>2022-03-25T00:47:33.563Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEBep">낮말은...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글을 보면 나이가 보여요?! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/yEtE6zL</id>
+        <link href="https://alook.so/posts/yEtE6zL"/>
+        <updated>2022-03-25T00:47:33.564Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtE6zL">글을 보면 나이가 보여요?!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부자들의 지식은 복리로 쌓인다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/6MtYnYR</id>
@@ -110,13 +124,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwZ8x">게임이 예술이야? 미술관에 왜 전시 해?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넌 먹을 수 있니? 곤충말야... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/92teVOK</id>
-        <link href="https://alook.so/posts/92teVOK"/>
-        <updated>2022-03-24T15:13:11.573Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92teVOK">넌 먹을 수 있니? 곤충말야...</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[살림...꼭 여성의 몫일까요?? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/XBtXa6V</id>
         <link href="https://alook.so/posts/XBtXa6V"/>
@@ -131,18 +138,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMwqd">팽? 2030에게 큰 코 다칠 것!</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더 주목해야 하는 것: 우리에게는 설득의 노력이 필요하다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7t7DOp</id>
-        <link href="https://alook.so/posts/E7t7DOp"/>
-        <updated>2022-03-24T15:13:11.581Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7DOp">더 주목해야 하는 것: 우리에게는 설득의 노력이 필요하다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[34살이 되어서야 대학학위를 받았습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/OEtL5P7</id>
         <link href="https://alook.so/posts/OEtL5P7"/>
         <updated>2022-03-23T12:21:07.941Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/OEtL5P7">34살이 되어서야 대학학위를 받았습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[낮말은... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtEBep</id>
+        <link href="https://alook.so/posts/3wtEBep"/>
+        <updated>2022-03-25T00:47:41.619Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEBep">낮말은...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글을 보면 나이가 보여요?! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/yEtE6zL</id>
+        <link href="https://alook.so/posts/yEtE6zL"/>
+        <updated>2022-03-25T00:47:41.619Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtE6zL">글을 보면 나이가 보여요?!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[부자들의 지식은 복리로 쌓인다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -250,13 +264,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwZ8x">게임이 예술이야? 미술관에 왜 전시 해?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[넌 먹을 수 있니? 곤충말야... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/92teVOK</id>
-        <link href="https://alook.so/posts/92teVOK"/>
-        <updated>2022-03-24T15:13:11.573Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92teVOK">넌 먹을 수 있니? 곤충말야...</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[살림...꼭 여성의 몫일까요?? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/XBtXa6V</id>
         <link href="https://alook.so/posts/XBtXa6V"/>
@@ -269,13 +276,6 @@
         <link href="https://alook.so/posts/eVtMwqd"/>
         <updated>2022-03-24T02:24:31.463Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMwqd">팽? 2030에게 큰 코 다칠 것!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 주목해야 하는 것: 우리에게는 설득의 노력이 필요하다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7t7DOp</id>
-        <link href="https://alook.so/posts/E7t7DOp"/>
-        <updated>2022-03-24T15:13:11.581Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7DOp">더 주목해야 하는 것: 우리에게는 설득의 노력이 필요하다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[34살이 되어서야 대학학위를 받았습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -670,6 +670,20 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtBDJ">온라인에서 진지하고 발전적인 대화가 정말 가능할까요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[투표] 축산업은 기후위기를 가속시킵니다. 미래에는 육식이 지금 흡연처럼 눈총받는 일이 될까요? (alookso ─ 데이터카우)]]></title>
+        <id>https://alook.so/posts/ZktaDK2</id>
+        <link href="https://alook.so/posts/ZktaDK2"/>
+        <updated>2022-03-25T00:49:04.322Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktaDK2">[투표] 축산업은 기후위기를 가속시킵니다. 미래에는 육식이 지금 흡연처럼 눈총받는 일이 될까요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[투표] 기후변화를 막으려면 탄소 배출을 줄여야 합니다. 원전이 대안이 될 수 있을까요? (alookso ─ 데이터카우)]]></title>
+        <id>https://alook.so/posts/eVtM58a</id>
+        <link href="https://alook.so/posts/eVtM58a"/>
+        <updated>2022-03-25T00:49:04.323Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtM58a">[투표] 기후변화를 막으려면 탄소 배출을 줄여야 합니다. 원전이 대안이 될 수 있을까요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[카우레터_B컷]바다를 뒤덮은 플라스틱 (alookso ─ 데이터카우)]]></title>
         <id>https://alook.so/posts/J5tOKkq</id>
         <link href="https://alook.so/posts/J5tOKkq"/>
@@ -724,20 +738,6 @@
         <link href="https://alook.so/posts/70te6Kl"/>
         <updated>2022-03-23T03:28:43.241Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70te6Kl">[투표] 통일이 된다면 북한이 가진 핵무기는 어떻게 해야 할까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카우레터] 아마존 열대우림이 초원이 된다고? (alookso ─ 데이터카우)]]></title>
-        <id>https://alook.so/posts/a0tYd0G</id>
-        <link href="https://alook.so/posts/a0tYd0G"/>
-        <updated>2022-03-22T02:26:39.079Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tYd0G">[카우레터] 아마존 열대우림이 초원이 된다고?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카우레터] 행복이란 무엇일까? (alookso ─ 데이터카우)]]></title>
-        <id>https://alook.so/posts/vKtB7Dv</id>
-        <link href="https://alook.so/posts/vKtB7Dv"/>
-        <updated>2022-03-21T06:17:44.216Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtB7Dv">[카우레터] 행복이란 무엇일까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2020 도쿄 패럴림픽 선수들의 비전 시각화 (alookso ─ 데이터카우)]]></title>
