@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-25T09:15:23.374Z</updated>
+    <updated>2022-03-25T10:17:05.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리가 투표에서 1번 아니면 2번을 뽑는 이유]]></title>
+        <id>https://alook.so/posts/pot7Oxl</id>
+        <link href="https://alook.so/posts/pot7Oxl"/>
+        <updated>2022-03-25T10:15:05.549Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7Oxl"> 우리가 투표에서 1번 아니면 2번을 뽑는 이유</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머리카락 자를 때 남친 허락 받아야돼요?]]></title>
         <id>https://alook.so/posts/bWtyR5V</id>
@@ -74,13 +81,6 @@
         <link href="https://alook.so/posts/yEtE6zL"/>
         <updated>2022-03-25T00:47:41.619Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtE6zL">글을 보면 나이가 보여요?!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자들의 지식은 복리로 쌓인다]]></title>
-        <id>https://alook.so/posts/6MtYnYR</id>
-        <link href="https://alook.so/posts/6MtYnYR"/>
-        <updated>2022-03-25T09:13:26.294Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtYnYR">부자들의 지식은 복리로 쌓인다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[엄마가 여행을 떠났다]]></title>
