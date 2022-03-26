@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-26T07:14:20.733Z</updated>
+    <updated>2022-03-26T08:16:29.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[좋아요가 3,000명 넘었네요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wtEZr8</id>
+        <link href="https://alook.so/posts/3wtEZr8"/>
+        <updated>2022-03-26T08:14:28.337Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEZr8">좋아요가 3,000명 넘었네요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋아요 2K, 공감해 주셔서 감사합니다! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tn3VR</id>
+        <link href="https://alook.so/posts/o7tn3VR"/>
+        <updated>2022-03-26T08:14:28.339Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tn3VR">좋아요 2K, 공감해 주셔서 감사합니다!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[익명으로 소통한다는 것 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/kZtB2Ol</id>
@@ -124,20 +138,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwYyK">감정의 쓰레기통</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소의 작은 소망^^ (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54t3xW9</id>
-        <link href="https://alook.so/posts/54t3xW9"/>
-        <updated>2022-03-25T21:12:12.639Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3xW9">얼룩소의 작은 소망^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글 쓰는 도망자의 삶 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/8WtwyVE</id>
-        <link href="https://alook.so/posts/8WtwyVE"/>
-        <updated>2022-03-25T15:13:45.175Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwyVE">글 쓰는 도망자의 삶</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[얼룩소 2주째; 얼룩소는 책이다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/54t3P0l</id>
         <link href="https://alook.so/posts/54t3P0l"/>
@@ -145,17 +145,31 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3P0l">얼룩소 2주째; 얼룩소는 책이다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[좋아요가 3,000명 넘었네요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtEZr8</id>
+        <link href="https://alook.so/posts/3wtEZr8"/>
+        <updated>2022-03-26T08:14:36.889Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEZr8">좋아요가 3,000명 넘었네요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[좋아요 2K, 공감해 주셔서 감사합니다! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/o7tn3VR</id>
+        <link href="https://alook.so/posts/o7tn3VR"/>
+        <updated>2022-03-26T08:14:36.891Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tn3VR">좋아요 2K, 공감해 주셔서 감사합니다!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[익명으로 소통한다는 것 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/kZtB2Ol</id>
         <link href="https://alook.so/posts/kZtB2Ol"/>
-        <updated>2022-03-26T07:12:30.369Z</updated>
+        <updated>2022-03-26T07:12:22.585Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtB2Ol">익명으로 소통한다는 것</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 중독은 없어진 걸로..^^ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/1RtJbx9</id>
         <link href="https://alook.so/posts/1RtJbx9"/>
-        <updated>2022-03-26T07:12:30.369Z</updated>
+        <updated>2022-03-26T07:12:22.586Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJbx9">얼룩소 중독은 없어진 걸로..^^</a>]]></content>
     </entry>
     <entry>
@@ -262,20 +276,6 @@
         <link href="https://alook.so/posts/8WtwYyK"/>
         <updated>2022-03-25T23:12:24.629Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwYyK">감정의 쓰레기통</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소의 작은 소망^^ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/54t3xW9</id>
-        <link href="https://alook.so/posts/54t3xW9"/>
-        <updated>2022-03-25T21:12:12.639Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3xW9">얼룩소의 작은 소망^^</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글 쓰는 도망자의 삶 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/8WtwyVE</id>
-        <link href="https://alook.so/posts/8WtwyVE"/>
-        <updated>2022-03-25T15:13:45.175Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwyVE">글 쓰는 도망자의 삶</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소 2주째; 얼룩소는 책이다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
