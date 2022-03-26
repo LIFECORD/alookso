@@ -2,21 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-26T00:49:20.676Z</updated>
+    <updated>2022-03-26T02:21:38.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[Be yourself no matter what they say (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/8WtwYb2</id>
-        <link href="https://alook.so/posts/8WtwYb2"/>
-        <updated>2022-03-26T00:47:26.682Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwYb2">Be yourself no matter what they say</a>]]></content>
+        <title type="html"><![CDATA[오랜만에 자격증 시험을 봤어요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/zvtDMOG</id>
+        <link href="https://alook.so/posts/zvtDMOG"/>
+        <updated>2022-03-26T02:19:32.856Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDMOG">오랜만에 자격증 시험을 봤어요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토요일이 네요ㅎㅎ오늘 출근하시는 분?🙋 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/92texjm</id>
-        <link href="https://alook.so/posts/92texjm"/>
-        <updated>2022-03-26T00:47:26.682Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92texjm">토요일이 네요ㅎㅎ오늘 출근하시는 분?🙋</a>]]></content>
+        <title type="html"><![CDATA[비가 온 뒤.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/92texr2</id>
+        <link href="https://alook.so/posts/92texr2"/>
+        <updated>2022-03-26T02:19:32.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92texr2">비가 온 뒤..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인간의 혈액에서 미세 플라스틱 최초 발견 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Djt38bw</id>
+        <link href="https://alook.so/posts/Djt38bw"/>
+        <updated>2022-03-26T02:19:32.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt38bw">인간의 혈액에서 미세 플라스틱 최초 발견</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[늦은 아침 생각] 멋지게 실수하라 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/70te07n</id>
+        <link href="https://alook.so/posts/70te07n"/>
+        <updated>2022-03-26T02:19:32.857Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70te07n">[늦은 아침 생각] 멋지게 실수하라</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스스로 받은 선물 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -61,11 +75,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE9r1">띵동~ 정수기 코디~ 점검왔습니다~~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 적산(敵産)에서 토건(土建)까지- 건물엔 죄가 없다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/70te05k</id>
-        <link href="https://alook.so/posts/70te05k"/>
-        <updated>2022-03-26T00:47:26.682Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70te05k">답글: 적산(敵産)에서 토건(土建)까지- 건물엔 죄가 없다</a>]]></content>
+        <title type="html"><![CDATA[투데이 글 선정 기준에는 의견이 다르지만.. + 활동 다양성이 보상 로직에 적용될 예시 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/latqvyB</id>
+        <link href="https://alook.so/posts/latqvyB"/>
+        <updated>2022-03-26T02:19:32.865Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqvyB">투데이 글 선정 기준에는 의견이 다르지만.. + 활동 다양성이 보상 로직에 적용될 예시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글 쓰는 도망자의 삶 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -80,13 +94,6 @@
         <link href="https://alook.so/posts/54t3P0l"/>
         <updated>2022-03-25T13:44:36.211Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3P0l">얼룩소 2주째; 얼룩소는 책이다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 투표에서 1번 아니면 2번을 뽑는 이유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/pot7Oxl</id>
-        <link href="https://alook.so/posts/pot7Oxl"/>
-        <updated>2022-03-25T10:14:57.605Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7Oxl"> 우리가 투표에서 1번 아니면 2번을 뽑는 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대한민국에서 중산층 전업주부로 살아간다는 것은 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -110,45 +117,45 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktaEjx">엄마가 여행을 떠났다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나를 놓아주기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/RGtk9j6</id>
-        <link href="https://alook.so/posts/RGtk9j6"/>
-        <updated>2022-03-24T15:13:11.554Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtk9j6">나를 놓아주기</a>]]></content>
+        <title type="html"><![CDATA[오랜만에 자격증 시험을 봤어요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/zvtDMOG</id>
+        <link href="https://alook.so/posts/zvtDMOG"/>
+        <updated>2022-03-26T02:19:40.511Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtDMOG">오랜만에 자격증 시험을 봤어요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소를 하는 진짜 이유...하루 아침에 수입이 "0"원... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/eVtMabK</id>
-        <link href="https://alook.so/posts/eVtMabK"/>
-        <updated>2022-03-24T12:20:22.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMabK">얼룩소를 하는 진짜 이유...하루 아침에 수입이 "0"원... </a>]]></content>
+        <title type="html"><![CDATA[비가 온 뒤.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/92texr2</id>
+        <link href="https://alook.so/posts/92texr2"/>
+        <updated>2022-03-26T02:19:40.511Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92texr2">비가 온 뒤..</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Be yourself no matter what they say (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/8WtwYb2</id>
-        <link href="https://alook.so/posts/8WtwYb2"/>
-        <updated>2022-03-26T00:47:34.583Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwYb2">Be yourself no matter what they say</a>]]></content>
+        <title type="html"><![CDATA[인간의 혈액에서 미세 플라스틱 최초 발견 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djt38bw</id>
+        <link href="https://alook.so/posts/Djt38bw"/>
+        <updated>2022-03-26T02:19:40.511Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt38bw">인간의 혈액에서 미세 플라스틱 최초 발견</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[토요일이 네요ㅎㅎ오늘 출근하시는 분?🙋 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/92texjm</id>
-        <link href="https://alook.so/posts/92texjm"/>
-        <updated>2022-03-26T00:47:34.584Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92texjm">토요일이 네요ㅎㅎ오늘 출근하시는 분?🙋</a>]]></content>
+        <title type="html"><![CDATA[[늦은 아침 생각] 멋지게 실수하라 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/70te07n</id>
+        <link href="https://alook.so/posts/70te07n"/>
+        <updated>2022-03-26T02:19:40.520Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70te07n">[늦은 아침 생각] 멋지게 실수하라</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[스스로 받은 선물 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/bWtyzGK</id>
         <link href="https://alook.so/posts/bWtyzGK"/>
-        <updated>2022-03-26T00:47:34.584Z</updated>
+        <updated>2022-03-26T00:47:26.682Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyzGK">스스로 받은 선물</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이준석 대표님, 당신은 평론가가 아니라 정치가 입니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/eVtMq5Y</id>
         <link href="https://alook.so/posts/eVtMq5Y"/>
-        <updated>2022-03-26T00:47:34.598Z</updated>
+        <updated>2022-03-26T00:47:26.682Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMq5Y">이준석 대표님, 당신은 평론가가 아니라 정치가 입니다.</a>]]></content>
     </entry>
     <entry>
@@ -180,11 +187,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE9r1">띵동~ 정수기 코디~ 점검왔습니다~~</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 적산(敵産)에서 토건(土建)까지- 건물엔 죄가 없다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/70te05k</id>
-        <link href="https://alook.so/posts/70te05k"/>
-        <updated>2022-03-26T00:47:34.610Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70te05k">답글: 적산(敵産)에서 토건(土建)까지- 건물엔 죄가 없다</a>]]></content>
+        <title type="html"><![CDATA[투데이 글 선정 기준에는 의견이 다르지만.. + 활동 다양성이 보상 로직에 적용될 예시 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/latqvyB</id>
+        <link href="https://alook.so/posts/latqvyB"/>
+        <updated>2022-03-26T02:19:40.532Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqvyB">투데이 글 선정 기준에는 의견이 다르지만.. + 활동 다양성이 보상 로직에 적용될 예시</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[글 쓰는 도망자의 삶 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -199,13 +206,6 @@
         <link href="https://alook.so/posts/54t3P0l"/>
         <updated>2022-03-25T13:44:36.211Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3P0l">얼룩소 2주째; 얼룩소는 책이다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리가 투표에서 1번 아니면 2번을 뽑는 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/pot7Oxl</id>
-        <link href="https://alook.so/posts/pot7Oxl"/>
-        <updated>2022-03-25T10:14:57.605Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7Oxl"> 우리가 투표에서 1번 아니면 2번을 뽑는 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대한민국에서 중산층 전업주부로 살아간다는 것은 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -227,20 +227,6 @@
         <link href="https://alook.so/posts/ZktaEjx"/>
         <updated>2022-03-24T15:13:11.546Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktaEjx">엄마가 여행을 떠났다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나를 놓아주기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/RGtk9j6</id>
-        <link href="https://alook.so/posts/RGtk9j6"/>
-        <updated>2022-03-24T15:13:11.554Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtk9j6">나를 놓아주기</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소를 하는 진짜 이유...하루 아침에 수입이 "0"원... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtMabK</id>
-        <link href="https://alook.so/posts/eVtMabK"/>
-        <updated>2022-03-24T12:20:22.748Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMabK">얼룩소를 하는 진짜 이유...하루 아침에 수입이 "0"원... </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌸 ‘봄의 걸음걸이’ 꽃지도를 그려 봅시다 (alookso ─ alookso)]]></title>
