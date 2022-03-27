@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-27T11:12:36.005Z</updated>
+    <updated>2022-03-27T12:20:28.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한글을 편하게 사용하면 안 되는 이유 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xltorqY</id>
+        <link href="https://alook.so/posts/xltorqY"/>
+        <updated>2022-03-27T12:18:25.560Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorqY">한글을 편하게 사용하면 안 되는 이유</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사전 연명의료 결정 제도 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/latqMdm</id>
@@ -117,11 +124,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm0Yo">조금 느리면 어때요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소7일차!구독100돌파!! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/3wtE9el</id>
-        <link href="https://alook.so/posts/3wtE9el"/>
-        <updated>2022-03-26T03:18:39.689Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE9el">얼룩소7일차!구독100돌파!!</a>]]></content>
+        <title type="html"><![CDATA[한글을 편하게 사용하면 안 되는 이유 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/xltorqY</id>
+        <link href="https://alook.so/posts/xltorqY"/>
+        <updated>2022-03-27T12:18:34.802Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorqY">한글을 편하게 사용하면 안 되는 이유</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사전 연명의료 결정 제도 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -234,13 +241,6 @@
         <link href="https://alook.so/posts/LKtm0Yo"/>
         <updated>2022-03-26T04:15:03.269Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm0Yo">조금 느리면 어때요.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소7일차!구독100돌파!! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/3wtE9el</id>
-        <link href="https://alook.so/posts/3wtE9el"/>
-        <updated>2022-03-26T03:18:39.689Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtE9el">얼룩소7일차!구독100돌파!!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌸 ‘봄의 걸음걸이’ 꽃지도를 그려 봅시다 (alookso ─ alookso)]]></title>
