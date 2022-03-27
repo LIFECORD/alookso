@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-26T23:15:17.652Z</updated>
+    <updated>2022-03-27T00:54:07.279Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[건강을 위하여! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Zkta3MY</id>
+        <link href="https://alook.so/posts/Zkta3MY"/>
+        <updated>2022-03-27T00:52:13.479Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkta3MY">건강을 위하여!</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한 마리에 3만원? 금가루 뿌린 치킨인가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/BataJ7y</id>
@@ -103,13 +110,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtYZbr">아무것도 하지않는 즐거움</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[어젠 없었는데... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Yyt0JOa</id>
-        <link href="https://alook.so/posts/Yyt0JOa"/>
-        <updated>2022-03-26T23:12:57.781Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0JOa">어젠 없었는데... </a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[조금 느리면 어때요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/LKtm0Yo</id>
         <link href="https://alook.so/posts/LKtm0Yo"/>
@@ -143,6 +143,13 @@
         <link href="https://alook.so/posts/8WtwYyK"/>
         <updated>2022-03-25T23:12:24.629Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwYyK">감정의 쓰레기통</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[건강을 위하여! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Zkta3MY</id>
+        <link href="https://alook.so/posts/Zkta3MY"/>
+        <updated>2022-03-27T00:52:21.552Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Zkta3MY">건강을 위하여!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[한 마리에 3만원? 금가루 뿌린 치킨인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -241,13 +248,6 @@
         <link href="https://alook.so/posts/6MtYZbr"/>
         <updated>2022-03-26T05:11:26.444Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtYZbr">아무것도 하지않는 즐거움</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어젠 없었는데... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Yyt0JOa</id>
-        <link href="https://alook.so/posts/Yyt0JOa"/>
-        <updated>2022-03-26T23:13:07.780Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0JOa">어젠 없었는데... </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[조금 느리면 어때요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
