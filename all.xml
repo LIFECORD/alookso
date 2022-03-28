@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-28T11:14:49.088Z</updated>
+    <updated>2022-03-28T12:22:14.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[얼룩소와 코인의 비교. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/8WtwGGo</id>
+        <link href="https://alook.so/posts/8WtwGGo"/>
+        <updated>2022-03-28T12:20:17.071Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwGGo">얼룩소와 코인의 비교.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학부모가 아니라 보호자입니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/VntwBRj</id>
@@ -96,13 +103,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teZD3">집중력과 alookso 를 향한 단편적인 생각들.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[교육] 상상력이 중요해 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/2xt2Gx1</id>
-        <link href="https://alook.so/posts/2xt2Gx1"/>
-        <updated>2022-03-27T15:13:28.901Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2Gx1">[교육] 상상력이 중요해</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상대방을 기쁘게 하는 습관이 있으세요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDtvW8e</id>
         <link href="https://alook.so/posts/rDtvW8e"/>
@@ -131,17 +131,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorqY">한글을 편하게 사용하면 안 되는 이유</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[얼룩소와 코인의 비교. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/8WtwGGo</id>
+        <link href="https://alook.so/posts/8WtwGGo"/>
+        <updated>2022-03-28T12:20:26.091Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwGGo">얼룩소와 코인의 비교.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[학부모가 아니라 보호자입니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/VntwBRj</id>
         <link href="https://alook.so/posts/VntwBRj"/>
-        <updated>2022-03-28T11:13:01.763Z</updated>
+        <updated>2022-03-28T11:12:53.659Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwBRj">학부모가 아니라 보호자입니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/xltoja3</id>
         <link href="https://alook.so/posts/xltoja3"/>
-        <updated>2022-03-28T11:13:01.765Z</updated>
+        <updated>2022-03-28T11:12:53.659Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoja3">사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가</a>]]></content>
     </entry>
     <entry>
@@ -220,13 +227,6 @@
         <link href="https://alook.so/posts/70teZD3"/>
         <updated>2022-03-27T17:13:47.373Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teZD3">집중력과 alookso 를 향한 단편적인 생각들.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[교육] 상상력이 중요해 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/2xt2Gx1</id>
-        <link href="https://alook.so/posts/2xt2Gx1"/>
-        <updated>2022-03-27T15:13:28.901Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2Gx1">[교육] 상상력이 중요해</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[상대방을 기쁘게 하는 습관이 있으세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
