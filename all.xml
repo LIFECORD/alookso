@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-28T09:16:26.555Z</updated>
+    <updated>2022-03-28T10:16:49.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제 글은 인기가 없어서 398포인트 받았습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/LKtmL5D</id>
+        <link href="https://alook.so/posts/LKtmL5D"/>
+        <updated>2022-03-28T10:14:48.645Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmL5D">제 글은 인기가 없어서 398포인트 받았습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[절약하는 방법은 뭐가 있을까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/2xt2obW</id>
+        <link href="https://alook.so/posts/2xt2obW"/>
+        <updated>2022-03-28T10:14:48.654Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2obW">절약하는 방법은 뭐가 있을까요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동거에 대해서 어떻게 생각하세요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/jdtdDm0</id>
@@ -26,13 +40,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDEKd">결혼 꼭 해야되는걸까요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열에게 거는 기대, 환매조건부 주택 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/WLt52bP</id>
-        <link href="https://alook.so/posts/WLt52bP"/>
-        <updated>2022-03-28T06:17:04.330Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt52bP">윤석열에게 거는 기대, 환매조건부 주택</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[새로운 일을 시작할 때의 두려움 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/q1tGJrj</id>
         <link href="https://alook.so/posts/q1tGJrj"/>
@@ -52,13 +59,6 @@
         <link href="https://alook.so/posts/o7tnJrB"/>
         <updated>2022-03-28T05:12:41.232Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnJrB">얼룩소 활동과 보상에 대한 이야기. 여러분들은 어떤 주제로, 얼마나 오랫동안 글을 쓰시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 질문은 구간을 좀 더 나누어 주시면 안될까요? +소설을 쓴다면 역시 모두와 좋은게 최고입니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/LKtmrnx</id>
-        <link href="https://alook.so/posts/LKtmrnx"/>
-        <updated>2022-03-28T05:12:41.236Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmrnx">이 질문은 구간을 좀 더 나누어 주시면 안될까요? +소설을 쓴다면 역시 모두와 좋은게 최고입니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50자로부터 시작된 온기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -131,6 +131,20 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOlmp">코로나 확진인데.... 온 가족이 함께 밥을 먹게 되었습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[제 글은 인기가 없어서 398포인트 받았습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/LKtmL5D</id>
+        <link href="https://alook.so/posts/LKtmL5D"/>
+        <updated>2022-03-28T10:14:56.697Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmL5D">제 글은 인기가 없어서 398포인트 받았습니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[절약하는 방법은 뭐가 있을까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/2xt2obW</id>
+        <link href="https://alook.so/posts/2xt2obW"/>
+        <updated>2022-03-28T10:14:56.697Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2obW">절약하는 방법은 뭐가 있을까요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[동거에 대해서 어떻게 생각하세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/jdtdDm0</id>
         <link href="https://alook.so/posts/jdtdDm0"/>
@@ -152,13 +166,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDEKd">결혼 꼭 해야되는걸까요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[윤석열에게 거는 기대, 환매조건부 주택 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/WLt52bP</id>
-        <link href="https://alook.so/posts/WLt52bP"/>
-        <updated>2022-03-28T06:17:04.330Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt52bP">윤석열에게 거는 기대, 환매조건부 주택</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[새로운 일을 시작할 때의 두려움 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/q1tGJrj</id>
         <link href="https://alook.so/posts/q1tGJrj"/>
@@ -178,13 +185,6 @@
         <link href="https://alook.so/posts/o7tnJrB"/>
         <updated>2022-03-28T05:12:41.232Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnJrB">얼룩소 활동과 보상에 대한 이야기. 여러분들은 어떤 주제로, 얼마나 오랫동안 글을 쓰시나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이 질문은 구간을 좀 더 나누어 주시면 안될까요? +소설을 쓴다면 역시 모두와 좋은게 최고입니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/LKtmrnx</id>
-        <link href="https://alook.so/posts/LKtmrnx"/>
-        <updated>2022-03-28T05:12:41.236Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmrnx">이 질문은 구간을 좀 더 나누어 주시면 안될까요? +소설을 쓴다면 역시 모두와 좋은게 최고입니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[50자로부터 시작된 온기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -218,7 +218,7 @@
         <title type="html"><![CDATA["결국, 너희도 노인이 될거야" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/xltorpY</id>
         <link href="https://alook.so/posts/xltorpY"/>
-        <updated>2022-03-28T09:14:29.689Z</updated>
+        <updated>2022-03-28T09:14:20.579Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorpY">"결국, 너희도 노인이 될거야"</a>]]></content>
     </entry>
     <entry>
