@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-28T07:14:48.535Z</updated>
+    <updated>2022-03-28T08:20:15.838Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[동거에 대해서 어떻게 생각하세요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/jdtdDm0</id>
+        <link href="https://alook.so/posts/jdtdDm0"/>
+        <updated>2022-03-28T08:18:17.436Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdDm0">동거에 대해서 어떻게 생각하세요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[질문좀 할께요~~ (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/a0tYnmm</id>
@@ -89,13 +96,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2Gx1">[교육] 상상력이 중요해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["결국, 너희도 노인이 될거야" (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/xltorpY</id>
-        <link href="https://alook.so/posts/xltorpY"/>
-        <updated>2022-03-27T15:13:28.901Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorpY">"결국, 너희도 노인이 될거야"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상대방을 기쁘게 하는 습관이 있으세요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDtvW8e</id>
         <link href="https://alook.so/posts/rDtvW8e"/>
@@ -108,13 +108,6 @@
         <link href="https://alook.so/posts/eVtM6vL"/>
         <updated>2022-03-27T14:11:52.648Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtM6vL">나는 대형마트보다 재래시장이 더 좋다 😍</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소는 이게 좋다! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/0ktM7vz</id>
-        <link href="https://alook.so/posts/0ktM7vz"/>
-        <updated>2022-03-27T13:18:27.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM7vz">얼룩소는 이게 좋다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[익숙한 낯설음_내가 살고 있는 제주에 대한 생각 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -138,10 +131,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOlmp">코로나 확진인데.... 온 가족이 함께 밥을 먹게 되었습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[동거에 대해서 어떻게 생각하세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/jdtdDm0</id>
+        <link href="https://alook.so/posts/jdtdDm0"/>
+        <updated>2022-03-28T08:18:25.531Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdDm0">동거에 대해서 어떻게 생각하세요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[질문좀 할께요~~ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/a0tYnmm</id>
         <link href="https://alook.so/posts/a0tYnmm"/>
-        <updated>2022-03-28T07:13:00.216Z</updated>
+        <updated>2022-03-28T07:12:51.047Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tYnmm">질문좀 할께요~~</a>]]></content>
     </entry>
     <entry>
@@ -222,13 +222,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2Gx1">[교육] 상상력이 중요해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["결국, 너희도 노인이 될거야" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/xltorpY</id>
-        <link href="https://alook.so/posts/xltorpY"/>
-        <updated>2022-03-27T15:13:28.901Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorpY">"결국, 너희도 노인이 될거야"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상대방을 기쁘게 하는 습관이 있으세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/rDtvW8e</id>
         <link href="https://alook.so/posts/rDtvW8e"/>
@@ -241,13 +234,6 @@
         <link href="https://alook.so/posts/eVtM6vL"/>
         <updated>2022-03-27T14:11:52.648Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtM6vL">나는 대형마트보다 재래시장이 더 좋다 😍</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소는 이게 좋다! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/0ktM7vz</id>
-        <link href="https://alook.so/posts/0ktM7vz"/>
-        <updated>2022-03-27T13:18:27.965Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM7vz">얼룩소는 이게 좋다!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[익숙한 낯설음_내가 살고 있는 제주에 대한 생각 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
