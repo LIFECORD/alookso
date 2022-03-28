@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-28T10:16:49.529Z</updated>
+    <updated>2022-03-28T11:14:49.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[학부모가 아니라 보호자입니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/VntwBRj</id>
+        <link href="https://alook.so/posts/VntwBRj"/>
+        <updated>2022-03-28T11:12:53.659Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwBRj">학부모가 아니라 보호자입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/xltoja3</id>
+        <link href="https://alook.so/posts/xltoja3"/>
+        <updated>2022-03-28T11:12:53.659Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoja3">사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 글은 인기가 없어서 398포인트 받았습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/LKtmL5D</id>
@@ -89,13 +103,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2Gx1">[교육] 상상력이 중요해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["결국, 너희도 노인이 될거야" (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/xltorpY</id>
-        <link href="https://alook.so/posts/xltorpY"/>
-        <updated>2022-03-28T09:14:20.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorpY">"결국, 너희도 노인이 될거야"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상대방을 기쁘게 하는 습관이 있으세요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/rDtvW8e</id>
         <link href="https://alook.so/posts/rDtvW8e"/>
@@ -124,24 +131,31 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorqY">한글을 편하게 사용하면 안 되는 이유</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[코로나 확진인데.... 온 가족이 함께 밥을 먹게 되었습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/J5tOlmp</id>
-        <link href="https://alook.so/posts/J5tOlmp"/>
-        <updated>2022-03-27T07:11:45.801Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOlmp">코로나 확진인데.... 온 가족이 함께 밥을 먹게 되었습니다.</a>]]></content>
+        <title type="html"><![CDATA[학부모가 아니라 보호자입니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/VntwBRj</id>
+        <link href="https://alook.so/posts/VntwBRj"/>
+        <updated>2022-03-28T11:13:01.763Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwBRj">학부모가 아니라 보호자입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/xltoja3</id>
+        <link href="https://alook.so/posts/xltoja3"/>
+        <updated>2022-03-28T11:13:01.765Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoja3">사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[제 글은 인기가 없어서 398포인트 받았습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/LKtmL5D</id>
         <link href="https://alook.so/posts/LKtmL5D"/>
-        <updated>2022-03-28T10:14:56.697Z</updated>
+        <updated>2022-03-28T10:14:48.645Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmL5D">제 글은 인기가 없어서 398포인트 받았습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[절약하는 방법은 뭐가 있을까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/2xt2obW</id>
         <link href="https://alook.so/posts/2xt2obW"/>
-        <updated>2022-03-28T10:14:56.697Z</updated>
+        <updated>2022-03-28T10:14:48.654Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2obW">절약하는 방법은 뭐가 있을까요?</a>]]></content>
     </entry>
     <entry>
@@ -215,13 +229,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2Gx1">[교육] 상상력이 중요해</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA["결국, 너희도 노인이 될거야" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/xltorpY</id>
-        <link href="https://alook.so/posts/xltorpY"/>
-        <updated>2022-03-28T09:14:20.579Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorpY">"결국, 너희도 노인이 될거야"</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[상대방을 기쁘게 하는 습관이 있으세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/rDtvW8e</id>
         <link href="https://alook.so/posts/rDtvW8e"/>
@@ -248,13 +255,6 @@
         <link href="https://alook.so/posts/xltorqY"/>
         <updated>2022-03-27T12:18:25.560Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltorqY">한글을 편하게 사용하면 안 되는 이유</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나 확진인데.... 온 가족이 함께 밥을 먹게 되었습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/J5tOlmp</id>
-        <link href="https://alook.so/posts/J5tOlmp"/>
-        <updated>2022-03-27T07:11:45.801Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOlmp">코로나 확진인데.... 온 가족이 함께 밥을 먹게 되었습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[🌸 ‘봄의 걸음걸이’ 꽃지도를 그려 봅시다 (alookso ─ alookso)]]></title>
