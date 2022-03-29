@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-29T07:14:47.987Z</updated>
+    <updated>2022-03-29T08:17:40.590Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[비정상가족은 없다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -66,13 +66,6 @@
         <link href="https://alook.so/posts/rDtvLD5"/>
         <updated>2022-03-29T03:29:12.832Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvLD5">2030의 흔한 재테크</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곤드레 나물과 할머니 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/vKtB8YB</id>
-        <link href="https://alook.so/posts/vKtB8YB"/>
-        <updated>2022-03-29T03:29:12.833Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtB8YB">곤드레 나물과 할머니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이 유모차 끌고 다녀보세요. 그것도 힘든데... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -148,7 +141,7 @@
         <title type="html"><![CDATA[비정상가족은 없다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/M9tEmLd</id>
         <link href="https://alook.so/posts/M9tEmLd"/>
-        <updated>2022-03-29T07:13:00.582Z</updated>
+        <updated>2022-03-29T07:12:52.947Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tEmLd">비정상가족은 없다</a>]]></content>
     </entry>
     <entry>
@@ -206,13 +199,6 @@
         <link href="https://alook.so/posts/rDtvLD5"/>
         <updated>2022-03-29T03:29:12.832Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvLD5">2030의 흔한 재테크</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[곤드레 나물과 할머니 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/vKtB8YB</id>
-        <link href="https://alook.so/posts/vKtB8YB"/>
-        <updated>2022-03-29T03:29:12.833Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtB8YB">곤드레 나물과 할머니</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아이 유모차 끌고 다녀보세요. 그것도 힘든데... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
