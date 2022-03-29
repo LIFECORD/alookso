@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-29T08:17:40.570Z</updated>
+    <updated>2022-03-29T09:15:44.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우주를 가졌어도 거지가 되는 현실]]></title>
+        <id>https://alook.so/posts/a0tYJm5</id>
+        <link href="https://alook.so/posts/a0tYJm5"/>
+        <updated>2022-03-29T09:13:53.559Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tYJm5">우주를 가졌어도 거지가 되는 현실</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비정상가족은 없다]]></title>
         <id>https://alook.so/posts/M9tEmLd</id>
@@ -67,13 +74,6 @@
         <link href="https://alook.so/posts/rDtvLD5"/>
         <updated>2022-03-29T03:29:20.695Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvLD5">2030의 흔한 재테크</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이 유모차 끌고 다녀보세요. 그것도 힘든데...]]></title>
-        <id>https://alook.so/posts/bWtyG9L</id>
-        <link href="https://alook.so/posts/bWtyG9L"/>
-        <updated>2022-03-29T03:29:20.705Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyG9L">아이 유모차 끌고 다녀보세요. 그것도 힘든데...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[정치학, 껌이지(Come Easy)] 한국의 정부는 어떻게 생겼어??]]></title>
