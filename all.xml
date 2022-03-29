@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-29T11:30:17.476Z</updated>
+    <updated>2022-03-29T12:24:19.953Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[오늘저녁은 맥도날드입니다. 다들 오늘 저녁은 뭐드실생각이세요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/jdtd2P4</id>
+        <link href="https://alook.so/posts/jdtd2P4"/>
+        <updated>2022-03-29T12:22:22.419Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtd2P4"> 오늘저녁은 맥도날드입니다. 다들 오늘 저녁은 뭐드실생각이세요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 사진 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/8WtwVrW</id>
@@ -110,13 +117,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0pm0">죄책감을 가져야 할 때입니다. </a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/xltoja3</id>
-        <link href="https://alook.so/posts/xltoja3"/>
-        <updated>2022-03-28T11:12:53.659Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoja3">사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[동거에 대해서 어떻게 생각하세요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/jdtdDm0</id>
         <link href="https://alook.so/posts/jdtdDm0"/>
@@ -138,24 +138,31 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnJrB">얼룩소 활동과 보상에 대한 이야기. 여러분들은 어떤 주제로, 얼마나 오랫동안 글을 쓰시나요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오늘저녁은 맥도날드입니다. 다들 오늘 저녁은 뭐드실생각이세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/jdtd2P4</id>
+        <link href="https://alook.so/posts/jdtd2P4"/>
+        <updated>2022-03-29T12:22:31.263Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtd2P4"> 오늘저녁은 맥도날드입니다. 다들 오늘 저녁은 뭐드실생각이세요?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[제 사진 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/8WtwVrW</id>
         <link href="https://alook.so/posts/8WtwVrW"/>
-        <updated>2022-03-29T11:28:32.121Z</updated>
+        <updated>2022-03-29T11:28:23.865Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/8WtwVrW">제 사진</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[충무로역에서 장애인은 '개념환승'을 할 수 없다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/q1tGmrZ</id>
         <link href="https://alook.so/posts/q1tGmrZ"/>
-        <updated>2022-03-29T11:28:32.129Z</updated>
+        <updated>2022-03-29T11:28:23.865Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGmrZ">충무로역에서 장애인은 '개념환승'을 할 수 없다. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커피값에 대해 어떻게들 생각하시는지 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/w9tpLZy</id>
         <link href="https://alook.so/posts/w9tpLZy"/>
-        <updated>2022-03-29T11:28:32.131Z</updated>
+        <updated>2022-03-29T11:28:23.868Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpLZy">커피값에 대해 어떻게들 생각하시는지</a>]]></content>
     </entry>
     <entry>
@@ -241,13 +248,6 @@
         <link href="https://alook.so/posts/Yyt0pm0"/>
         <updated>2022-03-28T13:21:38.265Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt0pm0">죄책감을 가져야 할 때입니다. </a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/xltoja3</id>
-        <link href="https://alook.so/posts/xltoja3"/>
-        <updated>2022-03-28T11:12:53.659Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoja3">사회적 차별 발언의 확성기가 된 기자(들) - 언론윤리헌장은 어떻게 무시되는가</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[동거에 대해서 어떻게 생각하세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
