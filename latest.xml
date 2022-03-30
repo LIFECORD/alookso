@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-03-30T03:28:57.621Z</updated>
+    <updated>2022-03-30T04:16:28.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[편의점 알바 하며]]></title>
+        <id>https://alook.so/posts/70te9mk</id>
+        <link href="https://alook.so/posts/70te9mk"/>
+        <updated>2022-03-30T04:14:18.302Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70te9mk">편의점 알바 하며</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[학부모가 아니라 보호자입니다]]></title>
         <id>https://alook.so/posts/VntwBRj</id>
@@ -102,13 +109,6 @@
         <link href="https://alook.so/posts/kZtB9oz"/>
         <updated>2022-03-29T15:15:54.118Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtB9oz">오늘 하루 뜬금 없이 울적한 날</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오늘저녁은 맥도날드입니다. 다들 오늘 저녁은 뭐드실생각이세요?]]></title>
-        <id>https://alook.so/posts/jdtd2P4</id>
-        <link href="https://alook.so/posts/jdtd2P4"/>
-        <updated>2022-03-29T12:22:22.419Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtd2P4"> 오늘저녁은 맥도날드입니다. 다들 오늘 저녁은 뭐드실생각이세요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커피값에 대해 어떻게들 생각하시는지]]></title>
