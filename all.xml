@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-30T16:21:04.076Z</updated>
+    <updated>2022-03-30T17:14:46.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[부자와 서민의 기준이 뭐라고 생각하세요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Bata361</id>
+        <link href="https://alook.so/posts/Bata361"/>
+        <updated>2022-03-30T17:12:50.323Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bata361">부자와 서민의 기준이 뭐라고 생각하세요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유튜브는 축하하고, 얼룩소는 불편하다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/6MtYz7Z</id>
@@ -131,18 +138,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tndEP">영양제를 한꺼번에 때려 먹는다?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소에서 받은 돈을 '전국장애인철폐연대'에 기부하다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/latqarR</id>
-        <link href="https://alook.so/posts/latqarR"/>
-        <updated>2022-03-30T16:18:53.764Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqarR">얼룩소에서 받은 돈을 '전국장애인철폐연대'에 기부하다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[진정 진실한 절친이 있나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/LKtm267</id>
         <link href="https://alook.so/posts/LKtm267"/>
         <updated>2022-03-30T03:26:57.499Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm267">진정 진실한 절친이 있나요?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부자와 서민의 기준이 뭐라고 생각하세요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Bata361</id>
+        <link href="https://alook.so/posts/Bata361"/>
+        <updated>2022-03-30T17:12:58.578Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bata361">부자와 서민의 기준이 뭐라고 생각하세요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[유튜브는 축하하고, 얼룩소는 불편하다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -269,13 +276,6 @@
         <link href="https://alook.so/posts/o7tndEP"/>
         <updated>2022-03-30T05:11:31.021Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tndEP">영양제를 한꺼번에 때려 먹는다?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소에서 받은 돈을 '전국장애인철폐연대'에 기부하다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/latqarR</id>
-        <link href="https://alook.so/posts/latqarR"/>
-        <updated>2022-03-30T16:19:03.388Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqarR">얼룩소에서 받은 돈을 '전국장애인철폐연대'에 기부하다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[진정 진실한 절친이 있나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
