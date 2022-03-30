@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-30T08:18:18.229Z</updated>
+    <updated>2022-03-30T09:14:30.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[아 그냥 넘어가 그냥]]></title>
+        <id>https://alook.so/posts/E7t7o6e</id>
+        <link href="https://alook.so/posts/E7t7o6e"/>
+        <updated>2022-03-30T09:12:34.602Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7o6e">아 그냥 넘어가 그냥</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저는 사실 부업이 된다고 해서 여기 왔어요. 노닥거리려고 온 거 아니였어요.]]></title>
+        <id>https://alook.so/posts/92teEOE</id>
+        <link href="https://alook.so/posts/92teEOE"/>
+        <updated>2022-03-30T09:12:34.606Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92teEOE">저는 사실 부업이 된다고 해서 여기 왔어요. 노닥거리려고 온 거 아니였어요.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이준석처럼, 그러나 그와는 다르게 '다움 대신 다름'을 주장해야 하는 때가 아닐까요?]]></title>
         <id>https://alook.so/posts/mbtqxk5</id>
@@ -76,13 +90,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqarR">얼룩소에서 받은 돈을 '전국장애인철폐연대'에 기부하다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[지방 중소기업의 현실에 대해]]></title>
-        <id>https://alook.so/posts/rDtvklB</id>
-        <link href="https://alook.so/posts/rDtvklB"/>
-        <updated>2022-03-30T05:11:38.693Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvklB">지방 중소기업의 현실에 대해</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[내 아이들의 비빌 언덕이 되어 줄 수 있을까?]]></title>
         <id>https://alook.so/posts/q1tGq7b</id>
         <link href="https://alook.so/posts/q1tGq7b"/>
@@ -109,13 +116,6 @@
         <link href="https://alook.so/posts/LKtm267"/>
         <updated>2022-03-30T03:27:06.141Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm267">진정 진실한 절친이 있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다시 봄, " 당신은 설워할 봄이라도 있었겠지만..."]]></title>
-        <id>https://alook.so/posts/LKtmXdJ</id>
-        <link href="https://alook.so/posts/LKtmXdJ"/>
-        <updated>2022-03-30T00:52:29.017Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmXdJ">다시 봄, " 당신은 설워할 봄이라도 있었겠지만..."</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민주주의를 포기해 버린 국민들]]></title>
