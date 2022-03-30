@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-03-30T02:32:35.131Z</updated>
+    <updated>2022-03-30T03:28:57.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[학부모가 아니라 보호자입니다]]></title>
+        <id>https://alook.so/posts/VntwBRj</id>
+        <link href="https://alook.so/posts/VntwBRj"/>
+        <updated>2022-03-30T03:27:06.140Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwBRj">학부모가 아니라 보호자입니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월1만원이라도 부업으로 벌어가시라고 경험 노하우 공유해요]]></title>
+        <id>https://alook.so/posts/yEtEzVW</id>
+        <link href="https://alook.so/posts/yEtEzVW"/>
+        <updated>2022-03-30T03:27:06.140Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEzVW">월1만원이라도 부업으로 벌어가시라고 경험 노하우 공유해요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[진정 진실한 절친이 있나요?]]></title>
+        <id>https://alook.so/posts/LKtm267</id>
+        <link href="https://alook.so/posts/LKtm267"/>
+        <updated>2022-03-30T03:27:06.141Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm267">진정 진실한 절친이 있나요?</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누군가가 자꾸 미워질때]]></title>
         <id>https://alook.so/posts/njt0RwE</id>
@@ -34,13 +55,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGmwE">야망이 있다면</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[친구]]></title>
-        <id>https://alook.so/posts/Bata3bD</id>
-        <link href="https://alook.so/posts/Bata3bD"/>
-        <updated>2022-03-30T02:30:46.415Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bata3bD">친구</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[퇴사는 해야겠고,,눈치는 보이고...]]></title>
         <id>https://alook.so/posts/o7tnpMD</id>
         <link href="https://alook.so/posts/o7tnpMD"/>
@@ -53,13 +67,6 @@
         <link href="https://alook.so/posts/LKtmXdJ"/>
         <updated>2022-03-30T00:52:29.017Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmXdJ">다시 봄, " 당신은 설워할 봄이라도 있었겠지만..."</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5시! 일어난 사람 ~?]]></title>
-        <id>https://alook.so/posts/92terw7</id>
-        <link href="https://alook.so/posts/92terw7"/>
-        <updated>2022-03-30T00:52:29.018Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92terw7">5시! 일어난 사람 ~?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[민주주의를 포기해 버린 국민들]]></title>
@@ -102,13 +109,6 @@
         <link href="https://alook.so/posts/jdtd2P4"/>
         <updated>2022-03-29T12:22:31.263Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtd2P4"> 오늘저녁은 맥도날드입니다. 다들 오늘 저녁은 뭐드실생각이세요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[충무로역에서 장애인은 '개념환승'을 할 수 없다.]]></title>
-        <id>https://alook.so/posts/q1tGmrZ</id>
-        <link href="https://alook.so/posts/q1tGmrZ"/>
-        <updated>2022-03-29T11:28:32.129Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGmrZ">충무로역에서 장애인은 '개념환승'을 할 수 없다. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[커피값에 대해 어떻게들 생각하시는지]]></title>
