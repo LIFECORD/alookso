@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T09:15:16.779Z</updated>
+    <updated>2022-03-31T10:15:52.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[오늘 최종면접을 봤습니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/pot7vn4</id>
+        <link href="https://alook.so/posts/pot7vn4"/>
+        <updated>2022-03-31T10:13:55.115Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7vn4">오늘 최종면접을 봤습니다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신의 삶에도 장애의 그림자가 드리울 수 있다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/pot7vWL</id>
@@ -68,13 +75,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJlrB">얼룩소가 불편한 분들께</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[귓구멍이 막혔다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/eVtMb0o</id>
-        <link href="https://alook.so/posts/eVtMb0o"/>
-        <updated>2022-03-31T00:52:44.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMb0o">귓구멍이 막혔다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[지금 하시는일 즐기며 하고있나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/54t3nnq</id>
         <link href="https://alook.so/posts/54t3nnq"/>
@@ -96,17 +96,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm267">진정 진실한 절친이 있나요?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[오늘 최종면접을 봤습니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/pot7vn4</id>
+        <link href="https://alook.so/posts/pot7vn4"/>
+        <updated>2022-03-31T10:14:03.206Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7vn4">오늘 최종면접을 봤습니다</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[당신의 삶에도 장애의 그림자가 드리울 수 있다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/pot7vWL</id>
         <link href="https://alook.so/posts/pot7vWL"/>
-        <updated>2022-03-31T09:13:26.092Z</updated>
+        <updated>2022-03-31T09:13:17.371Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7vWL">당신의 삶에도 장애의 그림자가 드리울 수 있다. </a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[배달시켜 먹고 싶다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/RGtkKkd</id>
         <link href="https://alook.so/posts/RGtkKkd"/>
-        <updated>2022-03-31T09:13:26.092Z</updated>
+        <updated>2022-03-31T09:13:17.387Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/RGtkKkd">배달시켜 먹고 싶다.</a>]]></content>
     </entry>
     <entry>
@@ -157,13 +164,6 @@
         <link href="https://alook.so/posts/1RtJlrB"/>
         <updated>2022-03-31T00:52:44.660Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJlrB">얼룩소가 불편한 분들께</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[귓구멍이 막혔다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/eVtMb0o</id>
-        <link href="https://alook.so/posts/eVtMb0o"/>
-        <updated>2022-03-31T00:52:44.665Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMb0o">귓구멍이 막혔다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[지금 하시는일 즐기며 하고있나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
