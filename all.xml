@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-31T14:14:44.236Z</updated>
+    <updated>2022-03-31T15:14:47.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[내일 무슨 거짓말 하실 거에요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/G1tkBxZ</id>
-        <link href="https://alook.so/posts/G1tkBxZ"/>
-        <updated>2022-03-31T14:12:37.706Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkBxZ">내일 무슨 거짓말 하실 거에요? </a>]]></content>
+        <title type="html"><![CDATA[3월 31일 베스킨 최애 맛은 무엇인가요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wtEwPr</id>
+        <link href="https://alook.so/posts/3wtEwPr"/>
+        <updated>2022-03-31T15:12:58.111Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEwPr">3월 31일 베스킨 최애 맛은 무엇인가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3월 앱테크 결산 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -131,18 +131,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3nnq">지금 하시는일 즐기며 하고있나요?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[진정 진실한 절친이 있나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/LKtm267</id>
-        <link href="https://alook.so/posts/LKtm267"/>
-        <updated>2022-03-30T03:26:57.499Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm267">진정 진실한 절친이 있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[내일 무슨 거짓말 하실 거에요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/G1tkBxZ</id>
-        <link href="https://alook.so/posts/G1tkBxZ"/>
-        <updated>2022-03-31T14:12:46.750Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkBxZ">내일 무슨 거짓말 하실 거에요? </a>]]></content>
+        <title type="html"><![CDATA[3월 31일 베스킨 최애 맛은 무엇인가요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtEwPr</id>
+        <link href="https://alook.so/posts/3wtEwPr"/>
+        <updated>2022-03-31T15:13:06.195Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEwPr">3월 31일 베스킨 최애 맛은 무엇인가요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[3월 앱테크 결산 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -262,13 +255,6 @@
         <link href="https://alook.so/posts/54t3nnq"/>
         <updated>2022-03-30T13:23:57.869Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3nnq">지금 하시는일 즐기며 하고있나요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진정 진실한 절친이 있나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/LKtm267</id>
-        <link href="https://alook.so/posts/LKtm267"/>
-        <updated>2022-03-30T03:26:57.499Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm267">진정 진실한 절친이 있나요?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[시리즈 - 🏠 부동산 대출 규제. 풀까, 조일까?] 모아보기 (alookso ─ alookso)]]></title>
