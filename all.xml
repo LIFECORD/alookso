@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-01T06:17:38.626Z</updated>
+    <updated>2022-04-01T07:14:05.749Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[파도처럼 내 본글이 쓸려가도. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/E7t75bG</id>
+        <link href="https://alook.so/posts/E7t75bG"/>
+        <updated>2022-04-01T07:12:11.329Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t75bG">파도처럼 내 본글이 쓸려가도.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에서 글쓰기가 힘든 이유... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/E7t75zZ</id>
@@ -103,17 +110,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEo4z">당신은 포기하는 사람입니까?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[파도처럼 내 본글이 쓸려가도. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/E7t75bG</id>
+        <link href="https://alook.so/posts/E7t75bG"/>
+        <updated>2022-04-01T07:12:19.872Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t75bG">파도처럼 내 본글이 쓸려가도.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼룩소에서 글쓰기가 힘든 이유... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/E7t75zZ</id>
         <link href="https://alook.so/posts/E7t75zZ"/>
-        <updated>2022-04-01T06:15:53.426Z</updated>
+        <updated>2022-04-01T06:15:45.406Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t75zZ">얼룩소에서 글쓰기가 힘든 이유...</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[개천에서 용이 나야 하나요? 스웨덴의 '라곰' (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Djt3Pzq</id>
         <link href="https://alook.so/posts/Djt3Pzq"/>
-        <updated>2022-04-01T06:15:53.426Z</updated>
+        <updated>2022-04-01T06:15:45.420Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3Pzq">개천에서 용이 나야 하나요? 스웨덴의 '라곰'</a>]]></content>
     </entry>
     <entry>
