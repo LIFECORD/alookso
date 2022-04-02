@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-02T17:14:21.140Z</updated>
+    <updated>2022-04-02T18:16:32.884Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[나에게 제주 4.3을 알려준 콘텐츠 (3) 영화 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/w9tpkD0</id>
+        <link href="https://alook.so/posts/w9tpkD0"/>
+        <updated>2022-04-02T18:14:34.641Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpkD0">나에게 제주 4.3을 알려준 콘텐츠 (3) 영화</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[앱테크고 뭐고ㅡ 속상해죽겠네요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/o7tn8lb</id>
@@ -131,18 +138,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2ewV">오래된 꿈을 포기한다는 것도 용기겠죠?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소, 경쟁인가? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/4XteYJa</id>
-        <link href="https://alook.so/posts/4XteYJa"/>
-        <updated>2022-04-01T13:29:17.761Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteYJa">얼룩소, 경쟁인가?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[얼룩소에서 글쓰기가 힘든 이유... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/E7t75zZ</id>
         <link href="https://alook.so/posts/E7t75zZ"/>
         <updated>2022-04-01T06:15:45.406Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t75zZ">얼룩소에서 글쓰기가 힘든 이유...</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나에게 제주 4.3을 알려준 콘텐츠 (3) 영화 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/w9tpkD0</id>
+        <link href="https://alook.so/posts/w9tpkD0"/>
+        <updated>2022-04-02T18:14:42.638Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpkD0">나에게 제주 4.3을 알려준 콘텐츠 (3) 영화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[앱테크고 뭐고ㅡ 속상해죽겠네요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -269,13 +276,6 @@
         <link href="https://alook.so/posts/dzt2ewV"/>
         <updated>2022-04-02T02:25:59.900Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2ewV">오래된 꿈을 포기한다는 것도 용기겠죠?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소, 경쟁인가? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/4XteYJa</id>
-        <link href="https://alook.so/posts/4XteYJa"/>
-        <updated>2022-04-01T13:29:17.761Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteYJa">얼룩소, 경쟁인가?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에서 글쓰기가 힘든 이유... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
