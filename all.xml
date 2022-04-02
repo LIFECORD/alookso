@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-02T09:13:04.683Z</updated>
+    <updated>2022-04-02T10:16:07.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[모든 것은 기본에서 부터 시작된다.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/mbtq0vL</id>
+        <link href="https://alook.so/posts/mbtq0vL"/>
+        <updated>2022-04-02T10:13:59.918Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtq0vL">모든 것은 기본에서 부터 시작된다..</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[아재로그] 생일 기념 한 번 올려봅니다 .. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/pot70rG</id>
@@ -124,13 +131,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteYJa">얼룩소, 경쟁인가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[글의 슬럼프 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Bataewn</id>
-        <link href="https://alook.so/posts/Bataewn"/>
-        <updated>2022-04-01T13:29:17.767Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bataewn">글의 슬럼프</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[파도처럼 내 본글이 쓸려가도. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/E7t75bG</id>
         <link href="https://alook.so/posts/E7t75bG"/>
@@ -145,10 +145,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t75zZ">얼룩소에서 글쓰기가 힘든 이유...</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[모든 것은 기본에서 부터 시작된다.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/mbtq0vL</id>
+        <link href="https://alook.so/posts/mbtq0vL"/>
+        <updated>2022-04-02T10:14:08.642Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtq0vL">모든 것은 기본에서 부터 시작된다..</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[아재로그] 생일 기념 한 번 올려봅니다 .. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/pot70rG</id>
         <link href="https://alook.so/posts/pot70rG"/>
-        <updated>2022-04-02T09:11:20.008Z</updated>
+        <updated>2022-04-02T09:11:11.915Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot70rG">[아재로그] 생일 기념 한 번 올려봅니다 ..</a>]]></content>
     </entry>
     <entry>
@@ -262,13 +269,6 @@
         <link href="https://alook.so/posts/4XteYJa"/>
         <updated>2022-04-01T13:29:17.761Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteYJa">얼룩소, 경쟁인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글의 슬럼프 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Bataewn</id>
-        <link href="https://alook.so/posts/Bataewn"/>
-        <updated>2022-04-01T13:29:17.767Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bataewn">글의 슬럼프</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[파도처럼 내 본글이 쓸려가도. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
