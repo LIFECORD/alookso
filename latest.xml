@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-04-02T04:16:33.043Z</updated>
+    <updated>2022-04-02T05:12:40.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
     <entry>
-        <title type="html"><![CDATA[구독의 마술]]></title>
-        <id>https://alook.so/posts/XBtX9Vp</id>
-        <link href="https://alook.so/posts/XBtX9Vp"/>
-        <updated>2022-04-02T04:14:37.309Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtX9Vp">구독의 마술</a>]]></content>
+        <title type="html"><![CDATA[집 앞에 꽃이 폈어요]]></title>
+        <id>https://alook.so/posts/4XteB1B</id>
+        <link href="https://alook.so/posts/4XteB1B"/>
+        <updated>2022-04-02T05:10:48.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteB1B">집 앞에 꽃이 폈어요</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[양파가 자랐어요~🌱]]></title>
+        <id>https://alook.so/posts/kZtBw0q</id>
+        <link href="https://alook.so/posts/kZtBw0q"/>
+        <updated>2022-04-02T05:10:48.083Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBw0q">양파가 자랐어요~🌱</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[뜨는 얼룩커는 ?]]></title>
@@ -130,13 +137,6 @@
         <link href="https://alook.so/posts/E7t75zZ"/>
         <updated>2022-04-01T06:15:45.406Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t75zZ">얼룩소에서 글쓰기가 힘든 이유...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[거꾸로 자판기 너 좀 멋지다]]></title>
-        <id>https://alook.so/posts/bWtyxmG</id>
-        <link href="https://alook.so/posts/bWtyxmG"/>
-        <updated>2022-04-01T05:11:06.929Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/bWtyxmG">거꾸로 자판기 너 좀 멋지다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[늦은 아침 생각] 만우절, 귀 빠진 날, 그리고 장국영]]></title>
