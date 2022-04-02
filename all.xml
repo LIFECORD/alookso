@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-02T14:15:12.536Z</updated>
+    <updated>2022-04-02T15:13:26.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[얼룩소를 위해 얼룩커가 할 수 있는 일은 무엇일까요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/WLt5mk6</id>
+        <link href="https://alook.so/posts/WLt5mk6"/>
+        <updated>2022-04-02T15:11:27.902Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5mk6">얼룩소를 위해 얼룩커가 할 수 있는 일은 무엇일까요</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소의 방향은 무엇인가? (부제:얼룩소에게 제안합니다) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/0ktM3PK</id>
@@ -131,13 +138,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteYJa">얼룩소, 경쟁인가?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파도처럼 내 본글이 쓸려가도. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7t75bG</id>
-        <link href="https://alook.so/posts/E7t75bG"/>
-        <updated>2022-04-01T07:12:11.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t75bG">파도처럼 내 본글이 쓸려가도.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[얼룩소에서 글쓰기가 힘든 이유... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/E7t75zZ</id>
         <link href="https://alook.so/posts/E7t75zZ"/>
@@ -145,10 +145,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t75zZ">얼룩소에서 글쓰기가 힘든 이유...</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[얼룩소를 위해 얼룩커가 할 수 있는 일은 무엇일까요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/WLt5mk6</id>
+        <link href="https://alook.so/posts/WLt5mk6"/>
+        <updated>2022-04-02T15:11:36.435Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5mk6">얼룩소를 위해 얼룩커가 할 수 있는 일은 무엇일까요</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[얼룩소의 방향은 무엇인가? (부제:얼룩소에게 제안합니다) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/0ktM3PK</id>
         <link href="https://alook.so/posts/0ktM3PK"/>
-        <updated>2022-04-02T14:13:02.869Z</updated>
+        <updated>2022-04-02T14:12:55.048Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM3PK">얼룩소의 방향은 무엇인가? (부제:얼룩소에게 제안합니다)</a>]]></content>
     </entry>
     <entry>
@@ -269,13 +276,6 @@
         <link href="https://alook.so/posts/4XteYJa"/>
         <updated>2022-04-01T13:29:17.761Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteYJa">얼룩소, 경쟁인가?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파도처럼 내 본글이 쓸려가도. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7t75bG</id>
-        <link href="https://alook.so/posts/E7t75bG"/>
-        <updated>2022-04-01T07:12:11.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t75bG">파도처럼 내 본글이 쓸려가도.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소에서 글쓰기가 힘든 이유... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
