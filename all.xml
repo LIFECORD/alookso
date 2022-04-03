@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-03T05:12:40.461Z</updated>
+    <updated>2022-04-03T06:17:40.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[희소가치. 당근 줬다 채찍 줬다 무한 반복. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/0ktM2K1</id>
+        <link href="https://alook.so/posts/0ktM2K1"/>
+        <updated>2022-04-03T06:15:36.772Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM2K1">희소가치. 당근 줬다 채찍 줬다 무한 반복.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[말 한마디의 변화? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/vKtBe9y</id>
@@ -117,13 +124,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM3PK">얼룩소의 방향은 무엇인가? (부제:얼룩소에게 제안합니다)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[밥이 하늘이다] (1) '식량 안보'- 문제 없을까? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/o7tnXOY</id>
-        <link href="https://alook.so/posts/o7tnXOY"/>
-        <updated>2022-04-02T12:17:36.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnXOY">[밥이 하늘이다] (1) '식량 안보'- 문제 없을까?</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[모든 것은 기본에서 부터 시작된다.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/mbtq0vL</id>
         <link href="https://alook.so/posts/mbtq0vL"/>
@@ -138,17 +138,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2ewV">오래된 꿈을 포기한다는 것도 용기겠죠?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[희소가치. 당근 줬다 채찍 줬다 무한 반복. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0ktM2K1</id>
+        <link href="https://alook.so/posts/0ktM2K1"/>
+        <updated>2022-04-03T06:15:45.631Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM2K1">희소가치. 당근 줬다 채찍 줬다 무한 반복.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[말 한마디의 변화? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/vKtBe9y</id>
         <link href="https://alook.so/posts/vKtBe9y"/>
-        <updated>2022-04-03T05:10:55.389Z</updated>
+        <updated>2022-04-03T05:10:47.370Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtBe9y">말 한마디의 변화?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[드디어 나에게도 ^^!! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/G1tkJlX</id>
         <link href="https://alook.so/posts/G1tkJlX"/>
-        <updated>2022-04-03T05:10:55.389Z</updated>
+        <updated>2022-04-03T05:10:47.371Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkJlX">드디어 나에게도 ^^!!</a>]]></content>
     </entry>
     <entry>
@@ -162,7 +169,7 @@
         <title type="html"><![CDATA[타인을 위한 희생 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/q1tGVa5</id>
         <link href="https://alook.so/posts/q1tGVa5"/>
-        <updated>2022-04-03T05:10:55.389Z</updated>
+        <updated>2022-04-03T05:10:47.371Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGVa5">타인을 위한 희생</a>]]></content>
     </entry>
     <entry>
@@ -248,13 +255,6 @@
         <link href="https://alook.so/posts/0ktM3PK"/>
         <updated>2022-04-02T14:12:55.048Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM3PK">얼룩소의 방향은 무엇인가? (부제:얼룩소에게 제안합니다)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[밥이 하늘이다] (1) '식량 안보'- 문제 없을까? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/o7tnXOY</id>
-        <link href="https://alook.so/posts/o7tnXOY"/>
-        <updated>2022-04-02T12:17:36.719Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnXOY">[밥이 하늘이다] (1) '식량 안보'- 문제 없을까?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[모든 것은 기본에서 부터 시작된다.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
