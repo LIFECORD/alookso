@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-04-03T13:21:05.682Z</updated>
+    <updated>2022-04-03T14:13:21.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[욕설, 비방, 모욕, 비하가 신고 사유입니다.]]></title>
+        <id>https://alook.so/posts/70te3rx</id>
+        <link href="https://alook.so/posts/70te3rx"/>
+        <updated>2022-04-03T14:11:23.143Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70te3rx">욕설, 비방, 모욕, 비하가 신고 사유입니다.</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선은 넘지 맙시다]]></title>
+        <id>https://alook.so/posts/LKtmY23</id>
+        <link href="https://alook.so/posts/LKtmY23"/>
+        <updated>2022-04-03T14:11:23.144Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmY23">선은 넘지 맙시다</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오늘의 안주 220403]]></title>
         <id>https://alook.so/posts/kZtBk2v</id>
@@ -41,18 +55,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjW2">다들 좋아하는 과자있어용?</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[힐링송] 반만 (진지함과 웃음 둘다 있어요)]]></title>
-        <id>https://alook.so/posts/KmtDVR9</id>
-        <link href="https://alook.so/posts/KmtDVR9"/>
-        <updated>2022-04-03T12:18:48.563Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVR9">[힐링송] 반만 (진지함과 웃음 둘다 있어요)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[차기 한국은행 총재 후보 놓고 설왕설래 - 기준금리가 뭐길래?]]></title>
         <id>https://alook.so/posts/M9tE5Jy</id>
         <link href="https://alook.so/posts/M9tE5Jy"/>
         <updated>2022-04-03T12:18:48.571Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tE5Jy">차기 한국은행 총재 후보 놓고 설왕설래 - 기준금리가 뭐길래?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[힐링송] 반만 (진지함과 웃음 둘다 있어요)]]></title>
+        <id>https://alook.so/posts/KmtDVR9</id>
+        <link href="https://alook.so/posts/KmtDVR9"/>
+        <updated>2022-04-03T12:18:48.563Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVR9">[힐링송] 반만 (진지함과 웃음 둘다 있어요)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[그러든지 말든지야]]></title>
@@ -74,13 +88,6 @@
         <link href="https://alook.so/posts/ZktadL2"/>
         <updated>2022-04-03T10:13:15.669Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktadL2">판결문은 없었고 18자의 명령만 있었다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘가벼운마음으로 가벼운글’이제 그만쓰렵니다]]></title>
-        <id>https://alook.so/posts/KmtDVnb</id>
-        <link href="https://alook.so/posts/KmtDVnb"/>
-        <updated>2022-04-03T09:11:50.044Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVnb">‘가벼운마음으로 가벼운글’이제 그만쓰렵니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소는 고의적으로 갈등을 불러 일으키는가? <얼룩소 딜레마>]]></title>
