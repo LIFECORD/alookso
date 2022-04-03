@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-03T08:15:41.845Z</updated>
+    <updated>2022-04-03T09:13:38.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[‘가벼운마음으로 가벼운글’이제 그만쓰렵니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/KmtDVnb</id>
+        <link href="https://alook.so/posts/KmtDVnb"/>
+        <updated>2022-04-03T09:11:42.040Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVnb">‘가벼운마음으로 가벼운글’이제 그만쓰렵니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소는 고의적으로 갈등을 불러 일으키는가? <얼룩소 딜레마> (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/latqWd0</id>
+        <link href="https://alook.so/posts/latqWd0"/>
+        <updated>2022-04-03T09:11:42.049Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqWd0">얼룩소는 고의적으로 갈등을 불러 일으키는가? &lt;얼룩소 딜레마&gt;</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당분간 얼룩소를 떠날 것 같아요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/1RtJjyK</id>
@@ -103,20 +117,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteGk3">풍자와 공감을 통해 세상을 바라보는 법</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[나에게 제주 4.3을 알려준 콘텐츠 (3) 영화 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/w9tpkD0</id>
-        <link href="https://alook.so/posts/w9tpkD0"/>
-        <updated>2022-04-02T20:13:44.017Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpkD0">나에게 제주 4.3을 알려준 콘텐츠 (3) 영화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 작은 사회 '3', 연대와 공론, 그리고 얼룩소 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/E7t7J08</id>
-        <link href="https://alook.so/posts/E7t7J08"/>
-        <updated>2022-04-03T00:53:15.971Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7J08">가장 작은 사회 '3', 연대와 공론, 그리고 얼룩소</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[친환경을 위한 용기, 무포장 과자 구입 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/yEtEB1j</id>
         <link href="https://alook.so/posts/yEtEB1j"/>
@@ -138,10 +138,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2ewV">오래된 꿈을 포기한다는 것도 용기겠죠?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[‘가벼운마음으로 가벼운글’이제 그만쓰렵니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/KmtDVnb</id>
+        <link href="https://alook.so/posts/KmtDVnb"/>
+        <updated>2022-04-03T09:11:50.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVnb">‘가벼운마음으로 가벼운글’이제 그만쓰렵니다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소는 고의적으로 갈등을 불러 일으키는가? <얼룩소 딜레마> (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/latqWd0</id>
+        <link href="https://alook.so/posts/latqWd0"/>
+        <updated>2022-04-03T09:11:50.044Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqWd0">얼룩소는 고의적으로 갈등을 불러 일으키는가? &lt;얼룩소 딜레마&gt;</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[당분간 얼룩소를 떠날 것 같아요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/1RtJjyK</id>
         <link href="https://alook.so/posts/1RtJjyK"/>
-        <updated>2022-04-03T08:13:55.952Z</updated>
+        <updated>2022-04-03T08:13:48.020Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjyK">당분간 얼룩소를 떠날 것 같아요.</a>]]></content>
     </entry>
     <entry>
@@ -234,20 +248,6 @@
         <link href="https://alook.so/posts/4XteGk3"/>
         <updated>2022-04-03T02:26:43.974Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteGk3">풍자와 공감을 통해 세상을 바라보는 법</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나에게 제주 4.3을 알려준 콘텐츠 (3) 영화 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/w9tpkD0</id>
-        <link href="https://alook.so/posts/w9tpkD0"/>
-        <updated>2022-04-02T20:13:44.017Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpkD0">나에게 제주 4.3을 알려준 콘텐츠 (3) 영화</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가장 작은 사회 '3', 연대와 공론, 그리고 얼룩소 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/E7t7J08</id>
-        <link href="https://alook.so/posts/E7t7J08"/>
-        <updated>2022-04-03T00:53:15.971Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7J08">가장 작은 사회 '3', 연대와 공론, 그리고 얼룩소</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[친환경을 위한 용기, 무포장 과자 구입 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
