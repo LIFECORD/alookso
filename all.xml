@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-03T12:20:47.737Z</updated>
+    <updated>2022-04-03T13:21:05.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[오늘의 안주 220403 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/kZtBk2v</id>
+        <link href="https://alook.so/posts/kZtBk2v"/>
+        <updated>2022-04-03T13:18:09.949Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBk2v">오늘의 안주 220403</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[집에 오는길.. 벚꽃🌸 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/G1tkJrV</id>
@@ -26,13 +33,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGV5n">대청소</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[힐링송] 반만 (진지함과 웃음 둘다 있어요) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/KmtDVR9</id>
-        <link href="https://alook.so/posts/KmtDVR9"/>
-        <updated>2022-04-03T12:18:39.259Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVR9">[힐링송] 반만 (진지함과 웃음 둘다 있어요)</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[다들 좋아하는 과자있어용? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/1RtJjW2</id>
         <link href="https://alook.so/posts/1RtJjW2"/>
@@ -40,11 +40,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjW2">다들 좋아하는 과자있어용?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[힐링송] 반만 (진지함과 웃음 둘다 있어요) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/KmtDVR9</id>
+        <link href="https://alook.so/posts/KmtDVR9"/>
+        <updated>2022-04-03T12:18:39.259Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVR9">[힐링송] 반만 (진지함과 웃음 둘다 있어요)</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[차기 한국은행 총재 후보 놓고 설왕설래 - 기준금리가 뭐길래? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/M9tE5Jy</id>
         <link href="https://alook.so/posts/M9tE5Jy"/>
         <updated>2022-04-03T12:18:39.260Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tE5Jy">차기 한국은행 총재 후보 놓고 설왕설래 - 기준금리가 뭐길래?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그러든지 말든지야 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/1RtJjD9</id>
+        <link href="https://alook.so/posts/1RtJjD9"/>
+        <updated>2022-04-03T13:18:09.963Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjD9">그러든지 말든지야</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 2기 얼룩소에서도 방향성에 대한 이야기가 끊이질 않는가? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -103,60 +117,60 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEB1j">친환경을 위한 용기, 무포장 과자 구입</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소를 위해 얼룩커가 할 수 있는 일은 무엇일까요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/WLt5mk6</id>
-        <link href="https://alook.so/posts/WLt5mk6"/>
-        <updated>2022-04-02T15:11:27.902Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5mk6">얼룩소를 위해 얼룩커가 할 수 있는 일은 무엇일까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오래된 꿈을 포기한다는 것도 용기겠죠? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/dzt2ewV</id>
-        <link href="https://alook.so/posts/dzt2ewV"/>
-        <updated>2022-04-02T02:25:59.900Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2ewV">오래된 꿈을 포기한다는 것도 용기겠죠?</a>]]></content>
+        <title type="html"><![CDATA[오늘의 안주 220403 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/kZtBk2v</id>
+        <link href="https://alook.so/posts/kZtBk2v"/>
+        <updated>2022-04-03T13:18:18.430Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBk2v">오늘의 안주 220403</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[집에 오는길.. 벚꽃🌸 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/G1tkJrV</id>
         <link href="https://alook.so/posts/G1tkJrV"/>
-        <updated>2022-04-03T12:18:48.558Z</updated>
+        <updated>2022-04-03T12:18:39.249Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkJrV">집에 오는길.. 벚꽃🌸</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프리랜서와 코로나 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/xltoqjl</id>
         <link href="https://alook.so/posts/xltoqjl"/>
-        <updated>2022-04-03T12:18:48.558Z</updated>
+        <updated>2022-04-03T12:18:39.249Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/xltoqjl">프리랜서와 코로나</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대청소 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/q1tGV5n</id>
         <link href="https://alook.so/posts/q1tGV5n"/>
-        <updated>2022-04-03T12:18:48.561Z</updated>
+        <updated>2022-04-03T12:18:39.249Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/q1tGV5n">대청소</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[힐링송] 반만 (진지함과 웃음 둘다 있어요) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/KmtDVR9</id>
-        <link href="https://alook.so/posts/KmtDVR9"/>
-        <updated>2022-04-03T12:18:48.563Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVR9">[힐링송] 반만 (진지함과 웃음 둘다 있어요)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다들 좋아하는 과자있어용? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/1RtJjW2</id>
         <link href="https://alook.so/posts/1RtJjW2"/>
-        <updated>2022-04-03T12:18:48.564Z</updated>
+        <updated>2022-04-03T12:18:39.259Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjW2">다들 좋아하는 과자있어용?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[힐링송] 반만 (진지함과 웃음 둘다 있어요) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/KmtDVR9</id>
+        <link href="https://alook.so/posts/KmtDVR9"/>
+        <updated>2022-04-03T12:18:39.259Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVR9">[힐링송] 반만 (진지함과 웃음 둘다 있어요)</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[차기 한국은행 총재 후보 놓고 설왕설래 - 기준금리가 뭐길래? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/M9tE5Jy</id>
         <link href="https://alook.so/posts/M9tE5Jy"/>
-        <updated>2022-04-03T12:18:48.571Z</updated>
+        <updated>2022-04-03T12:18:39.260Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tE5Jy">차기 한국은행 총재 후보 놓고 설왕설래 - 기준금리가 뭐길래?</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[그러든지 말든지야 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/1RtJjD9</id>
+        <link href="https://alook.so/posts/1RtJjD9"/>
+        <updated>2022-04-03T13:18:18.445Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjD9">그러든지 말든지야</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[왜 2기 얼룩소에서도 방향성에 대한 이야기가 끊이질 않는가? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -213,20 +227,6 @@
         <link href="https://alook.so/posts/yEtEB1j"/>
         <updated>2022-04-02T16:15:36.861Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEB1j">친환경을 위한 용기, 무포장 과자 구입</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼룩소를 위해 얼룩커가 할 수 있는 일은 무엇일까요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/WLt5mk6</id>
-        <link href="https://alook.so/posts/WLt5mk6"/>
-        <updated>2022-04-02T15:11:27.902Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/WLt5mk6">얼룩소를 위해 얼룩커가 할 수 있는 일은 무엇일까요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오래된 꿈을 포기한다는 것도 용기겠죠? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/dzt2ewV</id>
-        <link href="https://alook.so/posts/dzt2ewV"/>
-        <updated>2022-04-02T02:25:59.900Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2ewV">오래된 꿈을 포기한다는 것도 용기겠죠?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[청년들은 실제로 부모님보다 못 벌고 있다 [얼룩 차트] (alookso ─ alookso)]]></title>
