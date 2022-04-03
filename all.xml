@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-03T09:13:38.890Z</updated>
+    <updated>2022-04-03T10:15:07.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[판결문은 없었고 18자의 명령만 있었다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/ZktadL2</id>
+        <link href="https://alook.so/posts/ZktadL2"/>
+        <updated>2022-04-03T10:13:07.019Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktadL2">판결문은 없었고 18자의 명령만 있었다.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘가벼운마음으로 가벼운글’이제 그만쓰렵니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/KmtDVnb</id>
@@ -26,60 +33,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjyK">당분간 얼룩소를 떠날 것 같아요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[걸음아 날 살려라~" (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/a0tY3lk</id>
-        <link href="https://alook.so/posts/a0tY3lk"/>
-        <updated>2022-04-03T07:11:30.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tY3lk">걸음아 날 살려라~"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼마나 아낄수 있을까요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/jdtdRZ6</id>
-        <link href="https://alook.so/posts/jdtdRZ6"/>
-        <updated>2022-04-03T07:11:30.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdRZ6">얼마나 아낄수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맞춰보세요~~ (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/G1tkJGw</id>
-        <link href="https://alook.so/posts/G1tkJGw"/>
-        <updated>2022-04-03T07:11:30.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkJGw">맞춰보세요~~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[땅을파니 돈이 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/1RtJjGK</id>
-        <link href="https://alook.so/posts/1RtJjGK"/>
-        <updated>2022-04-03T07:11:30.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjGK">땅을파니 돈이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[희소가치. 당근 줬다 채찍 줬다 무한 반복. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/0ktM2K1</id>
-        <link href="https://alook.so/posts/0ktM2K1"/>
-        <updated>2022-04-03T06:15:36.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM2K1">희소가치. 당근 줬다 채찍 줬다 무한 반복.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[말 한마디의 변화? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/vKtBe9y</id>
         <link href="https://alook.so/posts/vKtBe9y"/>
         <updated>2022-04-03T05:10:47.370Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtBe9y">말 한마디의 변화?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 나에게도 ^^!! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/G1tkJlX</id>
-        <link href="https://alook.so/posts/G1tkJlX"/>
-        <updated>2022-04-03T05:10:47.371Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkJlX">드디어 나에게도 ^^!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아 오늘은 구독자 2차 정리중. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/yEtEBvr</id>
-        <link href="https://alook.so/posts/yEtEBvr"/>
-        <updated>2022-04-03T04:14:41.327Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEBvr">아 오늘은 구독자 2차 정리중.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타인을 위한 희생 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -103,6 +61,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtX90e"> “벌이 사라지면 4년 안에 인간도 사라진다” </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신뢰와 연대, 그리고 이준석: 누군가를 돕는 우리의 마음은 어디까지 버틸 수 있을까 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/M9tE5bE</id>
+        <link href="https://alook.so/posts/M9tE5bE"/>
+        <updated>2022-04-03T10:13:07.019Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tE5bE">신뢰와 연대, 그리고 이준석: 누군가를 돕는 우리의 마음은 어디까지 버틸 수 있을까</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[교육] 4월은 가정 학습의 달 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/Yyt0KEG</id>
         <link href="https://alook.so/posts/Yyt0KEG"/>
@@ -115,6 +80,20 @@
         <link href="https://alook.so/posts/4XteGk3"/>
         <updated>2022-04-03T02:26:43.974Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteGk3">풍자와 공감을 통해 세상을 바라보는 법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풍자와 공감을 통해 세상을 바라보는 법 (모르면,외우세요) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/0ktM2Jz</id>
+        <link href="https://alook.so/posts/0ktM2Jz"/>
+        <updated>2022-04-03T10:13:07.024Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM2Jz">풍자와 공감을 통해 세상을 바라보는 법 (모르면,외우세요)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나에게 제주 4.3을 알려준 콘텐츠 (3) 영화 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/w9tpkD0</id>
+        <link href="https://alook.so/posts/w9tpkD0"/>
+        <updated>2022-04-03T10:13:07.028Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpkD0">나에게 제주 4.3을 알려준 콘텐츠 (3) 영화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[친환경을 위한 용기, 무포장 과자 구입 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -138,17 +117,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2ewV">오래된 꿈을 포기한다는 것도 용기겠죠?</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[판결문은 없었고 18자의 명령만 있었다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/ZktadL2</id>
+        <link href="https://alook.so/posts/ZktadL2"/>
+        <updated>2022-04-03T10:13:15.669Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktadL2">판결문은 없었고 18자의 명령만 있었다.</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[‘가벼운마음으로 가벼운글’이제 그만쓰렵니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/KmtDVnb</id>
         <link href="https://alook.so/posts/KmtDVnb"/>
-        <updated>2022-04-03T09:11:50.044Z</updated>
+        <updated>2022-04-03T09:11:42.040Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDVnb">‘가벼운마음으로 가벼운글’이제 그만쓰렵니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소는 고의적으로 갈등을 불러 일으키는가? <얼룩소 딜레마> (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/latqWd0</id>
         <link href="https://alook.so/posts/latqWd0"/>
-        <updated>2022-04-03T09:11:50.044Z</updated>
+        <updated>2022-04-03T09:11:42.049Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latqWd0">얼룩소는 고의적으로 갈등을 불러 일으키는가? &lt;얼룩소 딜레마&gt;</a>]]></content>
     </entry>
     <entry>
@@ -159,60 +145,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjyK">당분간 얼룩소를 떠날 것 같아요.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[걸음아 날 살려라~" (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/a0tY3lk</id>
-        <link href="https://alook.so/posts/a0tY3lk"/>
-        <updated>2022-04-03T07:11:30.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/a0tY3lk">걸음아 날 살려라~"</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼마나 아낄수 있을까요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/jdtdRZ6</id>
-        <link href="https://alook.so/posts/jdtdRZ6"/>
-        <updated>2022-04-03T07:11:30.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtdRZ6">얼마나 아낄수 있을까요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[맞춰보세요~~ (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/G1tkJGw</id>
-        <link href="https://alook.so/posts/G1tkJGw"/>
-        <updated>2022-04-03T07:11:30.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkJGw">맞춰보세요~~</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[땅을파니 돈이 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/1RtJjGK</id>
-        <link href="https://alook.so/posts/1RtJjGK"/>
-        <updated>2022-04-03T07:11:30.152Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjGK">땅을파니 돈이</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[희소가치. 당근 줬다 채찍 줬다 무한 반복. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/0ktM2K1</id>
-        <link href="https://alook.so/posts/0ktM2K1"/>
-        <updated>2022-04-03T06:15:36.772Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM2K1">희소가치. 당근 줬다 채찍 줬다 무한 반복.</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[말 한마디의 변화? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/vKtBe9y</id>
         <link href="https://alook.so/posts/vKtBe9y"/>
         <updated>2022-04-03T05:10:47.370Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtBe9y">말 한마디의 변화?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드디어 나에게도 ^^!! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/G1tkJlX</id>
-        <link href="https://alook.so/posts/G1tkJlX"/>
-        <updated>2022-04-03T05:10:47.371Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/G1tkJlX">드디어 나에게도 ^^!!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아 오늘은 구독자 2차 정리중. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/yEtEBvr</id>
-        <link href="https://alook.so/posts/yEtEBvr"/>
-        <updated>2022-04-03T04:14:41.327Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEBvr">아 오늘은 구독자 2차 정리중.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[타인을 위한 희생 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -236,6 +173,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtX90e"> “벌이 사라지면 4년 안에 인간도 사라진다” </a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[신뢰와 연대, 그리고 이준석: 누군가를 돕는 우리의 마음은 어디까지 버틸 수 있을까 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/M9tE5bE</id>
+        <link href="https://alook.so/posts/M9tE5bE"/>
+        <updated>2022-04-03T10:13:15.701Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/M9tE5bE">신뢰와 연대, 그리고 이준석: 누군가를 돕는 우리의 마음은 어디까지 버틸 수 있을까</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[교육] 4월은 가정 학습의 달 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Yyt0KEG</id>
         <link href="https://alook.so/posts/Yyt0KEG"/>
@@ -248,6 +192,20 @@
         <link href="https://alook.so/posts/4XteGk3"/>
         <updated>2022-04-03T02:26:43.974Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteGk3">풍자와 공감을 통해 세상을 바라보는 법</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풍자와 공감을 통해 세상을 바라보는 법 (모르면,외우세요) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/0ktM2Jz</id>
+        <link href="https://alook.so/posts/0ktM2Jz"/>
+        <updated>2022-04-03T10:13:15.707Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktM2Jz">풍자와 공감을 통해 세상을 바라보는 법 (모르면,외우세요)</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나에게 제주 4.3을 알려준 콘텐츠 (3) 영화 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/w9tpkD0</id>
+        <link href="https://alook.so/posts/w9tpkD0"/>
+        <updated>2022-04-03T10:13:15.709Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpkD0">나에게 제주 4.3을 알려준 콘텐츠 (3) 영화</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[친환경을 위한 용기, 무포장 과자 구입 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
