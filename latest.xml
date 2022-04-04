@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover/latest</id>
     <title>alookso ─ 둘러보기 ─ 최신 글</title>
-    <updated>2022-04-04T06:17:29.248Z</updated>
+    <updated>2022-04-04T07:15:34.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[답글: 타인을 배려하는 것]]></title>
+        <id>https://alook.so/posts/70teoOm</id>
+        <link href="https://alook.so/posts/70teoOm"/>
+        <updated>2022-04-04T07:12:48.363Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teoOm">답글: 타인을 배려하는 것</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저의 앱테크 수익 공개합니다.(with 부끄럼)]]></title>
+        <id>https://alook.so/posts/92tepyR</id>
+        <link href="https://alook.so/posts/92tepyR"/>
+        <updated>2022-04-04T07:12:48.363Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tepyR">저의 앱테크 수익 공개합니다.(with 부끄럼)</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 편이 없는것 같아요]]></title>
         <id>https://alook.so/posts/jdtd0jx</id>
