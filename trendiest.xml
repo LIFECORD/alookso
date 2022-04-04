@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-04-04T22:13:15.885Z</updated>
+    <updated>2022-04-04T23:14:45.424Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[눈을 뜨면 가장 먼저 하는 일.]]></title>
+        <id>https://alook.so/posts/rDtvKaJ</id>
+        <link href="https://alook.so/posts/rDtvKaJ"/>
+        <updated>2022-04-04T23:13:02.254Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvKaJ">눈을 뜨면 가장 먼저 하는 일.</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[반응이 낮으면 공론도 되지 않는.]]></title>
         <id>https://alook.so/posts/yEtELBK</id>
@@ -123,12 +130,5 @@
         <link href="https://alook.so/posts/E7t7ZR6"/>
         <updated>2022-04-03T22:11:36.944Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7ZR6">제 아이들에게 추천하고픈 플랫폼이기를</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[선은 넘지 맙시다]]></title>
-        <id>https://alook.so/posts/LKtmY23</id>
-        <link href="https://alook.so/posts/LKtmY23"/>
-        <updated>2022-04-04T15:13:19.895Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmY23">선은 넘지 맙시다</a>]]></content>
     </entry>
 </feed>
