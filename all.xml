@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-04T14:14:08.121Z</updated>
+    <updated>2022-04-04T15:15:03.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[저 위로 그만 해주세요! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/ZktavXp</id>
+        <link href="https://alook.so/posts/ZktavXp"/>
+        <updated>2022-04-04T15:13:12.340Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktavXp">저 위로 그만 해주세요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[판이 깔아졌으니 틈틈히 이곳에 남겨 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/yEtEL5L</id>
+        <link href="https://alook.so/posts/yEtEL5L"/>
+        <updated>2022-04-04T15:13:12.342Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEL5L">판이 깔아졌으니 틈틈히 이곳에 남겨</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[너무 반갑기 때문에 긴 말은 하지 않는걸로. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/pot7qVr</id>
@@ -12,11 +26,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7qVr">너무 반갑기 때문에 긴 말은 하지 않는걸로.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 신얼룩커와 구얼룩커 사이 낀얼룩커로서 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[답글: 신/구 모두가 같은 얼룩커일 뿐 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/kZtBME8</id>
         <link href="https://alook.so/posts/kZtBME8"/>
         <updated>2022-04-04T13:22:25.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBME8">답글: 신얼룩커와 구얼룩커 사이 낀얼룩커로서</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBME8">답글: 신/구 모두가 같은 얼룩커일 뿐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돈자랑만 하는 친구 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -33,18 +47,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtd0oX">어떤 죽음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감사합니다! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/njt0Pnd</id>
-        <link href="https://alook.so/posts/njt0Pnd"/>
-        <updated>2022-04-04T12:19:48.471Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt0Pnd">감사합니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신얼룩커와 구얼룩커 사이 낀얼룩커로서 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <title type="html"><![CDATA[신/구 모두가 같은 얼룩커일 뿐 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/latq2bR</id>
         <link href="https://alook.so/posts/latq2bR"/>
         <updated>2022-04-04T11:10:56.115Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latq2bR">신얼룩커와 구얼룩커 사이 낀얼룩커로서</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latq2bR">신/구 모두가 같은 얼룩커일 뿐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[샵이8시퇴근인데, 오늘 진상손님이 많았다며 7시에 퇴근하라네요? 조기퇴근 각이겠지요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -52,13 +59,6 @@
         <link href="https://alook.so/posts/dzt2n9a"/>
         <updated>2022-04-04T11:10:56.115Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2n9a">샵이8시퇴근인데, 오늘 진상손님이 많았다며 7시에 퇴근하라네요? 조기퇴근 각이겠지요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동그리의 4월4일 수익일지 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/rDtvK6o</id>
-        <link href="https://alook.so/posts/rDtvK6o"/>
-        <updated>2022-04-04T10:13:25.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvK6o">동그리의 4월4일 수익일지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 연락하지 않으면 연락없는 그들 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -82,32 +82,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtD9qm">새로 오신 얼룩커분들께(끄적끄적님께)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저의 앱테크 수익 공개합니다.(with 부끄럼) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/92tepyR</id>
-        <link href="https://alook.so/posts/92tepyR"/>
-        <updated>2022-04-04T07:12:48.363Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tepyR">저의 앱테크 수익 공개합니다.(with 부끄럼)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 편이 없는것 같아요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/jdtd0jx</id>
-        <link href="https://alook.so/posts/jdtd0jx"/>
-        <updated>2022-04-04T06:15:36.800Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtd0jx">제 편이 없는것 같아요</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오늘도 버릇처럼 삼성전자주식을 하나샀어요 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/KmtDpqW</id>
         <link href="https://alook.so/posts/KmtDpqW"/>
         <updated>2022-04-04T06:15:36.800Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDpqW">오늘도 버릇처럼 삼성전자주식을 하나샀어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가까울수록 배려하기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/rDtvKb4</id>
-        <link href="https://alook.so/posts/rDtvKb4"/>
-        <updated>2022-04-04T03:33:01.892Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvKb4">가까울수록 배려하기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소설을 쓰기 시작했다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -131,18 +110,39 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7ZR6">제 아이들에게 추천하고픈 플랫폼이기를</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[선은 넘지 맙시다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/LKtmY23</id>
+        <link href="https://alook.so/posts/LKtmY23"/>
+        <updated>2022-04-04T15:13:12.366Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmY23">선은 넘지 맙시다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저 위로 그만 해주세요! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/ZktavXp</id>
+        <link href="https://alook.so/posts/ZktavXp"/>
+        <updated>2022-04-04T15:13:19.867Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktavXp">저 위로 그만 해주세요!</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[판이 깔아졌으니 틈틈히 이곳에 남겨 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/yEtEL5L</id>
+        <link href="https://alook.so/posts/yEtEL5L"/>
+        <updated>2022-04-04T15:13:19.868Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEL5L">판이 깔아졌으니 틈틈히 이곳에 남겨</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[너무 반갑기 때문에 긴 말은 하지 않는걸로. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/pot7qVr</id>
         <link href="https://alook.so/posts/pot7qVr"/>
-        <updated>2022-04-04T14:12:10.689Z</updated>
+        <updated>2022-04-04T14:12:01.788Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/pot7qVr">너무 반갑기 때문에 긴 말은 하지 않는걸로.</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[답글: 신얼룩커와 구얼룩커 사이 낀얼룩커로서 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <title type="html"><![CDATA[답글: 신/구 모두가 같은 얼룩커일 뿐 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/kZtBME8</id>
         <link href="https://alook.so/posts/kZtBME8"/>
         <updated>2022-04-04T13:22:25.703Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBME8">답글: 신얼룩커와 구얼룩커 사이 낀얼룩커로서</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBME8">답글: 신/구 모두가 같은 얼룩커일 뿐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돈자랑만 하는 친구 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -159,18 +159,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtd0oX">어떤 죽음</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[감사합니다! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/njt0Pnd</id>
-        <link href="https://alook.so/posts/njt0Pnd"/>
-        <updated>2022-04-04T12:19:48.471Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt0Pnd">감사합니다!</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신얼룩커와 구얼룩커 사이 낀얼룩커로서 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <title type="html"><![CDATA[신/구 모두가 같은 얼룩커일 뿐 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/latq2bR</id>
         <link href="https://alook.so/posts/latq2bR"/>
         <updated>2022-04-04T11:10:56.115Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latq2bR">신얼룩커와 구얼룩커 사이 낀얼룩커로서</a>]]></content>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/latq2bR">신/구 모두가 같은 얼룩커일 뿐</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[샵이8시퇴근인데, 오늘 진상손님이 많았다며 7시에 퇴근하라네요? 조기퇴근 각이겠지요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -178,13 +171,6 @@
         <link href="https://alook.so/posts/dzt2n9a"/>
         <updated>2022-04-04T11:10:56.115Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/dzt2n9a">샵이8시퇴근인데, 오늘 진상손님이 많았다며 7시에 퇴근하라네요? 조기퇴근 각이겠지요?</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[동그리의 4월4일 수익일지 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/rDtvK6o</id>
-        <link href="https://alook.so/posts/rDtvK6o"/>
-        <updated>2022-04-04T10:13:25.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvK6o">동그리의 4월4일 수익일지</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 연락하지 않으면 연락없는 그들 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -208,32 +194,11 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtD9qm">새로 오신 얼룩커분들께(끄적끄적님께)</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저의 앱테크 수익 공개합니다.(with 부끄럼) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/92tepyR</id>
-        <link href="https://alook.so/posts/92tepyR"/>
-        <updated>2022-04-04T07:12:48.363Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92tepyR">저의 앱테크 수익 공개합니다.(with 부끄럼)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 편이 없는것 같아요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/jdtd0jx</id>
-        <link href="https://alook.so/posts/jdtd0jx"/>
-        <updated>2022-04-04T06:15:36.800Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtd0jx">제 편이 없는것 같아요</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[오늘도 버릇처럼 삼성전자주식을 하나샀어요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/KmtDpqW</id>
         <link href="https://alook.so/posts/KmtDpqW"/>
         <updated>2022-04-04T06:15:36.800Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDpqW">오늘도 버릇처럼 삼성전자주식을 하나샀어요</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가까울수록 배려하기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/rDtvKb4</id>
-        <link href="https://alook.so/posts/rDtvKb4"/>
-        <updated>2022-04-04T03:33:01.892Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvKb4">가까울수록 배려하기</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[소설을 쓰기 시작했다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -255,6 +220,13 @@
         <link href="https://alook.so/posts/E7t7ZR6"/>
         <updated>2022-04-03T22:11:28.581Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/E7t7ZR6">제 아이들에게 추천하고픈 플랫폼이기를</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선은 넘지 맙시다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/LKtmY23</id>
+        <link href="https://alook.so/posts/LKtmY23"/>
+        <updated>2022-04-04T15:13:19.895Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtmY23">선은 넘지 맙시다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대학 졸업 후 지역을 떠나는 청년들 [얼룩 차트] (alookso ─ alookso)]]></title>
