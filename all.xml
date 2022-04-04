@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-04T09:14:35.421Z</updated>
+    <updated>2022-04-04T10:15:34.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[교통의 발전으로 권역별 발전을 하면 나아질줄 알았는데.. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/w9tpo1P</id>
+        <link href="https://alook.so/posts/w9tpo1P"/>
+        <updated>2022-04-04T10:13:25.654Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpo1P">교통의 발전으로 권역별 발전을 하면 나아질줄 알았는데..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동그리의 4월4일 수익일지 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/rDtvK6o</id>
+        <link href="https://alook.so/posts/rDtvK6o"/>
+        <updated>2022-04-04T10:13:25.662Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvK6o">동그리의 4월4일 수익일지</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[괜찮습니다~! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/KmtDpaw</id>
@@ -45,13 +59,6 @@
         <link href="https://alook.so/posts/zvtD9qm"/>
         <updated>2022-04-04T08:15:15.784Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtD9qm">새로 오신 얼룩커분들께(끄적끄적님께)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔직한 마음은 이렇습니다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/kZtBM7Z</id>
-        <link href="https://alook.so/posts/kZtBM7Z"/>
-        <updated>2022-04-04T08:15:06.479Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBM7Z">솔직한 마음은 이렇습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[격리끝났어요 ㅇ0ㅇ!!! (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -138,10 +145,24 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjyK">당분간 얼룩소를 떠날 것 같아요.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[교통의 발전으로 권역별 발전을 하면 나아질줄 알았는데.. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/w9tpo1P</id>
+        <link href="https://alook.so/posts/w9tpo1P"/>
+        <updated>2022-04-04T10:13:34.737Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpo1P">교통의 발전으로 권역별 발전을 하면 나아질줄 알았는데..</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[동그리의 4월4일 수익일지 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/rDtvK6o</id>
+        <link href="https://alook.so/posts/rDtvK6o"/>
+        <updated>2022-04-04T10:13:34.737Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvK6o">동그리의 4월4일 수익일지</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[괜찮습니다~! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/KmtDpaw</id>
         <link href="https://alook.so/posts/KmtDpaw"/>
-        <updated>2022-04-04T09:12:46.447Z</updated>
+        <updated>2022-04-04T09:12:38.055Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/KmtDpaw">괜찮습니다~!</a>]]></content>
     </entry>
     <entry>
@@ -162,7 +183,7 @@
         <title type="html"><![CDATA[아무래도 봄바람과 정면충돌 중 🤣 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/eVtMlYv</id>
         <link href="https://alook.so/posts/eVtMlYv"/>
-        <updated>2022-04-04T09:12:46.448Z</updated>
+        <updated>2022-04-04T09:12:38.068Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMlYv">아무래도 봄바람과 정면충돌 중 🤣</a>]]></content>
     </entry>
     <entry>
@@ -178,13 +199,6 @@
         <link href="https://alook.so/posts/zvtD9qm"/>
         <updated>2022-04-04T08:15:15.784Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtD9qm">새로 오신 얼룩커분들께(끄적끄적님께)</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔직한 마음은 이렇습니다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/kZtBM7Z</id>
-        <link href="https://alook.so/posts/kZtBM7Z"/>
-        <updated>2022-04-04T08:15:06.479Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBM7Z">솔직한 마음은 이렇습니다.</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[격리끝났어요 ㅇ0ㅇ!!! (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -796,6 +810,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtyPa">검찰의 정보공개 운영실적 평가와 개인정보 관리 이슈</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[능력주의에 대한 회의? (alookso ─ 권승준)]]></title>
+        <id>https://alook.so/posts/zvtD9ao</id>
+        <link href="https://alook.so/posts/zvtD9ao"/>
+        <updated>2022-04-04T10:15:16.468Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/zvtD9ao">능력주의에 대한 회의?</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[미국이 대통령제를 선택하게 된 이유: 지쳐서(?) (alookso ─ 권승준)]]></title>
         <id>https://alook.so/posts/njt0RmK</id>
         <link href="https://alook.so/posts/njt0RmK"/>
@@ -843,13 +864,6 @@
         <link href="https://alook.so/posts/rDtv824"/>
         <updated>2022-03-15T07:14:03.662Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtv824">대출총량규제 완화, 괜찮은걸까</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕하세요! (alookso ─ 권승준)]]></title>
-        <id>https://alook.so/posts/92te7rM</id>
-        <link href="https://alook.so/posts/92te7rM"/>
-        <updated>2022-03-14T05:32:31.578Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92te7rM">안녕하세요!</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 확산기에 예측 모형이란 (alookso ─ Nobody)]]></title>
