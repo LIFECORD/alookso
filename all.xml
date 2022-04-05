@@ -2,14 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-05T05:13:19.729Z</updated>
+    <updated>2022-04-05T06:18:33.970Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[몸 쓰는 직업이 안좋나요? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/2xt2q3D</id>
-        <link href="https://alook.so/posts/2xt2q3D"/>
-        <updated>2022-04-05T05:11:27.150Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2q3D">몸 쓰는 직업이 안좋나요?</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에 아무리 투자에 대해 조언해봐야..대부분 의미가 없겠지만...나 자신에게 도움이 된다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/o7tnBEb</id>
+        <link href="https://alook.so/posts/o7tnBEb"/>
+        <updated>2022-04-05T06:15:41.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnBEb">얼룩소에 아무리 투자에 대해 조언해봐야..대부분 의미가 없겠지만...나 자신에게 도움이 된다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대중교통으로 출퇴근하기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/XBtXOdv</id>
+        <link href="https://alook.so/posts/XBtXOdv"/>
+        <updated>2022-04-05T06:15:41.053Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXOdv">대중교통으로 출퇴근하기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4월5일 식목일, 3월로 앞당겨지나? (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Djt3nnP</id>
+        <link href="https://alook.so/posts/Djt3nnP"/>
+        <updated>2022-04-05T06:15:41.056Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3nnP">4월5일 식목일, 3월로 앞당겨지나?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소가 하려는 일 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -61,13 +75,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnK9a">너무나 평범한 이야기라서</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[판이 깔아졌으니 틈틈히 이곳에 남겨 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/yEtEL5L</id>
-        <link href="https://alook.so/posts/yEtEL5L"/>
-        <updated>2022-04-05T04:14:13.044Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEL5L">판이 깔아졌으니 틈틈히 이곳에 남겨</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[돈자랑만 하는 친구 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/8WtwLYy</id>
         <link href="https://alook.so/posts/8WtwLYy"/>
@@ -117,11 +124,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/1RtJjwP">숨죽이고 살지 말아요.우리</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[몸 쓰는 직업이 안좋나요? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/2xt2q3D</id>
-        <link href="https://alook.so/posts/2xt2q3D"/>
-        <updated>2022-04-05T05:11:34.866Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/2xt2q3D">몸 쓰는 직업이 안좋나요?</a>]]></content>
+        <title type="html"><![CDATA[얼룩소에 아무리 투자에 대해 조언해봐야..대부분 의미가 없겠지만...나 자신에게 도움이 된다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/o7tnBEb</id>
+        <link href="https://alook.so/posts/o7tnBEb"/>
+        <updated>2022-04-05T06:15:49.336Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnBEb">얼룩소에 아무리 투자에 대해 조언해봐야..대부분 의미가 없겠지만...나 자신에게 도움이 된다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대중교통으로 출퇴근하기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/XBtXOdv</id>
+        <link href="https://alook.so/posts/XBtXOdv"/>
+        <updated>2022-04-05T06:15:49.336Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXOdv">대중교통으로 출퇴근하기</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4월5일 식목일, 3월로 앞당겨지나? (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djt3nnP</id>
+        <link href="https://alook.so/posts/Djt3nnP"/>
+        <updated>2022-04-05T06:15:49.336Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3nnP">4월5일 식목일, 3월로 앞당겨지나?</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[얼룩소가 하려는 일 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -134,7 +155,7 @@
         <title type="html"><![CDATA[답글: '공론'이란 무엇일까요 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/J5tOe9Y</id>
         <link href="https://alook.so/posts/J5tOe9Y"/>
-        <updated>2022-04-05T05:11:34.873Z</updated>
+        <updated>2022-04-05T05:11:27.155Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/J5tOe9Y">답글: '공론'이란 무엇일까요</a>]]></content>
     </entry>
     <entry>
@@ -171,13 +192,6 @@
         <link href="https://alook.so/posts/o7tnK9a"/>
         <updated>2022-04-04T16:16:49.200Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/o7tnK9a">너무나 평범한 이야기라서</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[판이 깔아졌으니 틈틈히 이곳에 남겨 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/yEtEL5L</id>
-        <link href="https://alook.so/posts/yEtEL5L"/>
-        <updated>2022-04-05T04:14:13.044Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/yEtEL5L">판이 깔아졌으니 틈틈히 이곳에 남겨</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[돈자랑만 하는 친구 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
