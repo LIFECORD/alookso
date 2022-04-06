@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-06T12:24:03.398Z</updated>
+    <updated>2022-04-06T13:26:33.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사오정의 삶 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/92teM0j</id>
+        <link href="https://alook.so/posts/92teM0j"/>
+        <updated>2022-04-06T13:24:23.081Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92teM0j">사오정의 삶</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리는 '남자경찰' '여자경찰'을 원한게 아니라 진짜 '경찰' 그 자체를 원한다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/w9tpz89</id>
@@ -26,18 +33,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMz0r">벚꽃철, 1년 중 가장 눈이 즐거운 시기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소가 하려는 일 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Djt3eox</id>
-        <link href="https://alook.so/posts/Djt3eox"/>
-        <updated>2022-04-05T03:25:32.264Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3eox">얼룩소가 하려는 일</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[반전이 없다, 안면인식장애 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/njt0JW8</id>
         <link href="https://alook.so/posts/njt0JW8"/>
         <updated>2022-04-06T09:12:33.538Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt0JW8">반전이 없다, 안면인식장애</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소가 하려는 일 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/Djt3eox</id>
+        <link href="https://alook.so/posts/Djt3eox"/>
+        <updated>2022-04-05T03:25:32.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3eox">얼룩소가 하려는 일</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아들아.미안해... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -124,10 +131,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3ey7">얼룩소 전쟁 : 왜 천관율 에디터는 '전쟁' 답글에 '얼룩소'를 얘기했는가.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[사오정의 삶 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/92teM0j</id>
+        <link href="https://alook.so/posts/92teM0j"/>
+        <updated>2022-04-06T13:24:32.120Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/92teM0j">사오정의 삶</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[우리는 '남자경찰' '여자경찰'을 원한게 아니라 진짜 '경찰' 그 자체를 원한다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/w9tpz89</id>
         <link href="https://alook.so/posts/w9tpz89"/>
-        <updated>2022-04-06T12:22:09.488Z</updated>
+        <updated>2022-04-06T12:22:01.151Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/w9tpz89"> 우리는 '남자경찰' '여자경찰'을 원한게 아니라 진짜 '경찰' 그 자체를 원한다.</a>]]></content>
     </entry>
     <entry>
@@ -145,18 +159,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtMz0r">벚꽃철, 1년 중 가장 눈이 즐거운 시기</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[얼룩소가 하려는 일 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt3eox</id>
-        <link href="https://alook.so/posts/Djt3eox"/>
-        <updated>2022-04-05T03:25:32.264Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3eox">얼룩소가 하려는 일</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[반전이 없다, 안면인식장애 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/njt0JW8</id>
         <link href="https://alook.so/posts/njt0JW8"/>
         <updated>2022-04-06T09:12:33.538Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/njt0JW8">반전이 없다, 안면인식장애</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[얼룩소가 하려는 일 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/Djt3eox</id>
+        <link href="https://alook.so/posts/Djt3eox"/>
+        <updated>2022-04-05T03:25:32.264Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3eox">얼룩소가 하려는 일</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[아들아.미안해... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -768,6 +782,13 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtyPa">검찰의 정보공개 운영실적 평가와 개인정보 관리 이슈</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[감탄하며 읽었습니다! (alookso ─ 권승준)]]></title>
+        <id>https://alook.so/posts/LKtm3jM</id>
+        <link href="https://alook.so/posts/LKtm3jM"/>
+        <updated>2022-04-06T13:26:15.460Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/LKtm3jM">감탄하며 읽었습니다!</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[능력주의에 대한 회의? (alookso ─ 권승준)]]></title>
         <id>https://alook.so/posts/zvtD9ao</id>
         <link href="https://alook.so/posts/zvtD9ao"/>
@@ -815,13 +836,6 @@
         <link href="https://alook.so/posts/70teGP6"/>
         <updated>2022-03-16T05:13:52.933Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70teGP6">우리나라의 분배 형평과 관련, 생각거리를 주는 지수 하나</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대출총량규제 완화, 괜찮은걸까 (alookso ─ 권승준)]]></title>
-        <id>https://alook.so/posts/rDtv824</id>
-        <link href="https://alook.so/posts/rDtv824"/>
-        <updated>2022-03-15T07:14:03.662Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtv824">대출총량규제 완화, 괜찮은걸까</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오미크론 확산기에 예측 모형이란 (alookso ─ Nobody)]]></title>
