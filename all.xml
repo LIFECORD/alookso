@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-06T02:29:44.389Z</updated>
+    <updated>2022-04-06T03:28:23.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[생각해보지 않았던 전쟁 직후의 실상 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/3wtEllb</id>
+        <link href="https://alook.so/posts/3wtEllb"/>
+        <updated>2022-04-06T03:26:16.068Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEllb">생각해보지 않았던 전쟁 직후의 실상</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['그만'을 그만하는 방법, 이것만 알아두세요. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/Bata6bV</id>
@@ -82,18 +89,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtM1mD">얼룩소에게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이제 그만 하겠습니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/XBtXOV3</id>
-        <link href="https://alook.so/posts/XBtXOV3"/>
-        <updated>2022-04-05T07:12:22.129Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXOV3">이제 그만 하겠습니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이 곳이 공론의 장이자, 소통의 공간이자, 힐링의 공간이 되기를 바라며....... (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/kZtBKmk</id>
         <link href="https://alook.so/posts/kZtBKmk"/>
         <updated>2022-04-05T07:12:22.129Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBKmk">이 곳이 공론의 장이자, 소통의 공간이자, 힐링의 공간이 되기를 바라며.......</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 그만 하겠습니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/XBtXOV3</id>
+        <link href="https://alook.so/posts/XBtXOV3"/>
+        <updated>2022-04-05T07:12:22.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXOV3">이제 그만 하겠습니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대중교통으로 출퇴근하기 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -110,10 +117,17 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/6MtYbmR">메아리 없는 야호-</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[생각해보지 않았던 전쟁 직후의 실상 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/3wtEllb</id>
+        <link href="https://alook.so/posts/3wtEllb"/>
+        <updated>2022-04-06T03:26:25.224Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/3wtEllb">생각해보지 않았던 전쟁 직후의 실상</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA['그만'을 그만하는 방법, 이것만 알아두세요. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Bata6bV</id>
         <link href="https://alook.so/posts/Bata6bV"/>
-        <updated>2022-04-06T02:27:50.024Z</updated>
+        <updated>2022-04-06T02:27:41.622Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Bata6bV">'그만'을 그만하는 방법, 이것만 알아두세요.</a>]]></content>
     </entry>
     <entry>
@@ -187,18 +201,18 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/eVtM1mD">얼룩소에게</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[이제 그만 하겠습니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/XBtXOV3</id>
-        <link href="https://alook.so/posts/XBtXOV3"/>
-        <updated>2022-04-05T07:12:22.129Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXOV3">이제 그만 하겠습니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[이 곳이 공론의 장이자, 소통의 공간이자, 힐링의 공간이 되기를 바라며....... (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/kZtBKmk</id>
         <link href="https://alook.so/posts/kZtBKmk"/>
         <updated>2022-04-05T07:12:22.129Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBKmk">이 곳이 공론의 장이자, 소통의 공간이자, 힐링의 공간이 되기를 바라며.......</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 그만 하겠습니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/XBtXOV3</id>
+        <link href="https://alook.so/posts/XBtXOV3"/>
+        <updated>2022-04-05T07:12:22.129Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/XBtXOV3">이제 그만 하겠습니다</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[대중교통으로 출퇴근하기 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
