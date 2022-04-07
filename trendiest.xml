@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://alook.so/discover</id>
     <title>alookso ─ 둘러보기 ─ 뜨는 글</title>
-    <updated>2022-04-07T09:15:15.583Z</updated>
+    <updated>2022-04-07T10:14:41.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://alook.so/assets/favicon/favicon-32x32-8fc0ef8efcf005e31acc7291922e138cf3d3654531e4556566ca5cc4797a6793.png</icon>
+    <entry>
+        <title type="html"><![CDATA[4월 7일은 맥주의 날]]></title>
+        <id>https://alook.so/posts/4XteE9n</id>
+        <link href="https://alook.so/posts/4XteE9n"/>
+        <updated>2022-04-07T10:12:42.208Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/4XteE9n">4월 7일은 맥주의 날</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정치 독서모임을 3년째 운영 하는 이유]]></title>
+        <id>https://alook.so/posts/vKtBo9e</id>
+        <link href="https://alook.so/posts/vKtBo9e"/>
+        <updated>2022-04-07T10:12:42.212Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/vKtBo9e">정치 독서모임을 3년째 운영 하는 이유</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세계 보건의 날, 공공의료의 필요성]]></title>
+        <id>https://alook.so/posts/70tebJM</id>
+        <link href="https://alook.so/posts/70tebJM"/>
+        <updated>2022-04-07T10:12:42.212Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tebJM">세계 보건의 날, 공공의료의 필요성</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[일상공감] 겸손해지기 참 쉽다]]></title>
         <id>https://alook.so/posts/kZtBZay</id>
@@ -67,13 +88,6 @@
         <link href="https://alook.so/posts/Yyt02eL"/>
         <updated>2022-04-07T05:11:36.742Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Yyt02eL">인종차별에 대한 교육이 시급하다.</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사람이 죽어도 하얀거탑 : 무소불의 의사면허]]></title>
-        <id>https://alook.so/posts/70tea3b</id>
-        <link href="https://alook.so/posts/70tea3b"/>
-        <updated>2022-04-07T04:14:43.823Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/70tea3b">사람이 죽어도 하얀거탑 : 무소불의 의사면허</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[자기개발서에 대해 어떻게 생각하시나요??]]></title>
