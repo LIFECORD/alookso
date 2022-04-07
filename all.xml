@@ -2,21 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://LIFECORD.github.io/alookso/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-07T08:16:47.140Z</updated>
+    <updated>2022-04-07T09:15:15.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[일상공감] 겸손해지기 참 쉽다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/kZtBZay</id>
+        <link href="https://alook.so/posts/kZtBZay"/>
+        <updated>2022-04-07T09:13:15.213Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBZay">[일상공감] 겸손해지기 참 쉽다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친목활동이 없는 커뮤니티의 목적 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
+        <id>https://alook.so/posts/54t3o9r</id>
+        <link href="https://alook.so/posts/54t3o9r"/>
+        <updated>2022-04-07T09:13:15.217Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3o9r">친목활동이 없는 커뮤니티의 목적</a>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가난에는 분명한 이유가 있다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/0ktMv6k</id>
         <link href="https://alook.so/posts/0ktMv6k"/>
         <updated>2022-04-07T08:14:53.603Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMv6k">가난에는 분명한 이유가 있다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능의 또 다른 게임 체인저, DALL·E 2 등장 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/54t3orY</id>
-        <link href="https://alook.so/posts/54t3orY"/>
-        <updated>2022-04-07T07:11:59.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3orY">인공지능의 또 다른 게임 체인저, DALL·E 2 등장</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저도 정치가 좋습니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -54,13 +61,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwqeD">친절한 사람들은 나를 부끄럽게 한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 정치가 좋습니다 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Djt31qW</id>
-        <link href="https://alook.so/posts/Djt31qW"/>
-        <updated>2022-04-07T06:14:34.323Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt31qW">저는 정치가 좋습니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인종차별에 대한 교육이 시급하다. (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/Yyt02eL</id>
         <link href="https://alook.so/posts/Yyt02eL"/>
@@ -89,13 +89,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktaGaK">아버지와 통화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['독일의 재무장', 갈등 조장의 필법과 프랑스 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/Djt3pn2</id>
-        <link href="https://alook.so/posts/Djt3pn2"/>
-        <updated>2022-04-07T03:24:34.450Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3pn2">'독일의 재무장', 갈등 조장의 필법과 프랑스</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[꽃잎을 물어온 새 : 행운이 오는걸까? (복권 사야하나) (alookso ─ 둘러보기 ─ 최신 글)]]></title>
         <id>https://alook.so/posts/njt0l0Y</id>
         <link href="https://alook.so/posts/njt0l0Y"/>
@@ -115,13 +108,6 @@
         <link href="https://alook.so/posts/rDtvZKY"/>
         <updated>2022-04-07T00:51:39.234Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvZKY">때론...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젊은 1인 가구의 슬픔 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
-        <id>https://alook.so/posts/mbtq5D9</id>
-        <link href="https://alook.so/posts/mbtq5D9"/>
-        <updated>2022-04-06T23:12:19.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtq5D9">젊은 1인 가구의 슬픔</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[감성과 감정 (alookso ─ 둘러보기 ─ 최신 글)]]></title>
@@ -145,18 +131,25 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/jdtd8bW">흙회장님 유투브 영상에 댓글을 달고 왔습니다.</a>]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[일상공감] 겸손해지기 참 쉽다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/kZtBZay</id>
+        <link href="https://alook.so/posts/kZtBZay"/>
+        <updated>2022-04-07T09:13:24.035Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/kZtBZay">[일상공감] 겸손해지기 참 쉽다</a>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[친목활동이 없는 커뮤니티의 목적 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
+        <id>https://alook.so/posts/54t3o9r</id>
+        <link href="https://alook.so/posts/54t3o9r"/>
+        <updated>2022-04-07T09:13:24.036Z</updated>
+        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3o9r">친목활동이 없는 커뮤니티의 목적</a>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[가난에는 분명한 이유가 있다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/0ktMv6k</id>
         <link href="https://alook.so/posts/0ktMv6k"/>
-        <updated>2022-04-07T08:15:01.184Z</updated>
+        <updated>2022-04-07T08:14:53.603Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/0ktMv6k">가난에는 분명한 이유가 있다</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능의 또 다른 게임 체인저, DALL·E 2 등장 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/54t3orY</id>
-        <link href="https://alook.so/posts/54t3orY"/>
-        <updated>2022-04-07T07:11:59.968Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/54t3orY">인공지능의 또 다른 게임 체인저, DALL·E 2 등장</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[저도 정치가 좋습니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
@@ -194,13 +187,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/VntwqeD">친절한 사람들은 나를 부끄럽게 한다</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[저는 정치가 좋습니다 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt31qW</id>
-        <link href="https://alook.so/posts/Djt31qW"/>
-        <updated>2022-04-07T06:14:34.323Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt31qW">저는 정치가 좋습니다</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[인종차별에 대한 교육이 시급하다. (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/Yyt02eL</id>
         <link href="https://alook.so/posts/Yyt02eL"/>
@@ -229,13 +215,6 @@
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/ZktaGaK">아버지와 통화</a>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA['독일의 재무장', 갈등 조장의 필법과 프랑스 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/Djt3pn2</id>
-        <link href="https://alook.so/posts/Djt3pn2"/>
-        <updated>2022-04-07T03:24:34.450Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/Djt3pn2">'독일의 재무장', 갈등 조장의 필법과 프랑스</a>]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[꽃잎을 물어온 새 : 행운이 오는걸까? (복권 사야하나) (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
         <id>https://alook.so/posts/njt0l0Y</id>
         <link href="https://alook.so/posts/njt0l0Y"/>
@@ -255,13 +234,6 @@
         <link href="https://alook.so/posts/rDtvZKY"/>
         <updated>2022-04-07T00:51:39.234Z</updated>
         <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/rDtvZKY">때론...</a>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[젊은 1인 가구의 슬픔 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
-        <id>https://alook.so/posts/mbtq5D9</id>
-        <link href="https://alook.so/posts/mbtq5D9"/>
-        <updated>2022-04-06T23:12:19.329Z</updated>
-        <content type="html"><![CDATA[<a class="text-lg text-gray-800 font-semibold line-clamp-2" href="/posts/mbtq5D9">젊은 1인 가구의 슬픔</a>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[감성과 감정 (alookso ─ 둘러보기 ─ 뜨는 글)]]></title>
